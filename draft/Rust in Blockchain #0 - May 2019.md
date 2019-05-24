@@ -1,4 +1,4 @@
-**Rust in Blockchain #0 2019-06-06 [Draft]**
+**Rust in Blockchain #0 - May 2019**
 
 
 

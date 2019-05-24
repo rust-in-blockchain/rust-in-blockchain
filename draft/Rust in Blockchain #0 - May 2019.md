@@ -12,11 +12,11 @@ Why Rust in Blockchain? @aimeedeer
 
 How-tos  
 
-[Why Blockchain is Hard](https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c)
-[Lessons Learned from Teaching Over 500 Developers or: Why You Should Level Up](https://medium.com/@jimmysong/lessons-learned-from-teaching-over-500-developers-or-why-you-should-level-up-ad0e48bce067)
-[Instead Of Solving The ‘Blockchain Trilemma’, Focus On Building A Vibrant Cryptoeconomy](https://medium.com/@kevinmobrien1/instead-of-solving-the-blockchain-trilemma-focus-on-building-a-vibrant-cryptoeconomy-7064acb41a26)
-[Video] [Understanding Blockchain Programming Languages in 7 Minutes.](https://www.youtube.com/watch?v=HAOeR9Xh--A)
-[Video] [Blockchain in Rust series](https://www.youtube.com/watch?v=vJdT05zl6jk&list=PL1rXPCvogp_SsWBI_JpXFypBDhbgXVrSE)
+- [Why Blockchain is Hard](https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c)
+- [Lessons Learned from Teaching Over 500 Developers or: Why You Should Level Up](https://medium.com/@jimmysong/lessons-learned-from-teaching-over-500-developers-or-why-you-should-level-up-ad0e48bce067)
+- [Instead Of Solving The ‘Blockchain Trilemma’, Focus On Building A Vibrant Cryptoeconomy](https://medium.com/@kevinmobrien1/instead-of-solving-the-blockchain-trilemma-focus-on-building-a-vibrant-cryptoeconomy-7064acb41a26)
+- [Video] [Understanding Blockchain Programming Languages in 7 Minutes.](https://www.youtube.com/watch?v=HAOeR9Xh--A)
+- [Video] [Blockchain in Rust series](https://www.youtube.com/watch?v=vJdT05zl6jk&list=PL1rXPCvogp_SsWBI_JpXFypBDhbgXVrSE)
 
 Some good old ones
 - [Jameson Lopp’s Website](https://www.lopp.net/articles.html)

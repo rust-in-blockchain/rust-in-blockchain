@@ -21,9 +21,9 @@ How-tos
 Some good old ones
 - [Jameson Lopp’s Website](https://www.lopp.net/articles.html)
 - [Blockchain Mining with Rust](https://www.innoq.com/en/blog/blockchain-mining-with-rust/) 
-- [video] Tutorial: [Developing Smart Contracts in Rust ](https://www.youtube.com/watch?v=KqowajMbl7U)
+- [video] [Tutorial: Developing Smart Contracts in Rust ](https://www.youtube.com/watch?v=KqowajMbl7U)
 - [video] [WASM in the wild](https://media.ccc.de/v/rustcologne.2018.11.wasm-in-the-wild) - How Do You Build a Stable P2P Network with Rust 
-- [video] Solana at Portland Dev Meetup: Why Use Rust For Blockchain Development (https://www.youtube.com/watch?v=mPbK3qkobvw)
+- [video] [Solana at Portland Dev Meetup: Why Use Rust For Blockchain Development](https://www.youtube.com/watch?v=mPbK3qkobvw)
 
 **Problems of May [for blockchain devs]**
 
@@ -47,9 +47,9 @@ Some good old ones
 
 **Find us**
 
-* Website https://rustinblockchain.org/
-* Twitter https://twitter.com/rust_blockchain
-* Reddit https://www.reddit.com/r/RustInBlockchain/
-* GitHub https://github.com/rust-in-blockchain/Rust-in-Blockchain
-* Meetup group SF https://www.meetup.com/Rust-in-Blockchain-San-Francisco/
-* Meetup group Berlin https://www.meetup.com/Rust-in-Blockchain-Berlin/
+* [Rust in Blockchain Official Website](https://rustinblockchain.org/)
+* [Twitter](https://twitter.com/rust_blockchain)
+* [Reddit](https://www.reddit.com/r/RustInBlockchain/)
+* [GitHub](https://github.com/rust-in-blockchain/Rust-in-Blockchain)
+* [Meetup group San Francisco](https://www.meetup.com/Rust-in-Blockchain-San-Francisco/)
+* [Meetup group Berlin](https://www.meetup.com/Rust-in-Blockchain-Berlin/)

@@ -4,7 +4,16 @@
 Why Rust in Blockchain? @aimeedeer
 
 
-**Project updates** 
+**Closed Issues** 
+- [question: how to import `blake2_512` into runtime for wasm #2605](https://github.com/paritytech/substrate/issues/2605)
+- [Smart Contract deployment: Invalid transaction: FullBlock on empty block #2566](https://github.com/paritytech/substrate/issues/2566)
+- [Document storage key generating algorithm #2443](https://github.com/paritytech/substrate/issues/2443)
+- [Static Build CKB on CentOS 7 for exchanges #626](https://github.com/nervosnetwork/ckb/issues/626)
+- [Write a tool to dump well known hashes into a readable file #562](https://github.com/nervosnetwork/ckb/issues/562)
+- [Memorize hash #549](https://github.com/nervosnetwork/ckb/issues/549)
+- [byteorder crate does not play nicely with our "non-blocking" IO #2820](https://github.com/mimblewimble/grin/issues/2820)
+- [Consider adopting a new git branching model #2779](https://github.com/mimblewimble/grin/issues/2779)
+- [db/store full (forked) blocks cleanup #2585](http://db/store full (forked) blocks cleanup #2585)
 
 
 

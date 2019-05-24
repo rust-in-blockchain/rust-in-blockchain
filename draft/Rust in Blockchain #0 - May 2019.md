@@ -1,9 +1,7 @@
 **Rust in Blockchain #0 - May 2019**
 
 
-
-Why Rust in Blockchain?
-
+Why Rust in Blockchain? @aimeedeer
 
 
 **Project updates** 
@@ -30,10 +28,7 @@ Some good old ones
 - [Blockchain Mining with Rust](https://www.innoq.com/en/blog/blockchain-mining-with-rust/) 
 - [video] Tutorial: [Developing Smart Contracts in Rust ](https://www.youtube.com/watch?v=KqowajMbl7U)
 - [video] [WASM in the wild](https://media.ccc.de/v/rustcologne.2018.11.wasm-in-the-wild) - How Do You Build a Stable P2P Network with Rust 
-
-[video] 
-
-Solana at Portland Dev Meetup: Why Use Rust For Blockchain Development 
+- [video] Solana at Portland Dev Meetup: Why Use Rust For Blockchain Development (https://www.youtube.com/watch?v=mPbK3qkobvw)
 
 **Problems of May [for blockchain devs]**
 

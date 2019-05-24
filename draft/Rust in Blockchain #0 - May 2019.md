@@ -47,9 +47,9 @@ Some good old ones
 
 **Find us**
 
-Website https://rustinblockchain.org/
-Twitter https://twitter.com/rust_blockchain
-Reddit https://www.reddit.com/r/RustInBlockchain/
-GitHub https://github.com/rust-in-blockchain/Rust-in-Blockchain
-Meetup group SF https://www.meetup.com/Rust-in-Blockchain-San-Francisco/
-Meetup group Berlin https://www.meetup.com/Rust-in-Blockchain-Berlin/
+* Website https://rustinblockchain.org/
+* Twitter https://twitter.com/rust_blockchain
+* Reddit https://www.reddit.com/r/RustInBlockchain/
+* GitHub https://github.com/rust-in-blockchain/Rust-in-Blockchain
+* Meetup group SF https://www.meetup.com/Rust-in-Blockchain-San-Francisco/
+* Meetup group Berlin https://www.meetup.com/Rust-in-Blockchain-Berlin/

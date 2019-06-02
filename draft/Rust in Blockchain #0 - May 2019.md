@@ -41,36 +41,36 @@ Some good old ones
 
 **Event**
 
-June 6-14 | Online
+- June 6-14 | Online
 [The WorkFork Online Hackathon](https://workfork.io/hackathon_dutchblockchainweek)
 
-June 8-9 Breaking Bitcoin, Amsterdam
+- June 8-9 Breaking Bitcoin, Amsterdam
 [Breaking Bitcoin [Training & Hackathon]](https://breaking-bitcoin.com/)
 
-June 14-16 | San Francisco
+- June 14-16 | San Francisco
 [BUIDL San Francisco [Blockchain Hackathon]](https://www.eventbrite.com/e/buidl-san-francisco-blockchain-hackathon-tickets-56603971001)
 
-June 20 | Zurich Switzerland
+- June 20 | Zurich Switzerland
 [Swiss Blockchain Hackathon](https://hackathon.trustsquare.ch)
 
-June 24th - 26th | Zug, Switzerland
+- June 24th - 26th | Zug, Switzerland
 [Crypto Valley Conference](https://www.cryptovalleyconference.com/ )
 
-June 28-29 | Firenze FI, Italy
+- June 28-29 | Firenze FI, Italy
 [RustLab](https://www.rustlab.it)
 
 **Careers**
 
-[Report]
+- [Report]
 [The Blockchain Jobs Report, 2019](https://media.consensys.net/the-blockchain-jobs-report-2019-b2b911426c34)
 
-Cryptape 	
+- Cryptape 	
 [Senior Rust Developer](https://twitter.com/workfork_hq/status/1133424215087042560?s=12)
 
-Parity 		
+- Parity 		
 [Blockchain Runtime Engineers](https://www.parity.io/jobs/#berlin-blockchain-runtime-engineer)
 
-Target		
+- Target		
 [Blockchain Engineer](https://twitter.com/adeebahmed26/status/1133843502465462274)
 
 **Interesting things**

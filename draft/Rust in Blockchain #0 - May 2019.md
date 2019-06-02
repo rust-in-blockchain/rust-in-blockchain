@@ -1,7 +1,7 @@
 **Rust in Blockchain #0 - May 2019**
+**#0 - May 2019**
 
-
-Why Rust in Blockchain? @aimeedeer
+Introduction
 
 
 **Closed Issues** 
@@ -17,7 +17,7 @@ Why Rust in Blockchain? @aimeedeer
 
 
 
-**Learning [for non-blockchain dev and new commers]**
+**Learning**
 
 How-tos  
 
@@ -34,17 +34,44 @@ Some good old ones
 - [video] [WASM in the wild](https://media.ccc.de/v/rustcologne.2018.11.wasm-in-the-wild) - How Do You Build a Stable P2P Network with Rust 
 - [video] [Solana at Portland Dev Meetup: Why Use Rust For Blockchain Development](https://www.youtube.com/watch?v=mPbK3qkobvw)
 
-**Problems of May [for blockchain devs]**
+**Challenges**
 
 //a challenge someone in this space contributed, potentially with a GitHub issue attached.
 
-**Upcoming event**
 
+**Event**
 
+June 6-14 | Online
+[The WorkFork Online Hackathon](https://workfork.io/hackathon_dutchblockchainweek)
 
-**Jobs**
+June 8-9 Breaking Bitcoin, Amsterdam
+[Breaking Bitcoin [Training & Hackathon]](https://breaking-bitcoin.com/)
 
+June 14-16 | San Francisco
+[BUIDL San Francisco [Blockchain Hackathon]](https://www.eventbrite.com/e/buidl-san-francisco-blockchain-hackathon-tickets-56603971001)
 
+June 20 | Zurich Switzerland
+[Swiss Blockchain Hackathon](https://hackathon.trustsquare.ch)
+
+June 24th - 26th | Zug, Switzerland
+[Crypto Valley Conference](https://www.cryptovalleyconference.com/ )
+
+June 28-29 | Firenze FI, Italy
+[RustLab](https://www.rustlab.it)
+
+**Careers**
+
+[Report]
+[The Blockchain Jobs Report, 2019](https://media.consensys.net/the-blockchain-jobs-report-2019-b2b911426c34)
+
+Cryptape 	
+[Senior Rust Developer](https://twitter.com/workfork_hq/status/1133424215087042560?s=12)
+
+Parity 		
+[Blockchain Runtime Engineers](https://www.parity.io/jobs/#berlin-blockchain-runtime-engineer)
+
+Target		
+[Blockchain Engineer](https://twitter.com/adeebahmed26/status/1133843502465462274)
 
 **Interesting things**
 

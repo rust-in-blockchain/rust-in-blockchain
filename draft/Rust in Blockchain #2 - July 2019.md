@@ -67,14 +67,14 @@ August 23-25 | Berlin, Germany
 
 [EthBerlin 2019](https://ethberlinzwei.com)
 
+
 Online Hackathons
 
 [Blockstack: Build a Blockstack application that fits into one of the featured categories](https://blockstack-evil2.devpost.com/)
 
-[Tezos: Bringing Decentralized Applications To The Masses](https://ideotezos.splashthat.com/)
-https://coinlist.co/build/ideo
+[Tezos: Bringing Decentralized Applications To The Masses](https://ideotezos.splashthat.com)
 
-[IDEO + CoinList Hackathon: Making Blockchains Useful and Usable](https://www.meetup.com/Sydney-Blockchain-Professionals/events/263088441)
+[IDEO + CoinList Hackathon: Making Blockchains Useful and Usable](https://coinlist.co/build/ideo)
 
 **Careers**
 

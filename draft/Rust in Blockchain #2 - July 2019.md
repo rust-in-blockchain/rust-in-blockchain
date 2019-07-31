@@ -35,7 +35,25 @@ Welcome to the third edition of Rust in Blockchain, the hypest newsletter about 
 
 **Learning**
 
+****VM on Blockchain****
 
+[RISC-V based CKB VM: Validation Model](https://xuejie.space/2019_07_05_introduction_to_ckb_script_programming_validation_model)
+
+[RISC-V based CKB VM: Script Basics](https://xuejie.space/2019_07_13_introduction_to_ckb_script_programming_script_basics)
+
+[Wasm for Blockchain 2019](https://medium.com/nearprotocol/wasm-for-blockchain-2019-d093bfeb6133)
+
+[Video] [Pierre Krieger from Parity discuss Libp2p library with Maksym Zavershynskyi from Near](https://www.youtube.com/watch?v=_9o6RTYG_xk&t=678s)
+
+[Video] [Decentralized App Development](https://www.youtube.com/watch?v=e_QOMBZS5gs&list=PL9tzQn_TEuFWbiHCvul76ZyiG6C_0180f)
+
+[Video] [Cell Model - A programming model that generalizes Bitcoin's UTXO model](https://www.youtube.com/watch?v=EBoTUw4MI0k)
+
+[Video] [In Rust We Trust Meetup 17th July, San Francisco](https://www.youtube.com/watch?v=02oVI_2zDcI&list=PLRke1-EE4VWGLXPbcpxn8fPmXlvRuZGIw)
+- Rust is for Blockchain - Brian Anderson
+- Towards a True Programmable Blockchain World: An Introduction to CKB VM - Xiao Xuejie
+- Rust Smart Contract APIs - Maksym Zavershynskyi
+- Tendermint Key Management System and Abscissa Application Framework - Tony Arcieri
 
 **Events**
 

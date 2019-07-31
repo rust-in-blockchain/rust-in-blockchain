@@ -1,7 +1,9 @@
 **Rust in Blockchain #2 - July 2019** 
-**#0 - May 2019**
+**#2 - July 2019**
 
 Welcome to the third edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.
+
+The first Rust in Blockchain meetup [In Rust We Trust](https://www.meetup.com/Rust-in-Blockchain-San-Francisco/events/262773260) went very well on 17th in San Francisco. Thanks to all the speakers and the participators! If you want to speak on our other on planning meetups, please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdqDDPv6WylWCel8j5oorm3U5M1wtQJ7gYLsw_Ng6IcDcDSBg/viewform).
 
 
 **Project updates**

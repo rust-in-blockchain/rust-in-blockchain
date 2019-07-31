@@ -3,7 +3,7 @@
 
 Welcome to the third edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.
 
-The first Rust in Blockchain meetup [In Rust We Trust](https://www.meetup.com/Rust-in-Blockchain-San-Francisco/events/262773260) went very well on 17th in San Francisco. Thanks to all the speakers and the participators! If you want to speak on our other on planning meetups, please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdqDDPv6WylWCel8j5oorm3U5M1wtQJ7gYLsw_Ng6IcDcDSBg/viewform).
+The first Rust in Blockchain meetup [In Rust We Trust](https://www.meetup.com/Rust-in-Blockchain-San-Francisco/events/262773260) went very well on the 17th July in San Francisco. Thanks to all the speakers and the participatants! If you want to speak on one of our forthcoming meetups, please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdqDDPv6WylWCel8j5oorm3U5M1wtQJ7gYLsw_Ng6IcDcDSBg/viewform).
 
 
 **Project updates**
@@ -16,7 +16,7 @@ The first Rust in Blockchain meetup [In Rust We Trust](https://www.meetup.com/Ru
 
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
-[Account deletion #1107](https://github.com/nearprotocol/nearcore/pull/1107) @ilblackdragon: If account has less balance to support it for given number of blocks, anyone can initiate deletion and receive reward from that.
+[Account deletion #1107](https://github.com/nearprotocol/nearcore/pull/1107) @ilblackdragon: If account has less balance to support it for given number of blocks, anyone can initiate its deletion and receive reward for it.
 
 #### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
 

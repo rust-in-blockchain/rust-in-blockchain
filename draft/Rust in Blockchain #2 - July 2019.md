@@ -35,7 +35,7 @@ Welcome to the third edition of Rust in Blockchain, the hypest newsletter about 
 
 **Learning**
 
-****VM on Blockchain****
+VM on Blockchain
 
 [RISC-V based CKB VM: Validation Model](https://xuejie.space/2019_07_05_introduction_to_ckb_script_programming_validation_model)
 
@@ -94,8 +94,35 @@ Online Hackathons
 
 [IDEO + CoinList Hackathon: Making Blockchains Useful and Usable](https://coinlist.co/build/ideo)
 
+
 **Careers**
 
+Bitski
+
+[Backend Engineer](https://angel.co/company/bitski/jobs/366874-backend-engineer)
+
+Parity
+
+[Blockchain Runtime Engineer](https://www.parity.io/jobs/#berlin-blockchain-runtime-engineer)
+
+Near
+
+[Full Stack Application Developer](https://boards.greenhouse.io/near/jobs/4290530002)
+
+[Network Software Engineer](https://boards.greenhouse.io/near/jobs/4205573002)
+
+Nervos
+
+[Senior blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
+
+[Senior Test Manager](https://angel.co/company/nervos-1/jobs/589746-senior-test-manager)
+
+
+
+**Interesting Things**
+
+This is a call to those Rust and blockchain developers who believe in the power of community, and who want Rust to be the language of choice for blockchain projects.
+[Rust & Blockchain Community - Call for Contributors](https://rustinblockchain.org/2019/07/30/call-for-contributors)
 
 
 **Acknowledgments**

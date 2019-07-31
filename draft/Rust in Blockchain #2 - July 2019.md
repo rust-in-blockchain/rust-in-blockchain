@@ -1,9 +1,9 @@
 **Rust in Blockchain #2 - July 2019** 
 **#2 - July 2019**
 
-Welcome to the third edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.
+Welcome to the third edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.  Previous [#1](https://rustinblockchain.org/2019/07/04/rust-in-blockchain-1-june-2019).
 
-The first Rust in Blockchain meetup [In Rust We Trust](https://www.meetup.com/Rust-in-Blockchain-San-Francisco/events/262773260) went very well on the 17th July in San Francisco. Thanks to all the speakers and the participatants! If you want to speak on one of our forthcoming meetups, please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdqDDPv6WylWCel8j5oorm3U5M1wtQJ7gYLsw_Ng6IcDcDSBg/viewform).
+The first Rust in Blockchain meetup [In Rust We Trust](https://www.meetup.com/Rust-in-Blockchain-San-Francisco/events/262773260) went very well on the 17th July in San Francisco. Thanks to all the speakers and the participants! If you want to speak on one of our forthcoming meetups, please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdqDDPv6WylWCel8j5oorm3U5M1wtQJ7gYLsw_Ng6IcDcDSBg/viewform).
 
 
 **Project updates**
@@ -22,7 +22,7 @@ The first Rust in Blockchain meetup [In Rust We Trust](https://www.meetup.com/Ru
 
 [CKB run requires block assembler code hash must be one of the system cells #1045](https://github.com/nervosnetwork/ckb/issues/1045) If block assembler is set, it must be one of the system cells, unless command option --allow-any-ba-code-hash is given.
 
-[Feat: Send a message to remote peer when disconnect #1246](https://github.com/nervosnetwork/ckb/pull/1246) @TheWaWaR Add a new p2p protocol StringMessageProtocol for send simple string message; Send a message to remote peer when disconnect.
+[Feat: Send a message to remote peer when disconnect #1246](https://github.com/nervosnetwork/ckb/pull/1246) @TheWaWaR Add a new p2p protocol StringMessageProtocol for sending simple string message; Send a message to a remote peer when disconnect.
 
 [CKB Development Updates](https://medium.com/nervosnetwork/tagged/development-updates)
 
@@ -131,7 +131,7 @@ Near
 
 Nervos
 
-[Senior blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
+[Senior Blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
 
 [Senior Test Manager](https://angel.co/company/nervos-1/jobs/589746-senior-test-manager)
 

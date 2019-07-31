@@ -10,13 +10,21 @@ The first Rust in Blockchain meetup [In Rust We Trust](https://www.meetup.com/Ru
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
+[Moving wallet from one node to another loses some UTXOs #2901](https://github.com/mimblewimble/grin/issues/2901)
+
+[Grin Newsletter](https://grinnews.substack.com/)
+
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
-#### [**Nervos** ](https://github.com/nervosnetwork/ckb)
+[Account deletion #1107](https://github.com/nearprotocol/nearcore/pull/1107) @ilblackdragon: If account has less balance to support it for given number of blocks, anyone can initiate deletion and receive reward from that.
 
-[**CKB**](https://github.com/nervosnetwork/ckb)
+#### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
 
-[**CKB-VM**](https://github.com/nervosnetwork/ckb-vm)
+[CKB run requires block assembler code hash must be one of the system cells #1045](https://github.com/nervosnetwork/ckb/issues/1045) If block assembler is set, it must be one of the system cells, unless command option --allow-any-ba-code-hash is given.
+
+[Feat: Send a message to remote peer when disconnect #1246](https://github.com/nervosnetwork/ckb/pull/1246) @TheWaWaR Add a new p2p protocol StringMessageProtocol for send simple string message; Send a message to remote peer when disconnect.
+
+[CKB Development Updates](https://medium.com/nervosnetwork/tagged/development-updates)
 
 #### [**Oasis**](https://github.com/oasislabs)
 

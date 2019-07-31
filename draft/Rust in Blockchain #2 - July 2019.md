@@ -28,19 +28,26 @@ The first Rust in Blockchain meetup [In Rust We Trust](https://www.meetup.com/Ru
 
 #### [**Oasis**](https://github.com/oasislabs)
 
+[Hello World! example #142](https://github.com/oasislabs/oasis-rs/pull/142)
+
+[Generate clients for services using imported interface definition #141](https://github.com/oasislabs/oasis-rs/pull/141)
+
 #### [**Parity** ](https://github.com/paritytech)
 
 [**Substrate**](https://github.com/paritytech/substrate)
 
-[**Polkadot**](https://github.com/paritytech/polkadot)
+[How to spawn a task in a task #2991](https://github.com/paritytech/substrate/issues/2991)
+
+[Enable Offchain API to handle local storage race conditions better #3143](https://github.com/paritytech/substrate/issues/3143)
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
-#### [**Zcash**](https://github.com/zcash/librustzcash)
+[Unnecessary protobuf requirement in Libra #5251](https://github.com/solana-labs/solana/issues/5251) @garious found the problem that the libra codebase uses Google protobuf to send data to its metrics server. They stuffed Golang and protobuf into our Docker containers to move forward, but neither is actually used. Furthermore, those dependencies aren't on our benchmarking servers and not on developer machines. Until they get those dependencies out, they can't integrate Move into our top-level build.
 
 
 **Challenges**
 
+[Substrate][Websocket protocol errors cause full node halt/stall/crash #3124](https://github.com/paritytech/substrate/issues/3124)
 
 
 **Learning**
@@ -64,6 +71,7 @@ VM on Blockchain
 - Towards a True Programmable Blockchain World: An Introduction to CKB VM - Xiao Xuejie
 - Rust Smart Contract APIs - Maksym Zavershynskyi
 - Tendermint Key Management System and Abscissa Application Framework - Tony Arcieri
+
 
 **Events**
 
@@ -128,14 +136,11 @@ Nervos
 [Senior Test Manager](https://angel.co/company/nervos-1/jobs/589746-senior-test-manager)
 
 
-
 **Interesting Things**
 
 This is a call to those Rust and blockchain developers who believe in the power of community, and who want Rust to be the language of choice for blockchain projects.
 [Rust & Blockchain Community - Call for Contributors](https://rustinblockchain.org/2019/07/30/call-for-contributors)
 
-
-**Acknowledgments**
 
 
 **Join the action on our** [**subreddit**](https://www.reddit.com/r/RustInBlockchain/) **❤️**

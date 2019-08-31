@@ -135,7 +135,7 @@ Transparent Systems
 
 **Interesting Things**
 
-[A thread on thinking about using RISC-V to replace WebAssembly for the execution engine](
+[A thread on thinking about using RISC-V to replace WebAssembly for the execution engine.](
 https://twitter.com/sorpaas/status/1153410902500270084)
 
 

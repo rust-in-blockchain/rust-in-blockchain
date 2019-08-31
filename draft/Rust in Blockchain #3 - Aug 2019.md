@@ -34,6 +34,7 @@ If you want to speak on one of our forthcoming meetups, please apply [here](http
 
 **Challenges**
 
+[Does anybody want to build dev tutorials together?](https://github.com/rust-in-blockchain/Community-Project/issues/1#issuecomment-526813060) If there are anyone who would be willing to produce small bite-size education chunks occasionally?
 
 
 **Learning**
@@ -134,8 +135,8 @@ Transparent Systems
 
 **Interesting Things**
 
-
-
+[A thread on thinking about using RISC-V to replace WebAssembly for the execution engine](
+https://twitter.com/sorpaas/status/1153410902500270084)
 
 
 **Join the action on our** [**subreddit**](https://www.reddit.com/r/RustInBlockchain/) **❤️**

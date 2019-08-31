@@ -62,7 +62,7 @@ September 20-21 | Colorado, US
 
 [Colorado Gold Rust](https://www.cogoldrust.com/)
 
-[October 8-11 | Osaka, Japan
+October 8-11 | Osaka, Japan
 
 [DevCon](https://devcon.org/)
 

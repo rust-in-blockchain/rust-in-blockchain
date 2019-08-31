@@ -38,6 +38,19 @@ If you want to speak on one of our forthcoming meetups, please apply [here](http
 
 **Learning**
 
+[The Rise of Rust and Blockchain](https://domsteil.com/2019/08/08/rust-and-blockchain/)
+
+[Rust Blockchain Tutorial: What is Rust and Why is it Important?](https://freestartupkits.com/articles/technology/cryptocurrency-news-and-tips/ultimate-rust-blockchain-tutorial/)
+
+[Build A Decentralized Chat Using JavaScript & Rust (WebAssembly)](https://medium.com/perlin-network/build-a-decentralized-chat-using-javascript-rust-webassembly-c775f8484b52)
+
+[Coding a P2P blockchain in Rust: Part 1](https://medium.com/@prabhueshwarla/coding-a-p2p-blockchain-in-rust-part-1-2ecc8f6005ea)
+
+[Substrate Blockchains and Runtime Modules: An Introduction](https://medium.com/better-programming/substrate-blockchains-and-runtime-modules-an-introduction-866851b550b9)
+
+[Libra and Exonum: A Comparison of Rust-Based Blockchain Solutions](https://medium.com/meetbitfury/libra-and-exonum-a-comparison-of-rust-based-blockchain-solutions-6963a7f4a81d)
+
+[Exploring an essential data structure in CKB— the transaction](https://medium.com/nervosnetwork/exploring-an-essential-data-structure-in-ckb-the-transaction-a1ca8fcbfbda)
 
 
 **Events**

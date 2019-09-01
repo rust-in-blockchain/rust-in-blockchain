@@ -10,26 +10,39 @@ If you want to speak on one of our forthcoming meetups, please apply [here](http
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
+[Improve checking for p2p connection limits #2985](https://github.com/mimblewimble/grin/pull/2985)
 
+[Grin Newsletter](https://grinnews.substack.com/)
 
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
+[Fix runtime tests broken by fees. Fixes #1185 #1187](https://github.com/nearprotocol/nearcore/pull/1187): [@nearmax](https://github.com/nearmax) explains that runtime tests are too wide and assert irrelevant numbers, like they assert that the hash of the account did not change and the exact balance of the account. The unit tests are integration tests which they might should have fewer integration tests because of the maintenance cost. Instead, unit tests should be verifying one or a few specific numbers.
 
+[Storage usage #1202](https://github.com/nearprotocol/nearcore/pull/1202): [@mikhailOK](https://github.com/mikhailOK) starts a discussion about storage usage in Near.
 
 #### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
 
+[Refactor: apply new serialization to all crates #1249](https://github.com/nervosnetwork/ckb/pull/1249): [@yangby-cryptape](https://github.com/yangby-cryptape) applies new serialization to all crates. The new serialization format will be used in p2p messages, database storage and hash digest. After the change, it is possible to compute transaction hash and block hash in other programming languages. We’ll publish the serialization wire format specification soon.
 
+[Feat: difficulty adjustment rfc version #1307](https://github.com/nervosnetwork/ckb/pull/1307): [@zhangsoledad](https://github.com/zhangsoledad) updates the difficulty adjustment algorithm according to the consensus paper.
 
-#### [**Oasis**](https://github.com/oasislabs)
-
-
+[Nervos Development Updates](https://medium.com/nervosnetwork/tagged/development-updates)
 
 #### [**Parity** ](https://github.com/paritytech)
 
 [**Substrate**](https://github.com/paritytech/substrate)
 
+[Make it easier to just rebuild the WASM files #3510](https://github.com/paritytech/substrate/pull/3510): [@bkchr](https://github.com/bkchr) adds a new env variable WASM_TARGET_DIRECTORY that controls the target directory for copying the built WASM binary; adds script build-only-wasm.sh to only build the WASM binary; and further improvements to wasm-builder to reduce the number of required rebuilds.
+
+[Implement HTTP request in offchain workers #3447](https://github.com/paritytech/substrate/pull/3447) Just give it a read.
+
+[Refactor key management #3296](https://github.com/paritytech/substrate/pull/3296) This PR is turning into a major refactoring over the crypto and key management system.
 
 #### [**Solana**](https://github.com/solana-labs/solana)
+
+[Rust BPF: Panic investigation #5520](https://github.com/solana-labs/solana/issues/5520): [@jstarry](https://github.com/jstarry) found issues show that the original VM didn't expect large programs and so jump calculations were done with i16 types.
+
+[Add datacenter node setup scripts #5517](https://github.com/solana-labs/solana/pull/5517): [@TristanDebrunner](https://github.com/TristanDebrunner) adds bash scripts that do all the setup, and the helper scripts that do parts of the setup if something breaks.
 
 
 **Challenges**

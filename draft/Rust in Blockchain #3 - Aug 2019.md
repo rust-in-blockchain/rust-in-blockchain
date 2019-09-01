@@ -111,37 +111,33 @@ October 28 - November 3 | San Francisco & Berkeley, US
 
 **Careers**
 
-TTi Global
+TTi Global | Des Moines
 
 [Senior Software Developer (OpenGL / WebGL)](https://webassemblyjobs.com/jobs/senior-software-developer-opengl-webgl)
 
-Calliere Group
+Calliere Group | Toronto
 
 [Blockchain Developer](https://www.glassdoor.ca/job-listing/blockchain-developer-calliere-group-JV_IC2281069_KO0,20_KE21,35.htm?jl=2850712010)
 
-RBC
-
-[Blockchain Application Developer](https://www.glassdoor.ca/job-listing/blockchain-application-developer-rbc-JV_IC2281069_KO0,32_KE33,36.htm?jl=3317514966)
-
-Consensys
+Consensys | Europe, US, Remote
 
 [Systems Engineer (Rust)](https://consensys.net/open-roles/1792013/)
 
-Parity
+Parity | Berlin, London, Remote
 
 [Rust Core Developer](https://www.parity.io/jobs/#berlin-rust-core-developer)
 
 [Runtime Engineer](https://www.parity.io/jobs/#berlin-blockchain-runtime-engineer)
 
-Polymath Network
+Polymath Network | Toronto, Remote
 
 [Rust/Blockchain Developer](https://angel.co/company/polymath-network/jobs/584822-rust-blockchain-developer)
 
-Gnosis
+Gnosis | Berlin, Remote
 
 [Rust Developer (m/w/d)](https://stackoverflow.com/jobs/282822/rust-developer-m-w-d-gnosis-service-gmbh)
 
-Transparent Systems
+Transparent Systems | Seattle
 
 [Sr. Software Engineer - Rust, blockchain](https://jobs.lever.co/transparentsystems/dbb1afb4-0686-47bd-946a-e8bd70c755fa)
 

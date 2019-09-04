@@ -1,7 +1,7 @@
 **Rust in Blockchain #3 - Aug 2019**
 **#3 - Aug 2019**
 
-Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.[Previous #2](https://rustinblockchain.org/2019/08/01/rust-in-blockchain-2-july-2019/).
+Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #2](https://rustinblockchain.org/2019/08/01/rust-in-blockchain-2-july-2019/).
 
 The RustinBlockchain telegram group has reached more than 100 people so far. A shoutout to our all of our friends in the Rust Community (need to add names?)  for helping with the contribution call. It may be too early to call it a RustinBlockchain community at the moment, but we believe people’s curiosity will be the sources for building the decentralized future.
 

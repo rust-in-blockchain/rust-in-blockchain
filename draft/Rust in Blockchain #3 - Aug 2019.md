@@ -105,7 +105,7 @@ October 19-20 | Berlin, Germany
 
 [Diffusion 2019: Blockchain Hackathon](https://diffusion.events/)
 
-October 26 | Tokyo, Japn
+October 26 | Tokyo, Japan
 
 [Rust Tokyo](https://rust.tokyo/)
 

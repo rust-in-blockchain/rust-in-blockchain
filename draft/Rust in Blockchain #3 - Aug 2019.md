@@ -1,16 +1,20 @@
 **Rust in Blockchain #3 - Aug 2019**
 **#3 - Aug 2019**
 
-Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.
+Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.[Previous #2](https://rustinblockchain.org/2019/08/01/rust-in-blockchain-2-july-2019/).
 
-If you want to speak on one of our forthcoming meetups, please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdqDDPv6WylWCel8j5oorm3U5M1wtQJ7gYLsw_Ng6IcDcDSBg/viewform).
+The RustinBlockchain telegram group has reached more than 100 people so far. A shoutout to our all of our friends in the Rust Community (need to add names?)  for helping with the contribution call. It may be too early to call it a RustinBlockchain community at the moment, but we believe people’s curiosity will be the sources for building the decentralized future.
+
+August was an exciting month, thanks to the very stunning RustConf and Berlin Blockchain Week! There were many rust & blockchain related meetups during this period. Let’s look forward to videos and reflect on these events in the coming days.
+
+The RustinBlockchain telegram group has reached more than 100 people so far. A shoutout to all of our friends in the Rust Community for helping with the [contribution call](https://twitter.com/Argorak/status/1159017633817255936). It may be too early to call it a RustinBlockchain community at the moment, but we believe people’s curiosity will be the sources for building the decentralized future.
 
 
 **Project updates**
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
-[Improve checking for p2p connection limits #2985](https://github.com/mimblewimble/grin/pull/2985)
+[Improve checking for p2p connection limits #2985](https://github.com/mimblewimble/grin/pull/2985): [@j01tz](https://github.com/j01tz) thinks the connection limiting can be improved by adding a check against maximum allowed peer count immediately after a connection is accepted.
 
 [Grin Newsletter](https://grinnews.substack.com/)
 

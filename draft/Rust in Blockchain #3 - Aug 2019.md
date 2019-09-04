@@ -148,8 +148,7 @@ Transparent Systems | Seattle
 
 **Interesting Things**
 
-[A thread on thinking about using RISC-V to replace WebAssembly for the execution engine.](
-https://twitter.com/sorpaas/status/1153410902500270084)
+[A thread](https://twitter.com/sorpaas/status/1153410902500270084) on thinking about using RISC-V to replace WebAssembly for the execution engine.]
 
 
 **Join the action on our** [**subreddit**](https://www.reddit.com/r/RustInBlockchain/) **❤️**

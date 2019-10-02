@@ -3,6 +3,8 @@
 
 Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #3](https://rustinblockchain.org/2019/09/05/rust-in-blockchain-3-august-2019/).
 
+Parity substrate, the toolkit for building blockchains in Rust, now [supports proof of work consensus][substrate-3474], in addition to proof of stake.
+
 &nbsp;
 
 **Project updates**
@@ -22,8 +24,42 @@ Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about
 
 #### [**Parity** ](https://github.com/paritytech)
 
+- [News: Preparing for Istanbul: New Parity Ethereum release][parity-istanbul]. This release is compatible with the [Istanbul hardfork][istanbul].
+- [News: Hacktoberfest 2019][parity-hack]. It's easy to get involved in Parity during Hacktoberfest.
+- [News: Parity Signer 3.0 Beta is here!][parity-signer]. Parity Signer is a mobile application that turns your old smartphone into a hardware wallet.
+- [News: Peter @ Parity discusses ongoing maintenance of their Ethereum client][parity-peter]
+
+[parity-istanbul]: https://www.parity.io/preparing-for-istanbul-parity-ethereum/
+[parity-hack]: https://www.parity.io/hacktoberfest-2019-parity/
+[parity-signer]: https://www.parity.io/parity-signer-v3-0-beta-is-here/
+[parity-peter]: https://twitter.com/PAMauric/status/1176209384386568192
+
+[istanbul]: https://eips.ethereum.org/EIPS/eip-1679
+
+
 [**Substrate**](https://github.com/paritytech/substrate)
 
+- [PR: Add proof-of-work consensus][substrate-3473] by [@sorpass]
+- [PR: Make staking inflation curve configurable][substrate-3644] by [@thiolliere]
+- [PR: Explicit sync API for downloading important, possibly orphaned, forks][substrate-3633] by [@rphmeier]
+
+[substrate-3644]: https://github.com/paritytech/substrate/pull/3644
+[substrate-3473]: https://github.com/paritytech/substrate/pull/3473
+[substrate-3633]: https://github.com/paritytech/substrate/pull/3633
+[@sorpass]: https://github.com/sorpaas
+[@thiolliere]: https://github.com/thiolliere
+[@rphmeier]: https://github.com/rphmeier
+
+
+[**Polkadot**](https://github.com/paritytech/polkadot)
+
+- [Video: Parathreads on Polkadot][polkadot-para] by Joe Petrowski
+- [News: The Polkadot wiki is upgraded][polkadot-wiki]
+- [Blog: How to upgrade a Kusama CC1 validator to CC2][polkadot-kusama] by Francesco Cremona. Kusama is a Polkadot testnet.
+
+[polkadot-kusama]: https://medium.com/simply-vc/how-to-upgrade-a-kusama-cc1-validator-to-cc2-4c334c92b10b
+[polkadot-wiki]: https://www.reddit.com/r/dot/comments/dbra21/polkadots_wiki_has_been_upgraded_check_it_out/
+[polkadot-para]: https://youtu.be/BIydDBZsjVg
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
@@ -42,6 +78,10 @@ Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about
 &nbsp;
 
 **Events**
+
+October 1 | Seoul, South Korea
+
+[Polkadot Meetup with Gavin Wood](https://www.meetup.com/Polkadot-Seoul/events/264756518/)
 
 October 8-11 | Osaka, Japan
 

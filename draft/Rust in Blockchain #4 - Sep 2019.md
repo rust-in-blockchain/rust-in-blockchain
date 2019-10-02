@@ -15,10 +15,6 @@ Rust in Blockchain has a new logo, and there are [stickers][stick]! They will pr
 
 &nbsp;
 
-**Project spotlight**
-
-Each month we highlight a Rust blockchain project you may not have heard about. This month's spotlight project is TODO
-
 
 **Project updates**
 

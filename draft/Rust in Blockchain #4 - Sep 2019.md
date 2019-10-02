@@ -4,13 +4,9 @@
 Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #3](https://rustinblockchain.org/2019/09/05/rust-in-blockchain-3-august-2019/).
 
 September featured Berlin Blockchain week, one of the biggest blockchain events of the year, and a number of Rust blockchain projects
-were there. We held Rust in Blockchain events in Berlin and Hangzhou. (TODO links and vids).
+were there. We held Rust in Blockchain events in Berlin as well as in Hangzhou, the videos for which (in Chinese) are linked below in the "learning" section.
 
-In the world of Parity, [Signer], the smartphone hardware wallet, [entered 3.0 beta][parity-signer]. Parity Substrate, the toolkit for building blockchains in Rust, now [supports proof of work consensus][substrate-3473], in addition to proof of stake.
-
-Nervos published a [positioning paper as RFC 1][nervos-1] that describes their system in detail.
-
-Also, Rust in Blockchain has a new logo, and there are [stickers][stick]! They will probably be found at various events...
+Rust in Blockchain has a new logo, and there are [stickers][stick]! They will probably be found at various events...
 
 [Signer]: https://www.parity.io/signer/
 [stick]: https://twitter.com/Aimee_Z_/status/1176279394748268545/photo/1

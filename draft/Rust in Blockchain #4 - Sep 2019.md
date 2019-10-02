@@ -57,6 +57,8 @@ Each month we highlight a Rust blockchain project you may not have heard about. 
 - [News: Nervos CKByte public sale announcement][nervos-ann]. CKB will sell on [CoinList] on October 16th.
 - [Video: Matt Quinn discusses the testnet, token sale][nervos-vid]
 
+[Nervos CKB Development Update](https://medium.com/nervosnetwork/tagged/development-updates)
+
 [nervos-vid]: https://www.youtube.com/watch?v=SbGO2n3PTBE&t=938s
 [CoinList]: https://coinlist.co/nervos
 [nervos-ann]: https://medium.com/nervosnetwork/nervos-ckbyte-public-sale-date-announcement-b5be874e0646

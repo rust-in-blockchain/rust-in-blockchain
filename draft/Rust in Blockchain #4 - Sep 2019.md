@@ -16,13 +16,9 @@ In the world of Parity, [Signer], the smartphone hardware wallet, [entered 3.0 b
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
 - [News: Experimental Tor Integration and Testing](https://github.com/mimblewimble/grin-wallet/pull/226)
-
 - [News: A New Journey with MimbleWimble](https://www.grin-forum.org/t/a-new-journey-with-mimblewimble/6058)
-
 - [Issue: Invalid Root #3016](https://github.com/mimblewimble/grin/issues/3016)
-
 - [PR: Fix reading POW for edge bits 59 and higher](https://github.com/mimblewimble/grin/pull/3069) by [@hashmap](https://github.com/hashmap)
-
 - [PR: Fix finding common header between the header chain and the current body chain](https://github.com/mimblewimble/grin/pull/3033) by [@garyyu](https://github.com/garyyu)
 
 [Grin Newsletter](https://grinnews.substack.com/)

@@ -10,12 +10,28 @@ Guidelines when looking for content:
 - In GitHub queries, replace dates with approprate date from a month ago
 
 
+## Grin
+
+Social media:
+
+- https://grinnews.substack.com
+
+
 ## Nervos
 
 GitHub queries:
 
+- https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/nervosnetwork/ckb-vm/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Aopen+created%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+
 Social media:
 
+- https://medium.com/nervosnetwork
+- https://medium.com/nervosnetwork/tagged/development-updates
+- https://twitter.com/nervosnetwork
+- https://www.reddit.com/r/NervosNetwork/
 
 
 ## Parity

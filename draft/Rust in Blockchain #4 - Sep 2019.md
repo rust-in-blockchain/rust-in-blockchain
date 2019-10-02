@@ -3,11 +3,19 @@
 
 Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #3](https://rustinblockchain.org/2019/09/05/rust-in-blockchain-3-august-2019/).
 
-This month, ... TODO.
+September featured Berlin Blockchain week, one of the biggest blockchain events of the year, and a number of Rust blockchain projects
+were there. We held Rust in Blockchain events in Berlin and Hangzhou. (TODO links and vids).
 
 In the world of Parity, [Signer], the smartphone hardware wallet, [entered 3.0 beta][parity-signer]. Parity Substrate, the toolkit for building blockchains in Rust, now [supports proof of work consensus][substrate-3473], in addition to proof of stake.
 
+Nervos published a [positioning paper as RFC 1][nervos-1] that describes their system in detail.
+
+Also, Rust in Blockchain has a new logo, and there are [stickers][stick]! They will probably be found at various events...
+
 [Signer]: https://www.parity.io/signer/
+[stick]: https://twitter.com/Aimee_Z_/status/1176279394748268545/photo/1
+[nervos-1]: https://github.com/nervosnetwork/rfcs/pull/138
+
 
 &nbsp;
 
@@ -28,6 +36,7 @@ Each month we highlight a Rust blockchain project you may not have heard about. 
 
 [Grin Newsletter](https://grinnews.substack.com/)
 
+
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
 - [PR: Adding merkle proof to prev chunk header](https://github.com/nearprotocol/nearcore/pull/1353) by [@Kouprin](https://github.com/Kouprin)
@@ -41,8 +50,22 @@ Each month we highlight a Rust blockchain project you may not have heard about. 
 
 #### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
 
+- [News: Nervos CKB Development Update #19][nervos-dev]. Changes to consensus rules. Version 0.21.0.
+- [News: Meet the team behind the project][nervos-team]
+- [News: The 5th and Final Round of our Mining Competition: Stage 1][nervos-comp]
+- [News: Nervos positioning paper][nervos-pos]. Nervos is "developing the only PoW, multi-asset & store of value blockchain in the world today", as described in [RFC 0001][nervos-01].
+- [News: Nervos CKByte public sale announcement][nervos-ann]. CKB will sell on [CoinList] on October 16th.
+- [Video: Matt Quinn discusses the testnet, token sale][nervos-vid]
 
-[Nervos Development Updates](https://medium.com/nervosnetwork/tagged/development-updates)
+[nervos-vid]: https://www.youtube.com/watch?v=SbGO2n3PTBE&t=938s
+[CoinList]: https://coinlist.co/nervos
+[nervos-ann]: https://medium.com/nervosnetwork/nervos-ckbyte-public-sale-date-announcement-b5be874e0646
+[nervos-01]: https://github.com/nervosnetwork/rfcs/blob/79a6774eb16f5077617f3eef580653316fbdcb16/rfcs/0001-positioning/0001-positioning.md
+[nervos-pos]: https://medium.com/nervosnetwork/nervos-positioning-paper-4de6443bbfb8
+[nervos-comp]: https://medium.com/nervosnetwork/the-5th-and-final-round-of-our-mining-competition-stage-1-62f7ce4fb7c5
+[nervos-dev]: https://medium.com/nervosnetwork/nervos-ckb-development-update-19-4c08c740e66b
+[nervos-team]: https://medium.com/nervosnetwork/nervos-meet-the-team-behind-the-project-5f5b64473956
+
 
 #### [**Parity** ](https://github.com/paritytech)
 

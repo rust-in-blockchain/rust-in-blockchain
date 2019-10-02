@@ -3,7 +3,11 @@
 
 Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #3](https://rustinblockchain.org/2019/09/05/rust-in-blockchain-3-august-2019/).
 
-Parity substrate, the toolkit for building blockchains in Rust, now [supports proof of work consensus][substrate-3473], in addition to proof of stake.
+This month, ... TODO.
+
+In the world of Parity, [Signer], the smartphone hardware wallet, [entered 3.0 beta][parity-signer]. Parity Substrate, the toolkit for building blockchains in Rust, now [supports proof of work consensus][substrate-3473], in addition to proof of stake.
+
+[Signer]: https://www.parity.io/signer/
 
 &nbsp;
 

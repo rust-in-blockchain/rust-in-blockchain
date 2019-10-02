@@ -25,6 +25,7 @@ GitHub queries:
 - https://github.com/nervosnetwork/ckb-vm/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
 - https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Aopen+created%3A%3E2019-09-05+sort%3Aupdated-asc
 - https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 
 Social media:
 
@@ -57,6 +58,19 @@ Releases:
 
 - https://github.com/paritytech/parity-ethereum/releases
 
+
+## Solana
+
+GitHub queries:
+
+- https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+
+Social media:
+
+- https://solana.com/category/blog/
+- https://medium.com/solana-labs
+- https://twitter.com/solana
+- https://www.reddit.com/r/solana
 
 
 ## Ethereum General

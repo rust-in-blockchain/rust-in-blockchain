@@ -3,6 +3,7 @@
 
 Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #3](https://rustinblockchain.org/2019/09/05/rust-in-blockchain-3-august-2019/).
 
+&nbsp;
 
 **Project updates**
 
@@ -26,16 +27,19 @@ Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
+&nbsp;
 
 **Challenges**
 
+&nbsp;
 
 **Learning**
 
+&nbsp;
 
 **Interesting Things**
 
-
+&nbsp;
 
 **Events**
 
@@ -58,6 +62,8 @@ October 26 | Tokyo, Japan
 October 28 - November 3 | San Francisco & Berkeley, US
 
 [SF Blockchain Week 2019](https://sfblockchainweek.io/)
+
+&nbsp;
 
 **Careers**
 
@@ -94,6 +100,6 @@ Chainlink | Remote
 Consensys | Europe, United States, Remote
 [Systems Engineer - Rust](https://consensys.net/open-roles/1792013/)
 
-
+&nbsp;
 
 **Join the action on our** [**subreddit**](https://www.reddit.com/r/RustInBlockchain/) **❤️**

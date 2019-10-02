@@ -125,6 +125,10 @@ Each month we highlight a Rust blockchain project you may not have heard about. 
 
 **Challenges**
 
+[Grin: Allow nodes to (manually) recover from dreaded "Already Spent" error #3018](https://github.com/mimblewimble/grin/issues/3018)
+
+[Near: Better `tx` RPC API #1299](https://github.com/nearprotocol/nearcore/issues/1299)
+
 &nbsp;
 
 **Learning**

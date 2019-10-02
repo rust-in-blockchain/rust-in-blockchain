@@ -10,12 +10,24 @@ Guidelines when looking for content:
 - In GitHub queries, replace dates with approprate date from a month ago
 
 
+## Nervos
+
+GitHub queries:
+
+Social media:
+
+
+
 ## Parity
 
-GitHub Queries:
+GitHub queries:
 
 - https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
 - https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/paritytech/wasmi/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/paritytech/parity-bitcoin/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/paritytech/parity-zcash/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
 
 Social media:
 
@@ -24,6 +36,11 @@ Social media:
 - https://twitter.com/ParityTech
 - https://www.reddit.com/r/dot/
 - https://www.reddit.com/r/substrate/
+
+Releases:
+
+- https://github.com/paritytech/parity-ethereum/releases
+
 
 
 ## Ethereum General

@@ -11,6 +11,11 @@ In the world of Parity, [Signer], the smartphone hardware wallet, [entered 3.0 b
 
 &nbsp;
 
+**Project spotlight**
+
+Each month we highlight a Rust blockchain project you may not have heard about. This month's spotlight project is TODO
+
+
 **Project updates**
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
@@ -56,10 +61,12 @@ In the world of Parity, [Signer], the smartphone hardware wallet, [entered 3.0 b
 
 [**Substrate**](https://github.com/paritytech/substrate)
 
+- [Video: Substrate: One Year Later] by Shawn Tabrizi. From Web3 Summit.
 - [PR: Add proof-of-work consensus][substrate-3473] by [@sorpass]
 - [PR: Make staking inflation curve configurable][substrate-3644] by [@thiolliere]
 - [PR: Explicit sync API for downloading important, possibly orphaned, forks][substrate-3633] by [@rphmeier]
 
+[substrate-year]: https://www.youtube.com/watch?v=2JxjGZ3fsi4
 [substrate-3644]: https://github.com/paritytech/substrate/pull/3644
 [substrate-3473]: https://github.com/paritytech/substrate/pull/3473
 [substrate-3633]: https://github.com/paritytech/substrate/pull/3633
@@ -77,6 +84,15 @@ In the world of Parity, [Signer], the smartphone hardware wallet, [entered 3.0 b
 [polkadot-kusama]: https://medium.com/simply-vc/how-to-upgrade-a-kusama-cc1-validator-to-cc2-4c334c92b10b
 [polkadot-wiki]: https://www.reddit.com/r/dot/comments/dbra21/polkadots_wiki_has_been_upgraded_check_it_out/
 [polkadot-para]: https://youtu.be/BIydDBZsjVg
+
+[**Parity Ethereum**](https://github.com/paritytech/parity-ethereum)
+
+- [v2.5.9 was released][parity-eth-259]
+- [v2.5.8 was released][parity-eth-258]
+
+[parity-eth-259]: https://github.com/paritytech/parity-ethereum/releases/tag/v2.5.9
+[parity-eth-258]: https://github.com/paritytech/parity-ethereum/releases/tag/v2.5.8
+
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 

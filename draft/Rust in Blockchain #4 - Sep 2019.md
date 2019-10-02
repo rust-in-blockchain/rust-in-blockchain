@@ -84,7 +84,7 @@ Each month we highlight a Rust blockchain project you may not have heard about. 
 
 [**Substrate**](https://github.com/paritytech/substrate)
 
-- [Video: Substrate: One Year Later] by Shawn Tabrizi. From Web3 Summit.
+- [Video: Substrate: One Year Later][substrate-year] by Shawn Tabrizi. From Web3 Summit.
 - [PR: Add proof-of-work consensus][substrate-3473] by [@sorpass]
 - [PR: Make staking inflation curve configurable][substrate-3644] by [@thiolliere]
 - [PR: Explicit sync API for downloading important, possibly orphaned, forks][substrate-3633] by [@rphmeier]

@@ -75,6 +75,18 @@ In the world of Parity, [Signer], the smartphone hardware wallet, [entered 3.0 b
 
 **Learning**
 
+[Blockchain Tutorial in Rust](https://github.com/ibaryshnikov/blockchain-tutorial)
+
+[Introduction to Nervos CKB Script Programming 3: UDT](https://xuejie.space/2019_09_06_introduction_to_ckb_script_programming_udt/)
+
+[Video] [Rust for Decentralized Technology Berlin Meetup](https://www.youtube.com/watch?v=Aoc0UE2Mlb4&feature=youtu.be)
+
+[Video] [WASM on the blockchain](https://www.youtube.com/watch?v=Cj6nOyBnQiY)
+
+[Video] [In Chinese] [Cell Model and Logic Programming](https://www.youtube.com/watch?v=0rytag5Jktw&t=34s)
+
+[Video] [In Chinese] [Wallet’s cross platform practice in Rust](https://youtu.be/OQQiiYTtyc8)
+
 &nbsp;
 
 **Interesting Things**

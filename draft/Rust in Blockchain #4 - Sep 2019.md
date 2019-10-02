@@ -25,6 +25,14 @@ In the world of Parity, [Signer], the smartphone hardware wallet, [entered 3.0 b
 
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
+- [PR: Adding merkle proof to prev chunk header](https://github.com/nearprotocol/nearcore/pull/1353) by [@Kouprin](https://github.com/Kouprin)
+- [PR: Runtime asynchrony tests](https://github.com/nearprotocol/nearcore/pull/1283) by [@nearmax](https://github.com/nearmax)
+- [PR: Contract rewards](https://github.com/nearprotocol/nearcore/pull/1258) by [@ evgenykuzyakov](https://github.com/evgenykuzyakov)
+- [Video: Benny Giang from Dapper Labs](https://www.youtube.com/watch?v=Ww8XDdpw2Pk)
+- [Video: Taylor Wei from Top Network](https://www.youtube.com/watch?v=PXLjORNlqlE)
+- [Video: Jaynti Kanani from Matic](https://www.youtube.com/watch?v=P0hDzOzwzYw)
+- [Blog: Use Case - Distributed Identity Solutions](https://nearprotocol.com/blog/use-case-distributed-identity-solutions/) by [@Anais Urlichs](https://twitter.com/urlichsanais)
+- [Blog: Long Range Attacks, and a new Fork Choice Rule](https://nearprotocol.com/blog/long-range-attacks-and-a-new-fork-choice-rule/) by [@Alex Skidanov](https://twitter.com/alexskidanov)
 
 #### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
 

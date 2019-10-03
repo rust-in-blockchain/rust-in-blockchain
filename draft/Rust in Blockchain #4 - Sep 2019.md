@@ -1,7 +1,7 @@
 **Rust in Blockchain #4 - Sep 2019**
 **#4 - Sep 2019**
 
-Welcome to the fifth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #3](https://rustinblockchain.org/2019/09/05/rust-in-blockchain-3-august-2019/).
+Welcome to the #4 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #3](https://rustinblockchain.org/2019/09/05/rust-in-blockchain-3-august-2019/).
 
 September featured Berlin Blockchain week, one of the biggest blockchain events of the year, and a number of Rust blockchain projects
 were there. We held Rust in Blockchain events in Berlin as well as in Hangzhou, the videos for which (in Chinese) are linked below in the "learning" section.

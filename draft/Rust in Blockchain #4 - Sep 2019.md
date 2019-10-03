@@ -182,6 +182,7 @@ October 28 - November 3 | San Francisco & Berkeley, US
 [SF Blockchain Week 2019](https://sfblockchainweek.io/)
 
 October 30 | San Francisco, US
+
 [Rust in Blockchain Workshops](https://www.meetup.com/Rust-in-Blockchain-San-Francisco/events/265362152)
 
 &nbsp;

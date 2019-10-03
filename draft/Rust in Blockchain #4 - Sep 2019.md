@@ -145,6 +145,10 @@ Rust in Blockchain has a new logo, and there are [stickers][stick]! They will pr
 
 **Events**
 
+October 1-31 | Online
+
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
 October 1 | Seoul, South Korea
 
 [Polkadot Meetup with Gavin Wood](https://www.meetup.com/Polkadot-Seoul/events/264756518/)

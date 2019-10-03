@@ -113,12 +113,18 @@ Rust in Blockchain has a new logo, and there are [stickers][stick]! They will pr
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
+- [PR: Clippy work towards Rust 1.38](https://github.com/solana-labs/solana/pull/6219) by [@mvines](https://github.com/mvines)
+- [PR: Bench-tps: flush tx queue when too old](https://github.com/solana-labs/solana/pull/6201) by [@CriesofCarrots](https://github.com/CriesofCarrots)
+- [PR: BPF programs use single threaded LLD](https://github.com/solana-labs/solana/pull/6088) by [@jackcmay](https://github.com/jackcmay)
+- [PR: Require stake, vote and executable accounts to be rent exempt](https://github.com/solana-labs/solana/pull/5928) by [@ParthDesai](https://github.com/ParthDesai)
+- [PR: A new data-structure in shreds for partial deserialization](https://github.com/solana-labs/solana/pull/5915) by [@ pgarg66](https://github.com/pgarg66)
+- [PR: Rust BPF programs depend on Solana SDK](https://github.com/solana-labs/solana/pull/5819) by [@jackcmay](https://github.com/jackcmay)
+
 &nbsp;
 
 **Challenges**
 
 [Grin: Allow nodes to (manually) recover from dreaded "Already Spent" error #3018](https://github.com/mimblewimble/grin/issues/3018)
-
 [Near: Better `tx` RPC API #1299](https://github.com/nearprotocol/nearcore/issues/1299)
 
 &nbsp;
@@ -174,6 +180,9 @@ October 26 | Tokyo, Japan
 October 28 - November 3 | San Francisco & Berkeley, US
 
 [SF Blockchain Week 2019](https://sfblockchainweek.io/)
+
+October 30 | San Francisco, US
+[Rust in Blockchain Workshops](https://www.meetup.com/Rust-in-Blockchain-San-Francisco/events/265362152)
 
 &nbsp;
 

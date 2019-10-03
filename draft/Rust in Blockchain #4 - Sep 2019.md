@@ -141,6 +141,8 @@ Rust in Blockchain has a new logo, and there are [stickers][stick]! They will pr
 
 **Interesting Things**
 
+[If you Run a Small Business Park In the Back of the Parking Lot](https://twitter.com/xxuejie/status/1177060948441362433?s=12)
+
 &nbsp;
 
 **Events**

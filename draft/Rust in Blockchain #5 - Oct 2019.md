@@ -18,6 +18,8 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 
 [Nervos CKB Development Update](https://medium.com/nervosnetwork/tagged/development-updates)
 
+#### [**Oasis**](https://github.com/oasislabs)
+
 #### [**Parity** ](https://github.com/paritytech)
 
 [**Substrate**](https://github.com/paritytech/substrate)

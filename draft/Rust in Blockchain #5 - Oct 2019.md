@@ -36,6 +36,8 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 
 **Learning**
 
+[CKB Script Programming: WebAssembly on Nervos CKB](https://xuejie.space/2019_10_09_introduction_to_ckb_script_programming_wasm_on_ckb/)
+
 &nbsp;
 
 **Interesting Things**

@@ -117,7 +117,7 @@ Summary: Solana development is strikingly active, landing 403 PRs in October. Th
 
 [Ferris Fencing: An eternal duel between programmable crabs with swords.](http://www.ferrisfencing.org/) It is a showcase of CKB-VM, a simple implementation of the RISC-V instruction set, written in the Rust programming language.
 
-[Reddit discussion on Rust & Blockchain](https://www.reddit.com/r/rust/comments/dpakxq/rust_2020_more_or_less/f5tpnkx?utm_source=share&utm_medium=web2x)
+[Reddit discussion on Rust & Blockchain](https://www.reddit.com/r/rust/comments/dpakxq/rust_2020_more_or_less/f5tpnkx)
 
 &nbsp;
 

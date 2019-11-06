@@ -73,9 +73,47 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also feature
 
 #### [**Parity** ](https://github.com/paritytech)
 
+Summary: Parity had many talks at the events this month, and videos for some are available. The first Polkadot network, Kusama, launched.
+
+- [Video: Toward backward compatible Ethereum upgrades][par-vid-1]. Wei Tang, from DevCon.
+
+[par-vid-1]: https://slideslive.com/38920073/lessons-learned-to-build-a-dapp-on-a-light-client
+
 [**Substrate**](https://github.com/paritytech/substrate)
 
+- [Blog: Gather: A decentralized alternative to meetup.com built on substrate][sub-blog-1]
+- [Blog: SubRogue][sub-blog-3]. A blockchain [Rogue-like] game built with Substrate.
+- [Blog: People of Parity: Benjamin Kampmann][sub-blog-2]
+- [Podcast: Mentorship and Values in Open-Source Development][sub-pod-1]. Another interview w/ Ben Kampmann.
+- [PR: Substrate EVM][sub-pr-1]. Run Ethereum contracts on Substrate.
+- [Video: Building Ethereum 2.0 on Substrate][sub-vid-1]. Wei Tang, from DevCon.
+
+[Rogue-like]: https://en.wikipedia.org/wiki/Roguelike
+[sub-blog-3]: https://medium.com/@edward.thomson/subrogue-8c0a537f02d4
+[sub-vid-1]: https://slideslive.com/38920039/building-ethereum-20-on-substrate
+[sub-pr-1]: https://github.com/paritytech/substrate/pull/3927
+[sub-blog-1]: https://www.parity.io/gather-why-a-decentralized-blockchain-platform-is-the-only-sustainable-answer-to-the-meetup-com-pricing-hike/
+[sub-blog-2]: https://www.parity.io/people-of-parity-benjamin-kampmann/
+[sub-pod-1]: https://relaychain.fm/7-mentorship-values-open-source
+
 [**Polkadot**](https://github.com/paritytech/polkadot)
+
+- [News: Announcement of Polkadot ecosystem fund][polk-news-1]
+- [Blog: How to create and manage a new DAppNode package (with Polkadot)][polk-blog-1]. [DAppNode] is a tool for managing decentralized infrastructure.
+- [Video: Polkadot's Data Availability and Validity Scheme: An Approach to Security at Scale ][polk-vid-1]. Alistair Stewart, from DevCon.
+- [News: Kusama network is live][polk-news-2]. Kusama is the first live Polkadot network.
+- [Video: Intro to Nominated Proof of Stake][polk-vid-2].
+- [Video: The Tip of the Polkadot R&D Iceberg][polk-vid-3]. Rob Habermeier. Web3 Summit.
+- [News: Polkadot runs its first Substrate-based parachain][polk-news-2]
+
+[polk-news-2]: https://twitter.com/gavofyork/status/1186646273685884930
+[polk-vid-3]: https://www.youtube.com/watch?v=4_Ao-nvPIZI
+[polk-vid-2]: https://www.youtube.com/watch?v=l3IoHHxZoX0
+[polk-news-2]: https://twitter.com/a4fri/status/1188939968531615745
+[polk-vid-1]: https://slideslive.com/38920004/polkadots-data-availability-and-validity-scheme-an-approach-to-security-at-scale
+[polk-news-1]: https://polkadot.network/announcing-the-polkadot-ecosystem-fund/
+[DAppNode]: https://dappnode.io/
+[polk-blog-1]: https://medium.com/luguslabs/how-to-create-and-manage-a-new-dappnode-package-b23460b4449
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
@@ -104,6 +142,8 @@ Summary: Solana development is strikingly active, landing 403 PRs in October. Th
 **Challenges**
 
 [Nervos Bug Bounty](https://bounty.nervos.org/)
+
+[RFP - Minimal parachain development kit](https://github.com/w3f/Web3-collaboration/issues/204)
 
 &nbsp;
 

@@ -49,7 +49,6 @@ GitHub queries:
 Social media:
 
 - https://www.parity.io/blog/
-- https://medium.com/paritytech
 - https://twitter.com/ParityTech
 - https://www.reddit.com/r/dot/
 - https://www.reddit.com/r/substrate/

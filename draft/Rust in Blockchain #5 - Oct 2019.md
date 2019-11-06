@@ -3,6 +3,13 @@
 
 Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #3](https://rustinblockchain.org/2019/10/03/rust-in-blockchain-4-september-2019/).
 
+The highlight this month was [San Francisco Blockchain Week][sfbw]. This was a huge series of events, with representation from a number of Rust blockchain projects, including [Cosmos], [Nervos], [Parity], [Solana],
+TODO more companies, summary links.
+
+That wasn't the only big event in October though. [DevCon] in Tokyo also featured a number of Rust blockchain projects. TODO
+
+[sfbw]: https://sfblockchainweek.io
+
 &nbsp;
 
 
@@ -71,6 +78,26 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 [**Polkadot**](https://github.com/paritytech/polkadot)
 
 #### [**Solana**](https://github.com/solana-labs/solana)
+
+Summary: Solana development is strikingly active, landing 403 PRs in October. They have [renamed their runtime to "sealevel"][solana-pr-3] as part of an effort to make their code reusable by other projects.
+
+- [Blog: Inside Solana's internal scalability test][solana-blog-1].
+- [Blog: A blockchain dilemma: chain forks, catastrophic re-orgs, and insurance][solana-blog-2].
+- [Podcast: No Sharding #8: Censorship Free Companies on Chain. Unstoppable Domains Founder Brad Kam][solana-pod]
+- [PR: Rename solana-runtime to sealevel][solana-pr-3]. Part of an effort to make the solana runtime embeddable by other projects.
+- [PR: Make executable, vote, and stake accounts rent-exempt][solana-pr-1]
+- [PR: Add vest program][solana-pr-2]
+- [PR: Implement nightly performance tests][solana-pr-4]
+- [PR: Add solana-ledger crate][solana-pr-5]
+
+[solana-pr-5]: https://github.com/solana-labs/solana/pull/6415
+[solana-blog-2]: https://medium.com/solana-labs/a-blockchain-dilemma-chain-forks-catastrophic-re-orgs-and-insurance-3b88a2fbd2ba
+[solana-blog-1]: https://medium.com/solana-labs/inside-solanas-internal-scalability-test-cce13aa8c859
+[solana-pod]: https://solana.com/censorship-free-companies-on-chain-unstoppable-domains-founder-brad-kam-episode-8-no-sharding-podcast/
+[solana-pr-4]: https://github.com/solana-labs/solana/pull/6140
+[solana-pr-3]: https://github.com/solana-labs/solana/pull/6239
+[solana-pr-2]: https://github.com/solana-labs/solana/pull/5987
+[solana-pr-1]: https://github.com/solana-labs/solana/pull/6017
 
 &nbsp;
 

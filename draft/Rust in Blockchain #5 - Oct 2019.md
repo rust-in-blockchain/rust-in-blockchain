@@ -12,6 +12,8 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 
 [Grin Newsletter](https://grinnews.substack.com/)
 
+#### [**InterLedger**](https://github.com/interledger-rs/interledger-rs)
+
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
 #### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
@@ -72,10 +74,13 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 
 **Learning**
 
+[Podcast: ForkIt, chat with Tang Wei from Parity and Xiao Xuejie from Nervos][In Chinese](https://forkit.fm/9)
 
 &nbsp;
 
 **Interesting Things**
+
+[Reddit discussion on Rust & Blockchain](https://www.reddit.com/r/rust/comments/dpakxq/rust_2020_more_or_less/f5tpnkx?utm_source=share&utm_medium=web2x)
 
 &nbsp;
 

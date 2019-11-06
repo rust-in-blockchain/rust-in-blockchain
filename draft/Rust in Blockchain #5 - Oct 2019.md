@@ -27,9 +27,9 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 - [PR: Adapt to 2-phase Nervos DAO implementation][nervos-pr-1769] by [@xxuejie](https://github.com/xxuejie)
 - [Video: Nervos CKB bringing back GPU Mining?! Dual Mine Ethereum and CKB][nervos-mining-video]
 - [Video: Nervos CKB and the Multi-asset, Store of Value Security Model][nervos-intro]
-- [Blog:Introduction to CKB Script Programming 4: WebAssembly on CKB](nervos-blog-wasm)
-- [Blog:Introduction to CKB Script Programming 5: Debugging](nervos-blog-debugging)
-- [Blog:Let's Build a Minimal Blockchain 1: Dawn](nervos-blog-minimalchain)
+- [Blog: Introduction to CKB Script Programming 4: WebAssembly on CKB](nervos-blog-wasm)
+- [Blog: Introduction to CKB Script Programming 5: Debugging](nervos-blog-debugging)
+- [Blog: Let's Build a Minimal Blockchain 1: Dawn](nervos-blog-minimalchain)
 - [Nervos CKB Development Update](https://medium.com/nervosnetwork/tagged/development-updates)
 
 [nervos-dev]: https://medium.com/nervosnetwork/nervos-ckb-development-update-22-97bb2c943364

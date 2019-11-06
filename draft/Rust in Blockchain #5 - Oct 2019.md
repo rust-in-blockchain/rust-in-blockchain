@@ -74,7 +74,7 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 
 **Learning**
 
-[Podcast: ForkIt, chat with Tang Wei from Parity and Xiao Xuejie from Nervos][In Chinese](https://forkit.fm/9)
+[Podcast][In Chinese][ForkIt, chat with Tang Wei from Parity and Xiao Xuejie from Nervos](https://forkit.fm/9)
 
 &nbsp;
 

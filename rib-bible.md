@@ -12,12 +12,32 @@ Guidelines when looking for content:
 
 ## Grin
 
-Social media:
+Media:
 
 - https://grinnews.substack.com
 
 
+## Near
+
+Media:
+
+- https://nearprotocol.com/blog/
+- https://twitter.com/nearprotocol
+- https://nearprotocol.com/community/
+
+GitHub queries:
+
+- https://github.com/nearprotocol/nearcore/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Aupdated-asc
+
+
 ## Nervos
+
+Media:
+
+- https://medium.com/nervosnetwork
+- https://medium.com/nervosnetwork/tagged/development-updates
+- https://twitter.com/nervosnetwork
+- https://www.reddit.com/r/NervosNetwork/
 
 GitHub queries:
 
@@ -27,15 +47,15 @@ GitHub queries:
 - https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
 - https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 
-Social media:
-
-- https://medium.com/nervosnetwork
-- https://medium.com/nervosnetwork/tagged/development-updates
-- https://twitter.com/nervosnetwork
-- https://www.reddit.com/r/NervosNetwork/
-
 
 ## Parity
+
+Media:
+
+- https://www.parity.io/blog/
+- https://twitter.com/ParityTech
+- https://www.reddit.com/r/dot/
+- https://www.reddit.com/r/substrate/
 
 GitHub queries:
 
@@ -46,13 +66,6 @@ GitHub queries:
 - https://github.com/paritytech/parity-bitcoin/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
 - https://github.com/paritytech/parity-zcash/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
 
-Social media:
-
-- https://www.parity.io/blog/
-- https://twitter.com/ParityTech
-- https://www.reddit.com/r/dot/
-- https://www.reddit.com/r/substrate/
-
 Releases:
 
 - https://github.com/paritytech/parity-ethereum/releases
@@ -60,20 +73,20 @@ Releases:
 
 ## Solana
 
-GitHub queries:
-
-- https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-
-Social media:
+Media:
 
 - https://solana.com/category/blog/
 - https://medium.com/solana-labs
 - https://twitter.com/solana
 - https://www.reddit.com/r/solana
 
+GitHub queries:
+
+- https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+
 
 ## Ethereum General
 
-Social media:
+Media:
 
 - https://blog.ethereum.org

@@ -16,6 +16,16 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
+- [News: Stake Wars, NEAR Protocol’s incentivized testnet program][near-stakewars]
+- [News: The Future of Blockchain Hackathon – Applications still open!][near-hackathon]
+- [Video: NEAR Lunch and Learn Ep. 01: Cross Shard Transactions with One Block Delay][near-video-crosshhard]
+- [Video: NEAR Lunch & Learn Ep. 02: Economics in a Sharded Blockchain][near-video-economics]
+
+[near-hackathon]: https://nearprotocol.com/blog/the-future-of-blockchain-hackathon/
+[near-stakewars]: https://nearprotocol.com/blog/stake-wars-registration-is-now-open/
+[near-video-crosshhard]: https://www.youtube.com/watch?v=mhJXsOKoSdg
+[near-video-economics]: https://www.youtube.com/watch?v=QhQi2nAd-r0
+
 #### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
 - [News: Nervos CKB Development Update #22][nervos-dev]. Version 0.24.0. New RFC [PR#142][nervos-pr-142] describing deposit and withdrawal transactions in the Nervos DAO.
 - [News: Nervos Community Update][nervos-community]
@@ -66,9 +76,7 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 
 **Challenges**
 
-[Nervos Bug Bounty][nervos-challenges-site]
-
-[nervos-challenges-site]: https://bounty.nervos.org/
+[Nervos Bug Bounty][https://bounty.nervos.org/)
 
 &nbsp;
 
@@ -79,6 +87,8 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 &nbsp;
 
 **Interesting Things**
+
+[Ferris Fencing: An eternal duel between programmable crabs with swords.](http://www.ferrisfencing.org/) It is a showcase of CKB-VM, a simple implementation of the RISC-V instruction set, written in the Rust programming language.
 
 [Reddit discussion on Rust & Blockchain](https://www.reddit.com/r/rust/comments/dpakxq/rust_2020_more_or_less/f5tpnkx?utm_source=share&utm_medium=web2x)
 

@@ -76,7 +76,7 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 
 **Challenges**
 
-[Nervos Bug Bounty][https://bounty.nervos.org/)
+[Nervos Bug Bounty](https://bounty.nervos.org/)
 
 &nbsp;
 

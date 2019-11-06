@@ -7,7 +7,7 @@ Guidelines when looking for content:
 - Topics on official blogs and tweets are probably important
 - Look for interesting tags on PRs and issues
 - Look for PRs and issues with many comments
-- In GitHub queries, replace dates with approprate date from a month ago
+- In the GitHub queries below, replace dates with approprate date from a month ago
 
 
 ## Grin

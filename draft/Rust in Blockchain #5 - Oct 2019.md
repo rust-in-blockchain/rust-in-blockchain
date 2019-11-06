@@ -44,10 +44,11 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 [nervos-intro]: https://www.youtube.com/watch?v=AXTvoSJo8Cg&t=2s
 [nervos-pr-1739]: https://github.com/nervosnetwork/rfcs/blob/2aa14e142397570778f300468de2bb427e485507/rfcs/0000-dao-deposit-withdraw/0000-dao-deposit-withdraw.md
 [nervos-pr-1707]: https://github.com/nervosnetwork/ckb/pull/1707
+[nervos-pr-1769]: https://github.com/nervosnetwork/ckb/pull/1769
 
 [nervos-blog-wasm]: https://xuejie.space/2019_10_09_introduction_to_ckb_script_programming_wasm_on_ckb/
 [nervos-blog-debugging]: https://xuejie.space/2019_10_18_introduction_to_ckb_script_programming_debugging/
-[nervos-blog-minimalchain]: https://xuejie.space/2019_10_18_introduction_to_ckb_script_programming_debugging/)
+[nervos-blog-minimalchain]: https://xuejie.space/2019_10_21_lets_build_a_minimal_blockchain_dawn/
 
 #### [**Oasis**](https://github.com/oasislabs)
 

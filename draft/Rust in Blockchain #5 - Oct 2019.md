@@ -15,8 +15,39 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
 #### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
+- [News: Nervos CKB Development Update #22][nervos-dev]. Version 0.24.0. New RFC [PR#142][nervos-pr-142] describing deposit and withdrawal transactions in the Nervos DAO.
+- [News: Nervos Community Update][nervos-community]
+- [News: Nervos CKB Security Audit Complete][nervos-audit]
+- [News: Bug Bounty][nervos-challenges]
+- [News: Mining Competition Round 5][nervos-mining]
+- [News: BTC.com Open Source CKB Mining Pool][nervos-mining-pool]
+- [News: A Decentralized Mainnet Launch for Nervos CKB][nervos-mainnet]
+- [PR: Use molecule to serialize witnesses][nervos-pr-1739] by [@jjyr](https://github.com/jjyr)
+- [PR: Resolved uncles hash calculation issue][nervos-pr-1707] by [@quake](https://github.com/quake)
+- [PR: Adapt to 2-phase Nervos DAO implementation][nervos-pr-1769] by [@xxuejie](https://github.com/xxuejie)
+- [Video: Nervos CKB bringing back GPU Mining?! Dual Mine Ethereum and CKB][nervos-mining-video]
+- [Video: Nervos CKB and the Multi-asset, Store of Value Security Model][nervos-intro]
+- [Blog:Introduction to CKB Script Programming 4: WebAssembly on CKB](nervos-blog-wasm)
+- [Blog:Introduction to CKB Script Programming 5: Debugging](nervos-blog-debugging)
+- [Blog:Let's Build a Minimal Blockchain 1: Dawn](nervos-blog-minimalchain)
+- [Nervos CKB Development Update](https://medium.com/nervosnetwork/tagged/development-updates)
 
-[Nervos CKB Development Update](https://medium.com/nervosnetwork/tagged/development-updates)
+[nervos-dev]: https://medium.com/nervosnetwork/nervos-ckb-development-update-22-97bb2c943364
+[nervos-pr-142]: https://github.com/nervosnetwork/rfcs/blob/2aa14e142397570778f300468de2bb427e485507/rfcs/0000-dao-deposit-withdraw/0000-dao-deposit-withdraw.md
+[nervos-community]: https://medium.com/nervosnetwork/nervos-community-update-6e9cced395ff
+[nervos-audit]: https://medium.com/nervosnetwork/nervos-ckb-security-audit-complete-1e7a7561cfb6
+[nervos-challenges]: https://medium.com/nervosnetwork/announcing-the-nervos-bug-bounty-ab8ef5a2fc9e
+[nervos-mainnet]: https://medium.com/nervosnetwork/a-decentralized-mainnet-launch-for-nervos-ckb-9cb119d15540
+[nervos-mining-pool]: https://medium.com/nervosnetwork/btc-com-open-source-ckb-mining-pool-c3ea7809d532
+[nervos-mining]: https://medium.com/nervosnetwork/announcing-mining-competition-round-5-stage-three-4861bd1f0b88
+[nervos-mining-video]: https://www.youtube.com/watch?time_continue=1&v=bMQwylHiqQw
+[nervos-intro]: https://www.youtube.com/watch?v=AXTvoSJo8Cg&t=2s
+[nervos-pr-1739]: https://github.com/nervosnetwork/rfcs/blob/2aa14e142397570778f300468de2bb427e485507/rfcs/0000-dao-deposit-withdraw/0000-dao-deposit-withdraw.md
+[nervos-pr-1707]: https://github.com/nervosnetwork/ckb/pull/1707
+
+[nervos-blog-wasm]: https://xuejie.space/2019_10_09_introduction_to_ckb_script_programming_wasm_on_ckb/
+[nervos-blog-debugging]: https://xuejie.space/2019_10_18_introduction_to_ckb_script_programming_debugging/
+[nervos-blog-minimalchain]: https://xuejie.space/2019_10_18_introduction_to_ckb_script_programming_debugging/)
 
 #### [**Oasis**](https://github.com/oasislabs)
 
@@ -32,11 +63,14 @@ Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the
 
 **Challenges**
 
+[Nervos Bug Bounty][nervos-challenges-site]
+
+[nervos-challenges-site]: https://bounty.nervos.org/
+
 &nbsp;
 
 **Learning**
 
-[CKB Script Programming: WebAssembly on Nervos CKB](https://xuejie.space/2019_10_09_introduction_to_ckb_script_programming_wasm_on_ckb/)
 
 &nbsp;
 

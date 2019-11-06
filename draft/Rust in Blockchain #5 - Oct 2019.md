@@ -1,7 +1,7 @@
 **Rust in Blockchain #5 - Oct 2019**
 **#5 - Oct 2019**
 
-Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #3](https://rustinblockchain.org/2019/10/03/rust-in-blockchain-4-september-2019/).
+Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #4](https://rustinblockchain.org/2019/10/03/rust-in-blockchain-4-september-2019/).
 
 The highlight this month was [San Francisco Blockchain Week][sfbw]. This was a huge series of events, with representation from a number of Rust blockchain projects, including [Cosmos], [Nervos], [Parity], [Solana],
 TODO more companies, summary links.

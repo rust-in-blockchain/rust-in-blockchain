@@ -117,12 +117,12 @@ Summary: Parity had many talks at the events this month, and videos for some are
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
-Summary: Solana development is strikingly active, landing 403 PRs in October. They have [renamed their runtime to "sealevel"][solana-pr-3] as part of an effort to make their code reusable by other projects.
+Summary: Solana development is strikingly active, landing 403 PRs in October. They are [renaming their runtime to "sealevel"][solana-pr-3] as part of an effort to make their code reusable by other projects.
 
 - [Blog: Inside Solana's internal scalability test][solana-blog-1].
 - [Blog: A blockchain dilemma: chain forks, catastrophic re-orgs, and insurance][solana-blog-2].
 - [Podcast: No Sharding #8: Censorship Free Companies on Chain. Unstoppable Domains Founder Brad Kam][solana-pod]
-- [PR: Rename solana-runtime to sealevel][solana-pr-3]. Part of an effort to make the solana runtime embeddable by other projects.
+- [PR: Rename solana-runtime to sealevel][solana-pr-3]. Part of an effort to make the solana runtime embeddable by other projects. Note that it has been temporarily reverted due to infrastructure issues.
 - [PR: Make executable, vote, and stake accounts rent-exempt][solana-pr-1]
 - [PR: Add vest program][solana-pr-2]
 - [PR: Implement nightly performance tests][solana-pr-4]

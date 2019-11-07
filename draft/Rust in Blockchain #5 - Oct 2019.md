@@ -91,7 +91,7 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also include
 
 #### [**Parity** ](https://github.com/paritytech)
 
-Summary: Parity had many talks at the events this month, and videos for some are available. The first Polkadot network, [Kusama], launched.
+Summary: Parity had many talks at the events this month, and videos for some are available. The first Polkadot network, [Kusama], launched. Substrate continues to be under heavy development, with 198 PRs landed in October.
 
 [Kusama]: https://kusama.network/
 

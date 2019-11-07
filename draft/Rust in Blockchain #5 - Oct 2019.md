@@ -32,6 +32,7 @@ Read ["How to Interconnect All Blockchains and Value Networks"][ilov] for an ove
 
 [iljs]: https://github.com/interledgerjs
 [ilov]: https://medium.com/xpring/interledger-how-to-interconnect-all-blockchains-and-value-networks-74f432e64543
+[il-news-1]: https://medium.com/interledger-blog/interledger-rust-alpha-release-a6d2394ab554
 
 
 **Project updates**
@@ -52,14 +53,6 @@ Read ["How to Interconnect All Blockchains and Value Networks"][ilov] for an ove
 [grin-pr-homebrew]: https://github.com/Homebrew/homebrew-core/pull/45833
 [grin-pr-walletmanage]: https://github.com/mimblewimble/grin-rfcs/pull/30
 [grin-pr-sync]: https://github.com/mimblewimble/grin-rfcs/pull/29
-
-#### [**Interledger**](https://github.com/interledger-rs/interledger-rs)
-
-Summary: Interledger is a project by Ripple that facilitates cross-blockchain transactions. Originally written in JavaScript, the future appears to be implemented in Rust.
-
-- [News: Interledger Rust alpha release][il-news-1]
-
-[il-news-1]: https://medium.com/interledger-blog/interledger-rust-alpha-release-a6d2394ab554
 
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 

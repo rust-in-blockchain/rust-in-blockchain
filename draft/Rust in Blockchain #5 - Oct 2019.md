@@ -24,7 +24,20 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also include
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
-[Grin Newsletter](https://grinnews.substack.com/)
+- [Video: Special Guest Charlie Lee on MimbleWimble Extension Blocks on LTC, Fungibility and Grin][grin-video-guest]
+- [Video: Interview with Grin Developer David Burkett][grin-interview]
+- [Podcast: ZK - MimbleWimble pt 1: Grin with Daniel Lehnberg][grin-podcast]
+- [PR: Support for Homebrew][grin-pr-homebrew] by [@quentinlesceller](https://github.com/quentinlesceller)
+- [PR: Improved Wallet State Management][grin-pr-walletmanage] by [@yeastplume](https://github.com/yeastplume)
+- [PR: Enable faster sync][grin-pr-sync] by [@antiochp](https://github.com/antiochp)
+- [Grin Newsletter](https://grinnews.substack.com/)
+
+[grin-video-guest]: https://www.youtube.com/watch?v=J37rUzQZ64k
+[grin-interview]: https://www.youtube.com/watch?v=OyEfz6ZqDSw
+[grin-podcast]: https://www.zeroknowledge.fm/97
+[grin-pr-homebrew]: https://github.com/Homebrew/homebrew-core/pull/45833
+[grin-pr-walletmanage]: https://github.com/mimblewimble/grin-rfcs/pull/30
+[grin-pr-sync]: https://github.com/mimblewimble/grin-rfcs/pull/29
 
 #### [**InterLedger**](https://github.com/interledger-rs/interledger-rs)
 
@@ -182,6 +195,9 @@ Summary: Solana development is strikingly active, landing 403 PRs in October. Th
 &nbsp;
 
 **Events**
+
+November 22 | Berlin, Germany
+[Annual Grin Developer Conference](https://grincon.org/)
 
 &nbsp;
 

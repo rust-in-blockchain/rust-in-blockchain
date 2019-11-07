@@ -20,6 +20,20 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also include
 &nbsp;
 
 
+**Project spotlight**
+
+Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+**[Interledger]**!
+
+Interledger is a protocol for transacting across multiple blockchains: it is a network of blockchain networks. It has been live since 2017 and currently interoperates with XRP and ETH. It was originally developed [in JavaScript][iljs] but has [recently been rewritten in Rust][il-news-1].
+
+Read ["How to Interconnect All Blockchains and Value Networks"][ilov] for an overview of Interledger.
+
+[iljs]: https://github.com/interledgerjs
+[ilov]: https://medium.com/xpring/interledger-how-to-interconnect-all-blockchains-and-value-networks-74f432e64543
+
+
 **Project updates**
 
 #### [**Grin**](https://github.com/mimblewimble/grin)

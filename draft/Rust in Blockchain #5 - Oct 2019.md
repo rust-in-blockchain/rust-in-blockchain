@@ -37,6 +37,14 @@ Read ["How to Interconnect All Blockchains and Value Networks"][ilov] for an ove
 
 **Project updates**
 
+#### [**Enigma**]()
+
+- [Blog: Enigma technical resource index][enigma-blog-1]. A collection of up-to-date resources about deveoping for Enigma.
+- [Blog: Secret contracts: Now new and improved!][enigma-blog-2]
+
+[enigma-blog-1]: https://blog.enigma.co/enigma-technical-resource-index-bd9110714ea6
+[enigma-blog-2]: https://blog.enigma.co/secret-contracts-now-new-and-improved-df742393d6d8
+
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
 - [Video: Special Guest Charlie Lee on MimbleWimble Extension Blocks on LTC, Fungibility and Grin][grin-video-guest]

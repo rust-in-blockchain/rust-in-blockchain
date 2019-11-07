@@ -204,12 +204,63 @@ Summary: Solana development is strikingly active, landing 403 PRs in October. Th
 
 **Events**
 
+November 9-12 | Barcelona, Spain
+
+[RustFest Barcelona](https://barcelona.rustfest.eu/)
+
 November 22 | Berlin, Germany
+
 [Annual Grin Developer Conference](https://grincon.org/)
 
 &nbsp;
 
 **Careers**
+
+Centrifuge | Berlin, Germany; Remote
+
+[Rust Engineer](https://centrifuge.breezy.hr/p/20af596b9ffb01-rust-engineer-centrifuge-chain/)
+
+Chainlink | Remote
+
+[Senior Software Engineer](https://remotive.io/remote-jobs/software-dev/senior-software-engineer-18917)
+
+Consensys | Europe; United States; Remote
+
+[Systems Engineer - Rust](https://consensys.net/open-roles/1792013/)
+
+imToken | Singapore; Hangzhou, China
+
+[Blockchain Development Engineer](https://token.im/careers)
+
+IOHK | Europe
+
+[Software Engineer - Rust](https://iohk.io/careers/#op-345001-software-engineer-rust)
+
+Jsgenesis | Oslo, Europe; Remote
+
+[Senior Blockchain Developer](https://www.jsgenesis.com/jobs/blockchain-developer)
+
+Kraken | Berlin, Germany; Remote
+
+[Backend Engineer - Crypto/Payments](https://jobs.lever.co/kraken/4c18a043-3f9f-4005-a715-7455aaa64b11)
+
+Leger | Paris, France
+
+[C++ / Rust Software Engineer](https://jobs.lever.co/ledger/8555a86e-fbf4-4701-95cb-190a76445bb8)
+
+MXC Foundation | Berlin, Germany
+
+[Senior Go / Rust Engineer](https://www.linkedin.com/jobs/view/1455662885/?refId=3445947911569942562383&trk=d_flagship3_company)
+
+Nervos | San Francisco; Hangzhou, China; Remote
+
+[Senior Test Manager](https://angel.co/company/nervos-1/jobs/589746-senior-test-manager)
+
+[Senior blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
+
+Parity | Berlin, Germany
+
+[Rust/Core Developer](https://www.parity.io/jobs/#berlin-rust-core-developer)
 
 &nbsp;
 

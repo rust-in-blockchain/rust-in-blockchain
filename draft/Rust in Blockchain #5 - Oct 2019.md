@@ -89,6 +89,14 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also include
 
 #### [**Oasis**](https://github.com/oasislabs)
 
+- [Blog: CHURP: Dynamic-committee proactive secret sharing][oasis-blog-1].
+- The [tutorials][oasis-tut] gained two new examples: [dice-game] and [rock-paper-scissors].
+
+[rock-paper-scissors]: https://github.com/oasislabs/tutorials/tree/master/rock-paper-scissors
+[dice-game]: https://github.com/oasislabs/tutorials/tree/master/dice-game
+[oasis-tut]: https://github.com/oasislabs/tutorials/pulls
+[oasis-blog-1]: https://medium.com/oasislabs/churp-dynamic-committee-proactive-secret-sharing-5b0446061663
+
 #### [**Parity** ](https://github.com/paritytech)
 
 Summary: Parity had many talks at the events this month, and videos for some are available. The first Polkadot network, [Kusama], launched. Substrate continues to be under heavy development, with 198 PRs landed in October.

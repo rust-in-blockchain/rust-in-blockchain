@@ -48,6 +48,21 @@ GitHub queries:
 - https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 
 
+## Oasis
+
+Media:
+
+- https://medium.com/oasislabs
+- https://www.twitter.com/OasisLabs
+- https://www.reddit.com/r/OasisLabs
+
+GitHub queries:
+
+- https://github.com/oasislabs/oasis-runtime/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Aupdated-asc
+- https://github.com/oasislabs/oasis-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Aupdated-asc
+- https://github.com/oasislabs/tutorials/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Aupdated-asc
+
+
 ## Parity
 
 Media:
@@ -61,8 +76,8 @@ GitHub queries:
 
 - https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
 - https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
 - https://github.com/paritytech/wasmi/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/paritytech/parity-ethereum/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
 - https://github.com/paritytech/parity-bitcoin/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
 - https://github.com/paritytech/parity-zcash/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
 

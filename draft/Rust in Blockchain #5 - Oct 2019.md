@@ -1,14 +1,21 @@
 **Rust in Blockchain #5 - Oct 2019**
 **#5 - Oct 2019**
 
-Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #4](https://rustinblockchain.org/2019/10/03/rust-in-blockchain-4-september-2019/).
+Welcome to the fifth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous: #4](https://rustinblockchain.org/2019/10/03/rust-in-blockchain-4-september-2019/).
 
-The highlight this month was [San Francisco Blockchain Week][sfbw]. This was a huge series of events, with representation from a number of Rust blockchain projects, including [Cosmos], [Nervos], [Parity], [Solana],
-TODO more companies, summary links.
-
-That wasn't the only big event in October though. [DevCon] in Tokyo also featured a number of Rust blockchain projects. TODO
+The highlight this month was [San Francisco Blockchain Week][sfbw]. This was a huge series of events, with representation from a number of Rust blockchain projects. Several projects, [Interledger], [Near], [Nervos], [Oasis], and [Parity] came together for a day of [Rust in Blockchain workshops][ribw].
 
 [sfbw]: https://sfblockchainweek.io
+[Interledger]: https://interledger.org/
+[Near]: https://nearprotocol.com/
+[Nervos]: https://www.nervos.org
+[Oasis]: https://www.oasislabs.com/
+[Parity]: https://www.parity.io/
+[ribw]: https://twitter.com/rust_blockchain/status/1189263450058493953
+
+That wasn't the only big event in October though. [DevCon] in Tokyo also included several Rust blockchain projects, from which several of Parity's talks are linked below.
+
+[DevCon]: https://devcon.org/
 
 &nbsp;
 
@@ -27,7 +34,14 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also feature
 - [News: The Future of Blockchain Hackathon – Applications still open!][near-hackathon]
 - [Video: NEAR Lunch and Learn Ep. 01: Cross Shard Transactions with One Block Delay][near-video-crosshhard]
 - [Video: NEAR Lunch & Learn Ep. 02: Economics in a Sharded Blockchain][near-video-economics]
+- [PR: Early work on chaos monkey][near-pr-1]
+- [PR: New networking API][near-pr-2]
+- [PR: Sodiumoxide vulnerability fix][near-pr-3]. [Update your sodiumoxide deps][sodium].
 
+[sodium]: https://www.reddit.com/r/rust/comments/dguqt3/vulnerability_in_sodiumoxide_generichashdigesteq/
+[near-pr-3]: https://github.com/nearprotocol/nearcore/pull/1452
+[near-pr-2]: https://github.com/nearprotocol/nearcore/pull/1312
+[near-pr-1]: https://github.com/nearprotocol/nearcore/pull/1438
 [near-hackathon]: https://nearprotocol.com/blog/the-future-of-blockchain-hackathon/
 [near-stakewars]: https://nearprotocol.com/blog/stake-wars-registration-is-now-open/
 [near-video-crosshhard]: https://www.youtube.com/watch?v=mhJXsOKoSdg
@@ -73,7 +87,9 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also feature
 
 #### [**Parity** ](https://github.com/paritytech)
 
-Summary: Parity had many talks at the events this month, and videos for some are available. The first Polkadot network, Kusama, launched.
+Summary: Parity had many talks at the events this month, and videos for some are available. The first Polkadot network, [Kusama], launched.
+
+[Kusama]: https://kusama.network/
 
 - [Video: Toward backward compatible Ethereum upgrades][par-vid-1]. Wei Tang, from DevCon.
 

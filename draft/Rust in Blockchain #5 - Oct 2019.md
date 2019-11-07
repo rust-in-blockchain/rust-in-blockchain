@@ -37,7 +37,7 @@ Read ["How to Interconnect All Blockchains and Value Networks"][ilov] for an ove
 
 **Project updates**
 
-#### [**Enigma**]()
+#### [**Enigma**](https://enigma.co/)
 
 - [Blog: Enigma technical resource index][enigma-blog-1]. A collection of up-to-date resources about deveoping for Enigma.
 - [Blog: Secret contracts: Now new and improved!][enigma-blog-2]

@@ -34,9 +34,11 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also include
 - [News: The Future of Blockchain Hackathon – Applications still open!][near-hackathon]
 - [Video: NEAR Lunch and Learn Ep. 01: Cross Shard Transactions with One Block Delay][near-video-crosshhard]
 - [Video: NEAR Lunch & Learn Ep. 02: Economics in a Sharded Blockchain][near-video-economics]
+- [Video: Building NEAR Live][near-video-tv]
 - [PR: Early work on chaos monkey][near-pr-1]
 - [PR: New networking API][near-pr-2]
 - [PR: Sodiumoxide vulnerability fix][near-pr-3]. [Update your sodiumoxide deps][sodium].
+- [Blog: Near Community Update][near-blog]
 
 [sodium]: https://www.reddit.com/r/rust/comments/dguqt3/vulnerability_in_sodiumoxide_generichashdigesteq/
 [near-pr-3]: https://github.com/nearprotocol/nearcore/pull/1452
@@ -46,10 +48,11 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also include
 [near-stakewars]: https://nearprotocol.com/blog/stake-wars-registration-is-now-open/
 [near-video-crosshhard]: https://www.youtube.com/watch?v=mhJXsOKoSdg
 [near-video-economics]: https://www.youtube.com/watch?v=QhQi2nAd-r0
+[near-video-tv]: https://www.twitch.tv/nearprotocol/
+[near-blog]: https://nearprotocol.com/blog/goodbye-san-francisco-november-1st-2019/
 
 #### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
 - [News: Nervos CKB Development Update #22][nervos-dev]. Version 0.24.0. New RFC [PR#142][nervos-pr-142] describing deposit and withdrawal transactions in the Nervos DAO.
-- [News: Nervos Community Update][nervos-community]
 - [News: Nervos CKB Security Audit Complete][nervos-audit]
 - [News: Bug Bounty][nervos-challenges]
 - [News: Mining Competition Round 5][nervos-mining]
@@ -63,11 +66,11 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also include
 - [Blog: Introduction to CKB Script Programming 4: WebAssembly on CKB](nervos-blog-wasm)
 - [Blog: Introduction to CKB Script Programming 5: Debugging](nervos-blog-debugging)
 - [Blog: Let's Build a Minimal Blockchain 1: Dawn](nervos-blog-minimalchain)
-- [Nervos CKB Development Update](https://medium.com/nervosnetwork/tagged/development-updates)
+- [Nervos CKB Development Update][nervos-community-dev]
+- [Nervos Community Update][nervos-community]
 
 [nervos-dev]: https://medium.com/nervosnetwork/nervos-ckb-development-update-22-97bb2c943364
 [nervos-pr-142]: https://github.com/nervosnetwork/rfcs/blob/2aa14e142397570778f300468de2bb427e485507/rfcs/0000-dao-deposit-withdraw/0000-dao-deposit-withdraw.md
-[nervos-community]: https://medium.com/nervosnetwork/nervos-community-update-6e9cced395ff
 [nervos-audit]: https://medium.com/nervosnetwork/nervos-ckb-security-audit-complete-1e7a7561cfb6
 [nervos-challenges]: https://medium.com/nervosnetwork/announcing-the-nervos-bug-bounty-ab8ef5a2fc9e
 [nervos-mainnet]: https://medium.com/nervosnetwork/a-decentralized-mainnet-launch-for-nervos-ckb-9cb119d15540
@@ -78,10 +81,11 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also include
 [nervos-pr-1739]: https://github.com/nervosnetwork/rfcs/blob/2aa14e142397570778f300468de2bb427e485507/rfcs/0000-dao-deposit-withdraw/0000-dao-deposit-withdraw.md
 [nervos-pr-1707]: https://github.com/nervosnetwork/ckb/pull/1707
 [nervos-pr-1769]: https://github.com/nervosnetwork/ckb/pull/1769
-
 [nervos-blog-wasm]: https://xuejie.space/2019_10_09_introduction_to_ckb_script_programming_wasm_on_ckb/
 [nervos-blog-debugging]: https://xuejie.space/2019_10_18_introduction_to_ckb_script_programming_debugging/
 [nervos-blog-minimalchain]: https://xuejie.space/2019_10_21_lets_build_a_minimal_blockchain_dawn/
+[nervos-community-dev]: https://medium.com/nervosnetwork/tagged/development-updates
+[nervos-community]: https://medium.com/nervosnetwork/nervos-community-update-6e9cced395ff
 
 #### [**Oasis**](https://github.com/oasislabs)
 

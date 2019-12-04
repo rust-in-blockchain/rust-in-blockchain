@@ -106,6 +106,14 @@ This is a great example of the type of useful crates that come out of Rust block
 
 #### [**Oasis**](https://github.com/oasislabs)
 
+- [News: The Oasis public testnet is live](https://medium.com/oasis-protocol-project/the-oasis-public-testnet-is-live-e1a04f4dfc22)
+- [News: The Quest](http://www.oasis-protocol.org/quest). The Quest is a staking competition on Oasis Labs' incentivized testnet.
+- [PR: Replace serde-cbor with borsh](https://github.com/oasislabs/oasis-rs/pull/242). borsh is a fast binary serializer.
+- [Blog: Building a world where data privacy exists online](https://www.nytimes.com/2019/11/10/technology/artificial-intelligence-dawn-song.html). A feature in the New York Times.
+- [Blog: Oasis Labs at SFBW 2019 and hackathon](https://medium.com/oasislabs/oasis-at-san-francisco-blockchain-week-2019-and-hackathon-147808b21aaa)
+- [Blog: Libra (the other one) - A succinct Zero-Knowledge Proofs with Optimal Prover Computation](https://medium.com/oasis-protocol-project/libra-succinct-zero-knowledge-proofs-with-optimal-prover-computation-9f479300a983)
+- [Podcast: Massari's Unqualified Opinions - Down Song, CEO of Oasis Labs](https://podcasts.apple.com/us/podcast/dawn-song-ceo-of-oasis-labs/id1455666979?i=1000455985221)
+- [Blog: Oasis Labs brings blockchain applications to another level](https://medium.com/forbole/oasis-labs-brings-blockchain-applications-to-another-level-27ff2ba21043)
 
 #### [**Parity** ](https://github.com/paritytech)
 

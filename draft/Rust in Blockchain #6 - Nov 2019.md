@@ -1,4 +1,5 @@
-**Rust in Blockchain #6 - Nov 2019**
+# Rust in Blockchain #6 - Nov 2019
+
 **#6 - Nov 2019**
 
 Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous: #5](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/).
@@ -7,57 +8,57 @@ Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the
 &nbsp;
 
 
-**Project spotlight**
+## Project spotlight
 
 
 &nbsp;
 
-**Project updates**
+## Project updates
 
-#### [**Enigma**](https://enigma.co/)
-
-
-#### [**Grin**](https://github.com/mimblewimble/grin)
+### [**Enigma**](https://enigma.co/)
 
 
-#### [**Near**](https://github.com/nearprotocol/nearcore)
+### [**Grin**](https://github.com/mimblewimble/grin)
 
 
-#### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
+### [**Near**](https://github.com/nearprotocol/nearcore)
 
 
-#### [**Oasis**](https://github.com/oasislabs)
+### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
 
 
-#### [**Parity** ](https://github.com/paritytech)
+### [**Oasis**](https://github.com/oasislabs)
 
 
-#### [**Solana**](https://github.com/solana-labs/solana)
+### [**Parity** ](https://github.com/paritytech)
 
 
-&nbsp;
-
-**Challenges**
+### [**Solana**](https://github.com/solana-labs/solana)
 
 
 &nbsp;
 
-**Learning**
+## Challenges
 
 
 &nbsp;
 
-**Interesting Things**
+## Learning
 
 
 &nbsp;
 
-**Events**
+## Interesting Things
 
 
 &nbsp;
 
-**Careers**
+## Events
+
+
+&nbsp;
+
+## Careers
 
 
 &nbsp;

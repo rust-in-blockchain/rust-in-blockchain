@@ -1,5 +1,4 @@
-# Rust in Blockchain #6 - Nov 2019
-
+**Rust in Blockchain #6 - Nov 2019**
 **#6 - Nov 2019**
 
 Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous: #5](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/).
@@ -22,7 +21,7 @@ Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the
 &nbsp;
 
 
-## Project spotlight
+**Project spotlight**
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
@@ -34,16 +33,13 @@ This is a great example of the type of useful crates that come out of Rust block
 [c]: https://competitions.cr.yp.to/caesar-submissions.html
 [c2]: https://competitions.cr.yp.to/caesar-call.html
 
-
 &nbsp;
 
-## Project updates
+**Project updates**
 
-### [**Enigma**](https://enigma.co/)
+#### [**Enigma**](https://enigma.co/)
 
 - [Blog: New to Enigma? Start here](https://blog.enigma.co/welcome-to-enigma-start-here-e65c8c9125ef)
-
-
 - [PR: Hardfork2][grin-pr-1] by [@tromp](https://github.com/tromp)
 - [PR: Increase IO_TIMEOUT to allow nodes on high-latency connections to sync][grin-pr-2] by [@mmgen](https://github.com/mmgen)
 - [PR: Enable faster sync][grin-pr-3] by [@antiochp](https://github.com/antiochp)
@@ -58,7 +54,22 @@ This is a great example of the type of useful crates that come out of Rust block
 [grin-issue-1]: https://github.com/mimblewimble/grin/issues/1609
 
 
-### [**Near**](https://github.com/nearprotocol/nearcore)
+#### [**Grin**](https://github.com/mimblewimble/grin)
+
+- [PR: Hardfork2][grin-pr-1] by [@tromp](https://github.com/tromp)
+- [PR: Increase IO_TIMEOUT to allow nodes on high-latency connections to sync][grin-pr-2] by [@mmgen](https://github.com/mmgen)
+- [PR: Enable faster sync][grin-pr-3] by [@antiochp](https://github.com/antiochp)
+- [PR: Split state validation status into kernel and rproof updates][grin-pr-4] by [@JosephGoulden](https://github.com/JosephGoulden)
+- [issue: Security & Code audits][grin-issue-1]
+- [Grin Newsletter](https://grinnews.substack.com/)
+
+[grin-pr-1]: https://github.com/mimblewimble/grin/pull/3136
+[grin-pr-2]: https://github.com/mimblewimble/grin/pull/3109
+[grin-pr-3]: https://github.com/mimblewimble/grin/pull/3108
+[grin-pr-4]: https://github.com/mimblewimble/grin/pull/3096
+[grin-issue-1]: https://github.com/mimblewimble/grin/issues/1609
+
+#### [**Near**](https://github.com/nearprotocol/nearcore)
 
 #### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
 
@@ -89,10 +100,10 @@ This is a great example of the type of useful crates that come out of Rust block
 [nervos-community]: https://medium.com/nervosnetwork/nervos-community-update-6e9cced395ff
 
 
-### [**Oasis**](https://github.com/oasislabs)
+#### [**Oasis**](https://github.com/oasislabs)
 
 
-### [**Parity** ](https://github.com/paritytech)
+#### [**Parity** ](https://github.com/paritytech)
 
 - [Blog: Rust 2020](https://www.parity.io/rust-2020/)
 - [Blog: Why Chronicled chose to build on Parity's tech stack](https://www.parity.io/chronicled-mediledger-parity/). Parity in the enterprise.
@@ -115,7 +126,7 @@ This is a great example of the type of useful crates that come out of Rust block
 - [PR: Recover transaction pool on light client](https://github.com/paritytech/substrate/pull/3833)
 
 
-### [**Solana**](https://github.com/solana-labs/solana)
+#### [**Solana**](https://github.com/solana-labs/solana)
 
 Solana continues to have a high development velocity, with 368 closed PRs.
 

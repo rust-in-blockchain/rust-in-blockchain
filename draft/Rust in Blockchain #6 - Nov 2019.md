@@ -1,10 +1,11 @@
-**Rust in Blockchain #6 - Nov 2019**
+# Rust in Blockchain #6 - Nov 2019
+
 **#6 - Nov 2019**
 
 Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous: #5](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/).
 
 
-Most Active in November
+## Most Active in November
 
 [NEAR](near): [97](near-mergedpr) merged PRs, [76][near-issue] closed issues
 
@@ -28,7 +29,7 @@ Most Active in November
 &nbsp;
 
 
-**Project spotlight**
+## Project spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
@@ -42,7 +43,7 @@ This is a great example of the type of useful crates that come out of Rust block
 
 &nbsp;
 
-**Project updates**
+## Project updates
 
 #### [**Enigma**](https://enigma.co/)
 

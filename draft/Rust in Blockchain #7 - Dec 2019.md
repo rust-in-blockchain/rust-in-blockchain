@@ -30,6 +30,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
 
+#### [**Interledger**](https://interledger.org/)
+
+
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
 

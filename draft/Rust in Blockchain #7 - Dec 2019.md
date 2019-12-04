@@ -1,4 +1,5 @@
-**Rust in Blockchain #7 - Dec 2019**
+# Rust in Blockchain #7 - Dec 2019
+
 **#7 - Dec 2019**
 
 Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. <!--[Previous: #6](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/). -->
@@ -8,12 +9,20 @@ Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the
 &nbsp;
 
 
-**Project spotlight**
+## Project spotlight
 
+Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
 &nbsp;
 
-**Project updates**
+
+## Most Active in TODO-month
+
+&nbsp;
+
+
+
+## Project updates
 
 #### [**Enigma**](https://enigma.co/)
 
@@ -38,27 +47,27 @@ Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the
 
 &nbsp;
 
-**Challenges**
+## Challenges
 
 
 &nbsp;
 
-**Learning**
+## Learning
 
 
 &nbsp;
 
-**Interesting Things**
+## Interesting Things
 
 
 &nbsp;
 
-**Events**
+## Events
 
 
 &nbsp;
 
-**Careers**
+## Careers
 
 
 &nbsp;

@@ -126,8 +126,6 @@ This is a great example of the type of useful crates that come out of Rust block
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
-Solana continues to have a high development velocity, with 366 merged PRs.
-
 - [Blog: Results of Solana's security audit](https://solana.com/the-results-of-solanas-security-audit/)
 - [Blog: Solana at SFBW Showed that Cooperation is Key to Blockchain Growth](https://solana.com/solana-at-sfbw-showed-that-cooperation-is-key-to-blockchain-growth/)
 - [Podcast: No Sharding ep 10 - History and Future of Networks with AVA Labs founder Emin Gun Sirer](https://solana.com/ava-labs-founder-emin-gun-sirer-episode-10-no-sharding-podcast/)

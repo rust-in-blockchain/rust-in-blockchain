@@ -2,7 +2,7 @@
 
 **#6 - Nov 2019**
 
-Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous: #5](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/).
+Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #5](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/).
 
 &nbsp;
 

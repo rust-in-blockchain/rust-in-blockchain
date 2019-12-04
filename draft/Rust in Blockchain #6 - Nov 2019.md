@@ -4,6 +4,8 @@
 
 Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous: #5](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/).
 
+&nbsp;
+
 
 ## Project spotlight
 
@@ -28,7 +30,7 @@ This is a great example of the type of useful crates that come out of Rust block
 
 [NEAR](near): [97](near-mergedpr) merged PRs, [76][near-issue] closed issues
 
-[Nervos CKB](nervos): [58][nervos-mergedpr] merged PRs, [67][nervos-issue] closed issues
+[Nervos CKB][nervos]: [58][nervos-mergedpr] merged PRs, [67][nervos-issue] closed issues
 
 
 [solona]: https://github.com/solana-labs/solana
@@ -129,8 +131,6 @@ This is a great example of the type of useful crates that come out of Rust block
 
 
 #### [**Solana**](https://github.com/solana-labs/solana)
-
-Solana continues to have a high development velocity, with 368 closed PRs.
 
 - [Blog: Results of Solana's security audit](https://solana.com/the-results-of-solanas-security-audit/)
 - [Blog: Solana at SFBW Showed that Cooperation is Key to Blockchain Growth](https://solana.com/solana-at-sfbw-showed-that-cooperation-is-key-to-blockchain-growth/)

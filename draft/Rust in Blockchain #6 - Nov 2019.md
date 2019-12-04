@@ -17,6 +17,8 @@ Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the
 
 ### [**Enigma**](https://enigma.co/)
 
+- [Blog: New to Enigma? Start here](https://blog.enigma.co/welcome-to-enigma-start-here-e65c8c9125ef)
+
 
 ### [**Grin**](https://github.com/mimblewimble/grin)
 

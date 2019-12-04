@@ -4,19 +4,26 @@
 Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous: #5](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/).
 
 
-**Most Active in November**
+Most Active in November
 
-[Grin](grin): [27][grin-mergedpr] merged PRs, [8][grin-issue] new issues
+[NEAR](near): [97](near-mergedpr) merged PRs, [76][near-issue] closed issues
 
-[Nervos CKB](nervos): [58][nervos-mergedpr] merged PRs, [2][nervos-issue] new issues
+[Nervos CKB](nervos): [58][nervos-mergedpr] merged PRs, [67][nervos-issue] closed issues
 
-[grin]: https://github.com/mimblewimble/grin
-[grin-issue]: https://github.com/mimblewimble/grin/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+created%3A2019-11-01..2019-11-30+
-[grin-mergedpr]: https://github.com/mimblewimble/grin/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30+
+[Solana](solana): [366][solana-mergedpr] merged PRs, [74][solona-issue] closed issues
+
+[near]: https://github.com/nearprotocol/nearcore
+[near-mergedpr]: https://github.com/nearprotocol/nearcore/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-11-01..2019-11-30
+[near-issue]: https://github.com/nearprotocol/nearcore/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30+
 
 [nervos]: https://github.com/nervosnetwork/ckb
-[nervos-issue]: https://github.com/nervosnetwork/ckb/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+created%3A2019-11-01..2019-11-30+
 [nervos-mergedpr]:https://github.com/nervosnetwork/ckb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30+
+[nervos-issue]: https://github.com/nervosnetwork/ckb/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30+
+
+[solona]: https://github.com/solana-labs/solana
+[solona-mergedpr]: https://github.com/solana-labs/solana/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30+
+[solona-issue]: https://github.com/solana-labs/solana/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30+
+
 
 &nbsp;
 
@@ -27,7 +34,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [deoxysii-rust](https://github.com/oasislabs/deoxysii-rust)
 
-This is a great example of the type of useful crates that come out of Rust blockchain projects. It implements the [Deoxys II authenticated encryption scheme][d], which was a winner of the [CAESAR cryptographic competition][c]. Authenticated ciphers ensure both the confidentiality and the auntenticity of data, and have particular properties described in the [CAESAR call for submissions][c2].
+This is a great example of the type of useful crates that come out of Rust blockchain projects. It implements the [Deoxys II authenticated encryption scheme][d], which was a winner of the [CAESAR cryptographic competition][c]. Authenticated ciphers ensure both the confidentiality and the authenticity of data, and have particular properties described in the [CAESAR call for submissions][c2].
 
 [d]: https://sites.google.com/view/deoxyscipher
 [c]: https://competitions.cr.yp.to/caesar-submissions.html
@@ -40,19 +47,6 @@ This is a great example of the type of useful crates that come out of Rust block
 #### [**Enigma**](https://enigma.co/)
 
 - [Blog: New to Enigma? Start here](https://blog.enigma.co/welcome-to-enigma-start-here-e65c8c9125ef)
-- [PR: Hardfork2][grin-pr-1] by [@tromp](https://github.com/tromp)
-- [PR: Increase IO_TIMEOUT to allow nodes on high-latency connections to sync][grin-pr-2] by [@mmgen](https://github.com/mmgen)
-- [PR: Enable faster sync][grin-pr-3] by [@antiochp](https://github.com/antiochp)
-- [PR: Split state validation status into kernel and rproof updates][grin-pr-4] by [@JosephGoulden](https://github.com/JosephGoulden)
-- [issue: Security & Code audits][grin-issue-1]
-- [Grin Newsletter](https://grinnews.substack.com/)
-
-[grin-pr-1]: https://github.com/mimblewimble/grin/pull/3136
-[grin-pr-2]: https://github.com/mimblewimble/grin/pull/3109
-[grin-pr-3]: https://github.com/mimblewimble/grin/pull/3108
-[grin-pr-4]: https://github.com/mimblewimble/grin/pull/3096
-[grin-issue-1]: https://github.com/mimblewimble/grin/issues/1609
-
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
@@ -237,6 +231,6 @@ Interledger | San Francisco, US; Remote
 
 &nbsp;
 
-Want to be included in the next issue? Feel free to submit a PR to the [#7 draft](), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+Want to be included in the next issue? Feel free to submit a PR to the [#7 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/Rust%20in%20Blockchain%20%237%20-%20Dec%202019.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
-**Join the discussion on [RiB Telegram group](https://t.me/rustinblockchain) **❤️**
+**Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**

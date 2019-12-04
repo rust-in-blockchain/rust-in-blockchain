@@ -8,6 +8,7 @@ Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the
 **Most Active in November**
 
 [Grin](grin): [27][grin-mergedpr] merged PRs, [8][grin-issue] new issues
+
 [Nervos CKB](nervos): [58][nervos-mergedpr] merged PRs, [2][nervos-issue] new issues
 
 [grin]: https://github.com/mimblewimble/grin
@@ -60,7 +61,7 @@ This is a great example of the type of useful crates that come out of Rust block
 ### [**Near**](https://github.com/nearprotocol/nearcore)
 
 #### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
-zk zeroknowledge - Alan
+
 <!-- todo - [News: Nervos CKB Development Update #24][nervos-dev-1] Aggron Testnet has been reset. Team is focusing on the performance, interfaces, tests and documentations. -->
 - [News: Nervos CKB Development Update #23][nervos-dev-2] Version 0.25.2. Mainnet launch.
 - [News: Nervos CKB Mainnet is Live][nervos-news-1]
@@ -145,7 +146,7 @@ Solana continues to have a high development velocity, with 368 closed PRs.
 
 ## Interesting Things
 
-- [Video: Layer 1 event ft. Solana, NEAR, Harmona, CODA, Nervos](https://www.youtube.com/watch?v=LEKcBeDcEAY)
+[Video: Layer 1 event ft. Solana, NEAR, Harmona, CODA, Nervos](https://www.youtube.com/watch?v=LEKcBeDcEAY)
 
 
 &nbsp;

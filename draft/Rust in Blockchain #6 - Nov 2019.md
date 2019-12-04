@@ -10,6 +10,16 @@ Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the
 
 ## Project spotlight
 
+Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+[deoxysii-rust](https://github.com/oasislabs/deoxysii-rust)
+
+This is a great example of the type of useful crates that come out of Rust blockchain projects. It implements the [Deoxys II authenticated encryption scheme][d], which was a winner of the [CAESAR cryptographic competition][c]. Authenticated ciphers ensure both the confidentiality and the auntenticity of data, and have particular properties described in the [CAESAR call for submissions][c2].
+
+[d]: https://sites.google.com/view/deoxyscipher
+[c]: https://competitions.cr.yp.to/caesar-submissions.html
+[c2]: https://competitions.cr.yp.to/caesar-call.html
+
 
 &nbsp;
 

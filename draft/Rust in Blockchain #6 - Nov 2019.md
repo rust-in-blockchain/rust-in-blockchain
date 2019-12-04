@@ -75,6 +75,12 @@ This is a great example of the type of useful crates that come out of Rust block
 
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
+- [Video: NEAR Lunch and learn ep. 03: Light clients and proof-of-stake systems](https://nearprotocol.com/blog/near-lunch-learn-ep-03-light-clients-in-proof-of-stake-systems/)
+- [Video: NEAR Lunch and learn ep. 04: Nightshade: Consensus and finality](https://nearprotocol.com/blog/near-lunch-and-learn-ep-04-nightshade-consensus-and-finality/)
+- [Blog: Stake wars week 1 retro](https://nearprotocol.com/blog/stake-wars-first-week-retro/)
+- [Blog: Stake wars week 2 retro](https://nearprotocol.com/blog/stake-wars-week-2-retro/)
+- [Blog: Stake wars week 3 retro](https://nearprotocol.com/blog/stake-wars-week-3-retro/)
+
 #### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
 
 <!-- todo - [News: Nervos CKB Development Update #24][nervos-dev-1] Aggron Testnet has been reset. Team is focusing on the performance, interfaces, tests and documentations. -->

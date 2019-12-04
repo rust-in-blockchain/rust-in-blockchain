@@ -64,7 +64,7 @@ This is a great example of the type of useful crates that come out of Rust block
 - [PR: Increase IO_TIMEOUT to allow nodes on high-latency connections to sync][grin-pr-2] by [@mmgen](https://github.com/mmgen)
 - [PR: Enable faster sync][grin-pr-3] by [@antiochp](https://github.com/antiochp)
 - [PR: Split state validation status into kernel and rproof updates][grin-pr-4] by [@JosephGoulden](https://github.com/JosephGoulden)
-- [issue: Security & Code audits][grin-issue-1]
+- [Issue: Security & Code audits][grin-issue-1]
 - [Grin Newsletter](https://grinnews.substack.com/)
 
 [grin-pr-1]: https://github.com/mimblewimble/grin/pull/3136
@@ -80,13 +80,13 @@ This is a great example of the type of useful crates that come out of Rust block
 <!-- todo - [News: Nervos CKB Development Update #24][nervos-dev-1] Aggron Testnet has been reset. Team is focusing on the performance, interfaces, tests and documentations. -->
 - [News: Nervos CKB Development Update #23][nervos-dev-2] Version 0.25.2. Mainnet launch.
 - [News: Nervos CKB Mainnet is Live][nervos-news-1]
+- [Blog: Approach to Designing a User Defined Token Standard on CKB: Part 1][nervos-blog-1]
+- [Blog: A General Method to Describe a “Smart Contract” on CKB][nervos-blog-2]
+- [Podcast: Alan Szepieniec on Hash Functions & Supersonic SNARKs][nervos-podcast]
 - [PR: Upgrade ckb-vm to 0.18.1][nervos-pr-1] by [@xxuejie](https://github.com/xxuejie)
 - [PR: Switch to mainnet][nervos-pr-2] by [@doitian](https://github.com/doitian)
 - [PR: Limit tx max ancestors count][nervos-pr-3] by [@jjyr](https://github.com/jjyr)
 - [PR: Tweak slot calculation algorithm][nervos-pr-4] by [@xxuejie](https://github.com/xxuejie)
-- [Blog: Approach to Designing a User Defined Token Standard on CKB: Part 1][nervos-blog-1]
-- [Blog: A General Method to Describe a “Smart Contract” on CKB][nervos-blog-2]
-- [Podcast: Alan Szepieniec on Hash Functions & Supersonic SNARKs][nervos-podcast]
 - [Nervos CKB Development Update][nervos-community-dev]
 - [Nervos Community Update][nervos-community]
 

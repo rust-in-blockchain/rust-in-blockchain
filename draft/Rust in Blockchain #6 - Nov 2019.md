@@ -24,18 +24,18 @@ This is a great example of the type of useful crates that come out of Rust block
 
 ## Most Active in November
 
-[Solana](solana): [366][solana-mergedpr] merged PRs, [74][solona-issue] closed issues
+[Solana][solana]: [366][solana-mergedpr] merged PRs, [74][solana-issue] closed issues
 
-[Parity Substrate](substrate): [190][solana-mergedpr] merged PRs, [66][solona-issue] closed issues
+[Parity Substrate][substrate]: [190][substrate-mergedpr] merged PRs, [66][substrate-issue] closed issues
 
-[NEAR](near): [97](near-mergedpr) merged PRs, [76][near-issue] closed issues
+[NEAR][near]: [97](near-mergedpr) merged PRs, [76][near-issue] closed issues
 
 [Nervos CKB][nervos]: [58][nervos-mergedpr] merged PRs, [67][nervos-issue] closed issues
 
 
-[solona]: https://github.com/solana-labs/solana
-[solona-mergedpr]: https://github.com/solana-labs/solana/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30+
-[solona-issue]: https://github.com/solana-labs/solana/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30+
+[solana]: https://github.com/solana-labs/solana
+[solana-mergedpr]: https://github.com/solana-labs/solana/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30+
+[solana-issue]: https://github.com/solana-labs/solana/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30+
 
 [substrate]: https://github.com/paritytech/substrate
 [substrate-mergedpr]: https://github.com/paritytech/substrate/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-11-01..2019-11-30

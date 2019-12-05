@@ -22,7 +22,7 @@ This is a great example of the type of useful crates that come out of Rust block
 &nbsp;
 
 
-## Most Active in November
+## Most active in November
 
 [Solana][solana]: [366][solana-mergedpr] merged PRs, [74][solana-issue] closed issues
 
@@ -73,7 +73,7 @@ This is a great example of the type of useful crates that come out of Rust block
 [grin-pr-4]: https://github.com/mimblewimble/grin/pull/3096
 [grin-issue-1]: https://github.com/mimblewimble/grin/issues/1609
 
-#### [**Near**](https://github.com/nearprotocol/nearcore)
+#### [**NEAR**](https://github.com/nearprotocol/nearcore)
 
 - [Video: NEAR Lunch and learn ep. 03: Light clients and proof-of-stake systems](https://nearprotocol.com/blog/near-lunch-learn-ep-03-light-clients-in-proof-of-stake-systems/)
 - [Video: NEAR Lunch and learn ep. 04: Nightshade: Consensus and finality](https://nearprotocol.com/blog/near-lunch-and-learn-ep-04-nightshade-consensus-and-finality/)
@@ -156,12 +156,6 @@ This is a great example of the type of useful crates that come out of Rust block
 - [PR: CLI: Support pubkey recovery from seed phrase](https://github.com/solana-labs/solana/pull/7149)
 - [PR: CLI: Add offline signing](https://github.com/solana-labs/solana/pull/7104)
 
-
-&nbsp;
-
-## Challenges
-
-
 &nbsp;
 
 ## Learning
@@ -171,7 +165,7 @@ This is a great example of the type of useful crates that come out of Rust block
 
 &nbsp;
 
-## Interesting Things
+## Interesting things
 
 [Video: Layer 1 event ft. Solana, NEAR, Harmona, CODA, Nervos](https://www.youtube.com/watch?v=LEKcBeDcEAY)
 

@@ -167,7 +167,7 @@ This is a great example of the type of useful crates that come out of Rust block
 
 ## Interesting things
 
-[Video: Layer 1 event ft. Solana, NEAR, Harmona, CODA, Nervos](https://www.youtube.com/watch?v=LEKcBeDcEAY)
+[Video: Layer 1 event ft. Solana, NEAR, Harmony, CODA, Nervos](https://www.youtube.com/watch?v=LEKcBeDcEAY)
 
 
 &nbsp;
@@ -231,7 +231,7 @@ Nervos | San Francisco; Hangzhou, China; Remote
 
 [Senior Test Manager](https://angel.co/company/nervos-1/jobs/589746-senior-test-manager)
 
-[Senior blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
+[Senior Blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
 
 OneinaMil | New York City; Remote
 

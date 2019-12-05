@@ -203,6 +203,10 @@ imToken | Singapore; Hangzhou, China
 
 [Blockchain Development Engineer](https://token.im/careers)
 
+Interledger | San Francisco, US; Remote
+
+[Senior Software Engineer, Rust](https://www.ripple.com/company/careers/all-jobs#senior-software-engineer-rust)
+
 IOHK | Europe
 
 [Software Engineer - Rust](https://iohk.io/careers/#op-345001-software-engineer-rust)
@@ -240,10 +244,6 @@ OneinaMil | New York City; Remote
 Parity | Berlin, Germany
 
 [Rust/Core Developer](https://www.parity.io/jobs/#berlin-rust-core-developer)
-
-Interledger | San Francisco, US; Remote
-
-[Senior Software Engineer, Rust](https://www.ripple.com/company/careers/all-jobs#senior-software-engineer-rust)
 
 &nbsp;
 

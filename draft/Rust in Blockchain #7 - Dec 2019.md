@@ -74,7 +74,9 @@ Rust is awesome for blockchain, y'all.
 
 
 #### [**Oasis**](https://github.com/oasislabs)
-
+- [News: Join the Oasis DevAccelerator Program](https://medium.com/oasislabs/oasis-dev-accelerator-program-4840bfea129e)
+- [Blog: What is My Data Worth?](https://medium.com/oasislabs/what-is-my-data-worth-b7e2f1a8717f) An article by Ruoxi Jia that discusses methods proposed in our recent AISTATS and VLDB papers that attempt to answer this question in the machine learning context.
+- [Blog: Developer Spotlight: Matt Johnson](https://medium.com/oasislabs/developer-spotlight-matt-johnson-b2588c79c849)
 
 #### [**Parity** ](https://github.com/paritytech)
 - [News: Polymesh — Flexibility through Smart Extensions](https://blog.polymath.network/polymesh-flexibility-through-smart-extensions-c461f1504ce9). Polymath and Parity collaborate on extending Substrate to provide rich interoperability between base layer runtime modules, and dynamically deployed smart contracts.

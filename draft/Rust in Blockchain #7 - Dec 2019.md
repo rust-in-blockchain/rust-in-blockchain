@@ -76,6 +76,7 @@ Rust is awesome for blockchain, y'all.
 
 #### [**Enigma**](https://enigma.co/)
 
+- [Announcing the Launch of Enigma’s First Networked Testnet!](https://blog.enigma.co/announcing-the-launch-of-enigmas-first-networked-testnet-359fd816cb69)
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
 

@@ -29,7 +29,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 Zebra is an implementation of Zcash in Rust. It also appears to be the future of Zcash.
 
-Originally developed by Parity, based off [their bitcoin client][pbt], for the Zcash Foundation, [Zebra was announced][zan] in July 2019. In late August development was started over from scratch, to take advantage of modern Rust idioms, to divorce the design from that of bitcoin, and to use a different license. The current version of Zebra is developed by long-time Rust cryptographer [Henry de Valence], co-author of a number of high-profile Rust cryptography libraries, and expert in zero-knowledge proofs.
+Originally developed by Parity, based off [their bitcoin client][pbt], for the Zcash Foundation, [Zebra was announced][zan] in July 2019. In late August development was begun from scratch, to take advantage of modern Rust idioms, to divorce the design from that of bitcoin, and to use a different license. The current version of Zebra is developed by long-time Rust cryptographer [Henry de Valence], co-author of a number of high-profile Rust cryptography libraries, and expert in zero-knowledge proofs.
 
 So now there are _two_ Rust implementations of Zcash, including [parity-zcash] (which presumably inherits the original Zebra codebase).
 
@@ -48,22 +48,18 @@ Rust is awesome for blockchain, y'all.
 
 ## Most Active in December
 
+[Solana][solana]: [343 merged PRs][solana-mergedpr], [88 closed issues][solana-issue].
+
+[Parity][parity]: 192 merged PRs ([1][parity-mergedpr1], [2][parity-mergedpr2]), 69 closed issues ([1][parity-issue1], [2][parity-issue2]).
+
 [COMIT][comit]: 113 merged PRs ([1][comit-mergedpr1], [2][comit-mergedpr2]), 40 closed issues ([1][comit-issue1], [2][comit-issue2]).
 
+[NEAR][near]: [61 merged PRs][near-mergedpr], [18 closed issues][near-issue].
+
+[solana]: https://github.com/solana-labs/solana
+[parity]: https://github.com/paritytech
 [comit]: https://comit.network/
-[comit-mergedpr1]: https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
-[comit-mergedpr2]: https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
-[comit-issue1]: https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
-[comit-issue2]: https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
-
-[Zcash][zcash]: 28 merged PRs ([1][zcash-mergedpr1], [2][zcash-mergedpr2]), 12 closed issues ([1][zcash-issue1], [2][zcash-issue2]).
-
-[zcash]: https://z.cash/
-[zcash-mergedpr1]: https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
-[zcash-mergedpr2]: https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
-[zcash-issue1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
-[zcash-issue2]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
-
+[near]: https://github.com/nearprotocol/nearcore
 
 &nbsp;
 
@@ -73,6 +69,13 @@ Rust is awesome for blockchain, y'all.
 
 #### [**COMIT**](https://comit.network/)
 
+113 merged PRs ([1][comit-mergedpr1], [2][comit-mergedpr2]), 40 closed issues ([1][comit-issue1], [2][comit-issue2]).
+
+[comit-mergedpr1]: https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[comit-mergedpr2]: https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[comit-issue1]: https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+[comit-issue2]: https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+
 - [Blog: Vision and Mission + 2020 goals](https://blog.coblox.tech/2019/12/05/2020-COMIT-goals.html)
 - [PR: Make more use of async/await](https://github.com/comit-network/create-comit-app/pull/305)
 - [PR: Refactor toward more idiomatic async code](https://github.com/comit-network/create-comit-app/pull/253)
@@ -81,9 +84,20 @@ Rust is awesome for blockchain, y'all.
 
 #### [**Enigma**](https://enigma.co/)
 
+[16 merged PRs][enigma-mergedpr], [1 closed issue][enigma-issue].
+
+[enigma-mergedpr]: https://github.com/enigmampc/enigma-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[enigma-issue]: https://github.com/enigmampc/enigma-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+
 - [Announcing the Launch of Enigma’s First Networked Testnet!](https://blog.enigma.co/announcing-the-launch-of-enigmas-first-networked-testnet-359fd816cb69)
+- [PR: Implement local signing of ethereum transactions inside the KM enclave](https://github.com/enigmampc/enigma-core/pull/252)
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
+
+[16 merged PRs][grin-mergedpr], [4 closed issues][grin-issue].
+
+[grin-mergedpr]: https://github.com/mimblewimble/grin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[grin-issue]: https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
 
 - [News: #78: Floonet hard fork successful](https://grinnews.substack.com/p/78-floonet-hard-fork-successful-)
 - [News: #77: ASIC friendly > resistant](https://grinnews.substack.com/p/77-asic-friendly-resistant-)
@@ -96,12 +110,22 @@ Rust is awesome for blockchain, y'all.
 
 #### [**Interledger**](https://interledger.org/)
 
+[23 merged PRs][interledger-mergedpr], [45 closed issues][interledger-issue].
+
+[interledger-mergedpr]: https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[interledger-issue]: https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+
 - [Blog: Interledger 2020: Access](https://coil.com/p/sharafian/Interledger-2020-Access/ddUXfDobj)
 - [Blog: Interledger 2020 - The Protocol to Connect Them All](https://coil.com/p/kenmelendez/Interledger-2020-The-Protocol-to-Connect-Them-All/F_HowAg-9)
 - [PR: Make Redis fully optional for ilp-node](https://github.com/interledger-rs/interledger-rs/pull/551) by [@bstrie](https://github.com/bstrie)
 - [PR: Make HTTP and BTP outgoing tokens symmetric to incoming tokens](https://github.com/interledger-rs/interledger-rs/pull/553) by [@gakonst](https://github.com/gakonst)
 
-#### [**Near**](https://github.com/nearprotocol/nearcore)
+#### [**NEAR**](https://github.com/nearprotocol/nearcore)
+
+[61 merged PRs][near-mergedpr], [18 closed issues][near-issue].
+
+[near-mergedpr]: https://github.com/nearprotocol/nearcore/pulls?q=is%3Apr+is%3Amerged+merged%3A2019-12-01..2019-12-31
+[near-issue]: https://github.com/nearprotocol/nearcore/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
 
 - [News: Our Last Update in 2019](https://nearprotocol.com/blog/our-last-update-december-13th-2019/)
 - [Blog: Open Web](https://reading.supply/post/0fac829a-c0a5-4d47-922d-060e808edeea)
@@ -121,6 +145,12 @@ Rust is awesome for blockchain, y'all.
 - [PR: Retry failed parallel test sequentially](https://github.com/nearprotocol/nearcore/pull/1856) by [@ailisp](https://github.com/ailisp)
 
 #### [**Nervos**](https://github.com/nervosnetwork)
+
+[28 merged PRs][nervos-mergedpr], [5 closed issues][nervos-issue].
+
+[nervos-mergedpr]: https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[nervos-issue]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+
 - [News: Nervos Roadmap 2020](https://www.nervos.org/roadmap-2020/)
 - [News: Our Investment in Nervos](https://medium.com/dragonfly-research/our-investment-in-nervos-27df40dac7c9)
 - [News: ABC Wallet supports CKB!](https://twitter.com/abc_wallet/status/1209105738162794498)
@@ -138,11 +168,27 @@ Rust is awesome for blockchain, y'all.
 - [PR: Doc: add W^X Memory and exec syscall for CKB VM](https://github.com/nervosnetwork/rfcs/pull/102) by [@xxuejie](https://github.com/xxuejie)
 
 #### [**Oasis**](https://github.com/oasislabs)
+
+8 merged PRs ([1][oasis-mergedpr2], [2][oasis-mergedpr2]), 0 closed issues ([1][oasis-issue1], [2][oasis-issue2]).
+
+[oasis-mergedpr1]: https://github.com/oasislabs/oasis-runtime/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[oasis-issue1]: https://github.com/oasislabs/oasis-runtime/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+[oasis-mergedpr2]: https://github.com/oasislabs/oasis-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[oasis-issue2]: https://github.com/oasislabs/oasis-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+
 - [News: Join the Oasis DevAccelerator Program](https://medium.com/oasislabs/oasis-dev-accelerator-program-4840bfea129e)
 - [Blog: What is My Data Worth?](https://medium.com/oasislabs/what-is-my-data-worth-b7e2f1a8717f) An article by Ruoxi Jia that discusses methods proposed in our recent AISTATS and VLDB papers that attempt to answer this question in the machine learning context.
 - [Blog: Developer Spotlight: Matt Johnson](https://medium.com/oasislabs/developer-spotlight-matt-johnson-b2588c79c849)
 
 #### [**Parity** ](https://github.com/paritytech)
+
+192 merged PRs ([1][parity-mergedpr1], [2][parity-mergedpr2]), 69 closed issues ([1][parity-issue1], [2][parity-issue2]).
+
+[parity-mergedpr1]: https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+merged%3A2019-12-01..2019-12-31
+[parity-issue1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+[parity-mergedpr2]: https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Amerged+merged%3A2019-12-01..2019-12-31
+[parity-issue2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+
 - [News: Polymesh — Flexibility through Smart Extensions](https://blog.polymath.network/polymesh-flexibility-through-smart-extensions-c461f1504ce9). Polymath and Parity collaborate on extending Substrate to provide rich interoperability between base layer runtime modules, and dynamically deployed smart contracts.
 - [News: The Foundation of a New Internet](https://medium.com/cornellblockchain/the-foundation-of-a-new-internet-86d72d3074eb). A look at Web 3.0 with Polkadot — Cornell Blockchain.
 - [News: Kusama Upgrade Bulletin](https://polkadot.network/kusama-upgrade-bulletin-2/). Kusama is about to get a new logic core. Runtime version: 1031; Supported natively by Polkadot v0.7.10.
@@ -161,6 +207,11 @@ Rust is awesome for blockchain, y'all.
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
+[343 merged PRs][solana-mergedpr], [88 closed issues][solana-issue].
+
+[solana-mergedpr]: https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[solana-issue]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+
 - [Blog: Solana in 2019: Growth, Development, and the Road to Mainnet](https://medium.com/solana-labs/solana-in-2019-growth-development-and-the-road-to-mainnet-16b642fd7fb1)
 - [Podcast: How Solana Works with Anatoly Yakovenko Ep #2](https://podcasts.apple.com/us/podcast/how-solana-works-with-anatoly-yakovenko-ep-2/id1476353378?i=1000446769632)
 - [Video: Solana & SKALE live podcast recording - Jack O'Holleran & Anatoly Yakovenko](https://www.youtube.com/watch?v=fmVuXfwG6eY&feature=youtu.be)
@@ -173,6 +224,13 @@ Rust is awesome for blockchain, y'all.
 - [PR: Add SystemInstruction::CreateAccountWithSeed](https://github.com/solana-labs/solana/pull/7390) by [@rob-solana](https://github.com/rob-solana)
 
 #### [**Zcash**](https://z.cash/)
+
+28 merged PRs ([1][zcash-mergedpr1], [2][zcash-mergedpr2]), 12 closed issues ([1][zcash-issue1], [2][zcash-issue2]).
+
+[zcash-mergedpr1]: https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[zcash-mergedpr2]: https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[zcash-issue1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+[zcash-issue2]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
 
 The news this month is dominated by a poll on how to fund future Zcash development.
 

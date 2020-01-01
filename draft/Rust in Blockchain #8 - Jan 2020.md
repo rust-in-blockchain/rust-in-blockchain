@@ -36,10 +36,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [**Interledger**](https://interledger.org/)
 
 
-#### [**Near**](https://github.com/nearprotocol/nearcore)
+#### [**NEAR**](https://github.com/nearprotocol/nearcore)
 
 
-#### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
+#### [**Nervos**](https://github.com/nervosnetwork/ckb)
 
 
 #### [**Oasis**](https://github.com/oasislabs)

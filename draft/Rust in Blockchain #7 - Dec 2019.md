@@ -2,7 +2,7 @@
 
 **#7 - Dec 2019**
 
-Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #6](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/). -->
+Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #6](https://rustinblockchain.org/2019/12/05/rust-in-blockchain-6-nov-2019/).
 
 This month we see a trend, in blockchain and across the Rust ecosystem, of projects quickly picking up stable async/await support and migrating to tokio 0.2.
 
@@ -88,6 +88,8 @@ Rust is awesome for blockchain, y'all.
 
 #### [**Interledger**](https://interledger.org/)
 
+- [Blog: Interledger 2020: Access](https://coil.com/p/sharafian/Interledger-2020-Access/ddUXfDobj)
+- [Blog: Interledger 2020 - The Protocol to Connect Them All](https://coil.com/p/kenmelendez/Interledger-2020-The-Protocol-to-Connect-Them-All/F_HowAg-9)
 
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 

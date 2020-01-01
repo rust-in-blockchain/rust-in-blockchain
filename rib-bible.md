@@ -19,6 +19,7 @@ Media:
 Github queries:
 
 - https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Aupdated-asc
+- https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Aupdated-asc
 - https://github.com/comit-network/RFCs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Aupdated-asc
 
 

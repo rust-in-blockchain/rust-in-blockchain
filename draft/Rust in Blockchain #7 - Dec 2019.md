@@ -63,6 +63,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
+- [Blog: Solana in 2019: Growth, Development, and the Road to Mainnet](https://medium.com/solana-labs/solana-in-2019-growth-development-and-the-road-to-mainnet-16b642fd7fb1)
+- [Podcast: How Solana Works with Anatoly Yakovenko Ep #2](https://podcasts.apple.com/us/podcast/how-solana-works-with-anatoly-yakovenko-ep-2/id1476353378?i=1000446769632)
 
 &nbsp;
 

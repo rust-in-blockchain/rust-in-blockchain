@@ -192,3 +192,29 @@ Most active:
 - https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
 
 
+## Zcash
+
+Media:
+
+- https://z.cash/buzz/
+- https://electriccoin.co/blog/
+- https://www.zfnd.org/blog/
+- https://www.zcashcommunity.com/
+- https://forums.zcashcommunity.com/
+- https://www.zfnd.org/blog/
+- https://buttondown.email/zcashfoundation
+- https://reddit.com/r/zec
+
+GitHub queries:
+
+- https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/zcash/zips/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/zcash/zips/pulls?q=is%3Apr+is%3Aopen+created%3A%3E2019-09-05+sort%3Aupdated-asc
+
+Most active:
+
+- https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
+- https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
+- https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
+- https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30

@@ -51,6 +51,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [**Solana**](https://github.com/solana-labs/solana)
 
 
+#### [**Zcash**](https://z.cash/)
+
+
 &nbsp;
 
 ## Challenges

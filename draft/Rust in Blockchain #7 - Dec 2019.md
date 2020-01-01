@@ -21,7 +21,7 @@ Originally developed by Parity, based off [their bitcoin client][pbt], for the Z
 
 So now there are _two_ Rust implementations of Zcash, including [parity-zcash] (which presumably inherits the original Zebra codebase).
 
-According to the [Zcash roadmap][zcr], in the future Zebra will be "the bedrock of our engineering output". So it seems like Zcash is all-in on Rust!
+According to the [Zcash Foundation roadmap][zcr], in the future Zebra will be "the bedrock of our engineering output". So it seems like Zcash is all-in on Rust!
 
 Rust is awesome for blockchain, y'all.
 

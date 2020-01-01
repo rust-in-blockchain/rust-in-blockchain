@@ -4,14 +4,17 @@
 
 Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #6](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/). -->
 
-TODO
+This month we see a trend, in blockchain and across the Rust ecosystem, of projects quickly picking up stable async/await support and migrating to tokio 0.2.
 
-We've been expanding our coverage steadily over the months, and this month we begin covering [Zcash], and [COMIT][comit].
+For those interested in a great overview of the future distributed-web landscape, Kyle Samani of Multicoin Capital published a new edition of their ["The Web3 Stack"][w3]. Not Rust-specific, but an evocative, illustrated, piece describing their vision of what a distributed world-wide-web, bult on blockchain technology, could look like.
 
-With so many Rust blockchain projects it is hard to report on all of them. If you are a passionate observer of any Rust blockchain project we need your help to gather the monthly updates. Please contact us on the [Telegram group][tg], or email Aimee directly at aimeedeer@gmail.com if you are willing to donate an hour of your time each month.
+Rust in Blockchain has been expanding our coverage steadily over the months, and this month we begin covering [Zcash], and [COMIT][comit].
+
+With so many Rust blockchain projects of note it is increasingly challenging to report on all of them. If you are a passionate observer of any Rust blockchain project we need your help to gather the monthly updates. Please contact us on the [Telegram group][tg], or email Aimee directly at aimeedeer@gmail.com if you are willing to donate an hour of your time each month.
 
 [Zcash]: https://z.cash/
 [tg]: https://z.cash/
+[w3]: https://multicoin.capital/2019/12/13/the-web3-stack-2019-edition/
 
 &nbsp;
 

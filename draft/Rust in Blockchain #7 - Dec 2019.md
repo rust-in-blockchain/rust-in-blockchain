@@ -18,6 +18,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Most Active in December
 
+[COMIT][comit]: 113 ([1][comit-mergedpr1], [2][comit-mergedpr2]) merged PRs, 40 ([1][comit-issue1], [2][comit-issue2]) closed issues.
+
+[COMIT]: https://comit.network/
+[comit-mergedpr1]: https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[comit-mergedpr2]: https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[comit-issue1]: https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+[comit-issue2]: https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+
 &nbsp;
 
 
@@ -25,6 +33,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 ## Project updates
 
 #### [**COMIT**](https://comit.network/)
+
+- [Blog: Vision and Mission + 2020 goals](https://blog.coblox.tech/2019/12/05/2020-COMIT-goals.html)
+- [PR: Make more use of async/await](https://github.com/comit-network/create-comit-app/pull/305)
+- [PR: Refactor toward more idiomatic async code](https://github.com/comit-network/create-comit-app/pull/253)
+- [PR: Use clarity instead of emerald-rs](https://github.com/comit-network/create-comit-app/pull/286)
 
 
 #### [**Enigma**](https://enigma.co/)

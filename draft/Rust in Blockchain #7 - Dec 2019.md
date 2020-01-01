@@ -194,11 +194,6 @@ The news this month is dominated by a poll on how to fund future Zcash developme
 
 &nbsp;
 
-## Challenges
-
-
-&nbsp;
-
 ## Learning
 
 [The Web3 Stack, 2019 Edition](https://multicoin.capital/2019/12/13/the-web3-stack-2019-edition/). Updates the Web3 stack based on the [2018 edition](https://multicoin.capital/2018/07/10/the-web3-stack/).
@@ -219,7 +214,17 @@ Jan 8, 2020 | San Francisco, US
 
 [Hack Night @NEAR](https://www.meetup.com/SF-NEAR-Protocol-Developers-Group/events/jrqdlrybccbtb/)
 
+Jan 15, 2020 | Online
 
+[Data Economy challenge](https://oceanprotocol.devpost.com/)
+
+Feb 1-2 | Brussels
+
+[FOSDEM 2020](https://fosdem.org/2020/)
+
+Feb 29 | San Francisco, US
+
+[World Blockchain Hackathon](https://www.eventbrite.com/e/world-blockchain-hackathon-san-francisco-tickets-70815243299)
 
 &nbsp;
 
@@ -287,6 +292,6 @@ Parity | Berlin, Germany
 
 &nbsp;
 
-Want to be included in the next issue? Feel free to submit a PR to the [#7 draft](), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+Want to be included in the next issue? Feel free to submit a PR to the [#8 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/Rust%20in%20Blockchain%20%238%20-%20Jan%202020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 **Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**

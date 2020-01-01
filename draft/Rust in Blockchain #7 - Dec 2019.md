@@ -52,6 +52,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Blog: Solana in 2019: Growth, Development, and the Road to Mainnet](https://medium.com/solana-labs/solana-in-2019-growth-development-and-the-road-to-mainnet-16b642fd7fb1)
 - [Podcast: How Solana Works with Anatoly Yakovenko Ep #2](https://podcasts.apple.com/us/podcast/how-solana-works-with-anatoly-yakovenko-ep-2/id1476353378?i=1000446769632)
+- [Video: Solana & SKALE live podcast recording - Jack O'Holleran & Anatoly Yakovenko](https://www.youtube.com/watch?v=fmVuXfwG6eY&feature=youtu.be)
+- [Video: Layer 1 Event ft. Solana, NEAR, Harmony, CODA, Nervos](https://www.youtube.com/watch?v=LEKcBeDcEAY)
+- [PR: Stabilize fn coverage by creating a clean room](https://github.com/solana-labs/solana/pull/7576) by [@ryoqun](https://github.com/ryoqun)
+- [PR: Check for incorrect hash value on snapshot ingest](https://github.com/solana-labs/solana/pull/7559) by [@ryoqun](https://github.com/ryoqun)
+- [PR: Improve bench-tps stability](https://github.com/solana-labs/solana/pull/7537) by [@jstarry](https://github.com/jstarry)
+- [PR: Update "limit-ledger-size" to use DeleteRange for much faster deletes](https://github.com/solana-labs/solana/pull/7515) by [@sagar-solana](https://github.com/sagar-solana)
+- [PR: Strictly sanitize mmapped AppendVec file contents](https://github.com/solana-labs/solana/pull/7464) by [@ryoqun](https://github.com/ryoqun)
+- [PR: Add SystemInstruction::CreateAccountWithSeed](https://github.com/solana-labs/solana/pull/7390) by [@rob-solana](https://github.com/rob-solana)
 
 &nbsp;
 

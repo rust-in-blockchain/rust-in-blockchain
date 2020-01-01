@@ -89,8 +89,22 @@ Rust is awesome for blockchain, y'all.
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
 
-#### [**Nervos CKB**](https://github.com/nervosnetwork/ckb)
-
+#### [**Nervos**](https://github.com/nervosnetwork)
+- [News: Nervos Roadmap 2020](https://www.nervos.org/roadmap-2020/)
+- [News: Our Investment in Nervos](https://medium.com/dragonfly-research/our-investment-in-nervos-27df40dac7c9)
+- [News: ABC Wallet supports CKB!](https://twitter.com/abc_wallet/status/1209105738162794498)
+- [News: RFC: Nervos Ecosystem Grants Program](https://talk.nervos.org/t/rfc-nervos-ecosystem-grants-program/4038)
+- [News: Nervos CKB Development Update #26](https://medium.com/nervosnetwork/nervos-ckb-development-update-26-c4adcf386945). CKB v0.26.1 has released; Released Neuron v0.26.0 bundle with embedded CKB node; Released alpha version Golang SDK.
+- [News: CKB Developer AMA #1 with Tannr](https://medium.com/nervosnetwork/ckb-developer-ama-1-with-tannr-6e6d05e8ad24)
+- [Blog: Nervos’s Multi-Layer Architecture: Designed with Scalability in Mind](https://medium.com/nervosnetwork/nervoss-multi-layer-architecture-designed-with-scalability-in-mind-7655910d9828)
+- [Blog: The LatAm Community: a Growing Force in Blockchain](https://medium.com/nervosnetwork/ckb-developer-ama-1-with-tannr-6e6d05e8ad24)
+- [Blog: Understanding the Nervos DAO and Cell Model](https://medium.com/nervosnetwork/understanding-the-nervos-dao-and-cell-model-d68f38272c24)
+- [Blog: How Nervos CKB Could Facilitate Non-Fungible Tokens](https://medium.com/nervosnetwork/how-nervos-ckb-could-facilitate-non-fungible-tokens-6d0e94605efc)
+- [Blog: The Smart Contract Risk in DeFi](https://medium.com/nervosnetwork/the-smart-contract-risk-in-defi-c28e53b92f03s)
+- [Video: How To Stake Nervos CKBytes | CKB DAO Tutorial](https://www.youtube.com/watch?v=fN4wn7udaeM)
+- [Video: How To Mine Nervos CKB | No More GPU Mining - FPGA Mining Tutorial & Staking](https://www.youtube.com/watch?v=GQ_4vWSbiv0)
+- [PR: Informational: CKB Transaction Structure](https://github.com/nervosnetwork/rfcs/pull/134) by [@doitian](https://github.com/doitian)
+- [PR: Doc: add W^X Memory and exec syscall for CKB VM](https://github.com/nervosnetwork/rfcs/pull/102) by [@xxuejie](https://github.com/xxuejie)
 
 #### [**Oasis**](https://github.com/oasislabs)
 - [News: Join the Oasis DevAccelerator Program](https://medium.com/oasislabs/oasis-dev-accelerator-program-4840bfea129e)
@@ -156,6 +170,7 @@ The news this month is dominated by a poll on how to fund future Zcash developme
 
 ## Learning
 
+[The Web3 Stack, 2019 Edition](https://multicoin.capital/2019/12/13/the-web3-stack-2019-edition/). Updates the Web3 stack based on the [2018 edition](https://multicoin.capital/2018/07/10/the-web3-stack/).
 
 &nbsp;
 

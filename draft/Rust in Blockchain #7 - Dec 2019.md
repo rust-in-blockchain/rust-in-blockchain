@@ -13,6 +13,24 @@ Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[Zebra](https://github.com/ZcashFoundation/zebra).
+
+Zebra is an implementation of Zcash in Rust. It also appears to be the future of Zcash.
+
+Originally developed by Parity, based off [their bitcoin client][pbt], for the Zcash Foundation, [Zebra was announced][zan] in July 2019. In late August development was started over from scratch, to take advantage of modern Rust idioms, to divorce the design from that of bitcoin, and to use a different license. The current version of Zebra is developed by long-time Rust cryptographer [Henry de Valence], co-author of a number of high-profile Rust cryptography libraries, and expert in zero-knowledge proofs.
+
+So now there are _two_ Rust implementations of Zcash, including [parity-zcash] (which presumably inherits the original Zebra codebase).
+
+According to the [Zcash Foundation roadmap][zcr], in the future Zebra will be "the bedrock of our engineering output". So it seems like Zcash is all-in on Rust!
+
+Rust is awesome for blockchain, y'all.
+
+[pbt]: https://github.com/paritytech/parity-bitcoin
+[zan]: https://www.prnewswire.com/news-releases/parity-releases-zebra-the-first-alternative-zcash-client-to-the-zcash-foundation-300869620.html
+[Henry de Valence]: https://github.com/hdevalence
+[parity-zcash]: https://github.com/paritytech/parity-zcash
+[zcr]: https://www.zfnd.org/blog/eng-roadmap-2020/
+
 &nbsp;
 
 

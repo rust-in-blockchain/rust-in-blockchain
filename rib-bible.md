@@ -10,6 +10,18 @@ Guidelines when looking for content:
 - In the GitHub queries below, replace dates with approprate date from a month ago
 
 
+## COMIT
+
+Media:
+
+- https://blog.coblox.tech/
+
+Github queries:
+
+- https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Aupdated-asc
+- https://github.com/comit-network/RFCs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Aupdated-asc
+
+
 ## Enigma
 
 Media:

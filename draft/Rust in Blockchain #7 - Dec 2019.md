@@ -24,6 +24,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Project updates
 
+#### [**COMIT**](https://comit.network/)
+
+
 #### [**Enigma**](https://enigma.co/)
 
 

@@ -90,6 +90,8 @@ Rust is awesome for blockchain, y'all.
 
 - [Blog: Interledger 2020: Access](https://coil.com/p/sharafian/Interledger-2020-Access/ddUXfDobj)
 - [Blog: Interledger 2020 - The Protocol to Connect Them All](https://coil.com/p/kenmelendez/Interledger-2020-The-Protocol-to-Connect-Them-All/F_HowAg-9)
+- [PR: Make Redis fully optional for ilp-node](https://github.com/interledger-rs/interledger-rs/pull/551) by [@bstrie](https://github.com/bstrie)
+- [PR: Make HTTP and BTP outgoing tokens symmetric to incoming tokens](https://github.com/interledger-rs/interledger-rs/pull/553) by [@gakonst](https://github.com/gakonst)
 
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 

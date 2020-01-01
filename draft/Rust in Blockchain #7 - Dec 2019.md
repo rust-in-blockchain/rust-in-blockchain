@@ -4,7 +4,14 @@
 
 Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #6](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/). -->
 
+TODO
 
+We've been expanding our coverage steadily over the months, and this month we begin covering [Zcash], and [COMIT][comit].
+
+With so many Rust blockchain projects it is hard to report on all of them. If you are a passionate observer of any Rust blockchain project we need your help to gather the monthly updates. Please contact us on the [Telegram group][tg], or email Aimee directly at aimeedeer@gmail.com if you are willing to donate an hour of your time each month.
+
+[Zcash]: https://z.cash/
+[tg]: https://z.cash/
 
 &nbsp;
 
@@ -36,13 +43,22 @@ Rust is awesome for blockchain, y'all.
 
 ## Most Active in December
 
-[COMIT][comit]: 113 ([1][comit-mergedpr1], [2][comit-mergedpr2]) merged PRs, 40 ([1][comit-issue1], [2][comit-issue2]) closed issues.
+[COMIT][comit]: 113 merged PRs ([1][comit-mergedpr1], [2][comit-mergedpr2]), 40 closed issues ([1][comit-issue1], [2][comit-issue2]).
 
-[COMIT]: https://comit.network/
+[comit]: https://comit.network/
 [comit-mergedpr1]: https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
 [comit-mergedpr2]: https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
 [comit-issue1]: https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
 [comit-issue2]: https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+
+[Zcash][zcash]: 28 merged PRs ([1][zcash-mergedpr1], [2][zcash-mergedpr2]), 12 closed issues ([1][zcash-issue1], [2][zcash-issue2]).
+
+[zcash]: https://z.cash/
+[zcash-mergedpr1]: https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[zcash-mergedpr2]: https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
+[zcash-issue1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+[zcash-issue2]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+
 
 &nbsp;
 
@@ -121,6 +137,26 @@ Rust is awesome for blockchain, y'all.
 - [PR: Update "limit-ledger-size" to use DeleteRange for much faster deletes](https://github.com/solana-labs/solana/pull/7515) by [@sagar-solana](https://github.com/sagar-solana)
 - [PR: Strictly sanitize mmapped AppendVec file contents](https://github.com/solana-labs/solana/pull/7464) by [@ryoqun](https://github.com/ryoqun)
 - [PR: Add SystemInstruction::CreateAccountWithSeed](https://github.com/solana-labs/solana/pull/7390) by [@rob-solana](https://github.com/rob-solana)
+
+#### [**Zcash**](https://z.cash/)
+
+The news this month is dominated by a poll on how to fund future Zcash development.
+
+- [Blog: ZF Grants 2.0](https://www.zfnd.org/blog/zf-grants-refresh/). Zcash loves Rust. Zcash has grants.
+- [Blog: Zcash developers update 12-6-19](https://www.zcashcommunity.com/2019/12/06/zcash-developers-update-12-6-19/)
+- [News: Cryptocurrency 101 in the Bronx](https://www.newyorker.com/magazine/2019/12/09/cryptocurrency-101-in-the-south-bronx?verso=true). From The New Yorker.
+- [News: Zcash Foundation update November 21 - December 13, 2019](https://news.zfnd.org/archive/zcash-foundation-update-november-21-december-13/)
+- [Blog: Blossom upgrade improves speed, scalability, and compatibility](https://electriccoin.co/blog/blossom-upgrade-improves-speed-scalability-capacity/)
+- [Blog: Community sentiment polling results](https://www.zfnd.org/blog/community-sentiment-collection-results/). Results of polling the community on funding future Zcash development.
+- [Blog: Supporting a path for NU4](https://www.zfnd.org/blog/nu4-next-steps/). More about funding.
+- [Blog: Presenting a modified ZIP 1012](https://www.zfnd.org/blog/proposed-nu4-zip/). More about funding. [ZIP 1012](https://zips.z.cash/zip-1012) is the proposal to continue funding Zcash.
+- [Blog: ECC response to Zcash community polling](https://electriccoin.co/blog/ecc-response-to-zcash-community-polling-results/). On the future of Zcash funding.
+- [Blog: Dev Funds Should Be in Zcash, not United States Dollars](https://electriccoin.co/blog/dev-funds-should-be-in-zcash-not-united-states-dollars/). From the Electric Coin Company re the recent funding proposal.
+- [Blog: ECC transparency report for Q2 2019](https://electriccoin.co/blog/ecc-transparency-report-for-q2-2019/)
+- [PR: Update transaction definition](https://github.com/ZcashFoundation/zebra/pull/105)
+- [PR: Use redjubjub types in zebra-chain](https://github.com/ZcashFoundation/zebra/pull/142). [redjubjub](https://github.com/ZcashFoundation/redjubjub) is another Zcash Rust project, part of the Zcash protocol.
+- [PR: Upgrade tokio, futures, hyper to released versions](https://github.com/ZcashFoundation/zebra/pull/145). Zebra is async/await.
+- [PR: Add ZIP 1014, based on ZIP 1012](https://github.com/zcash/zips/pull/308). An updated funding ZIP.
 
 &nbsp;
 

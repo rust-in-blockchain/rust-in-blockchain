@@ -90,7 +90,9 @@ Rust is awesome for blockchain, y'all.
 
 
 #### [**Oasis**](https://github.com/oasislabs)
-
+- [News: Join the Oasis DevAccelerator Program](https://medium.com/oasislabs/oasis-dev-accelerator-program-4840bfea129e)
+- [Blog: What is My Data Worth?](https://medium.com/oasislabs/what-is-my-data-worth-b7e2f1a8717f) An article by Ruoxi Jia that discusses methods proposed in our recent AISTATS and VLDB papers that attempt to answer this question in the machine learning context.
+- [Blog: Developer Spotlight: Matt Johnson](https://medium.com/oasislabs/developer-spotlight-matt-johnson-b2588c79c849)
 
 #### [**Parity** ](https://github.com/paritytech)
 - [News: Polymesh — Flexibility through Smart Extensions](https://blog.polymath.network/polymesh-flexibility-through-smart-extensions-c461f1504ce9). Polymath and Parity collaborate on extending Substrate to provide rich interoperability between base layer runtime modules, and dynamically deployed smart contracts.
@@ -102,7 +104,8 @@ Rust is awesome for blockchain, y'all.
 - [Blog: Have a TEE with Polkadot](https://polkadot.network/have-a-tee-with-polkadot)
 - [Blog: Polkadot 2019](https://polkadot.network/polkadot-2019-year-in-review/)
 - [Blog: Secure and Decentralized Polkadot Domain Name System](https://medium.com/@chainx_org/secure-and-decentralized-polkadot-domain-name-system-e06c35c2a48d)
-- [Blog: Polkadot Consensus Part 1: Introduction](https://polkadot.network/polkadot-consensus-part-1-introduction)
+- Blog: Polkadot Consensus [Part 1: Introduction](https://polkadot.network/polkadot-consensus-part-1-introduction), [Part 2: GRANDPA](https://polkadot.network/polkadot-consensus-part-2-grandpa/), [Part 3: BABE](https://polkadot.network/polkadot-consensus-part-3-babe/), [Part 4: Security](https://polkadot.network/polkadot-consensus-part-4-security/).
+- [Video: Sub0.1: Substrate Ecosystem Overview - Fredrik Harryson](https://www.youtube.com/watch?v=dg50O_wurME)
 - [Video: Participating in Kusama with Logan Saether](https://www.youtube.com/watch?v=EqRM11XU9mA&feature=youtu.be)
 - [Podcast: How can non money tokens accrue value in crypto](https://podcasts.apple.com/us/podcast/how-can-non-money-tokens-accrue-value-in-crypto-jack/id1350649166) | Jack Platt, Polkadot.
 - [Repo: substrate-client-cli](https://github.com/docknetwork/substrate-client-cli). Example command line utility for querying latest state from a substrate based chain.

@@ -28,7 +28,7 @@ Most active:
 - https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
 - https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
 - https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/comit-network/create-commit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
+- https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
 
 
 ## Enigma

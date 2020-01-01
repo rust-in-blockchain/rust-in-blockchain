@@ -16,7 +16,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 &nbsp;
 
 
-## Most Active in TODO-month
+## Most Active in December
 
 &nbsp;
 

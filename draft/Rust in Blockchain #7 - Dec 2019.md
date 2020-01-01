@@ -2,7 +2,7 @@
 
 **#7 - Dec 2019**
 
-Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #6](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/). -->
+Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #6](https://rustinblockchain.org/2019/12/05/rust-in-blockchain-6-nov-2019/).
 
 This month we see a trend, in blockchain and across the Rust ecosystem, of projects quickly picking up stable async/await support and migrating to tokio 0.2.
 
@@ -99,12 +99,26 @@ Rust is awesome for blockchain, y'all.
 [grin-mergedpr]: https://github.com/mimblewimble/grin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
 [grin-issue]: https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
 
+- [News: #78: Floonet hard fork successful](https://grinnews.substack.com/p/78-floonet-hard-fork-successful-)
+- [News: #77: ASIC friendly > resistant](https://grinnews.substack.com/p/77-asic-friendly-resistant-)
+- [News: #76: v3.0.0 betas are out](https://grinnews.substack.com/p/76-v300-betas-are-out-)
+- [News: 2019Q3 Funding Transparency Report](https://github.com/mimblewimble/grin-pm/blob/master/financials/reports/funding_transparency_2019Q3.md)
+- [News: We just donated ~.3BTC to the grin general development fund.](https://twitter.com/TMGOX/status/1208590955692969984)
+- [Discussion: Could Bitcoin's privacy benefit from Litecoin's EB MimbleWimble proposal?](https://www.reddit.com/r/Bitcoin/comments/e65vdf/could_bitcoins_privacy_benefit_from_litecoins_eb/f9olxfy/)
+- [PR: fix(TUI): selected column and row of table are now preserved during update](https://github.com/mimblewimble/grin/pull/3161) by [@JosephGoulden](https://github.com/JosephGoulden)
+- [PR: fix(TUI): Fixed panic when changing order of items in TableView](https://github.com/mimblewimble/grin/pull/3160) by [@JosephGoulden](https://github.com/JosephGoulden)
+
 #### [**Interledger**](https://interledger.org/)
 
 [23 merged PRs][interledger-mergedpr], [45 closed issues][interledger-issue].
 
 [interledger-mergedpr]: https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-12-01..2019-12-31
 [interledger-issue]: https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-12-01..2019-12-31
+
+- [Blog: Interledger 2020: Access](https://coil.com/p/sharafian/Interledger-2020-Access/ddUXfDobj)
+- [Blog: Interledger 2020 - The Protocol to Connect Them All](https://coil.com/p/kenmelendez/Interledger-2020-The-Protocol-to-Connect-Them-All/F_HowAg-9)
+- [PR: Make Redis fully optional for ilp-node](https://github.com/interledger-rs/interledger-rs/pull/551) by [@bstrie](https://github.com/bstrie)
+- [PR: Make HTTP and BTP outgoing tokens symmetric to incoming tokens](https://github.com/interledger-rs/interledger-rs/pull/553) by [@gakonst](https://github.com/gakonst)
 
 #### [**NEAR**](https://github.com/nearprotocol/nearcore)
 
@@ -269,9 +283,63 @@ Jan 8, 2020 | San Francisco, US
 
 ## Careers
 
+Centrifuge | Berlin, Germany; Remote
+
+[Rust Engineer](https://centrifuge.breezy.hr/p/20af596b9ffb01-rust-engineer-centrifuge-chain/)
+
+Consensys | Europe; United States; Remote
+
+[Systems Engineer - Rust](https://consensys.net/open-roles/1792013/)
+
+CyberCoders | Boston, San Francisco
+
+[Senior Software Engineer - Blockchain Solution](https://www.cybercoders.com/senior-software-engineer-job-506965)
+
+imToken | Singapore; Hangzhou, China
+
+[Blockchain Development Engineer](https://token.im/careers)
+
+Interledger | San Francisco, US; Remote
+
+[Senior Software Engineer, Rust](https://www.ripple.com/company/careers/all-jobs#senior-software-engineer-rust)
+
+IOHK | Europe
+
+[Software Engineer - Rust](https://iohk.io/careers/#op-345001-software-engineer-rust)
+
+Jsgenesis | Oslo, Europe; Remote
+
+[Senior Blockchain Developer](https://www.jsgenesis.com/jobs/blockchain-developer)
+
+Kraken | Berlin, Germany; Remote
+
+[Backend Engineer - Crypto/Payments](https://jobs.lever.co/kraken/4c18a043-3f9f-4005-a715-7455aaa64b11)
+
+Leger | Paris, France
+
+[C++ / Rust Software Engineer](https://jobs.lever.co/ledger/8555a86e-fbf4-4701-95cb-190a76445bb8)
+
+MixBytes | Remote available
+
+[Rust Developer](https://mixbytes.io/career)
+
 NEAR | Remote, San Francisco, New York, Berlin, Moscow
 
 [Software Engineer, Expert in WebAssembly and Compilers](https://boards.greenhouse.io/near/jobs/4563917002)
+
+Nervos | San Francisco; Hangzhou, China; Remote
+
+[Senior Test Manager](https://angel.co/company/nervos-1/jobs/589746-senior-test-manager)
+
+[Senior Blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
+
+OneinaMil | New York City; Remote
+
+[Blockchain RUST/WASM Developer](https://apply.workable.com/oneinamil/j/E74222BB58/)
+
+Parity | Berlin, Germany
+
+[Rust/Core Developer](https://www.parity.io/jobs/#berlin-rust-core-developer)
 
 
 

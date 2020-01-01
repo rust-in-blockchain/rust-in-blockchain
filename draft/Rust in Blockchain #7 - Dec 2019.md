@@ -8,7 +8,7 @@ TODO
 
 We've been expanding our coverage steadily over the months, and this month we begin covering [Zcash], and [COMIT][comit].
 
-With so many Rust blockchain projects it is hard to report on all of them. If you are a passionate observer of any Rust blockchain project we need your help to gather the monthly updates. Please contact us on the [Telegram group][tg], or email Aimee directly at aimeedeer@gmail.com if you are willing to donate an hour of your time each month.
+With so many Rust blockchain projects it is hard to report on all of them. If you are a passionate observer of any Rust blockchain project we need your help to gather the monthly updates. Please contact us on the [Telegram group][tg], or email us directly at hello@rustinblockchain.org if you are willing to donate an hour of your time each month.
 
 [Zcash]: https://z.cash/
 [tg]: https://z.cash/
@@ -86,6 +86,22 @@ Rust is awesome for blockchain, y'all.
 
 #### [**Near**](https://github.com/nearprotocol/nearcore)
 
+- [News: Our Last Update in 2019](https://nearprotocol.com/blog/our-last-update-december-13th-2019/)
+- [Blog: Open Web](https://reading.supply/post/0fac829a-c0a5-4d47-922d-060e808edeea)
+- [Blog: 200 years of Advertising, Original Sin of the Internet & Impeding No Ads Society](https://reading.supply/@alexhudzilin/200-years-of-advertising-original-sin-of-the-internet-and-impeding-no-ads-society-PWMony)
+- [Video: Sharding vs No Sharding fireside chat: NEAR Protocol & Solana](https://www.youtube.com/watch?v=ZyIxWutfZ-U)
+- [Video: "Layer 1 Blockchain Architecture": NEAR Protocol Overview](https://www.youtube.com/watch?v=-hOWM-o7N5k)
+- [Video: App Chains vs. dApps on shards: Cosmos and NEAR](https://www.youtube.com/watch?v=TSsMfg_NsO8)
+- [Video: Blockchain Gaming: 2019 lessons and what to expect in 2020](https://www.youtube.com/watch?v=NqKuEojt3ZM)
+- [Video: Early Days in Blockchain App Layer](https://www.youtube.com/watch?v=haG6lwaSUO0)
+- [Video: NEAR Lunch and Learn Ep. 07: Nightshade: Finality Gadget](https://www.youtube.com/watch?v=fU7hLt8nJUk)
+- [Video: NEAR Lunch and Learn Ep. 06: Pricing Model](https://www.youtube.com/watch?v=vB3oQGW1ydI)
+- [Video: NEAR Lunch and Learn Ep. 05: Accounts and Runtime](https://www.youtube.com/watch?v=2_Ekz7w6Eo4s)
+- [Video: Whiteboard Series with NEAR | Ep: 31 Kevin Davis from Kava Labs](https://www.youtube.com/watch?v=TAnLaeiRNTA)
+- [Video: Whiteboard Series with NEAR | Ep: 30 David Vorick from Sia](https://www.youtube.com/watch?v=YCH3M-DV9i8)
+- [PR: Replace sodium with ed25519_dalek and sha2](https://github.com/nearprotocol/nearcore/pull/1816) by [@ailisp](https://github.com/ailisp)
+- [PR: Add minimum gas price](https://github.com/nearprotocol/nearcore/pull/1819) by [@bowenwang1996](https://github.com/bowenwang1996)
+- [PR: Retry failed parallel test sequentially](https://github.com/nearprotocol/nearcore/pull/1856) by [@ailisp](https://github.com/ailisp)
 
 #### [**Nervos**](https://github.com/nervosnetwork)
 - [News: Nervos Roadmap 2020](https://www.nervos.org/roadmap-2020/)
@@ -182,10 +198,20 @@ The news this month is dominated by a poll on how to fund future Zcash developme
 
 ## Events
 
+Jan 8, 2020 | San Francisco, US
+
+[Hack Night @NEAR](https://www.meetup.com/SF-NEAR-Protocol-Developers-Group/events/jrqdlrybccbtb/)
+
+
 
 &nbsp;
 
 ## Careers
+
+NEAR | Remote, San Francisco, New York, Berlin, Moscow
+
+[Software Engineer, Expert in WebAssembly and Compilers](https://boards.greenhouse.io/near/jobs/4563917002)
+
 
 
 &nbsp;

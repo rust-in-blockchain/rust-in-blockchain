@@ -59,7 +59,20 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 
 #### [**Parity** ](https://github.com/paritytech)
-
+- [News: Polymesh — Flexibility through Smart Extensions](https://blog.polymath.network/polymesh-flexibility-through-smart-extensions-c461f1504ce9). Polymath and Parity collaborate on extending Substrate to provide rich interoperability between base layer runtime modules, and dynamically deployed smart contracts.
+- [News: The Foundation of a New Internet](https://medium.com/cornellblockchain/the-foundation-of-a-new-internet-86d72d3074eb). A look at Web 3.0 with Polkadot — Cornell Blockchain.
+- [News: Kusama Upgrade Bulletin](https://polkadot.network/kusama-upgrade-bulletin-2/). Kusama is about to get a new logic core. Runtime version: 1031; Supported natively by Polkadot v0.7.10.
+- [News: We are planning to move Parity Ethereum to a DAO ownership & maintainer model](https://twitter.com/ParityTech/status/1206657981288456193). OpenEthereum will provide the basis for cross-org collaboration to ensure the codebase gets the attention it needs to realize its full potential.
+- [News: PolkaWorld Interview House to feature guest speakers and A look at Web 3.0 with Polkadot](https://medium.com/paradigm-fund/polkadot-polkaworld-interview-house-to-feature-guest-speakers-and-a-look-at-web-3-0-with-polkadot-5971256018bb)
+- [News: The Inspiration Behind Web3 Grant Winner Attic Lab's Substrate Plugin](https://commonwealth.im/edgeware/proposal/discussion/168-the-inspiration-behind-web3-grant-winner-attic-labs-substrate-plugin)
+- [Blog: Have a TEE with Polkadot](https://polkadot.network/have-a-tee-with-polkadot)
+- [Blog: Polkadot 2019](https://polkadot.network/polkadot-2019-year-in-review/)
+- [Blog: Secure and Decentralized Polkadot Domain Name System](https://medium.com/@chainx_org/secure-and-decentralized-polkadot-domain-name-system-e06c35c2a48d)
+- [Blog: Polkadot Consensus Part 1: Introduction](https://polkadot.network/polkadot-consensus-part-1-introduction)
+- [Video: Participating in Kusama with Logan Saether](https://www.youtube.com/watch?v=EqRM11XU9mA&feature=youtu.be)
+- [Podcast: How can non money tokens accrue value in crypto](https://podcasts.apple.com/us/podcast/how-can-non-money-tokens-accrue-value-in-crypto-jack/id1350649166) | Jack Platt, Polkadot.
+- [Repo: substrate-client-cli](https://github.com/docknetwork/substrate-client-cli). Example command line utility for querying latest state from a substrate based chain.
+- [Slides: Plasm Network at Sub0.1](https://speakerdeck.com/sotawatanabe/plasm-network-at-sub0-dot-1-summit). Plasm Network slide deck at Sub0.1. The Plasm team describes what they are working on and what they will implement on Plasm Network.
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
@@ -88,6 +101,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
+[Mark Zuckerberg has a big Libra problem](https://www.wired.co.uk/article/libra-ethereum-web-3) by Gavin Wood. Libra is too closely tied to megacorporations to succeed. Platforms built to be open and free will outperform Libra.
+
+[Hold Tight, Here Come the Blockchain Wars](https://www.coindesk.com/hold-tight-here-come-the-blockchain-wars) by Gavin Wood.
 
 &nbsp;
 

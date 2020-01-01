@@ -12,6 +12,8 @@ Rust in Blockchain has been expanding our coverage steadily over the months, and
 
 With so many Rust blockchain projects of note it is increasingly challenging to report on all of them. If you are a passionate observer of any Rust blockchain project we need your help to gather the monthly updates. Please contact us on the [Telegram group][tg], or email Aimee directly at aimeedeer@gmail.com if you are willing to donate an hour of your time each month.
 
+Happy blockchain new year, Rustaceans!
+
 [Zcash]: https://z.cash/
 [tg]: https://z.cash/
 [w3]: https://multicoin.capital/2019/12/13/the-web3-stack-2019-edition/

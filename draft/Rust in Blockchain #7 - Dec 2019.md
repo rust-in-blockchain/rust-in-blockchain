@@ -225,9 +225,63 @@ Jan 8, 2020 | San Francisco, US
 
 ## Careers
 
+Centrifuge | Berlin, Germany; Remote
+
+[Rust Engineer](https://centrifuge.breezy.hr/p/20af596b9ffb01-rust-engineer-centrifuge-chain/)
+
+Consensys | Europe; United States; Remote
+
+[Systems Engineer - Rust](https://consensys.net/open-roles/1792013/)
+
+CyberCoders | Boston, San Francisco
+
+[Senior Software Engineer - Blockchain Solution](https://www.cybercoders.com/senior-software-engineer-job-506965)
+
+imToken | Singapore; Hangzhou, China
+
+[Blockchain Development Engineer](https://token.im/careers)
+
+Interledger | San Francisco, US; Remote
+
+[Senior Software Engineer, Rust](https://www.ripple.com/company/careers/all-jobs#senior-software-engineer-rust)
+
+IOHK | Europe
+
+[Software Engineer - Rust](https://iohk.io/careers/#op-345001-software-engineer-rust)
+
+Jsgenesis | Oslo, Europe; Remote
+
+[Senior Blockchain Developer](https://www.jsgenesis.com/jobs/blockchain-developer)
+
+Kraken | Berlin, Germany; Remote
+
+[Backend Engineer - Crypto/Payments](https://jobs.lever.co/kraken/4c18a043-3f9f-4005-a715-7455aaa64b11)
+
+Leger | Paris, France
+
+[C++ / Rust Software Engineer](https://jobs.lever.co/ledger/8555a86e-fbf4-4701-95cb-190a76445bb8)
+
+MixBytes | Remote available
+
+[Rust Developer](https://mixbytes.io/career)
+
 NEAR | Remote, San Francisco, New York, Berlin, Moscow
 
 [Software Engineer, Expert in WebAssembly and Compilers](https://boards.greenhouse.io/near/jobs/4563917002)
+
+Nervos | San Francisco; Hangzhou, China; Remote
+
+[Senior Test Manager](https://angel.co/company/nervos-1/jobs/589746-senior-test-manager)
+
+[Senior Blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
+
+OneinaMil | New York City; Remote
+
+[Blockchain RUST/WASM Developer](https://apply.workable.com/oneinamil/j/E74222BB58/)
+
+Parity | Berlin, Germany
+
+[Rust/Core Developer](https://www.parity.io/jobs/#berlin-rust-core-developer)
 
 
 

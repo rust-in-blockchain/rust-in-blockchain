@@ -85,6 +85,14 @@ Rust is awesome for blockchain, y'all.
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
+- [News: #78: Floonet hard fork successful](https://grinnews.substack.com/p/78-floonet-hard-fork-successful-)
+- [News: #77: ASIC friendly > resistant](https://grinnews.substack.com/p/77-asic-friendly-resistant-)
+- [News: #76: v3.0.0 betas are out](https://grinnews.substack.com/p/76-v300-betas-are-out-)
+- [News: 2019Q3 Funding Transparency Report](https://github.com/mimblewimble/grin-pm/blob/master/financials/reports/funding_transparency_2019Q3.md)
+- [News: We just donated ~.3BTC to the grin general development fund.](https://twitter.com/TMGOX/status/1208590955692969984)
+- [Discussion: Could Bitcoin's privacy benefit from Litecoin's EB MimbleWimble proposal?](https://www.reddit.com/r/Bitcoin/comments/e65vdf/could_bitcoins_privacy_benefit_from_litecoins_eb/f9olxfy/)
+- [PR: fix(TUI): selected column and row of table are now preserved during update](https://github.com/mimblewimble/grin/pull/3161) by [@JosephGoulden](https://github.com/JosephGoulden)
+- [PR: fix(TUI): Fixed panic when changing order of items in TableView](https://github.com/mimblewimble/grin/pull/3160) by [@JosephGoulden](https://github.com/JosephGoulden)
 
 #### [**Interledger**](https://interledger.org/)
 

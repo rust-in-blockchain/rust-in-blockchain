@@ -15,7 +15,7 @@ With so many Rust blockchain projects of note it is increasingly challenging to 
 Happy blockchain new year, Rustaceans!
 
 [Zcash]: https://z.cash/
-[tg]: https://z.cash/
+[tg]: https://t.me/rustinblockchain
 [w3]: https://multicoin.capital/2019/12/13/the-web3-stack-2019-edition/
 
 &nbsp;

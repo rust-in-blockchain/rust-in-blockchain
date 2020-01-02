@@ -6,7 +6,7 @@ Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the
 
 This month we see a trend, in blockchain and across the Rust ecosystem, of projects quickly picking up stable async/await support and migrating to tokio 0.2.
 
-For those interested in a great overview of the future distributed-web landscape, Kyle Samani of Multicoin Capital published a new edition of their ["The Web3 Stack"][w3]. Not Rust-specific, but an evocative, illustrated, piece describing their vision of what a distributed world-wide-web, bult on blockchain technology, could look like.
+For those interested in a great overview of the future distributed-web landscape, Kyle Samani of Multicoin Capital published a new edition of their ["The Web3 Stack"][w3]. Not Rust-specific, but an evocative, illustrated, piece describing their vision of what a distributed world-wide-web, built on blockchain technology, could look like.
 
 Rust in Blockchain has been expanding our coverage steadily over the months, and this month we begin covering [Zcash], and [COMIT][comit].
 

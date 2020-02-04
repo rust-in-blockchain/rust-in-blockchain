@@ -70,6 +70,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - PR: [Improve current logging](https://github.com/comit-network/comit-rs/pull/1786)
 - PR: [Resume in progress swaps](https://github.com/comit-network/comit-rs/pull/1735)
 
+
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
 [25 merged PRs][grin-mergedpr], [29 closed issues][grin-issue].
@@ -88,6 +89,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - Issue: [P2P transaction building](https://github.com/mimblewimble/grin/issues/1798)
 - Issue: [Consider relaxing timestamp monotonicity](https://github.com/mimblewimble/grin/issues/1486)
 
+
 #### [**Interledger**](https://interledger.org/)
 
 [18 merged PRs][interledger-mergedpr], [7 closed issues][interledger-issue].
@@ -98,6 +100,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - PR: [Interledger Stream: Futures 0.3 Transition](https://github.com/interledger-rs/interledger-rs/pull/601)
 - PR: [Interledger API: Futures 0.3 Transition](https://github.com/interledger-rs/interledger-rs/pull/605)
 - Issue: [Unable to settle a payment between connectors](https://github.com/interledger-rs/interledger-rs/issues/581)
+
 
 #### [**NEAR**](https://github.com/nearprotocol/nearcore)
 
@@ -122,6 +125,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - Issue: [Unexpected error msgs in state_sync](https://github.com/nearprotocol/nearcore/issues/1824)
 - Issue: [Investigate too many open files error](https://github.com/nearprotocol/nearcore/issues/1316)
 
+
 #### [**Nervos**](https://github.com/nervosnetwork)
 
 148 merged PRs ([1][nervos-mergedpr1], [2][nervos-mergedpr2], [3][nervos-mergedpr3], [4][nervos-mergedpr4], [5][nervos-mergedpr5]), 9 closed issues ([1][nervos-issue1], [2][nervos-issue2], [3][nervos-issue3], [4][nervos-issue4]).
@@ -138,11 +142,18 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - News: [Nervos Network Will Hand Out $30M to Encourage Third-Party Development](https://www.coindesk.com/nervos-network-dedicates-30m-for-grants-to-encourage-third-party-development)
 - News: [Announcing the Nervos Ecosystem Grants Program](https://medium.com/nervosnetwork/announcing-the-nervos-ecosystem-grants-program-ffba2806fa68)
+- News: [The Grants Program is Now Open—–Nervos Bi-weekly Report #27](https://talk.nervos.org/t/the-grants-program-is-now-open-nervos-bi-weekly-report-27/4147)
+- News: [Happy New Year!—–Nervos Bi-weekly Report #26](https://talk.nervos.org/t/happy-new-year-nervos-bi-weekly-report-26/4082)
 - News: [Nervos Community Update: December, 2019](https://medium.com/nervosnetwork/nervos-community-update-c19a2a228fcb)
 - News: [Nervos CKB Development Update #27](https://medium.com/nervosnetwork/nervos-ckb-development-update-27-d48918df00c5) The team is currently working on: Animagus — an AST contract framework, Randao — a random number generator and Godwoken — a layer 1.5 framework for Optimistic Rollup or Zk Rollup.
 - Blog: [Crypto-Economic Design for Scalability and Sustainability](https://medium.com/nervosnetwork/crypto-economic-design-for-scalability-and-sustainability-e83481951c5a)
 - Blog: [How the Nervos CKByte Gets its Value](https://medium.com/nervosnetwork/how-the-nervos-ckbyte-gets-its-value-f0bd43333035)  
 - Blog: [ Introduction to CKB Script Programming 6: Type ID ](https://xuejie.space/2020_02_03_introduction_to_ckb_script_programming_type_id/)
+- Blog: [CKBytes in UDT transfer](https://talk.nervos.org/t/ckbytes-in-udt-transfer/4140)
+- Blog: [Rust contract, part 2 - Write contract with ckb-contract-std](https://talk.nervos.org/t/rust-contract-part-2-write-contract-with-ckb-contract-std/4089)
+- Blog: [A Programming Idea on CKB – Energize Data [2]](https://talk.nervos.org/t/a-programming-idea-on-ckb-energize-data-2/4090)
+- Blog: [Open Tx Protocol Brainstorm: (2) Design a Practical Protocol on CKB](https://talk.nervos.org/t/open-tx-protocol-brainstorm-2-design-a-practical-protocol-on-ckb/4091)
+- Blog: [Open Tx Protocol Brainstorm: (3) Scenarios Analyzing on CKB](https://talk.nervos.org/t/open-tx-protocol-brainstorm-3-scenarios-analyzing-on-ckb/4144)
 - Discussion: [Nervos Grants RFCs](https://talk.nervos.org/tags/grant-rfc)
 - PR: [Add a new json rpc method `get_block_economic_state`](https://github.com/nervosnetwork/ckb/pull/1848)
 - PR: [2 phase dao](https://github.com/nervosnetwork/ckb-cli/pull/159)
@@ -182,6 +193,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - PR: [Update tokio to 0.2 again and remove `TaskExecutor`s](https://github.com/paritytech/polkadot/pull/786)
 - PR: [Support both polkadot and kusama runtimes](https://github.com/paritytech/polkadot/pull/704)
 - PR: [Switch parachain interface to new `runtime_interface` macro](https://github.com/paritytech/polkadot/pull/665)
+
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
@@ -238,6 +250,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Learning
 
+[What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b)
 
 &nbsp;
 

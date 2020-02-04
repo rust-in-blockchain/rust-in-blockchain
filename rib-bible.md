@@ -10,6 +10,20 @@ Guidelines when looking for content:
 - In the GitHub queries below, replace dates with approprate date from a month ago
 - Sorting by most comments can help find important PRs
 
+## CodeChain
+
+Media:
+
+- https://medium.com/codechain
+
+Github queries:
+
+- https://github.com/CodeChain-io/codechain/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+
+Most active:
+
+- https://github.com/CodeChain-io/codechain/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
+- https://github.com/CodeChain-io/codechain/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
 
 ## COMIT
 

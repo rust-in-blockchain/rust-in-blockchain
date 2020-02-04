@@ -9,6 +9,15 @@ Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the
 &nbsp;
 
 
+## Thanks
+
+This edition of RiB was produced with contributions from Park Juhyung, TODO XXX, Brian Anderson, and Aimee Zhu. Thank you for your help!
+
+RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#9 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+
+&nbsp;
+
+
 ## Project spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
@@ -29,6 +38,22 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 
 ## Project updates
+
+#### [**CodeChain**](https://codechain.io)
+
+[17 merged PRs][codechain-mergedprs],
+[6 closed issues][codechain-closedissues].
+
+[codechain-mergedprs]: https://github.com/CodeChain-io/codechain/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-01-02..2020-02-04
+[codechain-closedissues]: https://github.com/CodeChain-io/codechain/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-01-02..2020-02-04
+
+- Blog: [Tenderand: Randomized leader election in Tendermint](https://medium.com/codechain/tenderand-randomized-leader-election-in-tendermint-a3663d863479).
+- Blog: [IBC and ICS](https://medium.com/codechain/ibc-and-ics-116e636e57aa).
+  On interop between blockchains. IBC = "Interblockchain communication" protocol. ICS = "Interchain standard".
+- Blog: [VeriSync - A Fast and VERIfiable SYNC Method for Blockchains](https://medium.com/codechain/verisync-baf0583ade47).
+- Video: [Monthly CodeChain TechTalk - November 2019](https://medium.com/codechain/monthly-codechain-tecktalk-november-2019-73ad0fa2e7f5)
+- Video: [Monthly CodeChain TechTalk - January 2020](https://medium.com/codechain/monthly-codechain-techtalk-january-2020-b00a0a020200).
+
 
 #### [**COMIT**](https://comit.network/)
 
@@ -99,7 +124,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Nervos**](https://github.com/nervosnetwork)
 
-[148 merged PRs][[1][nervos-mergedpr1], [2][nervos-mergedpr2], [3][nervos-mergedpr3], [4][nervos-mergedpr4], [5][nervos-mergedpr5]], [9 closed issues][[1][nervos-issue1], [2][nervos-issue2], [3][nervos-issue3], [4][nervos-issue4]].
+148 merged PRs ([1][nervos-mergedpr1], [2][nervos-mergedpr2], [3][nervos-mergedpr3], [4][nervos-mergedpr4], [5][nervos-mergedpr5]), 9 closed issues ([1][nervos-issue1], [2][nervos-issue2], [3][nervos-issue3], [4][nervos-issue4]).
 
 [nervos-mergedpr1]: https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31
 [nervos-mergedpr2]: https://github.com/nervosnetwork/ckb-cli/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31
@@ -160,10 +185,23 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
+[364 merged PRs][solana-mergedprs],
+[47 closed issues][solana-closedissues].
+
+[solana-mergedprs]: https://github.com/solana-labs/solana/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-01-02..2020-02-04
+[solana-closedissues]: https://github.com/solana-labs/solana/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-01-02..2020-02-04
+
+- Blog: [SLP1 Cluster Launch](https://medium.com/solana-labs/slp1-cluster-launch-4634848d2343).
+  The "Soft Launch Phase 1" cluster is a testnet that is intended to gradually be upgraded to the Solana mainnet.
+- News: [Solana launches "Tour de SOL" incentivised testnet](https://twitter.com/solana/status/1223094881540665346).
+- News: [Monthly Roundup for January 20](https://chorusone.substack.com/p/monthly-roundup-jan-20)
+- PR: [Propose Solana ABI management](https://github.com/solana-labs/solana/pull/7524).
+  Technical solutions for catching ABI breakage in serialized structures.
+
 
 #### [**Zcash**](https://z.cash/)
 
-37 pull requests ([1][zcash-mergedprs1], [2][zcash-mergedprs2]),
+37 merged PRs ([1][zcash-mergedprs1], [2][zcash-mergedprs2]),
 13 closed issues ([1][zcash-closedissues1], [2][zcash-closedissues2]).
 
 [zcash-mergedprs1]: https://github.com/ZcashFoundation/zebra/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-01-02..2020-02-04

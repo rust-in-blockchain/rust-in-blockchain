@@ -24,6 +24,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Project updates
 
+#### [**CodeChain**](https://codechain.io)
+
+
 #### [**COMIT**](https://comit.network/)
 
 

@@ -30,6 +30,22 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Project updates
 
+#### [**CodeChain**](https://codechain.io)
+
+[17 merged PRs][codechain-mergedprs],
+[6 closed issues][codechain-closedissues].
+
+[codechain-mergedprs]: https://github.com/CodeChain-io/codechain/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-01-02..2020-02-04
+[codechain-closedissues]: https://github.com/CodeChain-io/codechain/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-01-02..2020-02-04
+
+- Blog: [Tenderand: Randomized leader election in Tendermint](https://medium.com/codechain/tenderand-randomized-leader-election-in-tendermint-a3663d863479).
+- Blog: [IBC and ICS](https://medium.com/codechain/ibc-and-ics-116e636e57aa).
+  On interop between blockchains. IBC = "Interblockchain communication" protocol. ICS = "Interchain standard".
+- Blog: [VeriSync - A Fast and VERIfiable SYNC Method for Blockchains](https://medium.com/codechain/verisync-baf0583ade47).
+- Video: [Monthly CodeChain TechTalk - November 2019](https://medium.com/codechain/monthly-codechain-tecktalk-november-2019-73ad0fa2e7f5)
+- Video: [Monthly CodeChain TechTalk - January 2020](https://medium.com/codechain/monthly-codechain-techtalk-january-2020-b00a0a020200).
+
+
 #### [**COMIT**](https://comit.network/)
 
 186 merged PRs ([1][comit-mergedpr1], [2][comit-mergedpr2]), 64 closed issues ([1][comit-issue1], [2][comit-issue2]).

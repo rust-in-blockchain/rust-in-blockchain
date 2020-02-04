@@ -18,7 +18,7 @@ Media:
 
 Github queries:
 
-- https://github.com/CodeChain-io/codechain/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Aupdated-asc
+- https://github.com/CodeChain-io/codechain/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
 
 Most active:
 

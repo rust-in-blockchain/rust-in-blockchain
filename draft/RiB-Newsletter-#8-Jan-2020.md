@@ -133,10 +133,22 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
+[364 merged pull requests][solana-mergedprs],
+[47 closed issues][solana-closedissues].
+
+[solana-mergedprs]: https://github.com/solana-labs/solana/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-01-02..2020-02-04
+[solana-closedissues]: https://github.com/solana-labs/solana/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-01-02..2020-02-04
+
+- Blog: [SLP1 Cluster Launch](https://medium.com/solana-labs/slp1-cluster-launch-4634848d2343).
+  The "Soft Launch Phase 1" cluster is a testnet that is intended to gradually be upgraded to the Solana mainnet.
+- News: [Solana launches "Tour de SOL" incentivised testnet](https://twitter.com/solana/status/1223094881540665346).
+- News: [Monthly Roundup for January 20](https://chorusone.substack.com/p/monthly-roundup-jan-20)
+- PR: [Propose Solana ABI management](https://github.com/solana-labs/solana/pull/7524).
+  Technical solutions for catching ABI breakage in serialized structures.
 
 #### [**Zcash**](https://z.cash/)
 
-37 pull requests ([1][zcash-mergedprs1], [2][zcash-mergedprs2]),
+37 merged pull requests ([1][zcash-mergedprs1], [2][zcash-mergedprs2]),
 13 closed issues ([1][zcash-closedissues1], [2][zcash-closedissues2]).
 
 [zcash-mergedprs1]: https://github.com/ZcashFoundation/zebra/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-01-02..2020-02-04

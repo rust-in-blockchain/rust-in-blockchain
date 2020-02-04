@@ -200,7 +200,7 @@ Media:
 - https://electriccoin.co/blog/
 - https://www.zfnd.org/blog/
 - https://www.zcashcommunity.com/
-- https://forums.zcashcommunity.com/
+- https://forum.zcashcommunity.com/
 - https://www.zfnd.org/blog/
 - https://buttondown.email/zcashfoundation
 - https://reddit.com/r/zec

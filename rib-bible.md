@@ -63,6 +63,23 @@ Most active:
 - https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
 
 
+## Interledger
+
+Media:
+
+- https://twitter.com/interledger
+- https://lists.w3.org/Archives/Public/public-interledger/
+
+GitHub queries:
+
+- https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
+
+Most active:
+
+- https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
+- https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
+
+
 ## Near
 
 Media:
@@ -79,23 +96,6 @@ Most active:
 
 - https://github.com/nearprotocol/nearcore/pulls?q=is%3Apr+is%3Amerged+merged%3A2019-11-01..2019-11-30
 - https://github.com/nearprotocol/nearcore/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
-
-
-## Interledger
-
-Media:
-
-- https://twitter.com/interledger
-- https://lists.w3.org/Archives/Public/public-interledger/
-
-GitHub queries:
-
-- https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
-
-Most active:
-
-- https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
 
 
 ## Nervos
@@ -160,6 +160,7 @@ GitHub queries:
 - https://github.com/paritytech/parity-ethereum/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
 - https://github.com/paritytech/parity-bitcoin/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
 - https://github.com/paritytech/parity-zcash/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/substrate-developer-hub
 
 Most active:
 

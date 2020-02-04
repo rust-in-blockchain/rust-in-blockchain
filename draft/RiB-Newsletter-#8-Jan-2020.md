@@ -123,12 +123,40 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - PR: [2 phase dao](https://github.com/nervosnetwork/ckb-cli/pull/159)
 - PR: [Add step mode for AsmMachine](https://github.com/nervosnetwork/ckb-vm/pull/93)
 
-
-#### [**Oasis**](https://github.com/oasislabs)
-
-
 #### [**Parity** ](https://github.com/paritytech)
 
+259 merged PRs ([1][parity-mergedpr1], [2][parity-mergedpr2]), 54 closed issues ([1][parity-issue1], [2][parity-issue2]).
+
+[parity-mergedpr1]: https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+merged%3A2020-01-01..2020-01-31
+[parity-mergedpr2]: https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Amerged+merged%3A2020-01-01..2020-01-31
+[parity-issue1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
+[parity-issue2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
+
+- News: [A few questions for Gavin Wood](https://medium.com/block-street-journal/a-few-questions-for-gavin-wood-6699f991d34c)
+- News: [Polkascan Development Update #5](https://polkadot.network/polkascan-development-update-5)
+- News: [Kusama Upgrade Bulletin (1032-1037)](https://polkadot.network/kusama-upgrade-bulletin-1032-1037/)
+- Blog: [Kusama’s First Adventure](https://polkadot.network/kusamas-first-adventure/)
+- Blog: [Polkadot’s Messaging Scheme](https://medium.com/web3foundation/polkadots-messaging-scheme-b1ec560908b7)
+- Podcast: [Designing Universal Basic Income and Trusted Execution Environments](https://relaychain.fm/13-designing-universal-basic-income)
+- Video: [Sub0.1: Storage on Substrate - Shawn Tabrizi](https://www.youtube.com/watch?v=kKKOL20FdII)
+- Video: [Sub0.1: Wasm and Substrate - Sergei Shulepov](https://www.youtube.com/watch?v=lCjbpryZ7LA)
+- Video: [Sub0.1: Behold, the Future Is Upon Us - Benjamin Kampmann](https://www.youtube.com/watch?v=H1bfZcq7OVg)
+- Video: [Sub0.1: KILT. Why the heck did we choose Substrate? - Maud Nalpas](https://www.youtube.com/watch?v=d0zF3ghAdVI)
+- Video: [Sub0.1: ink! Smart Contracts on Substrate - Robin Freyler](https://www.youtube.com/watch?v=d0zF3ghAdVI)
+- Video: [Sub0.1: Cumulus - Robert Habermeier, co-founder of Polkadot](https://www.youtube.com/watch?v=qZacXdTFIh0)
+- Video: [Sub0.1: AMA with Gavin Wood, founder of Polkadot](https://www.youtube.com/watch?v=k_sZQPknRy0)
+- Video: [The Internet Rebooted (Wood, Isaac) | DLD Munich 20](https://www.youtube.com/watch?v=kKKOL20FdII)
+- Video: [Intro to Substrate codebase and FRAME pallet deep-dive with Joe Petrowski and Shawn Tabrizi](https://www.youtube.com/watch?v=5PSllaWbYag)
+- Repo: [Substrate-developer-hub/utxo-workshop](https://github.com/substrate-developer-hub/utxo-workshop)
+- PR: [Pallet-contracts: Refactor and comment `rent` module](https://github.com/paritytech/substrate/pull/4733)
+- PR: [RPC api for offchain storage](https://github.com/paritytech/substrate/pull/4694)
+- PR: [CLI API refactoring and improvement](https://github.com/paritytech/substrate/pull/4692)
+- PR: [Switch GrandPa to std futures (replaces #3909)](https://github.com/paritytech/substrate/pull/4612)
+- PR: [A Social Account Recovery Pallet](https://github.com/paritytech/substrate/pull/4531)
+- PR: [Allow updating configuration of changes tries](https://github.com/paritytech/substrate/pull/3201)
+- PR: [Update tokio to 0.2 again and remove `TaskExecutor`s](https://github.com/paritytech/polkadot/pull/786)
+- PR: [Support both polkadot and kusama runtimes](https://github.com/paritytech/polkadot/pull/704)
+- PR: [Switch parachain interface to new `runtime_interface` macro](https://github.com/paritytech/polkadot/pull/665)
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 

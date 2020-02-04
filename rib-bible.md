@@ -119,6 +119,7 @@ Media:
 - https://medium.com/nervosnetwork
 - https://medium.com/nervosnetwork/tagged/development-updates
 - https://twitter.com/nervosnetwork
+- https://talk.nervos.org
 - https://www.reddit.com/r/NervosNetwork/
 
 GitHub queries:

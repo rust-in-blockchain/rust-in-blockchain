@@ -115,7 +115,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Nervos**](https://github.com/nervosnetwork)
 
-[148 merged PRs][[1][nervos-mergedpr1], [2][nervos-mergedpr2], [3][nervos-mergedpr3], [4][nervos-mergedpr4], [5][nervos-mergedpr5]], [9 closed issues][[1][nervos-issue1], [2][nervos-issue2], [3][nervos-issue3], [4][nervos-issue4]].
+148 merged PRs ([1][nervos-mergedpr1], [2][nervos-mergedpr2], [3][nervos-mergedpr3], [4][nervos-mergedpr4], [5][nervos-mergedpr5]), 9 closed issues ([1][nervos-issue1], [2][nervos-issue2], [3][nervos-issue3], [4][nervos-issue4]).
 
 [nervos-mergedpr1]: https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31
 [nervos-mergedpr2]: https://github.com/nervosnetwork/ckb-cli/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31

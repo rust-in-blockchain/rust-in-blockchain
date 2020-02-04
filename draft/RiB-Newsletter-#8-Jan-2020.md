@@ -9,6 +9,15 @@ Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the
 &nbsp;
 
 
+## Thanks
+
+This edition of RiB was produced with contributions from Park Juhyung, TODO XXX, Brian Anderson, and Aimee Zhu. Thank you for your help!
+
+RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#9 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+
+&nbsp;
+
+
 ## Project spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…

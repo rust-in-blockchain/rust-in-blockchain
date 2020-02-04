@@ -97,7 +97,32 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - Issue: [Unexpected error msgs in state_sync](https://github.com/nearprotocol/nearcore/issues/1824)
 - Issue: [Investigate too many open files error](https://github.com/nearprotocol/nearcore/issues/1316)
 
-#### [**Nervos**](https://github.com/nervosnetwork/ckb)
+#### [**Nervos**](https://github.com/nervosnetwork)
+
+[148 merged PRs][[1][nervos-mergedpr1], [2][nervos-mergedpr2], [3][nervos-mergedpr3], [4][nervos-mergedpr4], [5][nervos-mergedpr5]], [9 closed issues][[1][nervos-issue1], [2][nervos-issue2], [3][nervos-issue3], [4][nervos-issue4]].
+
+[nervos-mergedpr1]: https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31
+[nervos-mergedpr2]: https://github.com/nervosnetwork/ckb-cli/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31
+[nervos-mergedpr3]: https://github.com/nervosnetwork/overlord/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31
+[nervos-mergedpr4]: https://github.com/nervosnetwork/ckb-vm/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31
+[nervos-mergedpr5]: https://github.com/nervosnetwork/neuron/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31
+[nervos-issue1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
+[nervos-issue2]: https://github.com/nervosnetwork/ckb-cli/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
+[nervos-issue3]: https://github.com/nervosnetwork/overlord/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
+[nervos-issue4]: https://github.com/nervosnetwork/neuron/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
+
+- News: [Nervos Network Will Hand Out $30M to Encourage Third-Party Development](https://www.coindesk.com/nervos-network-dedicates-30m-for-grants-to-encourage-third-party-development)
+- News: [Announcing the Nervos Ecosystem Grants Program](https://medium.com/nervosnetwork/announcing-the-nervos-ecosystem-grants-program-ffba2806fa68)
+- News: [Nervos Community Update: December, 2019](https://medium.com/nervosnetwork/nervos-community-update-c19a2a228fcb)
+- News: [Nervos CKB Development Update #27](https://medium.com/nervosnetwork/nervos-ckb-development-update-27-d48918df00c5) The team is currently working on: Animagus — an AST contract framework, Randao — a random number generator and Godwoken — a layer 1.5 framework for Optimistic Rollup or Zk Rollup.
+- Blog: [Crypto-Economic Design for Scalability and Sustainability](https://medium.com/nervosnetwork/crypto-economic-design-for-scalability-and-sustainability-e83481951c5a)
+- Blog: [How the Nervos CKByte Gets its Value](https://medium.com/nervosnetwork/how-the-nervos-ckbyte-gets-its-value-f0bd43333035)  
+- Blog: [ Introduction to CKB Script Programming 6: Type ID ](https://xuejie.space/2020_02_03_introduction_to_ckb_script_programming_type_id/)
+- Discussion: [Nervos Grants RFCs](https://talk.nervos.org/tags/grant-rfc)
+- PR: [Add a new json rpc method `get_block_economic_state`](https://github.com/nervosnetwork/ckb/pull/1848)
+- PR: [2 phase dao](https://github.com/nervosnetwork/ckb-cli/pull/159)
+- PR: [Add step mode for AsmMachine](https://github.com/nervosnetwork/ckb-vm/pull/93)
+
 
 
 #### [**Oasis**](https://github.com/oasislabs)

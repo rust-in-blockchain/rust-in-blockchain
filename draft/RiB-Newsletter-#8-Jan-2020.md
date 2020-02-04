@@ -76,6 +76,26 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**NEAR**](https://github.com/nearprotocol/nearcore)
 
+[61 merged PRs][near-mergedpr], [64 closed issues][near-issue].
+
+[near-mergedpr]: https://github.com/nearprotocol/nearcore/pulls?q=is%3Apr+is%3Amerged+merged%3A2020-01-01..2020-01-31
+[near-issue]: https://github.com/nearprotocol/nearcore/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
+
+- News: [NEAR Community Update: January 17th, 2020](https://nearprotocol.com/blog/near-community-update-january-17th-2020/)
+- Blog: [Welcome to the NEAR Community!](https://nearprotocol.com/blog/nearcon-zero/)
+- Blog: [We’re pausing Stake Wars](https://nearprotocol.com/blog/were-pausing-stake-wars/)
+- Blog: [NEAR 2019 Year in Review](https://nearprotocol.com/blog/near2019/)
+- Blog: [Introducing the ARterra Platform](https://medium.com/arterra-engagement/introducing-the-arterra-platform-fe551a99037b)
+- Video: [Whiteboard Series with NEAR | Ep: 32 Tim Moreton from Celo](https://www.youtube.com/watch?v=jbSvdNj5zNc)
+- Video: [Sharding Jam with Alex Skidanov](https://www.youtube.com/watch?v=tDeb0LACCag)
+- Video: [Wasm Chains: Featuring NEAR Protocol](https://www.youtube.com/watch?v=75hO1j-T1LY)
+- Video: [Cross-app communication (Ethereum Serenity, NEAR, Polkadot, Cosmos)](https://www.youtube.com/watch?v=EYzYAokCVgMs)
+- PR: [Doomslug](https://github.com/nearprotocol/nearcore/pull/1991)
+- PR: [Answer to StateRequest in parallel](https://github.com/nearprotocol/nearcore/pull/1916)
+- PR: [NumBlocks, NumShards, NumSeats, HeightDelta and _seats](https://github.com/nearprotocol/nearcore/pull/1882)
+- Issue: [Block fork question](https://github.com/nearprotocol/nearcore/issues/1924)
+- Issue: [Unexpected error msgs in state_sync](https://github.com/nearprotocol/nearcore/issues/1824)
+- Issue: [Investigate too many open files error](https://github.com/nearprotocol/nearcore/issues/1316)
 
 #### [**Nervos**](https://github.com/nervosnetwork/ckb)
 

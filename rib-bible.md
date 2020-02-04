@@ -19,9 +19,9 @@ Media:
 
 Github queries:
 
-- https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Aupdated-asc
-- https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Aupdated-asc
-- https://github.com/comit-network/RFCs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Aupdated-asc
+- https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+- https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+- https://github.com/comit-network/RFCs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
 
 Most active:
 
@@ -39,7 +39,7 @@ Media:
 
 Github queries:
 
-- https://github.com/enigmampc/enigma-core/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Aupdated-asc
+- https://github.com/enigmampc/enigma-core/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
 
 Most active:
 
@@ -55,7 +55,7 @@ Media:
 
 Github queries:
 
-- https://github.com/mimblewimble/grin/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Aupdated-asc
+- https://github.com/mimblewimble/grin/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
 
 Most active:
 
@@ -73,7 +73,7 @@ Media:
 
 GitHub queries:
 
-- https://github.com/nearprotocol/nearcore/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Aupdated-asc
+- https://github.com/nearprotocol/nearcore/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
 
 Most active:
 
@@ -90,7 +90,7 @@ Media:
 
 GitHub queries:
 
-- https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Aupdated-asc
+- https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
 
 Most active:
 
@@ -109,10 +109,10 @@ Media:
 
 GitHub queries:
 
-- https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/nervosnetwork/ckb-vm/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Aopen+created%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/nervosnetwork/ckb-vm/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Aopen+created%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
 - https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 
 Most active:
@@ -131,9 +131,9 @@ Media:
 
 GitHub queries:
 
-- https://github.com/oasislabs/oasis-runtime/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Aupdated-asc
-- https://github.com/oasislabs/oasis-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Aupdated-asc
-- https://github.com/oasislabs/tutorials/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Aupdated-asc
+- https://github.com/oasislabs/oasis-runtime/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
+- https://github.com/oasislabs/oasis-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
+- https://github.com/oasislabs/tutorials/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
 
 Most active:
 
@@ -154,12 +154,12 @@ Media:
 
 GitHub queries:
 
-- https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/paritytech/wasmi/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/paritytech/parity-ethereum/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/paritytech/parity-bitcoin/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/paritytech/parity-zcash/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/paritytech/wasmi/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/paritytech/parity-ethereum/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/paritytech/parity-bitcoin/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/paritytech/parity-zcash/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
 
 Most active:
 
@@ -184,7 +184,7 @@ Media:
 
 GitHub queries:
 
-- https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
 
 Most active:
 
@@ -207,10 +207,10 @@ Media:
 
 GitHub queries:
 
-- https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/zcash/zips/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Aupdated-asc
-- https://github.com/zcash/zips/pulls?q=is%3Apr+is%3Aopen+created%3A%3E2019-09-05+sort%3Aupdated-asc
+- https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/zcash/zips/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
+- https://github.com/zcash/zips/pulls?q=is%3Apr+is%3Aopen+created%3A%3E2019-09-05+sort%3Acomments-desc
 
 Most active:
 

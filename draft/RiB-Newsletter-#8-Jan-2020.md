@@ -59,6 +59,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Interledger**](https://interledger.org/)
 
+[18 merged PRs][interledger-mergedpr], [7 closed issues][interledger-issue].
+
+[interledger-mergedpr]: https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31
+[interledger-issue]: https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
+
+- PR: [Interledger Stream: Futures 0.3 Transition](https://github.com/interledger-rs/interledger-rs/pull/601)
+- PR: [Interledger API: Futures 0.3 Transition](https://github.com/interledger-rs/interledger-rs/pull/605)
+- Issue: [Unable to settle a payment between connectors](https://github.com/interledger-rs/interledger-rs/issues/581)
 
 #### [**NEAR**](https://github.com/nearprotocol/nearcore)
 

@@ -132,7 +132,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
-[364 merged pull requests][solana-mergedprs],
+[364 merged PRs][solana-mergedprs],
 [47 closed issues][solana-closedissues].
 
 [solana-mergedprs]: https://github.com/solana-labs/solana/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-01-02..2020-02-04
@@ -148,7 +148,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Zcash**](https://z.cash/)
 
-37 pull requests ([1][zcash-mergedprs1], [2][zcash-mergedprs2]),
+37 merged PRs ([1][zcash-mergedprs1], [2][zcash-mergedprs2]),
 13 closed issues ([1][zcash-closedissues1], [2][zcash-closedissues2]).
 
 [zcash-mergedprs1]: https://github.com/ZcashFoundation/zebra/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-01-02..2020-02-04

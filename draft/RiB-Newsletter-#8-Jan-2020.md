@@ -13,7 +13,7 @@ There have been some updates recently to the [awesome-blockchain-rust] project t
 
 ## Thanks
 
-This edition of RiB was produced with contributions from [Park Juhyung][contributorpar], [Adria Massanet][contributoradr] TODO XXX, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+This edition of RiB was produced with contributions from [Park Juhyung][contributorpar], [Adria Massanet][contributoradr], Paulii Good, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
 RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#9 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
@@ -104,6 +104,19 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - Issue: [P2P transaction building](https://github.com/mimblewimble/grin/issues/1798)
 - Issue: [Consider relaxing timestamp monotonicity](https://github.com/mimblewimble/grin/issues/1486)
 
+
+#### [**Holochain**](github.com/holochain/)
+
+[30 merged PRs][holochain-mergedpr],
+[0 closed issues][holochain-closedissues].
+
+[holochain-mergedpr]: https://github.com/holochain/holochain-rust/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-01-02..2020-02-04
+[holochain-closedissues]: https://github.com/holochain/holochain-rust/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-01-02..2020-02-04
+
+- Blog: [Privacy and Security on the Holo Network](https://blog.holochain.org/privacy-and-security-on-the-holo-network/)
+- Blog: [Holo and Holochain Weekly Roundup - January 10](https://medium.com/h-o-l-o/holo-holochain-weekly-roundup-january-10-11f699dbfb99)
+- Blog: [Holo and Holochain Weekly Roundup - January 17](https://medium.com/h-o-l-o/holo-holochain-weekly-roundup-january-17-6b469276ccbf)
+- Docs: [What is Holochain?](https://developer.holochain.org/docs/what-is-holochain/)
 
 #### [**Interledger**](https://interledger.org/)
 
@@ -276,11 +289,18 @@ Video: [Data Security and the Rise of Crypto](https://www.youtube.com/watch?v=fl
 
 ## Interesting Things
 
+<<<<<<< HEAD
 Post: [An OS prototype where binaries are WASM, run in ring 0](https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are)
 
 Tweet: [How far behind rust-libp2p is compared to go-libp2p and js-libp2p](https://twitter.com/tomaka17/status/1224313756458590208?s=20)
 
 Project: [Za!](https://github.com/adria0/za).
+=======
+- Post: [An OS prototype where binaries are WASM, run in ring 0](https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are).
+- Tweet: [How far behind rust-libp2p is compared to go-libp2p and js-libp2p](https://twitter.com/tomaka17/status/1224313756458590208?s=20).
+- Project: [lib3h](https://github.com/holochain/lib3h). Holochain's p2p library.
+- Project: [Za!](https://github.com/adria0/za)
+>>>>>>> 8e36f75249867f20f85d8a40330a4061f1a4996d
   A zk-SNARK circuit compiler that supports a variant of the [circom] language.
 
 Project: [tesseracts](https://github.com/adria0/tesseracts).

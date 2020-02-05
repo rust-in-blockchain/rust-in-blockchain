@@ -77,6 +77,26 @@ Most active:
 - https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
 
 
+## Holochain
+
+Media:
+
+- https://medium.com/holochain
+- https://twitter.com/holochain
+- https://www.reddit.com/r/holochain/
+- https://forum.holochain.org/
+- https://blog.holochain.org/
+- https://medium.com/h-o-l-o
+
+GitHub queries:
+
+- https://github.com/holochain/holochain-rust/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
+
+Most active:
+
+- https://github.com/holochain/holochain-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
+- https://github.com/holochain/holochain-rust/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
+
 ## Interledger
 
 Media:

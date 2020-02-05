@@ -300,10 +300,39 @@ Video: [Data Security and the Rise of Crypto](https://www.youtube.com/watch?v=fl
 
 &nbsp;
 
+
 ## Events
 
+Feb 12-16 | San Francisco, US
+
+[DeveloperWeek 2020 & Hackathon](https://www.developerweek.com/)
+
+Feb 19-21 | Stanford University, US
+
+[The Stanford Blockchain Conference 2020](https://cbr.stanford.edu/sbc20/)
+
+Feb 29 | San Francisco, US
+
+[World Blockchain Hackathon](https://www.eventbrite.com/e/world-blockchain-hackathon-san-francisco-tickets-70815243299)
+
+Mar 4-11 | London, UK
+
+[London Blockchain Week](https://www.blockchainweek.com/)
+
+Mar 7-8 | MIT Campus, US
+
+[MIT Bitcoin Expo 2020](https://mitbitcoinexpo.org/)
+
+Mar 31 - Apr 1 | Paris, France
+
+[Paris Blockchain Week Summit](https://www.pbwsummit.com/)
+
+Apr 13-16 | Oxford, UK
+
+[IEEE DAPPS 2020](https://ieeedapps.net/)
 
 &nbsp;
+
 
 ## Careers
 

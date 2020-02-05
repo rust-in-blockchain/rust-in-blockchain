@@ -1,4 +1,4 @@
-# RiB Newsletter #8 - Jan 2020
+# RiB Newsletter #8 - Looking forward to 2020
 
 **#8 - Jan 2020**
 

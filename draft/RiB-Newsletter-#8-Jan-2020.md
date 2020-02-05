@@ -14,7 +14,7 @@ The Rust in Blockchain [Telegram group][telegram] group has seen more activity r
 
 Finally, there have been some updates recently to the [awesome-blockchain-rust] project that collects notable Rust blockchain links. Contributions welcome.
 
-Wow, 2019 was a great year for Rust in Blockchain, and we're only becoming more excited for 2020.
+Wow, 2019 was a great year for blockchain Rust, and we're only becoming more excited for 2020.
 
 Hack on, blockchain Rustaceans. Hack on.
 

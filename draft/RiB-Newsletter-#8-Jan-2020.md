@@ -141,11 +141,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [nervos-issue4]: https://github.com/nervosnetwork/neuron/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
 
 - News: [Nervos Network Will Hand Out $30M to Encourage Third-Party Development](https://www.coindesk.com/nervos-network-dedicates-30m-for-grants-to-encourage-third-party-development)
+- News: [Nervos CKB Development Update #28](https://medium.com/nervosnetwork/nervos-ckb-development-update-28-5c85be7a599e) The team has deployed Duktape (a Javascript VM) and mruby to testnet.
+- News: [Nervos CKB Development Update #27](https://medium.com/nervosnetwork/nervos-ckb-development-update-27-d48918df00c5) The team is currently working on: Animagus — an AST contract framework, Randao — a random number generator and Godwoken — a layer 1.5 framework for Optimistic Rollup or Zk Rollup.
 - News: [Announcing the Nervos Ecosystem Grants Program](https://medium.com/nervosnetwork/announcing-the-nervos-ecosystem-grants-program-ffba2806fa68)
 - News: [The Grants Program is Now Open—–Nervos Bi-weekly Report #27](https://talk.nervos.org/t/the-grants-program-is-now-open-nervos-bi-weekly-report-27/4147)
 - News: [Happy New Year!—–Nervos Bi-weekly Report #26](https://talk.nervos.org/t/happy-new-year-nervos-bi-weekly-report-26/4082)
 - News: [Nervos Community Update: December, 2019](https://medium.com/nervosnetwork/nervos-community-update-c19a2a228fcb)
-- News: [Nervos CKB Development Update #27](https://medium.com/nervosnetwork/nervos-ckb-development-update-27-d48918df00c5) The team is currently working on: Animagus — an AST contract framework, Randao — a random number generator and Godwoken — a layer 1.5 framework for Optimistic Rollup or Zk Rollup.
 - Blog: [Crypto-Economic Design for Scalability and Sustainability](https://medium.com/nervosnetwork/crypto-economic-design-for-scalability-and-sustainability-e83481951c5a)
 - Blog: [How the Nervos CKByte Gets its Value](https://medium.com/nervosnetwork/how-the-nervos-ckbyte-gets-its-value-f0bd43333035)  
 - Blog: [ Introduction to CKB Script Programming 6: Type ID ](https://xuejie.space/2020_02_03_introduction_to_ckb_script_programming_type_id/)

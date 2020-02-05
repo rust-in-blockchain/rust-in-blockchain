@@ -256,20 +256,20 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Learning
 
-[What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b)
+[What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b).
 
 [‘One Network, Many Chains’ – The Case for Blockchain Interoperability](https://www.coindesk.com/one-network-many-chains-the-case-for-blockchain-interoperability).
 
-Video: [Data Security and the Rise of Crypto](https://www.youtube.com/watch?v=flV82tFjyZY&list=PLM4u6XbiXf5qXKZixrDpN3ZSwH_8UabPq)
+Video: [Data Security and the Rise of Crypto](https://www.youtube.com/watch?v=flV82tFjyZY&list=PLM4u6XbiXf5qXKZixrDpN3ZSwH_8UabPq).
 
 &nbsp;
 
 
 ## Interesting Things
 
-Post: [An OS prototype where binaries are WASM, run in ring 0](https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are)
+Post: [An OS prototype where binaries are WASM, run in ring 0](https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are).
 
-Tweet: [How far behind rust-libp2p is compared to go-libp2p and js-libp2p](https://twitter.com/tomaka17/status/1224313756458590208?s=20)
+Tweet: [How far behind rust-libp2p is compared to go-libp2p and js-libp2p](https://twitter.com/tomaka17/status/1224313756458590208?s=20).
 
 &nbsp;
 

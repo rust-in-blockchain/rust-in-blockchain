@@ -62,12 +62,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [codechain-mergedprs]: https://github.com/CodeChain-io/codechain/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-01-02..2020-02-04
 [codechain-closedissues]: https://github.com/CodeChain-io/codechain/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-01-02..2020-02-04
 
-- Blog: [Tenderand: Randomized leader election in Tendermint](https://medium.com/codechain/tenderand-randomized-leader-election-in-tendermint-a3663d863479).
-- Blog: [IBC and ICS](https://medium.com/codechain/ibc-and-ics-116e636e57aa).
+- Blog: [Tenderand: Randomized leader election in Tendermint](https://medium.com/codechain/tenderand-randomized-leader-election-in-tendermint-a3663d863479)
+- Blog: [IBC and ICS](https://medium.com/codechain/ibc-and-ics-116e636e57aa)
   On interop between blockchains. IBC = "Interblockchain communication" protocol. ICS = "Interchain standard".
-- Blog: [VeriSync - A Fast and VERIfiable SYNC Method for Blockchains](https://medium.com/codechain/verisync-baf0583ade47).
+- Blog: [VeriSync - A Fast and VERIfiable SYNC Method for Blockchains](https://medium.com/codechain/verisync-baf0583ade47)
 - Video: [Monthly CodeChain TechTalk - November 2019](https://medium.com/codechain/monthly-codechain-tecktalk-november-2019-73ad0fa2e7f5)
-- Video: [Monthly CodeChain TechTalk - January 2020](https://medium.com/codechain/monthly-codechain-techtalk-january-2020-b00a0a020200).
+- Video: [Monthly CodeChain TechTalk - January 2020](https://medium.com/codechain/monthly-codechain-techtalk-january-2020-b00a0a020200)
 
 
 #### [**COMIT**](https://comit.network/)
@@ -222,7 +222,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - Blog: [SLP1 Cluster Launch](https://medium.com/solana-labs/slp1-cluster-launch-4634848d2343).
   The "Soft Launch Phase 1" cluster is a testnet that is intended to gradually be upgraded to the Solana mainnet.
-- News: [Solana launches "Tour de SOL" incentivised testnet](https://twitter.com/solana/status/1223094881540665346).
+- News: [Solana launches "Tour de SOL" incentivised testnet](https://twitter.com/solana/status/1223094881540665346)
 - News: [Monthly Roundup for January 20](https://chorusone.substack.com/p/monthly-roundup-jan-20)
 - PR: [Propose Solana ABI management](https://github.com/solana-labs/solana/pull/7524).
   Technical solutions for catching ABI breakage in serialized structures.
@@ -246,14 +246,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - Blog: [Introducing monthly Zcash community calls](https://electriccoin.co/blog/introducing-monthly-zcash-community-calls/)
 - Blog: [ZIP 1014 results](https://www.zfnd.org/blog/zip-1014-poll-results/)
   About funding Zcash.
-- Blog: [Dev fund poll shows consensus](https://electriccoin.co/blog/dev-fund-poll-shows-consensus/).
-- Blog: [ECC releases resources for building mobile, shielded-Zcash wallets](https://electriccoin.co/blog/ecc-releases-resources-for-building-mobile-shielded-zcash-wallets/). The Android SDK includes Rust code.
+- Blog: [Dev fund poll shows consensus](https://electriccoin.co/blog/dev-fund-poll-shows-consensus/)
+- Blog: [ECC releases resources for building mobile, shielded-Zcash wallets](https://electriccoin.co/blog/ecc-releases-resources-for-building-mobile-shielded-zcash-wallets/).
+  The Android SDK includes Rust code.
 - Paper: [Security assessments: NU3 specifications, Blossom implementation and Sapling documentation](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/).
   "NU3" = "network upgrade 3", and "Blossom" is its codename. Sapling is Zcash's current zero-knowledge proof scheme that was introduced in 2018.
 - Paper: [Trail of Bits Zcash whitepaper](https://github.com/trailofbits/publications/blob/master/reviews/ZcashWP.pdf).
   A new, clear, description of the Zcash protocol, including Sapling proofs. Produced for the security assessment.
 - PR: [Refine Ed25519 byte arrays to ed25519-zebra types](https://github.com/ZcashFoundation/zebra/pull/199)
-  Introduces a [zebra-customized ed25519 crate][zced].
+  Introduces a [zebra-customized ed25519 crate][zced]
 - PR: [ZIP 213 - Shielded coinbase transactions](https://github.com/zcash/zips/pull/217).
   This will make it possible to mine coins that are immediately private, whereas today all mined coins are public.
 
@@ -264,22 +265,25 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Learning
 
-[What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b).
+[What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b)
 
-[‘One Network, Many Chains’ – The Case for Blockchain Interoperability](https://www.coindesk.com/one-network-many-chains-the-case-for-blockchain-interoperability).
+[‘One Network, Many Chains’ – The Case for Blockchain Interoperability](https://www.coindesk.com/one-network-many-chains-the-case-for-blockchain-interoperability)
 
-Video: [Data Security and the Rise of Crypto](https://www.youtube.com/watch?v=flV82tFjyZY&list=PLM4u6XbiXf5qXKZixrDpN3ZSwH_8UabPq).
+Video: [Data Security and the Rise of Crypto](https://www.youtube.com/watch?v=flV82tFjyZY&list=PLM4u6XbiXf5qXKZixrDpN3ZSwH_8UabPq)
 
 &nbsp;
 
 
 ## Interesting Things
 
-- Post: [An OS prototype where binaries are WASM, run in ring 0](https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are).
-- Tweet: [How far behind rust-libp2p is compared to go-libp2p and js-libp2p](https://twitter.com/tomaka17/status/1224313756458590208?s=20).
-- Project: [Za!](https://github.com/adria0/za)
+Post: [An OS prototype where binaries are WASM, run in ring 0](https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are)
+
+Tweet: [How far behind rust-libp2p is compared to go-libp2p and js-libp2p](https://twitter.com/tomaka17/status/1224313756458590208?s=20)
+
+Project: [Za!](https://github.com/adria0/za).
   A zk-SNARK circuit compiler that supports a variant of the [circom] language.
-- Project: [tesseracts](https://github.com/adria0/tesseracts).
+
+Project: [tesseracts](https://github.com/adria0/tesseracts).
   A blockchain explorer for geth PoAs.
 
 [circom]: https://github.com/iden3/circom
@@ -332,7 +336,7 @@ Consensys | Europe; United States; Remote
 
 Cosmian | Paris, France; Remote
 
-[Developer (Rust / Cryptography)](https://cosmian.com/were-hiring-developer-rust-cryptography-m-w-x/)
+[Developer (Rust/Cryptography)](https://cosmian.com/were-hiring-developer-rust-cryptography-m-w-x/)
 
 imToken | Singapore; Hangzhou, China
 
@@ -348,11 +352,11 @@ Protocol Labs | Remote
 
 Sigma Prime | Sydney, Australia; Remote
 
-[Experienced Rust developer](https://lighthouse.sigmaprime.io/hiring-dec-2019.html)
+[Experienced Rust Developer](https://lighthouse.sigmaprime.io/hiring-dec-2019.html)
 
 Spacemesh | NYC, US
 
-[Blockchain developer](https://spacemesh.io/blockchain-dev-nyc/)
+[Blockchain Developer](https://spacemesh.io/blockchain-dev-nyc/)
 
 
 &nbsp;

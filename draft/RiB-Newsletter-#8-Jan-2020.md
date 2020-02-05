@@ -11,9 +11,17 @@ Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the
 
 ## Thanks
 
-This edition of RiB was produced with contributions from Park Juhyung, TODO XXX, Brian Anderson, and Aimee Zhu. Thank you for your help!
+This edition of RiB was produced with contributions from [Park Juhyung][contributorpar], [adria0][contributoradr] TODO XXX, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+
+//updated https://github.com/rust-in-blockchain/awesome-blockchain-rust
 
 RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#9 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+
+[contributorpar]: https://github.com/majecty
+[contributoradr]: https://github.com/adria0
+[contributorba]: https://github.com/brson
+[contributoraz]: https://github.com/Aimeedeer
+
 
 &nbsp;
 
@@ -254,6 +262,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 ## Learning
 
 [What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b)
+
+[‘One Network, Many Chains’ – The Case for Blockchain Interoperability](https://www.coindesk.com/one-network-many-chains-the-case-for-blockchain-interoperability). The man who wrote Mastering Bitcoin, Andreas Antonopoulos, he argues there will be many distributed blockchains in the future and that many of them will be quite useful.
 
 &nbsp;
 

@@ -280,6 +280,38 @@ Tweet: [How far behind rust-libp2p is compared to go-libp2p and js-libp2p](https
 
 ## Careers
 
+ARK | Remote
+
+[Senior Developer/Blockchain Core Developer](https://cryptocurrencyjobs.co/engineering/ark-senior-developer-blockchain-core-developer/)
+
+Consensys | Europe; United States; Remote
+
+[Systems Engineer (Rust)](https://consensys.net/open-roles/1792013/)
+
+Cosmian | Paris, France; Remote
+
+[Developer (Rust / Cryptography)](https://cosmian.com/were-hiring-developer-rust-cryptography-m-w-x/)
+
+imToken | Singapore; Hangzhou, China
+
+[Blockchain Development Engineer](https://token.im/careers#jobs)
+
+Nervos | San Francisco; Hangzhou, China; Remote
+
+[Senior Blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
+
+Protocol Labs | Remote
+
+[Research Scientist, Cryptography](https://jobs.lever.co/protocol/f6413901-cf6c-43be-af0e-d1a68adddada)
+
+Sigma Prime | Sydney, Australia; Remote
+
+[Experienced Rust developer](https://lighthouse.sigmaprime.io/hiring-dec-2019.html)
+
+Spacemesh | NYC, US
+
+[Blockchain developer](https://spacemesh.io/blockchain-dev-nyc/)
+
 
 &nbsp;
 

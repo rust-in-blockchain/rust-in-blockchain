@@ -4,7 +4,9 @@
 
 Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #7](https://rustinblockchain.org/2020/01/02/rust-in-blockchain-7-december-2019/).
 
+There have been some updates recently to the [awesome-blockchain-rust] project that collects notable Rust blockchain links. Contributions welcome.
 
+[awesome-blockchain-rust]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
 
 &nbsp;
 
@@ -12,8 +14,6 @@ Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the
 ## Thanks
 
 This edition of RiB was produced with contributions from [Park Juhyung][contributorpar], [Adria Massanet][contributoradr] TODO XXX, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
-
-//updated https://github.com/rust-in-blockchain/awesome-blockchain-rust
 
 RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#9 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 

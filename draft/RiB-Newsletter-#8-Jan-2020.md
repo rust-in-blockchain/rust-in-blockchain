@@ -222,24 +222,24 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [zcash-closedissues1]: https://github.com/ZcashFoundation/zebra/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-01-02..2020-02-04
 [zcash-closedissues2]: https://github.com/zcash/librustzcash/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-01-02..2020-02-04
 
-- News: [Zcash Foundation Update • December 14, 2019 – January 31, 2020](https://news.zfnd.org/archive/zcash-foundation-update-december-14-2019-january/))
+- News: [Zcash Foundation Update • December 14, 2019 – January 31, 2020](https://news.zfnd.org/archive/zcash-foundation-update-december-14-2019-january/)
+- News: [January 31, 2020 - Weekly Forum Update](https://forum.zcashcommunity.com/t/january-31-2020-weekly-forum-update/35905)
 - Blog: [A New Network Stack for Zcash](https://www.zfnd.org/blog/a-new-network-stack-for-zcash/). About the Rust implementation of Zcash.
 - Blog: [Composable Futures-based Batch Verification](https://www.zfnd.org/blog/futures-batch-verification/)
 - Blog: [Building for ZCash](https://thevantageproject.github.io/buidl-labs-blog/buidling-for-zcash)
-- Paper: [Security assessments: NU3 specifications, Blossom implementation and Sapling documentation](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/).
-  "NU3" = "network upgrade 3", and "Blossom" is its codename. Sapling is Zcash's current zero-knowledge proof scheme that was introduced in 2018.
-- Paper: [Trail of Bits Zcash whitepaper](https://github.com/trailofbits/publications/blob/master/reviews/ZcashWP.pdf).
-  A new, clear, description of the Zcash protocol, including Sapling proofs. Produced for the security assessment.
-- Blog: [ECC releases resources for building mobile, shielded-Zcash wallets](https://electriccoin.co/blog/ecc-releases-resources-for-building-mobile-shielded-zcash-wallets/).
-  The Android SDK includes Rust code.
-- PR: [Refine Ed25519 byte arrays to ed25519-zebra types](https://github.com/ZcashFoundation/zebra/pull/199)
-  Introduces a [zebra-customized ed25519 crate][zced].
-- PR: [ZIP 213 - Shielded coinbase transactions](https://github.com/zcash/zips/pull/217).
-  This will make it possible to mine coins that are immediately private, whereas today all mined coins are public.
 - Blog: [Introducing monthly Zcash community calls](https://electriccoin.co/blog/introducing-monthly-zcash-community-calls/)
 - Blog: [ZIP 1014 results](https://www.zfnd.org/blog/zip-1014-poll-results/)
   About funding Zcash.
 - Blog: [Dev fund poll shows consensus](https://electriccoin.co/blog/dev-fund-poll-shows-consensus/).
+- Blog: [ECC releases resources for building mobile, shielded-Zcash wallets](https://electriccoin.co/blog/ecc-releases-resources-for-building-mobile-shielded-zcash-wallets/). The Android SDK includes Rust code.
+- Paper: [Security assessments: NU3 specifications, Blossom implementation and Sapling documentation](https://electriccoin.co/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/).
+  "NU3" = "network upgrade 3", and "Blossom" is its codename. Sapling is Zcash's current zero-knowledge proof scheme that was introduced in 2018.
+- Paper: [Trail of Bits Zcash whitepaper](https://github.com/trailofbits/publications/blob/master/reviews/ZcashWP.pdf).
+  A new, clear, description of the Zcash protocol, including Sapling proofs. Produced for the security assessment.
+- PR: [Refine Ed25519 byte arrays to ed25519-zebra types](https://github.com/ZcashFoundation/zebra/pull/199)
+  Introduces a [zebra-customized ed25519 crate][zced].
+- PR: [ZIP 213 - Shielded coinbase transactions](https://github.com/zcash/zips/pull/217).
+  This will make it possible to mine coins that are immediately private, whereas today all mined coins are public.
 
 [zced]: https://github.com/ZcashFoundation/ed25519-zebra
 

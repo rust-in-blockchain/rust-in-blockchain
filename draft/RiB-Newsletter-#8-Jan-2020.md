@@ -289,18 +289,13 @@ Video: [Data Security and the Rise of Crypto](https://www.youtube.com/watch?v=fl
 
 ## Interesting Things
 
-<<<<<<< HEAD
 Post: [An OS prototype where binaries are WASM, run in ring 0](https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are)
 
 Tweet: [How far behind rust-libp2p is compared to go-libp2p and js-libp2p](https://twitter.com/tomaka17/status/1224313756458590208?s=20)
 
+Project: [lib3h](https://github.com/holochain/lib3h). Holochain's p2p library
+
 Project: [Za!](https://github.com/adria0/za).
-=======
-- Post: [An OS prototype where binaries are WASM, run in ring 0](https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are).
-- Tweet: [How far behind rust-libp2p is compared to go-libp2p and js-libp2p](https://twitter.com/tomaka17/status/1224313756458590208?s=20).
-- Project: [lib3h](https://github.com/holochain/lib3h). Holochain's p2p library.
-- Project: [Za!](https://github.com/adria0/za)
->>>>>>> 8e36f75249867f20f85d8a40330a4061f1a4996d
   A zk-SNARK circuit compiler that supports a variant of the [circom] language.
 
 Project: [tesseracts](https://github.com/adria0/tesseracts).

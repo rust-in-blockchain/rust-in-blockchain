@@ -26,7 +26,7 @@ RiB needs help keeping up with Rust blockchain projects. To contribute to the ne
 &nbsp;
 
 
-## Project spotlight
+## Project Spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
@@ -45,7 +45,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 
 
-## Project updates
+## Project Updates
 
 #### [**CodeChain**](https://codechain.io)
 

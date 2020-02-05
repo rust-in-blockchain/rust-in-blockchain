@@ -11,7 +11,7 @@ Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the
 
 ## Thanks
 
-This edition of RiB was produced with contributions from [Park Juhyung][contributorpar], [adria0][contributoradr] TODO XXX, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+This edition of RiB was produced with contributions from [Park Juhyung][contributorpar], [Adria Massanet][contributoradr] TODO XXX, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
 //updated https://github.com/rust-in-blockchain/awesome-blockchain-rust
 
@@ -267,9 +267,14 @@ Video: [Data Security and the Rise of Crypto](https://www.youtube.com/watch?v=fl
 
 ## Interesting Things
 
-Post: [An OS prototype where binaries are WASM, run in ring 0](https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are).
+- Post: [An OS prototype where binaries are WASM, run in ring 0](https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are).
+- Tweet: [How far behind rust-libp2p is compared to go-libp2p and js-libp2p](https://twitter.com/tomaka17/status/1224313756458590208?s=20).
+- Project: [Za!](https://github.com/adria0/za)
+  A zk-SNARK circuit compiler that supports a variant of the [circom] language.
+- Project: [tesseracts](https://github.com/adria0/tesseracts).
+  A blockchain explorer for geth PoAs.
 
-Tweet: [How far behind rust-libp2p is compared to go-libp2p and js-libp2p](https://twitter.com/tomaka17/status/1224313756458590208?s=20).
+[circom]: https://github.com/iden3/circom
 
 &nbsp;
 

@@ -30,6 +30,13 @@ RiB needs help keeping up with Rust blockchain projects. To contribute to the ne
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[Za!](https://github.com/adria0/za)
+
+_Za!_ is a simple zk-SNARK circuit compiler, a Rust port of the [circom] compiler. Circom is a high level language for writing zero knowledge proofs, making this tool a convenient way to learn about and experiment with the subject. One can get started by reading the [circom tutorial].
+
+[circom]: https://github.com/iden3/circom
+[circom tutorial]: https://github.com/iden3/circom/blob/master/TUTORIAL.md
+
 &nbsp;
 
 

@@ -4,19 +4,37 @@
 
 Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #7](https://rustinblockchain.org/2020/01/02/rust-in-blockchain-7-december-2019/).
 
-There have been some updates recently to the [awesome-blockchain-rust] project that collects notable Rust blockchain links. Contributions welcome.
+This month &mdash; even with the holidays and world events &mdash; saw strong momentum in the big Rust blockchain projects: Solana is moving toward two new testnets, one of which is expected to evolve into their mainnet; Zcash has been blogging technical details about their Rust implementation, Zebra; Nervos has initiated a grants program to solicit advancements to its platform from the community; COMIT and NEAR are maintaining a rapid development velocity; and Parity as always has so much going on its hard to summarize.
+
+There are multiple hackathons coming up, which several of our projects are involved in (see "Events" below). There are new job openings ("Careers"), and [multiple grants programs][gr]. Lots of opportunities to get involved with Rust blockchain development lately.
+
+We're continuing to see interesting developments involving WebAssembly, having learned about [Spacemesh's new VM][svm] recently. With all the attention given by blockchain projects to WASM, we're thinking of adding more WASM-specific coverage in the future. Please let us know your thoughts, and send us links to interesting Rust+WASM projects / content that might be of interest to fellow blockchain developers.
+
+The Rust in Blockchain [Telegram group][telegram] group has seen more activity recently, and this month's newsletter received the most contributions of any yet. As a result, this issue begins coverage of [CodeChain] and [Holochain]. We are super grateful for all the tips, news, project links, job postings, event notices and general conversation. Big thanks to all involved.
+
+Finally, there have been some updates recently to the [awesome-blockchain-rust] project that collects notable Rust blockchain links. Contributions welcome.
+
+Wow, 2019 was a great year for Rust in Blockchain, and we're only becoming more excited for 2020.
+
+Hack on, blockchain Rustaceans. Hack on.
 
 [awesome-blockchain-rust]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
+[svm]: https://github.com/spacemeshos/svm
+[telegram]: https://t.me/rustinblockchain
+[gr]: https://hackernoon.com/alternative-avenues-to-raise-funds-as-a-dapp-developer-in-2020-ixjq36vb
+[CodeChain]: https://codechain.io
+[Holochain]: https://github.com/holochain/
 
 &nbsp;
 
 
 ## Thanks
 
-This edition of RiB was produced with contributions from [Park Juhyung][contributorpar], [Adria Massanet][contributoradr], Paulii Good, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+This edition of RiB was produced with contributions from [Park Juhyung][contributorpar], [Adria Massanet][contributoradr], Paulii Good, [Lane Rettig][contributorlane], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
 RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#9 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
+[contributorlane]: https://github.com/lrettig
 [contributorpar]: https://github.com/majecty
 [contributoradr]: https://github.com/adria0
 [contributorba]: https://github.com/brson
@@ -112,7 +130,7 @@ _Za!_ is a simple zk-SNARK circuit compiler, a Rust port of the [circom] compile
 - Issue: [Consider relaxing timestamp monotonicity](https://github.com/mimblewimble/grin/issues/1486)
 
 
-#### [**Holochain**](github.com/holochain/)
+#### [**Holochain**](https://github.com/holochain/)
 
 [30 merged PRs][holochain-mergedpr],
 [0 closed issues][holochain-closedissues].

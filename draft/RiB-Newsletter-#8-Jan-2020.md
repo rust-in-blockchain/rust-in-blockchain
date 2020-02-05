@@ -4,7 +4,9 @@
 
 Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #7](https://rustinblockchain.org/2020/01/02/rust-in-blockchain-7-december-2019/).
 
+There have been some updates recently to the [awesome-blockchain-rust] project that collects notable Rust blockchain links. Contributions welcome.
 
+[awesome-blockchain-rust]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
 
 &nbsp;
 
@@ -12,8 +14,6 @@ Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the
 ## Thanks
 
 This edition of RiB was produced with contributions from [Park Juhyung][contributorpar], [Adria Massanet][contributoradr] TODO XXX, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
-
-//updated https://github.com/rust-in-blockchain/awesome-blockchain-rust
 
 RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#9 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
@@ -35,11 +35,18 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Most Active in January
 
-[Zcash]: https://z.cash/
+[Solana]: [364 merged PRs][solana-mergedprs], [47 closed issues][solana-closedissues].
+
+[Parity]: 259 merged PRs ([1][parity-mergedpr1], [2][parity-mergedpr2]), 54 closed issues ([1][parity-issue1], [2][parity-issue2]).
+
+[COMIT]: 186 merged PRs ([1][comit-mergedpr1], [2][comit-mergedpr2]), 64 closed issues ([1][comit-issue1], [2][comit-issue2]).
+
+[Nervos]: 148 merged PRs ([1][nervos-mergedpr1], [2][nervos-mergedpr2], [3][nervos-mergedpr3], [4][nervos-mergedpr4], [5][nervos-mergedpr5]), 9 closed issues ([1][nervos-issue1], [2][nervos-issue2], [3][nervos-issue3], [4][nervos-issue4], [5][nervos-issue5]).
+
 [Solana]: https://github.com/solana-labs/solana
 [Parity]: https://github.com/paritytech
 [COMIT]: https://comit.network/
-[NEAR]: https://github.com/nearprotocol/nearcore
+[Nervos]: https://github.com/nervosnetwork
 
 &nbsp;
 
@@ -136,7 +143,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Nervos**](https://github.com/nervosnetwork)
 
-148 merged PRs ([1][nervos-mergedpr1], [2][nervos-mergedpr2], [3][nervos-mergedpr3], [4][nervos-mergedpr4], [5][nervos-mergedpr5]), 9 closed issues ([1][nervos-issue1], [2][nervos-issue2], [3][nervos-issue3], [4][nervos-issue4]).
+148 merged PRs ([1][nervos-mergedpr1], [2][nervos-mergedpr2], [3][nervos-mergedpr3], [4][nervos-mergedpr4], [5][nervos-mergedpr5]), 9 closed issues ([1][nervos-issue1], [2][nervos-issue2], [3][nervos-issue3], [4][nervos-issue4], [5][nervos-issue5]).
 
 [nervos-mergedpr1]: https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31
 [nervos-mergedpr2]: https://github.com/nervosnetwork/ckb-cli/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-01-31
@@ -146,7 +153,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [nervos-issue1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
 [nervos-issue2]: https://github.com/nervosnetwork/ckb-cli/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
 [nervos-issue3]: https://github.com/nervosnetwork/overlord/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
-[nervos-issue4]: https://github.com/nervosnetwork/neuron/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
+[nervos-issue4]: https://github.com/nervosnetwork/ckb-vm/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
+[nervos-issue5]: https://github.com/nervosnetwork/neuron/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-01-31
 
 - News: [Nervos Network Will Hand Out $30M to Encourage Third-Party Development](https://www.coindesk.com/nervos-network-dedicates-30m-for-grants-to-encourage-third-party-development)
 - News: [Nervos CKB Development Update #28](https://medium.com/nervosnetwork/nervos-ckb-development-update-28-5c85be7a599e) The team has deployed Duktape (a Javascript VM) and mruby to testnet.

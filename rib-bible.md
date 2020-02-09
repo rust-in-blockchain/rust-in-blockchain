@@ -15,10 +15,20 @@ Guidelines when looking for content:
 Media:
 
 - https://medium.com/codechain
+- https://twitter.com/codechain_io
+- https://research.codechain.io
 
 Github queries:
 
 - https://github.com/CodeChain-io/codechain/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+- https://github.com/CodeChain-io/foundry/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+- https://github.com/CodeChain-io/rust-merkle-trie/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+- https://github.com/CodeChain-io/rust-codechain-primitives/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+- https://github.com/CodeChain-io/jsonrpc-filter/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+- https://github.com/CodeChain-io/rlp/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+- https://github.com/CodeChain-io/rust-codechain-db/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+- https://github.com/CodeChain-io/rust-codechain-crypto/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+- https://github.com/CodeChain-io/vrf-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
 
 Most active:
 

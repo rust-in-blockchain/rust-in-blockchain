@@ -11,7 +11,7 @@ Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the
 
 ## Thanks
 
-This edition of RiB was produced with contributions from [SeungMin Lee](https://github.com/somniumism),[Alex Gluchowski](https://github.com/gluk64), Brian Anderson, and Aimee Zhu. Thank you for your help!
+This edition of RiB was produced with contributions from [SeungMin Lee](https://github.com/somniumism), [Alex Gluchowski](https://github.com/gluk64), Brian Anderson, and Aimee Zhu. Thank you for your help!
 
 RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
@@ -248,11 +248,29 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Events
 
+Mar 4-11 | London, UK
+
+[London Blockchain Week](https://www.blockchainweek.com/)
+
+Mar 7-8 | MIT Campus, US
+
+[MIT Bitcoin Expo 2020](https://mitbitcoinexpo.org/)
+
+Mar 31 - Apr 1 | Paris, France
+
+[Paris Blockchain Week Summit](https://www.pbwsummit.com/)
+
+Apr 13-16 | Oxford, UK
+
+[IEEE DAPPS 2020](https://ieeedapps.net/)
 
 &nbsp;
 
 ## Careers
 
+imToken | Singapore; Hangzhou, China
+
+[Blockchain Development Engineer](https://token.im/careers#jobs)
 
 Nervos | Remote
 
@@ -261,6 +279,11 @@ Nervos | Remote
 Nervos | Hangzhou, China; Remote
 
 [Senior blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
+
+PureStake | Boston, US
+
+[Blockchain Engineer](https://www.linkedin.com/jobs/view/1745360752/)
+
 
 &nbsp;
 

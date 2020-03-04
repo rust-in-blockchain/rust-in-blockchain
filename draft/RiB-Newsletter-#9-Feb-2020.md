@@ -79,6 +79,22 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**NEAR**](https://github.com/nearprotocol/nearcore)
 
+[67 merged PRs][near-mergedpr], [61 closed issues][near-issue].
+
+[near-mergedpr]: https://github.com/nearprotocol/nearcore/pulls?q=is%3Apr+is%3Amerged+merged%3A2020-02-01..2020-03-03
+[near-issue]: https://github.com/nearprotocol/nearcore/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+
+- New Release: [The Open Web Collective Incubator and Accelerator](https://openwebcollective.com/)
+- News: [NEAR Community Update: February 28th, 2020](https://nearprotocol.com/blog/near-community-update-february-28th-2020/)
+- News: [NEAR Community Update: February 14th, 2020](https://nearprotocol.com/blog/near-community-update-february-14th-2020/)
+- News: [“Into the Open Web”, China Community AMA](https://nearprotocol.com/blog/openwebchinaama/)
+- Blog: [Running Ethereum Applications On NEAR](https://nearprotocol.com/blog/running-ethereum-applications-on-near/)
+- Blog: [Doomslug vs PBFT, Tendermint, and Hotstuff](https://nearprotocol.com/blog/doomslug-comparison/)
+- Blog: [How do Randomness Beacons based on Threshold Signatures work?](https://nearprotocol.com/blog/randomness-threshold-signatures/)
+- Discussion: [How to stop shard congestion attack  ](https://github.com/nearprotocol/nearcore/issues/2196)
+- PR: [Block production summary in 100 node](https://github.com/nearprotocol/nearcore/pull/1876)
+- PR: [feat(runtime): Validate incoming receipts](https://github.com/nearprotocol/nearcore/pull/2155)
+- Issue: [Use master branch for development](https://github.com/nearprotocol/nearcore/issues/2165)
 
 #### [**Nervos**](https://github.com/nervosnetwork)
 
@@ -114,7 +130,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - PR: [Feat: Reject new scripts with known bugs](https://github.com/nervosnetwork/ckb/pull/1915)
 - PR: [Feat: Define StatusCode to indicate the result of sync operation](https://github.com/nervosnetwork/ckb/pull/1856)
 - Issue: [A utility to run CKB VM scripts](https://github.com/nervosnetwork/ckb/issues/1943)
-
 
 #### [**Parity** ](https://github.com/paritytech)
 

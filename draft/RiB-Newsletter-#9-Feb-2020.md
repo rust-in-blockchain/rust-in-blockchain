@@ -297,6 +297,10 @@ Mar 7-8 | MIT Campus, US
 
 [MIT Bitcoin Expo 2020](https://mitbitcoinexpo.org/)
 
+Mar 27-28 | SF, US
+
+[Bitcoin 2020](https://www.blocksocial.com/events/bitcoin-2020/)
+
 Mar 31 - Apr 1 | Paris, France
 
 [Paris Blockchain Week Summit](https://www.pbwsummit.com/)

@@ -136,6 +136,22 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
+[380 merged PRs][solana-mergedprs],
+[38 closed issues][solana-closedissues].
+
+[solana-mergedprs]: https://github.com/solana-labs/solana/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
+[solana-closedissues]: https://github.com/solana-labs/solana/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+
+- Blog: [Solana: You can’t turn back the hands of time](https://medium.com/dokia/solana-you-cant-turn-back-the-hands-of-time-e80b2d280fe1)
+- Podcast: [Vinny Lingham - CEO of Civic / General Partner at Multicoin Capital Ep #16](https://podcast.solana.com/episodes/vinny-lingham-ceo-of-civic-general-partner-at-multicoin-capital-ep-16-SGiLlm94)
+- Podcast: [Jill Carlson - Partner at Slow Ventures / Co-Founder Of The Open Money Initiative Ep #15](https://podcast.solana.com/episodes/jill-carlson-partner-at-slow-ventures-co-founder-of-the-open-money-initiative-Mi_Y_MzG)
+- Podcast: [Meher Roy & Reisen - Co-Founders of Chorus One Ep #14](https://podcast.solana.com/episodes/meher-roy-reisen-co-founders-of-chorus-one-ep-14-jqjbaRT9)
+- PR: [Hack to skip cleanup_dead_slots upon snapshot load](https://github.com/solana-labs/solana/pull/8561)
+- PR: [Do periodic inbound cleaning for rooted slots](https://github.com/solana-labs/solana/pull/8436)
+- PR: [Ledger hardware wallet integration](https://github.com/solana-labs/solana/pull/8068)
+- Issue: [PoH on SLP2 is going very slowly](https://github.com/solana-labs/solana/issues/8445)
+- Issue: [CLI exposes implementation detail "lamports"](https://github.com/solana-labs/solana/issues/8296)
+- Issue: [TdS consensus lost at slot 797572](https://github.com/solana-labs/solana/issues/8189)
 
 #### [**Zcash**](https://z.cash/)
 

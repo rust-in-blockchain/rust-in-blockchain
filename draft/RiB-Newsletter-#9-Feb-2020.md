@@ -64,6 +64,18 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**COMIT**](https://comit.network/)
 
+173 merged PRs ([1][comit-mergedpr1], [2][comit-mergedpr2]), 28 closed issues ([1][comit-issue1], [2][comit-issue2]).
+
+[comit-mergedpr1]: https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
+[comit-mergedpr2]: https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
+[comit-issue1]: https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+[comit-issue2]: https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+
+- News: [February, 2020 - Dev Update](https://comit.network/blog/2020/03/02/february-dev-update/)
+- PR: [Re-design the matching_transaction logic for Ethereum](https://github.com/comit-network/comit-rs/pull/2039)
+- PR: [Unroll some implementations generic over ledger::Bitcoin](https://github.com/comit-network/comit-rs/pull/1992)
+- PR: [Bitcoin matching transactions refactor](https://github.com/comit-network/comit-rs/pull/2098)
+- Issue: [Minimal viable ledger configuration strategy](https://github.com/comit-network/comit-rs/issues/1844)
 
 #### [**Enigma**](https://enigma.co/)
 

@@ -95,6 +95,18 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Holochain**](https://github.com/holochain/)
 
+[30 merged PRs][holochain-mergedpr],
+[2 closed issues][holochain-closedissues].
+
+[holochain-mergedpr]: https://github.com/holochain/holochain-rust/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
+[holochain-closedissues]: https://github.com/holochain/holochain-rust/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+
+- News: [Holochain Dev Pulse 65](https://blog.holochain.org/the-community-runs-with-the-ball/)
+- News: [Holochain Dev Pulse 64](https://blog.holochain.org/integration-efforts-5000-nodes/)
+- News: [Monthly Roundup for Holo & Holochain](https://medium.com/h-o-l-o/monthly-roundup-for-holo-holochain-1c31f2c0b841)
+- Blog: [Why CAL is Important To The End User?](https://medium.com/holochain/why-cal-is-important-to-the-end-user-aec58b2ff730)
+- PR: [Tracing pt. 1](https://github.com/holochain/holochain-rust/pull/1925)
+- Issue: [Unable to access child (to!) links when parent is updated](https://github.com/holochain/holochain-rust/issues/2106)
 
 #### [**NEAR**](https://github.com/nearprotocol/nearcore)
 

@@ -4,13 +4,18 @@
 
 Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #8](https://rustinblockchain.org/2020/02/05/rib-newsletter-8-looking-forward-to-2020/).
 
-Because of coronavirus, some offline conferences have been canceled, and came with more online events. Developers and tech companies start to share remote working experience and encourage the remote-first culture. Nick shares his experience at Remote work [part 1][remote1], [part 2][remote2], [part 3][remote3].
+This month [Solana released version 1.0][s1]. Congrats to one of the hardest-working Rust blockchain teams &mdash; Solana did things right all last year, with extraordinary development velocity, consistent technical media publications, and multiple event appearances and sponsorships. We wish them the best success.
 
+[s1]: https://github.com/solana-labs/solana/releases/tag/v1.0.0
+
+Because of certain world events, offline events are starting to be cancelled, including [at least one blockchain conference][bcc]. More tech companies are starting to encourage a remote-working culture. Nick Cameron, of the Rust core team, recently shared his experience as a long-time remote worker: [part 1][remote1], [part 2][remote2], [part 3][remote3].
+
+[bcc]: https://www.thecoinrepublic.com/2020/02/03/coronavirus-threat-pushes-binance-to-postpone-vietnam-blockchain-week/
 [remote1]: https://www.ncameron.org/blog/remote-work-part-1/
 [remote2]: https://www.ncameron.org/blog/remote-work-part-2/
 [remote3]: https://www.ncameron.org/blog/remote-work-part-3/
 
-This month, we covered fewer projects in order to save time, but new pull requests about other uncovered projects are welcome!
+We covered fewer projects this month in order to save time and effort. If we didn't cover the project you are interested in, we apologize. For future editions, and as always, pull requests providing additional coverage are welcome.
 
 &nbsp;
 

@@ -1,16 +1,30 @@
-# RiB Newsletter #9 - Feb 2020
+# RiB Newsletter #9 - Don't Panic
 
 **#9 - Feb 2020**
 
 Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #8](https://rustinblockchain.org/2020/02/05/rib-newsletter-8-looking-forward-to-2020/).
 
+Because of coronavirus, some offline conferences have been canceled, and came with more online events. Developers and tech companies start to share remote working experience and encourage the remote-first culture. Nick shares his experience at Remote work [part 1][remote1], [part 2][remote2], [part 3][remote3].
+
+[remote1]: https://www.ncameron.org/blog/remote-work-part-1/
+[remote2]: https://www.ncameron.org/blog/remote-work-part-2/
+[remote3]: https://www.ncameron.org/blog/remote-work-part-3/
+
+This month, we covered fewer projects in order to save time, but new pull requests about other uncovered projects are welcome!
+
 &nbsp;
 
 ## Thanks
 
-This edition of RiB was produced with contributions from [SeungMin Lee](https://github.com/somniumism), [Alex Gluchowski](https://github.com/gluk64), [MP](https://twitter.com/MPtherealMVP), Brian Anderson, and Aimee Zhu. Thank you for your help!
+This edition of RiB was produced with contributions from [SeungMin Lee][contributorsl], [Alex Gluchowski][contributorag], [María Paula][contributormp], Paulii Good, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
 RiB needs help keeping up with Rust blockchain projects, or, if you find something interesting and beneficial to the Rust & blockchain community, please contribute to the next issue, submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+
+[contributorsl]: https://github.com/somniumism
+[contributorag]: https://github.com/gluk64
+[contributormp]: https://twitter.com/MPtherealMVP
+[contributorba]: https://github.com/brson
+[contributoraz]: https://github.com/Aimeedeer
 
 &nbsp;
 
@@ -172,7 +186,7 @@ Golem has [a number of interesting Rust projects][grust].
 - Podcast: [Epicenter: Nervos – Scaling Smart Contact Blockchains With Proof of Work and Generalized UTXO](https://epicenter.tv/episodes/326/)
 - Blog: [Animagus Part 1: Introduction](https://medium.com/nervosnetwork/https-medium-com-nervosnetwork-animagus-part-1-introduction-66fa8ce27ccd-cfb361a7d883). Animagus is a special built tool, an account layer for CKB, to enable the CKB potential. The name comes from the Harry Potter series.
 - Blog: [An optimized compacted sparse merkle tree](https://justjjy.com/An-optimized-compact-sparse-merkle-tree)
-- Blog: [Introduction to CKB Script Programming 8: Performant WASM ](https://xuejie.space/2020_03_03_introduction_to_ckb_script_programming_performant_wasm/)
+- Blog: [Introduction to CKB Script Programming 8: Performant WASM](https://xuejie.space/2020_03_03_introduction_to_ckb_script_programming_performant_wasm/)
 - Blog: [Introduction to CKB Script Programming 7: Advanced Duktape Examples](https://xuejie.space/2020_02_21_introduction_to_ckb_script_programming_advanced_duktape_examples/)
 - Blog: [Let's Build a Minimal Blockchain 2: Ultimate Upgradability](https://xuejie.space/2020_02_08_lets_build_a_minimal_blockchain_ultimate_upgradability/)
 - Blog: [Introduction to CKB Script Programming 6: Type ID ](https://xuejie.space/2020_02_03_introduction_to_ckb_script_programming_type_id/)
@@ -237,6 +251,7 @@ Golem has [a number of interesting Rust projects][grust].
 
 - News: [ECC scaling research: 2019 research & development milestones](https://electriccoin.co/blog/ecc-scaling-research-2019-research-development-milestones/)
 - News: [Funding of Zcash from November: ZIP 1014 is final](https://www.crypto-news-flash.com/funding-of-zcash-from-november-zip-1014-is-final/)
+- News: [Zcash Foundation Update • February 1 – March 3, 2020](https://news.zfnd.org/archive/zcash-foundation-update-february-1-march-3-2020/)
 - News: [TOR Browser To Recieve $50000 From Zcash](https://cryptosyringe.com/tor-browser-to-recieve-50000-from-zcash/8488/)
 - News: [Q1 2020 Livestream Video + Q&A](https://forum.zcashcommunity.com/t/q1-2020-livestream-video-q-a/36038)
 - News: [New Releases: 2.1.1 and hotfix 2.1.1-1](https://electriccoin.co/blog/new-releases-2-1-1-and-hotfix-2-1-1-1/)
@@ -257,11 +272,17 @@ Golem has [a number of interesting Rust projects][grust].
 
 [Token Engineering Learning Program](https://www.tannrallard.tech/token-engineering-learning-program/)
 
+[Onboarding to Bitcoin Core](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)
+
+[Programs, life cycles, and laws of software evolution](https://blog.acolyer.org/2020/02/14/programs-life-cycles-laws/)
+
 &nbsp;
 
 ## Interesting Things
 
 [lalotai/rust-blockchain](https://github.com/lalotai/rust-blockchain). A simple blockchain in Rust.
+
+[Super Bowl mentioned Rust](https://twitter.com/TedMielczarek/status/1229130460929888258)
 
 &nbsp;
 

@@ -22,7 +22,19 @@ RiB needs help keeping up with Rust blockchain projects. To contribute to the ne
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
-&nbsp;
+[gMorph](https://github.com/golemfactory/gMorph)
+
+gMorph is a [fully homomorphic encryption][fhe] library. Fully homomorphic
+encryption allows for arbitrary computation on encrypted data. For an example of
+gMorph in practice, see the [gudot] project, which performs linear regression on
+[golem].
+
+Golem has [a number of interesting Rust projects][grust].
+
+[fhe]: https://en.wikipedia.org/wiki/Homomorphic_encryption
+[gudot]: https://github.com/golemfactory/gudot
+[golem]: https://github.com/golemfactory
+[grust]: https://github.com/golemfactory?utf8=%E2%9C%93&q=&type=&language=rust
 
 
 ## Most Active in Feburary

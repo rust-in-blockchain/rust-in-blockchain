@@ -8,14 +8,12 @@ This month [Solana released version 1.0][s1]. Congrats to one of the hardest-wor
 
 [s1]: https://github.com/solana-labs/solana/releases/tag/v1.0.0
 
-Because of certain world events, offline events are starting to be cancelled, including [at least one blockchain conference][bcc]. More tech companies are starting to encourage a remote-working culture. Nick Cameron, of the Rust core team, recently shared his experience as a long-time remote worker: [part 1][remote1], [part 2][remote2], [part 3][remote3].
+Because of certain world events, offline conferences are starting to be cancelled, including [at least one blockchain conference][bcc]. More tech companies are starting to encourage a remote-working culture. Nick Cameron, of the Rust core team, recently shared his experience as a long-time remote worker: [part 1][remote1], [part 2][remote2], [part 3][remote3].
 
 [bcc]: https://www.thecoinrepublic.com/2020/02/03/coronavirus-threat-pushes-binance-to-postpone-vietnam-blockchain-week/
 [remote1]: https://www.ncameron.org/blog/remote-work-part-1/
 [remote2]: https://www.ncameron.org/blog/remote-work-part-2/
 [remote3]: https://www.ncameron.org/blog/remote-work-part-3/
-
-We covered fewer projects this month in order to save time and effort. If we didn't cover the project you are interested in, we apologize. For future editions, and as always, pull requests providing additional coverage are welcome.
 
 &nbsp;
 
@@ -23,7 +21,7 @@ We covered fewer projects this month in order to save time and effort. If we did
 
 This edition of RiB was produced with contributions from [SeungMin Lee][contributorsl], [Alex Gluchowski][contributorag], [María Paula][contributormp], Paulii Good, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
-RiB needs help keeping up with Rust blockchain projects, or, if you find something interesting and beneficial to the Rust & blockchain community, please contribute to the next issue, submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+RiB needs help keeping up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 [contributorsl]: https://github.com/somniumism
 [contributorag]: https://github.com/gluk64

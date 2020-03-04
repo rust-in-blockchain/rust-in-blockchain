@@ -2,7 +2,7 @@
 
 **#9 - Feb 2020**
 
-Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #8](). -->
+Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #8](https://rustinblockchain.org/2020/02/05/rib-newsletter-8-looking-forward-to-2020/).
 
 
 
@@ -210,6 +210,6 @@ Nervos | Hangzhou, China; Remote
 
 &nbsp;
 
-Want to be included in the next issue? Feel free to submit a PR to the [#10 draft](), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+Want to be included in the next issue? Feel free to submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%2310-Mar-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 **Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**

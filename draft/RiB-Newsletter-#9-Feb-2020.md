@@ -13,7 +13,7 @@ Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the
 
 This edition of RiB was produced with contributions from [SeungMin Lee](https://github.com/somniumism), [Alex Gluchowski](https://github.com/gluk64), Brian Anderson, and Aimee Zhu. Thank you for your help!
 
-RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+RiB needs help keeping up with Rust blockchain projects, or, if you find something interesting and beneficial to the Rust & blockchain community, please contribute to the next issue, submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 &nbsp;
 

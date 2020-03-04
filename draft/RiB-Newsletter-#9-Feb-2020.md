@@ -4,19 +4,15 @@
 
 Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #8](https://rustinblockchain.org/2020/02/05/rib-newsletter-8-looking-forward-to-2020/).
 
-
-
 &nbsp;
-
 
 ## Thanks
 
-This edition of RiB was produced with contributions from [SeungMin Lee](https://github.com/somniumism), [Alex Gluchowski](https://github.com/gluk64), Brian Anderson, and Aimee Zhu. Thank you for your help!
+This edition of RiB was produced with contributions from [SeungMin Lee](https://github.com/somniumism), [Alex Gluchowski](https://github.com/gluk64), [MP](https://twitter.com/MPtherealMVP), Brian Anderson, and Aimee Zhu. Thank you for your help!
 
 RiB needs help keeping up with Rust blockchain projects, or, if you find something interesting and beneficial to the Rust & blockchain community, please contribute to the next issue, submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 &nbsp;
-
 
 ## Project spotlight
 
@@ -36,12 +32,24 @@ Golem has [a number of interesting Rust projects][grust].
 [golem]: https://github.com/golemfactory
 [grust]: https://github.com/golemfactory?utf8=%E2%9C%93&q=&type=&language=rust
 
+&nbsp;
 
 ## Most Active in Feburary
 
+[Solana]: [380 merged PRs][solana-mergedprs], [38 closed issues][solana-closedissues]
+
+[Parity]: 221 merged PRs ([1][parity-mergedpr1], [2][parity-mergedpr2]), 71 closed issues ([1][parity-issue1], [2][parity-issue2]).
+
+[COMIT]: 173 merged PRs ([1][comit-mergedpr1], [2][comit-mergedpr2]), 28 closed issues ([1][comit-issue1], [2][comit-issue2]).
+
+[NEAR]: [67 merged PRs][near-mergedpr], [61 closed issues][near-issue].
+
+[Solana]: https://github.com/solana-labs/solana
+[Parity]: https://github.com/paritytech
+[COMIT]: https://comit.network/
+[NEAR]: https://github.com/nearprotocol/nearcore
+
 &nbsp;
-
-
 
 ## Project updates
 
@@ -201,8 +209,7 @@ Golem has [a number of interesting Rust projects][grust].
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
-[380 merged PRs][solana-mergedprs],
-[38 closed issues][solana-closedissues].
+[380 merged PRs][solana-mergedprs], [38 closed issues][solana-closedissues].
 
 [solana-mergedprs]: https://github.com/solana-labs/solana/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
 [solana-closedissues]: https://github.com/solana-labs/solana/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
@@ -254,7 +261,7 @@ Golem has [a number of interesting Rust projects][grust].
 
 ## Interesting Things
 
-- [lalotai/rust-blockchain](https://github.com/lalotai/rust-blockchain). A simple blockchain in Rust.
+[lalotai/rust-blockchain](https://github.com/lalotai/rust-blockchain). A simple blockchain in Rust.
 
 &nbsp;
 

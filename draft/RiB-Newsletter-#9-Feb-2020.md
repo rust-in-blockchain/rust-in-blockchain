@@ -77,16 +77,23 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - PR: [Bitcoin matching transactions refactor](https://github.com/comit-network/comit-rs/pull/2098)
 - Issue: [Minimal viable ledger configuration strategy](https://github.com/comit-network/comit-rs/issues/1844)
 
-#### [**Enigma**](https://enigma.co/)
-
-
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
+[28 merged PRs][grin-mergedpr], [12 closed issues][grin-issue].
+
+[grin-mergedpr]: https://github.com/mimblewimble/grin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
+[grin-issue]: https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+
+- News: [87: Grin v3.1.0 released](https://grinnews.substack.com/p/87-grin-v310-released-)
+- News: [86: New node release in the works](https://grinnews.substack.com/p/86-new-node-release-in-the-works)
+- News: [85: RFC activity](https://grinnews.substack.com/p/86-new-node-release-in-the-works)
+- News: [84: Preparations for Wallet v3.1.0](https://grinnews.substack.com/p/84-preparations-for-wallet-v310-)
+- PR: [Block input bitmap rework](https://github.com/mimblewimble/grin/pull/3236)
+- PR: [Attempt to read ipv4-mapped ipv6 to ipv4 if possible](https://github.com/mimblewimble/grin/pull/3221)
+- Issue: [The block was not credited](https://github.com/mimblewimble/grin/issues/3257)
+- Issue: [100% cpu load on all nodes](https://github.com/mimblewimble/grin/issues/3237)
 
 #### [**Holochain**](https://github.com/holochain/)
-
-
-#### [**Interledger**](https://interledger.org/)
 
 
 #### [**NEAR**](https://github.com/nearprotocol/nearcore)
@@ -145,6 +152,28 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**Parity** ](https://github.com/paritytech)
 
+221 merged PRs ([1][parity-mergedpr1], [2][parity-mergedpr2]), 71 closed issues ([1][parity-issue1], [2][parity-issue2]).
+
+[parity-mergedpr1]: https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+merged%3A2020-02-01..2020-03-03
+[parity-mergedpr2]: https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Amerged+merged%3A2020-02-01..2020-03-03
+[parity-issue1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+[parity-issue2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+
+- News: [Major Milestone Achieved: Polkadot and Chainlink Integration Using Substrate](https://polkadot.network/chainlink-reaches-milestone-with-polkadot)
+- News: [https://cointelegraph.com/news/polkadot-will-feature-layer-two-scaling-thanks-to-celer-network](https://cointelegraph.com/news/polkadot-will-feature-layer-two-scaling-thanks-to-celer-network)
+- Blog: [Write Wasm smart contracts with ink! 2.0](https://www.parity.io/write-wasm-smart-contracts-with-ink-2-0/)
+- Blog: [Built on Substrate: KILT Protocol](https://www.parity.io/built-on-substrate-kilt-protocol/)
+- Blog: [Contributors Join OpenEthereum](https://www.parity.io/contributors-join-openethereum/)
+- Blog: [The Path of a Parachain Block](https://polkadot.network/the-path-of-a-parachain-block/)
+- Video: [Web3 Builders: Polymesh](https://www.crowdcast.io/e/polkadot-web3-polymath-polymesh-builders)
+- Video: [Sub0.1: Gavin Wood presents Polkadot's cross-chain messaging (XCMP) scheme](https://www.youtube.com/watch?v=wrA9vlPjVPE)
+- Video: [Solving the NPoS Problem with Phragmen -- Substrate Seminar 25 February 2020](https://www.youtube.com/watch?v=MjOvVhc1oXw)
+- Video: [Built on Substrate: What it's like building on Substrate blockchain framework](https://www.youtube.com/watch?v=WFbUc15ZhgU)
+- PR: [Offchain Workers: Example Pallet](https://github.com/paritytech/substrate/pull/4989)
+- PR: [A more comprehensive model for PoV-Blocks and Candidate receipts](https://github.com/paritytech/polkadot/pull/843)
+- Issue: [Inflation 10% higher than set](https://github.com/paritytech/substrate/issues/4964)
+- Issue: [RPC method state_nextKey](https://github.com/paritytech/substrate/issues/4717)
+- Issue: [Link to llvm on Mac OSX in README](https://github.com/paritytech/substrate/issues/1454)
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 

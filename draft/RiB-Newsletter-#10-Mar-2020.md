@@ -36,9 +36,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [**COMIT**](https://comit.network/)
 
 
-#### [**Enigma**](https://enigma.co/)
-
-
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
 

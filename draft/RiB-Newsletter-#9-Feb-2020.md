@@ -214,6 +214,7 @@ Golem has [a number of interesting Rust projects][grust].
 [solana-mergedprs]: https://github.com/solana-labs/solana/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
 [solana-closedissues]: https://github.com/solana-labs/solana/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
 
+- Release: [Solana released version 1.0](https://github.com/solana-labs/solana/releases/tag/v1.0.0)
 - Blog: [Solana: You can’t turn back the hands of time](https://medium.com/dokia/solana-you-cant-turn-back-the-hands-of-time-e80b2d280fe1)
 - Podcast: [Vinny Lingham - CEO of Civic / General Partner at Multicoin Capital Ep #16](https://podcast.solana.com/episodes/vinny-lingham-ceo-of-civic-general-partner-at-multicoin-capital-ep-16-SGiLlm94)
 - Podcast: [Jill Carlson - Partner at Slow Ventures / Co-Founder Of The Open Money Initiative Ep #15](https://podcast.solana.com/episodes/jill-carlson-partner-at-slow-ventures-co-founder-of-the-open-money-initiative-Mi_Y_MzG)

@@ -15,8 +15,6 @@ Because of certain world events, offline events are starting to be canceled, inc
 [remote2]: https://www.ncameron.org/blog/remote-work-part-2/
 [remote3]: https://www.ncameron.org/blog/remote-work-part-3/
 
-We covered fewer projects this month in order to save time and effort. If we didn't cover the project you are interested in, we apologize. For future editions, and as always, pull requests providing additional coverage are welcome.
-
 &nbsp;
 
 ## Thanks

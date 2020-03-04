@@ -11,9 +11,9 @@ Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the
 
 ## Thanks
 
-This edition of RiB was produced with contributions from TODO XXX, Brian Anderson, and Aimee Zhu. Thank you for your help!
+This edition of RiB was produced with contributions from [SeungMin Lee](https://github.com/somniumism), [Alex Gluchowski](https://github.com/gluk64), Brian Anderson, and Aimee Zhu. Thank you for your help!
 
-RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+RiB needs help keeping up with Rust blockchain projects, or, if you find something interesting and beneficial to the Rust & blockchain community, please contribute to the next issue, submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 &nbsp;
 
@@ -76,18 +76,49 @@ Golem has [a number of interesting Rust projects][grust].
 
 #### [**COMIT**](https://comit.network/)
 
+173 merged PRs ([1][comit-mergedpr1], [2][comit-mergedpr2]), 28 closed issues ([1][comit-issue1], [2][comit-issue2]).
 
-#### [**Enigma**](https://enigma.co/)
+[comit-mergedpr1]: https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
+[comit-mergedpr2]: https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
+[comit-issue1]: https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+[comit-issue2]: https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
 
+- News: [February, 2020 - Dev Update](https://comit.network/blog/2020/03/02/february-dev-update/)
+- PR: [Re-design the matching_transaction logic for Ethereum](https://github.com/comit-network/comit-rs/pull/2039)
+- PR: [Unroll some implementations generic over ledger::Bitcoin](https://github.com/comit-network/comit-rs/pull/1992)
+- PR: [Bitcoin matching transactions refactor](https://github.com/comit-network/comit-rs/pull/2098)
+- Issue: [Minimal viable ledger configuration strategy](https://github.com/comit-network/comit-rs/issues/1844)
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
+[28 merged PRs][grin-mergedpr], [12 closed issues][grin-issue].
+
+[grin-mergedpr]: https://github.com/mimblewimble/grin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
+[grin-issue]: https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+
+- News: [87: Grin v3.1.0 released](https://grinnews.substack.com/p/87-grin-v310-released-)
+- News: [86: New node release in the works](https://grinnews.substack.com/p/86-new-node-release-in-the-works)
+- News: [85: RFC activity](https://grinnews.substack.com/p/86-new-node-release-in-the-works)
+- News: [84: Preparations for Wallet v3.1.0](https://grinnews.substack.com/p/84-preparations-for-wallet-v310-)
+- PR: [Block input bitmap rework](https://github.com/mimblewimble/grin/pull/3236)
+- PR: [Attempt to read ipv4-mapped ipv6 to ipv4 if possible](https://github.com/mimblewimble/grin/pull/3221)
+- Issue: [The block was not credited](https://github.com/mimblewimble/grin/issues/3257)
+- Issue: [100% cpu load on all nodes](https://github.com/mimblewimble/grin/issues/3237)
 
 #### [**Holochain**](https://github.com/holochain/)
 
+[30 merged PRs][holochain-mergedpr],
+[2 closed issues][holochain-closedissues].
 
-#### [**Interledger**](https://interledger.org/)
+[holochain-mergedpr]: https://github.com/holochain/holochain-rust/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
+[holochain-closedissues]: https://github.com/holochain/holochain-rust/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
 
+- News: [Holochain Dev Pulse 65](https://blog.holochain.org/the-community-runs-with-the-ball/)
+- News: [Holochain Dev Pulse 64](https://blog.holochain.org/integration-efforts-5000-nodes/)
+- News: [Monthly Roundup for Holo & Holochain](https://medium.com/h-o-l-o/monthly-roundup-for-holo-holochain-1c31f2c0b841)
+- Blog: [Why CAL is Important To The End User?](https://medium.com/holochain/why-cal-is-important-to-the-end-user-aec58b2ff730)
+- PR: [Tracing pt. 1](https://github.com/holochain/holochain-rust/pull/1925)
+- Issue: [Unable to access child (to!) links when parent is updated](https://github.com/holochain/holochain-rust/issues/2106)
 
 #### [**NEAR**](https://github.com/nearprotocol/nearcore)
 
@@ -145,6 +176,28 @@ Golem has [a number of interesting Rust projects][grust].
 
 #### [**Parity** ](https://github.com/paritytech)
 
+221 merged PRs ([1][parity-mergedpr1], [2][parity-mergedpr2]), 71 closed issues ([1][parity-issue1], [2][parity-issue2]).
+
+[parity-mergedpr1]: https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+merged%3A2020-02-01..2020-03-03
+[parity-mergedpr2]: https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Amerged+merged%3A2020-02-01..2020-03-03
+[parity-issue1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+[parity-issue2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+
+- News: [Major Milestone Achieved: Polkadot and Chainlink Integration Using Substrate](https://polkadot.network/chainlink-reaches-milestone-with-polkadot)
+- News: [https://cointelegraph.com/news/polkadot-will-feature-layer-two-scaling-thanks-to-celer-network](https://cointelegraph.com/news/polkadot-will-feature-layer-two-scaling-thanks-to-celer-network)
+- Blog: [Write Wasm smart contracts with ink! 2.0](https://www.parity.io/write-wasm-smart-contracts-with-ink-2-0/)
+- Blog: [Built on Substrate: KILT Protocol](https://www.parity.io/built-on-substrate-kilt-protocol/)
+- Blog: [Contributors Join OpenEthereum](https://www.parity.io/contributors-join-openethereum/)
+- Blog: [The Path of a Parachain Block](https://polkadot.network/the-path-of-a-parachain-block/)
+- Video: [Web3 Builders: Polymesh](https://www.crowdcast.io/e/polkadot-web3-polymath-polymesh-builders)
+- Video: [Sub0.1: Gavin Wood presents Polkadot's cross-chain messaging (XCMP) scheme](https://www.youtube.com/watch?v=wrA9vlPjVPE)
+- Video: [Solving the NPoS Problem with Phragmen -- Substrate Seminar 25 February 2020](https://www.youtube.com/watch?v=MjOvVhc1oXw)
+- Video: [Built on Substrate: What it's like building on Substrate blockchain framework](https://www.youtube.com/watch?v=WFbUc15ZhgU)
+- PR: [Offchain Workers: Example Pallet](https://github.com/paritytech/substrate/pull/4989)
+- PR: [A more comprehensive model for PoV-Blocks and Candidate receipts](https://github.com/paritytech/polkadot/pull/843)
+- Issue: [Inflation 10% higher than set](https://github.com/paritytech/substrate/issues/4964)
+- Issue: [RPC method state_nextKey](https://github.com/paritytech/substrate/issues/4717)
+- Issue: [Link to llvm on Mac OSX in README](https://github.com/paritytech/substrate/issues/1454)
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
@@ -207,11 +260,29 @@ Golem has [a number of interesting Rust projects][grust].
 
 ## Events
 
+Mar 4-11 | London, UK
+
+[London Blockchain Week](https://www.blockchainweek.com/)
+
+Mar 7-8 | MIT Campus, US
+
+[MIT Bitcoin Expo 2020](https://mitbitcoinexpo.org/)
+
+Mar 31 - Apr 1 | Paris, France
+
+[Paris Blockchain Week Summit](https://www.pbwsummit.com/)
+
+Apr 13-16 | Oxford, UK
+
+[IEEE DAPPS 2020](https://ieeedapps.net/)
 
 &nbsp;
 
 ## Careers
 
+imToken | Singapore; Hangzhou, China
+
+[Blockchain Development Engineer](https://token.im/careers#jobs)
 
 Nervos | Remote
 
@@ -220,6 +291,11 @@ Nervos | Remote
 Nervos | Hangzhou, China; Remote
 
 [Senior blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
+
+PureStake | Boston, US
+
+[Blockchain Engineer](https://www.linkedin.com/jobs/view/1745360752/)
+
 
 &nbsp;
 

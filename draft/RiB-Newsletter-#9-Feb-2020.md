@@ -2,7 +2,7 @@
 
 **#9 - Feb 2020**
 
-Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #8](). -->
+Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #8](https://rustinblockchain.org/2020/02/05/rib-newsletter-8-looking-forward-to-2020/).
 
 
 
@@ -13,7 +13,7 @@ Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the
 
 This edition of RiB was produced with contributions from TODO XXX, Brian Anderson, and Aimee Zhu. Thank you for your help!
 
-RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#9 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 &nbsp;
 
@@ -181,11 +181,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 &nbsp;
 
-## Challenges
-
-
-&nbsp;
-
 ## Learning
 
 [Token Engineering Learning Program](https://www.tannrallard.tech/token-engineering-learning-program/)
@@ -207,13 +202,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 
 Nervos | Remote
+
 [Developer Relations](https://angel.co/company/nervos-1/jobs/710826-developer-relations)
 
 Nervos | Hangzhou, China; Remote
+
 [Senior blockchain Engineer](https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer)
 
 &nbsp;
 
-Want to be included in the next issue? Feel free to submit a PR to the [#10 draft](), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+Want to be included in the next issue? Feel free to submit a PR to the [#10 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%2310-Mar-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 **Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**

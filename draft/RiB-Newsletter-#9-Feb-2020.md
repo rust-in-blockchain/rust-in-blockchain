@@ -194,6 +194,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
+- [lalotai/rust-blockchain](https://github.com/lalotai/rust-blockchain). A simple blockchain in Rust.
 
 &nbsp;
 

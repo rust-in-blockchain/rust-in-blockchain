@@ -192,7 +192,7 @@ Golem has [a number of interesting Rust projects][grust].
 [parity-issue2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
 
 - News: [Major Milestone Achieved: Polkadot and Chainlink Integration Using Substrate](https://polkadot.network/chainlink-reaches-milestone-with-polkadot)
-- News: [https://cointelegraph.com/news/polkadot-will-feature-layer-two-scaling-thanks-to-celer-network](https://cointelegraph.com/news/polkadot-will-feature-layer-two-scaling-thanks-to-celer-network)
+- News: [Polkadot will feature layer two scaling thanks to Celer Network](https://cointelegraph.com/news/polkadot-will-feature-layer-two-scaling-thanks-to-celer-network)
 - Blog: [Write Wasm smart contracts with ink! 2.0](https://www.parity.io/write-wasm-smart-contracts-with-ink-2-0/)
 - Blog: [Built on Substrate: KILT Protocol](https://www.parity.io/built-on-substrate-kilt-protocol/)
 - Blog: [Contributors Join OpenEthereum](https://www.parity.io/contributors-join-openethereum/)

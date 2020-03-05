@@ -82,6 +82,7 @@ Media:
 Github queries:
 
 - https://github.com/golemfactory/gwasm-runner/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
+- https://github.com/golemfactory/golem/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
 - https://github.com/golemfactory/mandelbrot/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
 - https://github.com/golemfactory/sp-wasm/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
 - https://github.com/golemfactory/gudot/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc

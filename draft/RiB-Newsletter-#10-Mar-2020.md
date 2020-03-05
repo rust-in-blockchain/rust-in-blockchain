@@ -36,6 +36,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [**COMIT**](https://comit.network/)
 
 
+#### [**Golem**](https://golem.network/)
+
+
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
 

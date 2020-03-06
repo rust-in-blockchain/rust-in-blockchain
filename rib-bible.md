@@ -71,6 +71,32 @@ Most active:
 - https://github.com/enigmampc/enigma-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
 
 
+## Golem
+
+Media:
+
+- https://blog.golemproject.net/
+- https://twitter.com/golemproject
+- https://chat.golem.network/
+
+Github queries:
+
+- https://github.com/golemfactory/gwasm-runner/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
+- https://github.com/golemfactory/golem/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
+- https://github.com/golemfactory/mandelbrot/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
+- https://github.com/golemfactory/sp-wasm/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
+- https://github.com/golemfactory/gudot/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
+- https://github.com/golemfactory/g-flite/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
+- https://github.com/golemfactory/golem-client/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
+- https://github.com/golemfactory/gMorph/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
+- https://github.com/golemfactory/hello-gwasm-runner/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
+
+
+Most active:
+
+- https://github.com/golemfactory/gwasm-runner/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
+- https://github.com/golemfactory/gwasm-runner/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+
 ## Grin
 
 Media:

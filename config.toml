@@ -5,6 +5,7 @@ theme = "mainroad"
 paginate = "6" # Number of posts per page
 disqusShortname = "rustinblockchain" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+publishDir = "docs"
 
 [Params]
   subtitle = "Bringing engineering insight and experience to blockchain technology." # Subtitle of your site. Used in site header
@@ -60,6 +61,5 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   # Enable parts of social widget
   twitter = "rust_blockchain"
   telegram = "rustinblockchain"
-  reddit = "RustInBlockchain"
   github = "rust-in-blockchain"
   email = "hello@rustinblockchain.org"

@@ -360,6 +360,6 @@ Parity | Berlin, Germany
 
 &nbsp;
 
-Want to be included in the next issue? Feel free to submit a PR to the [#8 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/Rust%20in%20Blockchain%20%238%20-%20Jan%202020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+Want to be included in the next issue? Feel free to submit a PR to the [#8 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 **Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**

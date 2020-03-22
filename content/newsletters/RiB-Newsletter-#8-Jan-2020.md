@@ -38,7 +38,7 @@ Hack on, blockchain Rustaceans. Hack on.
 
 This edition of RiB was produced with contributions from [Park Juhyung][contributorpar], [Adria Massanet][contributoradr], Paulii Good, [Lane Rettig][contributorlane], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
-RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#9 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/blob/master/draft/RiB-Newsletter-%239-Feb-2020.md), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+RiB needs help keeping up with Rust blockchain projects. To contribute to the next issue, submit a PR to the [#9 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 [contributorlane]: https://github.com/lrettig
 [contributorpar]: https://github.com/majecty

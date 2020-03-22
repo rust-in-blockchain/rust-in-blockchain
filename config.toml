@@ -5,7 +5,7 @@ theme = "mainroad"
 paginate = "6" # Number of posts per page
 disqusShortname = "rustinblockchain" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-publishDir = "docs"
+publishDir = "../rust-in-blockchain.github.io"
 relativeURLs = true
 
 [Params]

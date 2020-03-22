@@ -1,7 +1,14 @@
-**Rust in Blockchain #5 - Oct 2019**
-**#5 - Oct 2019**
+---
+title: "Rust in Blockchain Newsletter #5"
+description: "#5 - Oct 2019"
+date: 2019-11-07
+slug: "/2019-11-07"
+type: single
+categories:
+  - "newsletters"
+---
 
-Welcome to the fifth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous: #4](https://rustinblockchain.org/2019/10/03/rust-in-blockchain-4-september-2019/).
+Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous: #4](/newsletters/2019-10-03).
 
 The highlight this month was [San Francisco Blockchain Week][sfbw]. This was a huge series of events, with representation from a number of Rust blockchain projects. Several projects, [Interledger], [Near], [Nervos], [Oasis], and [Parity] came together for a day of [Rust in Blockchain workshops][ribw].
 
@@ -20,7 +27,7 @@ That wasn't the only big event in October though. [DevCon] in Tokyo also include
 &nbsp;
 
 
-**Project spotlight**
+## Project spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
@@ -35,7 +42,7 @@ Read ["How to Interconnect All Blockchains and Value Networks"][ilov] for an ove
 [il-news-1]: https://medium.com/interledger-blog/interledger-rust-alpha-release-a6d2394ab554
 
 
-**Project updates**
+## Project updates
 
 #### [**Enigma**](https://enigma.co/)
 
@@ -201,7 +208,7 @@ Summary: Solana development is strikingly active, landing 403 PRs in October. Th
 
 &nbsp;
 
-**Challenges**
+## Challenges
 
 [Nervos Bug Bounty](https://bounty.nervos.org/)
 
@@ -209,13 +216,13 @@ Summary: Solana development is strikingly active, landing 403 PRs in October. Th
 
 &nbsp;
 
-**Learning**
+## Learning
 
 [Podcast (in Chinese): ForkIt: chat with Tang Wei from Parity and Xiao Xuejie from Nervos](https://forkit.fm/9)
 
 &nbsp;
 
-**Interesting Things**
+## Interesting Things
 
 [Ferris Fencing: An eternal duel between programmable crabs with swords.](http://www.ferrisfencing.org/) It is a showcase of CKB-VM, a simple implementation of the RISC-V instruction set, written in the Rust programming language.
 
@@ -223,7 +230,7 @@ Summary: Solana development is strikingly active, landing 403 PRs in October. Th
 
 &nbsp;
 
-**Events**
+## Events
 
 November 9-12 | Barcelona, Spain
 
@@ -235,7 +242,7 @@ November 22 | Berlin, Germany
 
 &nbsp;
 
-**Careers**
+## Careers
 
 Centrifuge | Berlin, Germany; Remote
 

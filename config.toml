@@ -2,7 +2,7 @@ baseURL = "https://rustinblockchain.org/"
 languageCode = "en-us"
 title = "Rust in Blockchain"
 theme = "mainroad"
-paginate = "10" # Number of posts per page
+paginate = "6" # Number of posts per page
 disqusShortname = "rustinblockchain" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
@@ -60,5 +60,6 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   # Enable parts of social widget
   twitter = "rust_blockchain"
   telegram = "rustinblockchain"
+  reddit = "RustInBlockchain"
   github = "rust-in-blockchain"
   email = "hello@rustinblockchain.org"

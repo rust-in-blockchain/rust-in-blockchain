@@ -1,8 +1,16 @@
-# Rust in Blockchain #7 - Dec 2019
+---
 
-**#7 - Dec 2019**
+title: "Rust in Blockchain Newsletter #7"
+description: "#7 - Dec 2019"
+date: 2020-01-02
+slug: "/2020-01-02"
+type: single
+categories:
+  - "newsletters"
+---
 
-Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #6](https://rustinblockchain.org/2019/12/05/rust-in-blockchain-6-nov-2019/).
+
+Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #6](/newsletters/2019-12-05).
 
 This month we see a trend, in blockchain and across the Rust ecosystem, of projects quickly picking up stable async/await support and migrating to tokio 0.2.
 

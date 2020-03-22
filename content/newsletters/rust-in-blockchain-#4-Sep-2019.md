@@ -1,7 +1,15 @@
-**Rust in Blockchain #4 - Sep 2019**
-**#4 - Sep 2019**
+---
+title: "Rust in Blockchain Newsletter #4"
+description: "#4 - Sep 2019"
+date: 2019-10-03
+slug: "/2019-10-03"
+type: single
+categories:
+  - "newsletters"
+---
 
-Welcome to the #4 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #3](https://rustinblockchain.org/2019/09/05/rust-in-blockchain-3-august-2019/).
+
+Welcome to the #4 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #3](/newsletters/2019-09-05).
 
 September featured Berlin Blockchain week, one of the biggest blockchain events of the year, and a number of Rust blockchain projects
 were there. We held Rust in Blockchain events in Berlin as well as in Hangzhou, the videos for which (in Chinese) are linked below in the "learning" section.
@@ -15,8 +23,7 @@ Rust in Blockchain has a new logo, and there are [stickers][stick]! They will pr
 
 &nbsp;
 
-
-**Project updates**
+## Project updates
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
@@ -122,14 +129,14 @@ Rust in Blockchain has a new logo, and there are [stickers][stick]! They will pr
 
 &nbsp;
 
-**Challenges**
+## Challenges
 
 [Grin: Allow nodes to (manually) recover from dreaded "Already Spent" error #3018](https://github.com/mimblewimble/grin/issues/3018)
 [Near: Better `tx` RPC API #1299](https://github.com/nearprotocol/nearcore/issues/1299)
 
 &nbsp;
 
-**Learning**
+## Learning
 
 [Blockchain Tutorial in Rust](https://github.com/ibaryshnikov/blockchain-tutorial)
 
@@ -145,13 +152,13 @@ Rust in Blockchain has a new logo, and there are [stickers][stick]! They will pr
 
 &nbsp;
 
-**Interesting Things**
+## Interesting Things
 
 [If you Run a Small Business Park In the Back of the Parking Lot](https://twitter.com/xxuejie/status/1177060948441362433?s=12)
 
 &nbsp;
 
-**Events**
+## Events
 
 October 1-31 | Online
 
@@ -187,7 +194,7 @@ October 30 | San Francisco, US
 
 &nbsp;
 
-**Careers**
+## Careers
 
 Centrifuge | Berlin, Germany; Remote
 

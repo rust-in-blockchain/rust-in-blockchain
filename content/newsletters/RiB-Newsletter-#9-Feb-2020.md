@@ -1,8 +1,14 @@
-# RiB Newsletter #9 - The Month of Working from Home
+---
+title: "RiB Newsletter #9 – The Month of Working from Home"
+description: "#9 - Feb 2020"
+date: 2020-03-04
+slug: "/2020-03-04-the-month-of-working-from-home"
+type: single
+categories:
+  - "newsletters"
+---
 
-**#9 - Feb 2020**
-
-Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #8](https://rustinblockchain.org/2020/02/05/rib-newsletter-8-looking-forward-to-2020/).
+Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #8](/newsletters/2020-02-05-looking-fowrward-to-2020).
 
 This month [Solana released version 1.0][s1]. Congrats to one of the hardest-working Rust blockchain teams &mdash; Solana did things right all last year, with extraordinary development velocity, consistent technical media publications, and multiple event appearances and sponsorships. We wish them the best success.
 

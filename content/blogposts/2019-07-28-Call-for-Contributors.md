@@ -3,6 +3,7 @@
 title: "Call for Contributors"
 date: "2019-07-28"
 description: "Call for Contributors"
+author: Aimee
 slug: "/call-for-contributors"
 type: single
 categories:
@@ -10,8 +11,8 @@ categories:
 
 comments: true # Enable Disqus comments for specific page
 mathjax: true # Enable MathJax for specific page
----
 
+---
 
 Let's build the Rust Blockchain community together!
 
@@ -33,6 +34,6 @@ Whatever your skillset &mdash; developer, writer, editor, designer &mdash; Rust 
 - Rust blockchain organizations who will donate space and resources for meetups
 - web developers to help with the maintenance of this newsletter
 
-I don't know exactly where we are going yet, but I have ideas, and I bet you have ideas too. If you want to work together on making Rust and blockchain the best they can be, a good place to start is by joining the Rust in Blockchain [Telegram] group at https://t.me/rustinblockchain. And you can always email me, Aimee, at aimeedeer@gmail.com.
+I don't know exactly where we are going yet, but I have ideas, and I bet you have ideas too. If you want to work together on making Rust and blockchain the best they can be, a good place to start is by joining the Rust in Blockchain [Telegram](https://t.me/rustinblockchain). And you can always email me, Aimee, at aimeedeer@gmail.com.
 
 I'm looking forward to hearing from you. Let's build the future together.

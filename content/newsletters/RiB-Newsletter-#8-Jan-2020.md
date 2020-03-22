@@ -1,15 +1,14 @@
 ---
-# Common-Defined params
 title: "RiB Newsletter #8 - Looking Forward to 2020"
-description: "Example article description"
+description: "#8 - Jan 2020"
 date: 2020-02-05
-slug: "/2020-02-01-looking-fowrward-to-2020"
+slug: "/2020-02-05-looking-fowrward-to-2020"
 type: single
 categories:
   - "newsletters"
 ---
 
-Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #7](https://rustinblockchain.org/2020/01/02/rust-in-blockchain-7-december-2019/).
+Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #7](/newsletters/2020-01-02).
 
 This month &mdash; even with the holidays and world events &mdash; saw strong momentum in the big Rust blockchain projects: Solana is moving toward two new testnets, one of which is expected to evolve into their mainnet; Zcash has been blogging technical details about their Rust implementation, Zebra; Nervos has initiated a grants program to solicit advancements to its platform from the community; COMIT and NEAR are maintaining a rapid development velocity; and Parity as always has so much going on its hard to summarize.
 

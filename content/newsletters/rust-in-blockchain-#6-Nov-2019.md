@@ -1,8 +1,14 @@
-# Rust in Blockchain #6 - Nov 2019
+---
+title: "Rust in Blockchain Newsletter #6"
+description: "#6 - Nov 2019"
+date: 2019-12-05
+slug: "/2019-12-05"
+type: single
+categories:
+  - "newsletters"
+---
 
-**#6 - Nov 2019**
-
-Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #5](https://rustinblockchain.org/2019/11/07/rust-in-blockchain-5-october-2019/).
+Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #5](/newsletters/2019-11-07).
 
 &nbsp;
 

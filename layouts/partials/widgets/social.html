@@ -11,22 +11,6 @@
 			</a>
 		</div>
 		{{- end }}
-		{{- with .Site.Params.widgets.social.instagram }}
-		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="Instagram" rel="noopener noreferrer" href="https://www.instagram.com/{{ . }}" target="_blank">
-				{{ partial "svg/instagram.svg" (dict "class" "widget-social__link-icon") }}
-				<span>Instagram</span>
-			</a>
-		</div>
-		{{- end }}
-		{{- with .Site.Params.widgets.social.linkedin }}
-		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="LinkedIn" rel="noopener noreferrer" href="https://linkedin.com/in/{{ . }}" target="_blank">
-				{{ partial "svg/linkedin.svg" (dict "class" "widget-social__link-icon") }}
-				<span>LinkedIn</span>
-			</a>
-		</div>
-		{{- end }}
 		{{- with .Site.Params.widgets.social.telegram }}
 		<div class="widget-social__item widget__item">
 			<a class="widget-social__link widget__link btn" title="Telegram" rel="noopener noreferrer" href="https://t.me/{{ . }}" target="_blank">
@@ -35,27 +19,12 @@
 			</a>
 		</div>
 		{{- end }}
+
 		{{- with .Site.Params.widgets.social.github }}
 		<div class="widget-social__item widget__item">
 			<a class="widget-social__link widget__link btn" title="GitHub" rel="noopener noreferrer" href="https://github.com/{{ . }}" target="_blank">
 				{{ partial "svg/github.svg" (dict "class" "widget-social__link-icon") }}
 				<span>GitHub</span>
-			</a>
-		</div>
-		{{- end }}
-		{{- with .Site.Params.widgets.social.gitlab }}
-		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="GitLab" rel="noopener noreferrer" href="https://gitlab.com/{{ . }}" target="_blank">
-				{{ partial "svg/gitlab.svg" (dict "class" "widget-social__link-icon") }}
-				<span>GitLab</span>
-			</a>
-		</div>
-		{{- end }}
-		{{- with .Site.Params.widgets.social.bitbucket }}
-		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="Bitbucket" rel="noopener noreferrer" href="https://bitbucket.org/{{ . }}" target="_blank">
-				{{ partial "svg/bitbucket.svg" (dict "class" "widget-social__link-icon") }}
-				<span>Bitbucket</span>
 			</a>
 		</div>
 		{{- end }}
@@ -67,6 +36,7 @@
 			</a>
 		</div>
 		{{- end }}
+
 
 		{{ range .Site.Params.widgets.social.custom }}
 		<div class="widget-social__item widget__item">

@@ -1,14 +1,23 @@
-**Rust in Blockchain #3 - Aug 2019**
-**#3 - Aug 2019**
+---
+title: "Rust in Blockchain Newsletter #3"
+description: "#3 - Aug 2019"
+date: 2019-09-05
+slug: "/2019-09-05"
+type: single
+categories:
+  - "newsletters"
+---
 
-Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #2](https://rustinblockchain.org/2019/08/01/rust-in-blockchain-2-july-2019/).
+Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #2](/newsletters/2019-08-01).
 
 August was an exciting month, thanks to the very stunning RustConf and Berlin Blockchain Week! There were many rust & blockchain related meetups during this period. Let’s look forward to videos and reflect on these events in the coming days.
 
 The RustinBlockchain telegram group has reached more than 100 people so far. A shoutout to all of our friends in the Rust Community for helping with the [contribution call](https://twitter.com/Argorak/status/1159017633817255936). It may be too early to call it a RustinBlockchain community at the moment, but we believe people’s curiosity will be the sources for building the decentralized future.
 
 
-**Project updates**
+&nbsp;
+
+## Project updates
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
@@ -47,12 +56,16 @@ The RustinBlockchain telegram group has reached more than 100 people so far. A s
 [Add datacenter node setup scripts #5517](https://github.com/solana-labs/solana/pull/5517): [@TristanDebrunner](https://github.com/TristanDebrunner) adds bash scripts that do all the setup, and the helper scripts that do parts of the setup if something breaks.
 
 
-**Challenges**
+&nbsp;
+
+## Challenges
 
 [Does anybody want to build dev tutorials together?](https://github.com/rust-in-blockchain/Community-Project/issues/1#issuecomment-526813060) If there are anyone who would be willing to produce small bite-size education chunks occasionally?
 
 
-**Learning**
+&nbsp;
+
+## Learning
 
 [The Rise of Rust and Blockchain](https://domsteil.com/2019/08/08/rust-and-blockchain/)
 
@@ -69,7 +82,9 @@ The RustinBlockchain telegram group has reached more than 100 people so far. A s
 [Exploring an essential data structure in CKB— the transaction](https://medium.com/nervosnetwork/exploring-an-essential-data-structure-in-ckb-the-transaction-a1ca8fcbfbda)
 
 
-**Events**
+&nbsp;
+
+## Events
 
 September 6-8 | Boston, US
 
@@ -111,7 +126,10 @@ October 28 - November 3 | San Francisco & Berkeley, US
 
 [SF Blockchain Week 2019](https://sfblockchainweek.io/)
 
-**Careers**
+
+&nbsp;
+
+## Careers
 
 TTi Global | Des Moines
 
@@ -144,7 +162,9 @@ Transparent Systems | Seattle
 [Sr. Software Engineer - Rust, blockchain](https://jobs.lever.co/transparentsystems/dbb1afb4-0686-47bd-946a-e8bd70c755fa)
 
 
-**Interesting Things**
+&nbsp;
+
+## Interesting Things
 
 [A thread](https://twitter.com/sorpaas/status/1153410902500270084) on thinking about using RISC-V to replace WebAssembly for the execution engine.
 

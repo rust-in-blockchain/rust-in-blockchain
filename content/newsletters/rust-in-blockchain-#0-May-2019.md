@@ -1,11 +1,20 @@
-**Rust in Blockchain #0 - May 2019**
-**#0 - May 2019**
+---
+title: "Rust in Blockchain Newsletter #0"
+description: "#0 - May 2019"
+date: 2019-06-06
+slug: "/2019-06-06"
+type: single
+categories:
+  - "newsletters"
+---
 
 Welcome to the first edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.
 
-Blockchain technology brings together cryptography, mathematics, game theory, and economics to create distributed systems with uniquely powerful security properties. Rust is a high-performance programming language uniquely suited to creating secure distributed systems. Every edition we bring you the latest developer news related to blockchain technology in Rust, with the ambition of building a greater developer community around this family of projects. For more about why developers choose Rust for their blockchain projects, read [Why Rust](https://medium.com/layerscrypto/why-rust-c877fba0ca94). 
+Blockchain technology brings together cryptography, mathematics, game theory, and economics to create distributed systems with uniquely powerful security properties. Rust is a high-performance programming language uniquely suited to creating secure distributed systems. Every edition we bring you the latest developer news related to blockchain technology in Rust, with the ambition of building a greater developer community around this family of projects. For more about why developers choose Rust for their blockchain projects, read [Why Rust](https://medium.com/layerscrypto/why-rust-c877fba0ca94).
 
-**Project updates**
+&nbsp;
+
+## Project updates
 
 #### [**Grin**](https://github.com/mimblewimble/grin)
 
@@ -63,29 +72,33 @@ Static Build CKB on CentOS 7 for exchanges #626](https://github.com/nervosnetwor
 
 [Plans for pairing and crates.io? #76](https://github.com/zcash/librustzcash/issues/76) [Afck](https://github.com/afck) said, there are several projects that use pairing and would like to contribute to it. How does Zcash deal with PRs merge?
 
-**Challenges**
+&nbsp;
+
+## Challenges
 
 [Long chain attacks could disrupt the network #4336](https://github.com/solana-labs/solana/issues/4336) (Source: Solana)
 
 Problem long chain generated with a faster ASIC could lock the node out from the real network. Proposed Solution The proposed block should be near the local generated PoH before a node considers voting for it.
 
-**Learning** 
+&nbsp;
 
-[CKB Testnet First Run](https://gist.github.com/apiraino/76d878104d3b6f649e6a3db8f6510914) 
+## Learning
+
+[CKB Testnet First Run](https://gist.github.com/apiraino/76d878104d3b6f649e6a3db8f6510914)
 
 Antonio shares his experience on how to start mining on CKB testnet.
 
-[Why Blockchain is Hard](https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c) 
+[Why Blockchain is Hard](https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c)
 
 Blockchain is used way too much as a buzzword to sell a lot of useless snake oil. The faster we get rid of the hype, the better off long-term we’ll all be.
 
-[Lessons Learned from Teaching Over 500 Developers or: Why You Should Level Up](https://medium.com/@jimmysong/lessons-learned-from-teaching-over-500-developers-or-why-you-should-level-up-ad0e48bce067) 
+[Lessons Learned from Teaching Over 500 Developers or: Why You Should Level Up](https://medium.com/@jimmysong/lessons-learned-from-teaching-over-500-developers-or-why-you-should-level-up-ad0e48bce067)
 
 To understand Bitcoin deeper through reading/coding/teaching.
 
 [Instead Of Solving The ‘Blockchain Trilemma’, Focus On Building A Vibrant Cryptoeconomy](https://medium.com/@kevinmobrien1/instead-of-solving-the-blockchain-trilemma-focus-on-building-a-vibrant-cryptoeconomy-7064acb41a26)
 
-[Blockchain-flavored WASI](https://medium.com/oasislabs/blockchain-flavored-wasi-50e3612b8eba) 
+[Blockchain-flavored WASI](https://medium.com/oasislabs/blockchain-flavored-wasi-50e3612b8eba)
 
 General purpose computation on the blockchain using Web Assembly System Interface (WASI).
 
@@ -95,11 +108,13 @@ General purpose computation on the blockchain using Web Assembly System Interfac
 
 [Audio] [Rust-Bitcoin, Threats to Bitcoin & Bitcoin Data Science](https://anchor.fm/stephan-livera/episodes/SLP73-Tamas-Blummer---Rust-Bitcoin--Threats-to-Bitcoin--Bitcoin-Data-Science-e44dhk)
 
-**Events**
+&nbsp;
+
+## Events
 
 June 6-14 | Online
 
-[The WorkFork Online Hackathon](https://workfork.io/hackathon_dutchblockchainweek) 
+[The WorkFork Online Hackathon](https://workfork.io/hackathon_dutchblockchainweek)
 
 June 8-9 Breaking Bitcoin, Amsterdam
 
@@ -119,11 +134,13 @@ June 24th - 26th | Zug, Switzerland
 
 June 28-29 | Firenze FI, Italy
 
-[RustLab](https://www.rustlab.it) 
+[RustLab](https://www.rustlab.it)
 
-**Careers**
+&nbsp;
 
-[Report]	
+## Careers
+
+[Report]
 
 [The Blockchain Jobs Report, 2019](https://media.consensys.net/the-blockchain-jobs-report-2019-b2b911426c34)
 
@@ -139,13 +156,15 @@ Target
 
 [Blockchain Engineer](https://twitter.com/adeebahmed26/status/1133843502465462274)
 
-**Interesting things**
+##Interesting things
 
 [Rust Cryptography Working Group](https://twitter.com/bascule/status/1131266407499309056?s=21)
 
 [Thread: wins, missteps, and next steps at Holochain and Holo.](https://twitter.com/crypto_raiturk/status/1130947989692985344)
 
-**Acknowledgments**
+&nbsp;
+
+## Acknowledgments
 
 A huge thank you to Mike, [Ash](https://twitter.com/ashchan), [Brian](https://brson.github.io/), [Alexandra](https://twitter.com/a13xndra) and [Ben](https://twitter.com/gnunicornBen) for your contributions and helping bring this newsletter to fruition. We finally made it!
 

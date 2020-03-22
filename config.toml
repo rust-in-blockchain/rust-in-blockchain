@@ -6,6 +6,7 @@ paginate = "6" # Number of posts per page
 disqusShortname = "rustinblockchain" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 publishDir = "docs"
+relativeURLs = true
 
 [Params]
   subtitle = "Bringing engineering insight and experience to blockchain technology." # Subtitle of your site. Used in site header
@@ -26,7 +27,7 @@ publishDir = "docs"
   customCSS = ["css/custom.css"] # Include custom CSS files
   customJS = ["js/custom.js"] # Include custom JS files
   enableEmoji = true
-  enableGitInfo = false
+  enableGitInfo = true
 
 [menu]
   [[menu.main]]

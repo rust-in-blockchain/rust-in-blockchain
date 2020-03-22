@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Rust in Blockchain Newsletter #6 - Rust in Blockchain</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="#6 - Nov 2019">
+	<meta property="og:title" content="Rust in Blockchain Newsletter #6" />
+<meta property="og:description" content="#6 - Nov 2019" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://rustinblockchain.org/newsletters/2019-12-05/" />
+<meta property="article:published_time" content="2019-12-05T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-12-05T00:00:00+00:00" />
+
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Rust in Blockchain Newsletter #6"/>
+<meta name="twitter:description" content="#6 - Nov 2019"/>
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container">
+		<div class="logo">
+			<a class="logo__link" href="/" title="Rust in Blockchain" rel="home">
+				<div class="logo__title">Rust in Blockchain</div>
+				<div class="logo__tagline">Bringing engineering insight and experience to blockchain technology.</div>
+			</a>
+		</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/newsletters">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">newsletters</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/blogposts">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">blogposts</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/about">
+				<i class='fa fa-heart'></i>
+				<span class="menu__text">about us</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Rust in Blockchain Newsletter #6</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg>
+	<time class="meta__text" datetime="2019-12-05T00:00:00Z">December 05, 2019</time>
+</div>
+
+<div class="meta__item-categories meta__item">
+	<svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg>
+	<span class="meta__text"><a class="meta__link" href="/categories/newsletters/" rel="category">newsletters</a>
+	</span>
+</div></div>
+		</header><div class="content post__content clearfix">
+			<p>Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <a href="/newsletters/2019-11-07">Previous: #5</a>.</p>
+<p> </p>
+<h2 id="project-spotlight">Project spotlight</h2>
+<p>Each month we like to shine a light on a notable Rust blockchain project. This month that project is…</p>
+<p><a href="https://github.com/oasislabs/deoxysii-rust">deoxysii-rust</a></p>
+<p>This is a great example of the type of useful crates that come out of Rust blockchain projects. It implements the <a href="https://sites.google.com/view/deoxyscipher">Deoxys II authenticated encryption scheme</a>, which was a winner of the <a href="https://competitions.cr.yp.to/caesar-submissions.html">CAESAR cryptographic competition</a>. Authenticated ciphers ensure both the confidentiality and the authenticity of data, and have particular properties described in the <a href="https://competitions.cr.yp.to/caesar-call.html">CAESAR call for submissions</a>.</p>
+<p> </p>
+<h2 id="most-active-in-november">Most active in November</h2>
+<p><a href="https://github.com/solana-labs/solana">Solana</a>: <a href="https://github.com/solana-labs/solana/pulls?utf8=%E2%9C%93&amp;q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30+">366</a> merged PRs, <a href="https://github.com/solana-labs/solana/issues?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30+">74</a> closed issues</p>
+<p><a href="https://github.com/paritytech/substrate">Parity Substrate</a>: <a href="https://github.com/paritytech/substrate/pulls?utf8=%E2%9C%93&amp;q=is%3Apr+is%3Amerged+merged%3A2019-11-01..2019-11-30">190</a> merged PRs, <a href="https://github.com/paritytech/substrate/issues?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30+">66</a> closed issues</p>
+<p><a href="https://github.com/nearprotocol/nearcore">NEAR</a>: <a href="near-mergedpr">97</a> merged PRs, <a href="https://github.com/nearprotocol/nearcore/issues?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30+">76</a> closed issues</p>
+<p><a href="https://github.com/nervosnetwork/ckb">Nervos CKB</a>: <a href="https://github.com/nervosnetwork/ckb/pulls?utf8=%E2%9C%93&amp;q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30+">58</a> merged PRs, <a href="https://github.com/nervosnetwork/ckb/issues?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30+">67</a> closed issues</p>
+<p> </p>
+<h2 id="project-updates">Project updates</h2>
+<h4 id="enigmahttpsenigmaco"><a href="https://enigma.co/"><strong>Enigma</strong></a></h4>
+<ul>
+<li><a href="https://blog.enigma.co/welcome-to-enigma-start-here-e65c8c9125ef">Blog: New to Enigma? Start here</a></li>
+</ul>
+<h4 id="grinhttpsgithubcommimblewimblegrin"><a href="https://github.com/mimblewimble/grin"><strong>Grin</strong></a></h4>
+<ul>
+<li><a href="https://github.com/mimblewimble/grin/pull/3136">PR: Hardfork2</a> by <a href="https://github.com/tromp">@tromp</a></li>
+<li><a href="https://github.com/mimblewimble/grin/pull/3109">PR: Increase IO_TIMEOUT to allow nodes on high-latency connections to sync</a> by <a href="https://github.com/mmgen">@mmgen</a></li>
+<li><a href="https://github.com/mimblewimble/grin/pull/3108">PR: Enable faster sync</a> by <a href="https://github.com/antiochp">@antiochp</a></li>
+<li><a href="https://github.com/mimblewimble/grin/pull/3096">PR: Split state validation status into kernel and rproof updates</a> by <a href="https://github.com/JosephGoulden">@JosephGoulden</a></li>
+<li><a href="https://github.com/mimblewimble/grin/issues/1609">Issue: Security &amp; Code audits</a></li>
+<li><a href="https://grinnews.substack.com/">Grin Newsletter</a></li>
+</ul>
+<h4 id="nearhttpsgithubcomnearprotocolnearcore"><a href="https://github.com/nearprotocol/nearcore"><strong>NEAR</strong></a></h4>
+<ul>
+<li><a href="https://nearprotocol.com/blog/near-lunch-learn-ep-03-light-clients-in-proof-of-stake-systems/">Video: NEAR Lunch and learn ep. 03: Light clients and proof-of-stake systems</a></li>
+<li><a href="https://nearprotocol.com/blog/near-lunch-and-learn-ep-04-nightshade-consensus-and-finality/">Video: NEAR Lunch and learn ep. 04: Nightshade: Consensus and finality</a></li>
+<li><a href="https://nearprotocol.com/blog/stake-wars-first-week-retro/">Blog: Stake wars week 1 retro</a></li>
+<li><a href="https://nearprotocol.com/blog/stake-wars-week-2-retro/">Blog: Stake wars week 2 retro</a></li>
+<li><a href="https://nearprotocol.com/blog/stake-wars-week-3-retro/">Blog: Stake wars week 3 retro</a></li>
+</ul>
+<h4 id="nervos-ckbhttpsgithubcomnervosnetworkckb"><a href="https://github.com/nervosnetwork/ckb"><strong>Nervos CKB</strong></a></h4>
+<!-- raw HTML omitted -->
+<ul>
+<li><a href="https://medium.com/nervosnetwork/nervos-ckb-development-update-23-6b1ee3f0f8b5">News: Nervos CKB Development Update #23</a> Version 0.25.2. Mainnet launch.</li>
+<li><a href="https://medium.com/nervosnetwork/nervos-ckb-mainnet-is-live-a028d9675dfb">News: Nervos CKB Mainnet is Live</a></li>
+<li><a href="https://talk.nervos.org/t/approach-to-designing-a-user-defined-token-standard-on-ckb-part-1/3855">Blog: Approach to Designing a User Defined Token Standard on CKB: Part 1</a></li>
+<li><a href="https://talk.nervos.org/t/a-general-method-to-describe-a-smart-contract-on-ckb/3777">Blog: A General Method to Describe a “Smart Contract” on CKB</a></li>
+<li><a href="https://www.zeroknowledge.fm/105">Podcast: Alan Szepieniec on Hash Functions &amp; Supersonic SNARKs</a></li>
+<li><a href="https://github.com/nervosnetwork/ckb/pull/1854">PR: Upgrade ckb-vm to 0.18.1</a> by <a href="https://github.com/xxuejie">@xxuejie</a></li>
+<li><a href="https://github.com/nervosnetwork/ckb/pull/1824">PR: Switch to mainnet</a> by <a href="https://github.com/doitian">@doitian</a></li>
+<li><a href="https://github.com/nervosnetwork/ckb/pull/1788">PR: Limit tx max ancestors count</a> by <a href="https://github.com/jjyr">@jjyr</a></li>
+<li><a href="https://github.com/nervosnetwork/ckb-vm/pull/90">PR: Tweak slot calculation algorithm</a> by <a href="https://github.com/xxuejie">@xxuejie</a></li>
+<li><a href="https://medium.com/nervosnetwork/tagged/development-updates">Nervos CKB Development Update</a></li>
+<li><a href="https://medium.com/nervosnetwork/nervos-community-update-6e9cced395ff">Nervos Community Update</a></li>
+</ul>
+<!-- raw HTML omitted -->
+<h4 id="oasishttpsgithubcomoasislabs"><a href="https://github.com/oasislabs"><strong>Oasis</strong></a></h4>
+<ul>
+<li><a href="https://medium.com/oasis-protocol-project/the-oasis-public-testnet-is-live-e1a04f4dfc22">News: The Oasis public testnet is live</a></li>
+<li><a href="http://www.oasis-protocol.org/quest">News: The Quest</a>. The Quest is a staking competition on Oasis Labs&rsquo; incentivized testnet.</li>
+<li><a href="https://github.com/oasislabs/oasis-rs/pull/242">PR: Replace serde-cbor with borsh</a>. borsh is a fast binary serializer.</li>
+<li><a href="https://www.nytimes.com/2019/11/10/technology/artificial-intelligence-dawn-song.html">Blog: Building a world where data privacy exists online</a>. A feature in the New York Times.</li>
+<li><a href="https://medium.com/oasislabs/oasis-at-san-francisco-blockchain-week-2019-and-hackathon-147808b21aaa">Blog: Oasis Labs at SFBW 2019 and hackathon</a></li>
+<li><a href="https://medium.com/oasis-protocol-project/libra-succinct-zero-knowledge-proofs-with-optimal-prover-computation-9f479300a983">Blog: Libra (the other one) - A succinct Zero-Knowledge Proofs with Optimal Prover Computation</a></li>
+<li><a href="https://podcasts.apple.com/us/podcast/dawn-song-ceo-of-oasis-labs/id1455666979?i=1000455985221">Podcast: Massari&rsquo;s Unqualified Opinions - Down Song, CEO of Oasis Labs</a></li>
+<li><a href="https://medium.com/forbole/oasis-labs-brings-blockchain-applications-to-another-level-27ff2ba21043">Blog: Oasis Labs brings blockchain applications to another level</a></li>
+</ul>
+<h4 id="parity-httpsgithubcomparitytech"><a href="https://github.com/paritytech"><strong>Parity</strong> </a></h4>
+<ul>
+<li><a href="https://www.parity.io/rust-2020/">Blog: Rust 2020</a></li>
+<li><a href="https://www.parity.io/chronicled-mediledger-parity/">Blog: Why Chronicled chose to build on Parity&rsquo;s tech stack</a>. Parity in the enterprise.</li>
+<li><a href="https://www.parity.io/hello-substrate/">Blog: Hello Substrate!</a></li>
+<li><a href="https://www.parity.io/substrate-evm/">Blog: Substrate EVM and Polkadot-Ethereum compatibility</a></li>
+<li><a href="https://www.parity.io/substrate-off-chain-workers-secure-and-efficient-computing-intensive-tasks/">Blog: Substrate off-chain workers: secure and efficient computing-intensive tasks</a></li>
+<li><a href="https://www.parity.io/release-parity-ethereum-goes-to-istanbul/">Blog: Parity Ethereum goes to Istanbul</a>. New releases with support for the Istanbul fork.</li>
+<li><a href="https://www.parity.io/ethereum-light-wallet-parity-fether-completes-audit-v0-4-beta-shipped/">Blog: Ethereum Light Wallet Fether Completes Audit</a></li>
+<li><a href="https://polkadot.network/have-a-tee-with-polkadot/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=SubstraTEE">Blog: Have a TEE with Polkadot</a>. SubstraTEE is a framework that integrates trusted execution environments (TEEs) with Substrate-built blockchains.</li>
+<li><a href="https://vimeo.com/371142433">Video: Benjamin Kamppmann &amp; Ricardo Rius of Parity: Build fast blockchains with Substrate</a></li>
+<li><a href="https://epicenter.tv/episodes/259/">Podcast: Epicenter: Substrate, Polkadot and the Case for On-Chain Governance</a></li>
+<li><a href="https://twitter.com/fredhrson/status/1200470649581527041">Substrate git repo history illustrated with &ldquo;gource&rdquo;</a></li>
+<li><a href="https://medium.com/staked-technologies/plasm-testnet-launch-90d7e58328b3">Blog: Plasm testnet launch</a>. A DApps plattform built on Substrate.</li>
+<li><a href="https://www.crowdcast.io/e/participating-on-kusama/">Video: Participating in Kusama</a>. Kusama is a Polkadot testnet.</li>
+<li><a href="https://medium.com/@chainx_org/secure-and-decentralized-polkadot-domain-name-system-e06c35c2a48d">Blog: Secure and decentralized Polkadot domain name system</a></li>
+<li><a href="https://commonwealth.im/kusama/proposal/discussion/92?utm_medium=forum&amp;utm_source=r/dots&amp;utm_campaign=Future%20of%20Kusama%20/%20Polkadot">Blog: The future of Kusama and Polkadot</a></li>
+<li><a href="https://medium.com/polkadot-network/polkadot-v0-7-0-and-kusama-cc-3-1a121fd59f67">Blog: Polkadot v0.7.0 and Kusama CC-3</a>. By Gavin Wood.</li>
+<li><a href="https://www.purestake.com/blog/ethereum-vs-polkadot/">Blog: A comparison of Ethereum vs Polkadot</a></li>
+<li><a href="https://github.com/paritytech/polkadot/pull/345">PR: Erasure encoding availability</a></li>
+<li><a href="https://github.com/paritytech/substrate/pull/3833">PR: Recover transaction pool on light client</a></li>
+</ul>
+<h4 id="solanahttpsgithubcomsolana-labssolana"><a href="https://github.com/solana-labs/solana"><strong>Solana</strong></a></h4>
+<ul>
+<li><a href="https://solana.com/the-results-of-solanas-security-audit/">Blog: Results of Solana&rsquo;s security audit</a></li>
+<li><a href="https://solana.com/solana-at-sfbw-showed-that-cooperation-is-key-to-blockchain-growth/">Blog: Solana at SFBW Showed that Cooperation is Key to Blockchain Growth</a></li>
+<li><a href="https://solana.com/ava-labs-founder-emin-gun-sirer-episode-10-no-sharding-podcast/">Podcast: No Sharding ep 10 - History and Future of Networks with AVA Labs founder Emin Gun Sirer</a></li>
+<li><a href="https://github.com/solana-labs/solana/pull/6776">PR: Unfork ed25519-dalek</a></li>
+<li><a href="https://github.com/solana-labs/solana/pull/6903">PR: Revive the parallel bank client</a>. Only used in unit tests.</li>
+<li><a href="https://github.com/solana-labs/solana/pull/6912">PR: ledger-tool: Automatically run dot to generate PDFs</a></li>
+<li><a href="https://github.com/solana-labs/solana/pull/7007">PR: Add non-fungible token program</a>. SDK example.</li>
+<li><a href="https://github.com/solana-labs/solana/pull/7149">PR: CLI: Support pubkey recovery from seed phrase</a></li>
+<li><a href="https://github.com/solana-labs/solana/pull/7104">PR: CLI: Add offline signing</a></li>
+</ul>
+<p> </p>
+<h2 id="learning">Learning</h2>
+<p><a href="https://github.com/mimblewimble/grin-pm#grincon1">Slides and Videos for Grincon1</a></p>
+<p> </p>
+<h2 id="interesting-things">Interesting things</h2>
+<p><a href="https://www.youtube.com/watch?v=LEKcBeDcEAY">Video: Layer 1 event ft. Solana, NEAR, Harmony, CODA, Nervos</a></p>
+<p> </p>
+<h2 id="events">Events</h2>
+<p>Dec 10 | Online</p>
+<p><a href="https://github.com/mimblewimble/grin-pm/issues/224">Grin Development Meeting </a></p>
+<p> </p>
+<h2 id="careers">Careers</h2>
+<p>Centrifuge | Berlin, Germany; Remote</p>
+<p><a href="https://centrifuge.breezy.hr/p/20af596b9ffb01-rust-engineer-centrifuge-chain/">Rust Engineer</a></p>
+<p>Chainlink | Remote</p>
+<p><a href="https://remotive.io/remote-jobs/software-dev/senior-software-engineer-18917">Senior Software Engineer</a></p>
+<p>Consensys | Europe; United States; Remote</p>
+<p><a href="https://consensys.net/open-roles/1792013/">Systems Engineer - Rust</a></p>
+<p>CyberCoders | Boston, San Francisco</p>
+<p><a href="https://www.cybercoders.com/senior-software-engineer-job-506965">Senior Software Engineer - Blockchain Solution</a></p>
+<p>imToken | Singapore; Hangzhou, China</p>
+<p><a href="https://token.im/careers">Blockchain Development Engineer</a></p>
+<p>Interledger | San Francisco, US; Remote</p>
+<p><a href="https://www.ripple.com/company/careers/all-jobs#senior-software-engineer-rust">Senior Software Engineer, Rust</a></p>
+<p>IOHK | Europe</p>
+<p><a href="https://iohk.io/careers/#op-345001-software-engineer-rust">Software Engineer - Rust</a></p>
+<p>Jsgenesis | Oslo, Europe; Remote</p>
+<p><a href="https://www.jsgenesis.com/jobs/blockchain-developer">Senior Blockchain Developer</a></p>
+<p>Kraken | Berlin, Germany; Remote</p>
+<p><a href="https://jobs.lever.co/kraken/4c18a043-3f9f-4005-a715-7455aaa64b11">Backend Engineer - Crypto/Payments</a></p>
+<p>Leger | Paris, France</p>
+<p><a href="https://jobs.lever.co/ledger/8555a86e-fbf4-4701-95cb-190a76445bb8">C++ / Rust Software Engineer</a></p>
+<p>MixBytes | Remote available</p>
+<p><a href="https://mixbytes.io/career">Rust Developer</a></p>
+<p>MXC Foundation | Berlin, Germany</p>
+<p><a href="https://www.linkedin.com/jobs/view/1455662885/?refId=3445947911569942562383&amp;trk=d_flagship3_company">Senior Go / Rust Engineer</a></p>
+<p>Nervos | San Francisco; Hangzhou, China; Remote</p>
+<p><a href="https://angel.co/company/nervos-1/jobs/589746-senior-test-manager">Senior Test Manager</a></p>
+<p><a href="https://angel.co/company/nervos-1/jobs/589230-senior-blockchain-engineer">Senior Blockchain Engineer</a></p>
+<p>OneinaMil | New York City; Remote</p>
+<p><a href="https://apply.workable.com/oneinamil/j/E74222BB58/">Blockchain RUST/WASM Developer</a></p>
+<p>Parity | Berlin, Germany</p>
+<p><a href="https://www.parity.io/jobs/#berlin-rust-core-developer">Rust/Core Developer</a></p>
+<p> </p>
+<p>Want to be included in the next issue? Feel free to submit a PR to the <a href="https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft">#7 draft</a>, or Tweet <a href="https://twitter.com/rust_blockchain">@rust_blockchain</a>.</p>
+<p><strong>Join the discussion on</strong> <a href="https://t.me/rustinblockchain"><strong>RiB telegram group</strong></a> <strong>❤️</strong></p>
+
+		</div>
+	</article>
+</main>
+
+
+<nav class="post-nav flex">
+	<div class="post-nav__item post-nav__item--prev">
+		<a class="post-nav__link" href="/newsletters/2019-11-07/" rel="prev"><span class="post-nav__caption">«&thinsp;Previous</span><p class="post-nav__post-title">Rust in Blockchain Newsletter #5</p></a>
+	</div>
+	<div class="post-nav__item post-nav__item--next">
+		<a class="post-nav__link" href="/newsletters/2020-01-02/" rel="next"><span class="post-nav__caption">Next&thinsp;»</span><p class="post-nav__post-title">Rust in Blockchain Newsletter #7</p></a>
+	</div>
+</nav>
+
+<section class="comments">
+	<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "rustinblockchain" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+
+			</div>
+			<aside class="sidebar"><div class="widget-search widget">
+	<h4 class="widget__title">Subscribe</h4>
+	<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+	<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	 
+</style>
+	<div id="mc_embed_signup">
+	<form action="https://rustinblockchain.us20.list-manage.com/subscribe/post?u=1ac6f6cdd5c25b48064506045&amp;id=efe2948d57" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+		<div id="mc_embed_signup_scroll">
+		<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+	    
+	    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1ac6f6cdd5c25b48064506045_efe2948d57" tabindex="-1" value=""></div>
+	    <div class="clear">
+				<input class="widget-subscribe-btn" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
+				</div>
+	    </div>
+	</form>
+	</div>
+</div>
+
+<div class="widget-social widget">
+	<h4 class="widget-social__title widget__title">Follow us</h4>
+	<div class="widget-social__content widget__content">
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Twitter" rel="noopener noreferrer" href="https://twitter.com/rust_blockchain" target="_blank">
+				<svg class="widget-social__link-icon icon icon-twitter" width="24" height="24" viewBox="0 0 384 312"><path d="m384 36.9c-14.1 6.3-29.3 10.5-45.2 12.4 16.3-9.7 28.8-25.2 34.6-43.6-15.2 9-32.1 15.6-50 19.1-14.4-15.2-34.9-24.8-57.5-24.8-43.5 0-78.8 35.3-78.8 78.8 0 6.2.7 12.2 2 17.9-65.5-3.3-123.5-34.6-162.4-82.3-6.7 11.6-10.6 25.2-10.6 39.6 0 27.3 13.9 51.4 35 65.6-12.9-.4-25.1-4-35.7-9.9v1c0 38.2 27.2 70 63.2 77.2-6.6 1.8-13.6 2.8-20.8 2.8-5.1 0-10-.5-14.8-1.4 10 31.3 39.1 54.1 73.6 54.7-27 21.1-60.9 33.7-97.8 33.7-6.4 0-12.6-.4-18.8-1.1 34.9 22.4 76.3 35.4 120.8 35.4 144.9 0 224.1-120 224.1-224.1 0-3.4-.1-6.8-.2-10.2 15.4-11.1 28.7-25 39.3-40.8z"/></svg>
+				<span>Twitter</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Telegram" rel="noopener noreferrer" href="https://t.me/rustinblockchain" target="_blank">
+				<svg class="widget-social__link-icon icon icon-telegram" width="24" height="24" viewBox="0 0 132 110"><path fill="#ddd" d="M50 103c-4 0-3-1-5-5L34 60l88-52"/><path fill="#aaa" d="M50 103c3 0 4-1 6-3l16-16-20-12"/><path fill="#fff" d="M52 72l48 36c6 3 10 2 11-5l20-93c2-8-3-11-8-9L7 45c-8 4-8 8-1 10l29 9 69-43c3-2 6-1 4 1"/></svg>
+				<span>Telegram</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="GitHub" rel="noopener noreferrer" href="https://github.com/rust-in-blockchain" target="_blank">
+				<svg class="widget-social__link-icon icon icon-github" width="24" height="24" viewBox="0 0 384 374"><path d="m192 0c-106.1 0-192 85.8-192 191.7 0 84.7 55 156.6 131.3 181.9 9.6 1.8 13.1-4.2 13.1-9.2 0-4.6-.2-16.6-.3-32.6-53.4 11.6-64.7-25.7-64.7-25.7-8.7-22.1-21.3-28-21.3-28-17.4-11.9 1.3-11.6 1.3-11.6 19.3 1.4 29.4 19.8 29.4 19.8 17.1 29.3 44.9 20.8 55.9 15.9 1.7-12.4 6.7-20.8 12.2-25.6-42.6-4.8-87.5-21.3-87.5-94.8 0-20.9 7.5-38 19.8-51.4-2-4.9-8.6-24.3 1.9-50.7 0 0 16.1-5.2 52.8 19.7 15.3-4.2 31.7-6.4 48.1-6.5 16.3.1 32.7 2.2 48.1 6.5 36.7-24.8 52.8-19.7 52.8-19.7 10.5 26.4 3.9 45.9 1.9 50.7 12.3 13.4 19.7 30.5 19.7 51.4 0 73.7-44.9 89.9-87.7 94.6 6.9 5.9 13 17.6 13 35.5 0 25.6-.2 46.3-.2 52.6 0 5.1 3.5 11.1 13.2 9.2 76.2-25.5 131.2-97.3 131.2-182 0-105.9-86-191.7-192-191.7z"/></svg>
+				<span>GitHub</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Email" href="mailto:hello@rustinblockchain.org">
+				<svg class="widget-social__link-icon icon icon-mail" width="24" height="24" viewBox="0 0 416 288"><path d="m0 16v256 16h16 384 16v-16-256-16h-16-384-16zm347 16-139 92.5-139-92.5zm-148 125.5 9 5.5 9-5.5 167-111.5v210h-352v-210z"/></svg>
+				<span>hello@rustinblockchain.org</span>
+			</a>
+		</div>
+
+
+		
+	</div>
+</div>
+
+<div class="widget-categories widget">
+	<h4 class="widget__title">Categories</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/blogposts/">blogposts</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/newsletters/">newsletters</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="widget-text widget">
+	<h4 class="widget__title">Support us</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+		    <b>BTC:</b> 39fUHQ6LEdRvwhyyuaw4Q3xdkofF3YFz84
+			</li>
+			<li class="widget__item">
+		    <b>ETH:</b> 0xE35D48926663dc02B7b4226d6AC044D4c6a30410
+			</li>
+			<li class="widget__item">
+		    <b>CKB:</b> ckb1qyqqm7njp58jlleyy5v8wkkpmmy09rjut5fqj9py3f
+		</li>
+		</ul>
+	</div>
+</div>
+
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2020 Rust in Blockchain
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+</body>
+</html>

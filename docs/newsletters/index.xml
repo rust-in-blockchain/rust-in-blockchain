@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletters on Rust in Blockchain</title>
+    <link>https://rustinblockchain.org/newsletters/</link>
+    <description>Recent content in Newsletters on Rust in Blockchain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rustinblockchain.org/newsletters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RiB Newsletter #9 – The Month of Working from Home</title>
+      <link>https://rustinblockchain.org/newsletters/2020-03-04-the-month-of-working-from-home/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rustinblockchain.org/newsletters/2020-03-04-the-month-of-working-from-home/</guid>
+      <description>Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. Previous: #8.
+This month Solana released version 1.0. Congrats to one of the hardest-working Rust blockchain teams — Solana did things right all last year, with extraordinary development velocity, consistent technical media publications, and multiple event appearances and sponsorships. We wish them the best success.
+Because of certain world events, offline events are starting to be canceled, including at least one blockchain conference.</description>
+    </item>
+    
+    <item>
+      <title>RiB Newsletter #8 - Looking Forward to 2020</title>
+      <link>https://rustinblockchain.org/newsletters/2020-02-05-looking-fowrward-to-2020/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rustinblockchain.org/newsletters/2020-02-05-looking-fowrward-to-2020/</guid>
+      <description>Welcome to the #8 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. Previous: #7.
+This month — even with the holidays and world events — saw strong momentum in the big Rust blockchain projects: Solana is moving toward two new testnets, one of which is expected to evolve into their mainnet; Zcash has been blogging technical details about their Rust implementation, Zebra; Nervos has initiated a grants program to solicit advancements to its platform from the community; COMIT and NEAR are maintaining a rapid development velocity; and Parity as always has so much going on its hard to summarize.</description>
+    </item>
+    
+    <item>
+      <title>Rust in Blockchain Newsletter #7</title>
+      <link>https://rustinblockchain.org/newsletters/2020-01-02/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rustinblockchain.org/newsletters/2020-01-02/</guid>
+      <description>Welcome to the #7 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. Previous: #6.
+This month we see a trend, in blockchain and across the Rust ecosystem, of projects quickly picking up stable async/await support and migrating to tokio 0.2.
+For those interested in a great overview of the future distributed-web landscape, Kyle Samani of Multicoin Capital published a new edition of their &amp;ldquo;The Web3 Stack&amp;rdquo;. Not Rust-specific, but an evocative, illustrated, piece describing their vision of what a distributed world-wide-web, built on blockchain technology, could look like.</description>
+    </item>
+    
+    <item>
+      <title>Rust in Blockchain Newsletter #6</title>
+      <link>https://rustinblockchain.org/newsletters/2019-12-05/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rustinblockchain.org/newsletters/2019-12-05/</guid>
+      <description>Welcome to the #6 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. Previous: #5.
+ Project spotlight Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+deoxysii-rust
+This is a great example of the type of useful crates that come out of Rust blockchain projects. It implements the Deoxys II authenticated encryption scheme, which was a winner of the CAESAR cryptographic competition.</description>
+    </item>
+    
+    <item>
+      <title>Rust in Blockchain Newsletter #5</title>
+      <link>https://rustinblockchain.org/newsletters/2019-11-07/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rustinblockchain.org/newsletters/2019-11-07/</guid>
+      <description>Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. Previous: #4.
+The highlight this month was San Francisco Blockchain Week. This was a huge series of events, with representation from a number of Rust blockchain projects. Several projects, Interledger, Near, Nervos, Oasis, and Parity came together for a day of Rust in Blockchain workshops.
+That wasn&amp;rsquo;t the only big event in October though.</description>
+    </item>
+    
+    <item>
+      <title>Rust in Blockchain Newsletter #4</title>
+      <link>https://rustinblockchain.org/newsletters/2019-10-03/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rustinblockchain.org/newsletters/2019-10-03/</guid>
+      <description>Welcome to the #4 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. Previous #3.
+September featured Berlin Blockchain week, one of the biggest blockchain events of the year, and a number of Rust blockchain projects were there. We held Rust in Blockchain events in Berlin as well as in Hangzhou, the videos for which (in Chinese) are linked below in the &amp;ldquo;learning&amp;rdquo; section.
+Rust in Blockchain has a new logo, and there are stickers!</description>
+    </item>
+    
+    <item>
+      <title>Rust in Blockchain Newsletter #3</title>
+      <link>https://rustinblockchain.org/newsletters/2019-09-05/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rustinblockchain.org/newsletters/2019-09-05/</guid>
+      <description>Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. Previous #2.
+August was an exciting month, thanks to the very stunning RustConf and Berlin Blockchain Week! There were many rust &amp;amp; blockchain related meetups during this period. Let’s look forward to videos and reflect on these events in the coming days.
+The RustinBlockchain telegram group has reached more than 100 people so far.</description>
+    </item>
+    
+    <item>
+      <title>Rust in Blockchain Newsletter #2</title>
+      <link>https://rustinblockchain.org/newsletters/2019-08-01/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rustinblockchain.org/newsletters/2019-08-01/</guid>
+      <description>Welcome to the third edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. Previous #1.
+The first Rust in Blockchain meetup In Rust We Trust went very well on the 17th July in San Francisco. Thanks to all the speakers and the participants! If you want to speak on one of our forthcoming meetups, please apply here.
+ Project updates Grin Moving wallet from one node to another loses some UTXOs #2901</description>
+    </item>
+    
+    <item>
+      <title>Rust in Blockchain Newsletter #1</title>
+      <link>https://rustinblockchain.org/newsletters/2019-07-04/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rustinblockchain.org/newsletters/2019-07-04/</guid>
+      <description>Welcome to the second edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. Previous #0.
+Rust in Blockchain starts a series of offline events in San Francisco, Berlin, and Hangzhou, the #0 meetup will be held in San Francisco on 17th July. If you are interested in speaking at our events, please apply here. We will be super happy to receive your contributions.
+Libra might be the hypest news in June, follows with non-stoping blog posts.</description>
+    </item>
+    
+    <item>
+      <title>Rust in Blockchain Newsletter #0</title>
+      <link>https://rustinblockchain.org/newsletters/2019-06-06/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rustinblockchain.org/newsletters/2019-06-06/</guid>
+      <description>Welcome to the first edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.
+Blockchain technology brings together cryptography, mathematics, game theory, and economics to create distributed systems with uniquely powerful security properties. Rust is a high-performance programming language uniquely suited to creating secure distributed systems. Every edition we bring you the latest developer news related to blockchain technology in Rust, with the ambition of building a greater developer community around this family of projects.</description>
+    </item>
+    
+  </channel>
+</rss>

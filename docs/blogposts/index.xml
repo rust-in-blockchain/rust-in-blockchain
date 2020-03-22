@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogposts on Rust in Blockchain</title>
+    <link>https://rustinblockchain.org/blogposts/</link>
+    <description>Recent content in blogposts on Rust in Blockchain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rustinblockchain.org/blogposts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Call for Contributors</title>
+      <link>https://rustinblockchain.org/blogposts/call-for-contributors/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rustinblockchain.org/blogposts/call-for-contributors/</guid>
+      <description>Let&amp;rsquo;s build the Rust Blockchain community together!
+Since the first publication of the Rust in Blockchain newsletter, I have been receiving great feedback — people are excited about the potential of Rust blockchain projects uniting together to create a greater community. When I started this newsletter just a few months ago, I didn&amp;rsquo;t imagine I would so quickly get so much encouraging support from people all over the world, including Germany, Italy, England, the US, and China.</description>
+    </item>
+    
+  </channel>
+</rss>

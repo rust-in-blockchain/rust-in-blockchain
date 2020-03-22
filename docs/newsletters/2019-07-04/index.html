@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Rust in Blockchain Newsletter #1 - Rust in Blockchain</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="#1 - June 2019">
+	<meta property="og:title" content="Rust in Blockchain Newsletter #1" />
+<meta property="og:description" content="#1 - June 2019" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://rustinblockchain.org/newsletters/2019-07-04/" />
+<meta property="article:published_time" content="2019-07-04T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-07-04T00:00:00+00:00" />
+
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Rust in Blockchain Newsletter #1"/>
+<meta name="twitter:description" content="#1 - June 2019"/>
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container">
+		<div class="logo">
+			<a class="logo__link" href="/" title="Rust in Blockchain" rel="home">
+				<div class="logo__title">Rust in Blockchain</div>
+				<div class="logo__tagline">Bringing engineering insight and experience to blockchain technology.</div>
+			</a>
+		</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/newsletters">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">newsletters</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/blogposts">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">blogposts</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/about">
+				<i class='fa fa-heart'></i>
+				<span class="menu__text">about us</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Rust in Blockchain Newsletter #1</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg>
+	<time class="meta__text" datetime="2019-07-04T00:00:00Z">July 04, 2019</time>
+</div>
+
+<div class="meta__item-categories meta__item">
+	<svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg>
+	<span class="meta__text"><a class="meta__link" href="/categories/newsletters/" rel="category">newsletters</a>
+	</span>
+</div></div>
+		</header><div class="content post__content clearfix">
+			<p>Welcome to the second edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. <a href="/newsletters/2019-06-06">Previous #0</a>.</p>
+<p>Rust in Blockchain starts a series of offline events in San Francisco, Berlin, and Hangzhou, the #0 meetup will be held in San Francisco on 17th July. If you are interested in speaking at our events, please apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqDDPv6WylWCel8j5oorm3U5M1wtQJ7gYLsw_Ng6IcDcDSBg/viewform">here</a>. We will be super happy to receive your contributions.</p>
+<p>Libra might be the hypest news in June, follows with non-stoping blog posts. Discussions on <a href="https://www.reddit.com/r/rust/comments/c20aed/facebook_just_picked_rust_to_implement_their_new/">Facebook just picked Rust to implement their new Libre blockchain</a>. Engineers care more about Move programming language, and crypto world discussed more on its business and the future. What’s your opinion?</p>
+<p> </p>
+<h2 id="new-adoption">New Adoption</h2>
+<p><a href="https://github.com/ZcashFoundation/zebra">Zebra</a>, a consensus-compatible Zcash node client written in Rust.</p>
+<p><a href="https://github.com/libra/libra">Libra</a> Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.</p>
+<p>Blockchain-based <a href="https://news.ycombinator.com/item?id=20289966">Brave</a> browser announced they see the value add of rust and are already using it.</p>
+<p> </p>
+<h2 id="project-updates">Project updates</h2>
+<h4 id="grinhttpsgithubcommimblewimblegrin"><a href="https://github.com/mimblewimble/grin"><strong>Grin</strong></a></h4>
+<p><a href="https://github.com/mimblewimble/grin/issues/2873">MMR Storage Optimization</a> The internal MMR implementation that would reduce the storage requirements significantly.</p>
+<p><a href="https://grinnews.substack.com/">Grin Newsletter</a></p>
+<h4 id="nervoshttpsgithubcomnervosnetwork"><a href="https://github.com/nervosnetwork"><strong>Nervos</strong></a></h4>
+<p><a href="https://github.com/nervosnetwork/ckb">CKB</a></p>
+<p><a href="https://github.com/nervosnetwork/ckb/pull/922">Feat: proposer reward</a> Consensus updates: earliest transaction proposer will recieve 40% of the transaction fee as a reward; block reward finalized after proposal window close; enforce one-input one-output one-witness on cellbase.</p>
+<p><a href="https://github.com/nervosnetwork/ckb-system-scripts/pull/15">Feat: use recoverable signature to reduce tx size</a> It replaces normal signature with recoverable signature. Instead of reading pubkey from witness, the contract recovers a pubkey from the signature, this change can reduce 33 bytes tx size for each witness.</p>
+<p><a href="https://github.com/nervosnetwork/ckb-vm">CKB-VM</a></p>
+<p><a href="https://github.com/nervosnetwork/ckb-vm/pull/72">Add new AOT mode to replace experimental JIT mode</a>. The benchmark shows that a secp256k1 operation can finish in the new AOT mode in under 1 ms, while the current assembly interpreter needs 5 ms at best, which results to the same order of magnitude of native code.</p>
+<p>A full RISC-V test suite has been integrated into CKB-VM, each change will be validated against the comprehensive test suites.</p>
+<p><a href="https://medium.com/nervosnetwork/tagged/development-updates">CKB Development Updates</a></p>
+<h4 id="nearhttpsgithubcomnearprotocolnearcore"><a href="https://github.com/nearprotocol/nearcore"><strong>NEAR</strong></a></h4>
+<p><a href="https://github.com/nearprotocol/nearcore/pull/1005">Add self call (for advanced access keys)</a> Self call is used when the account calls its own contract. In this case, no receipts needed, since all information is available immediately. It can be used by access keys pointed at the owner’s account to proxy transactions further.</p>
+<h4 id="parity-httpsgithubcomparitytech"><a href="https://github.com/paritytech"><strong>Parity</strong> </a></h4>
+<p><strong><a href="https://github.com/paritytech/substrate">Substrate</a></strong></p>
+<p><a href="https://github.com/paritytech/substrate/issues/2861">How to upgrade the earlier substrate version to new version</a> <a href="https://github.com/satyamakgec">@satyamakgec</a> has 7 – 8 SRML modules in the existing chain so he doesn’t want any discrepancies on the code. What is the best way to do upgrade substrate?</p>
+<p><a href="https://github.com/paritytech/substrate/issues/2811">Missing block timestamp in the block details</a> <a href="https://github.com/satyamakgec">@satyamakgec</a> was trying to access the event data and the timestamp at which events get emitted.</p>
+<p><strong><a href="https://github.com/paritytech/polkadot">Polkadot</a></strong></p>
+<p><a href="https://github.com/paritytech/polkadot/issues/296">Question about the Collator</a> <a href="https://github.com/XiangyueMeng">@XiangyueMeng</a> starts a conversation with the question on the Collator’s mechanism.</p>
+<h4 id="solanahttpsgithubcomsolana-labssolana"><a href="https://github.com/solana-labs/solana"><strong>Solana</strong></a></h4>
+<p><a href="https://github.com/solana-labs/solana/issues/4802">Lack of determinism in programs</a> The BPF loader does not enforce determinism in the programs/instructions they support. Proposed Solution: find a way to ensure determinism in the programs.</p>
+<p><a href="https://github.com/solana-labs/solana/issues/4722">Bench TPS performance is lacking with real PoH</a> The bench TPS client does not perform well when real PoH is turned on (hashes per tick is set to auto).</p>
+<p> </p>
+<h2 id="challenges">Challenges</h2>
+<p><a href="https://github.com/ZcashFoundation/zebra/pull/2">Project needs sweet zebra logo</a> 😉</p>
+<p>[][RFC] CKB Consensus Protocol](<a href="https://github.com/nervosnetwork/rfcs/pull/124">https://github.com/nervosnetwork/rfcs/pull/124</a>) <a href="https://github.com/nirenzang">@Ren</a> submitted the consensus protocol and is calling for comments.
+Bitcoin’s Nakamoto Consensus (NC) is well-received due to its simplicity and low communication overhead. The CKB consensus protocol is a variant of NC that raises its performance limit and selfish mining resistance while keeping its merits. By identifying and eliminating the bottleneck in NC’s block propagation latency, our protocol supports very short block interval without sacrificing security. The shortened block interval not only raises the throughput, but also lowers the transaction confirmation latency. By incorporating all valid blocks in the difficulty adjustment, selfish mining is no longer profitable in this protocol.</p>
+<p> </p>
+<h2 id="learning">Learning</h2>
+<p><a href="https://www.parity.io/people-of-parity-wei-tang/">People of Parity: Wei Tang</a> Wei is the author of <a href="https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1283.md">EIP-1283</a>, he wrote SputnikVM, an EVM implementation in Rust. Wei shares his programming experience from working in Parity.</p>
+<p><a href="https://thenewstack.io/rust-creator-graydon-hoare-talks-about-security-history-and-rust">Rust Creator Graydon Hoare Talks About Security, History, and Rust</a></p>
+<p><a href="https://hackernoon.com/lessons-learned-from-bitcoins-and-ethereum-s-programming-models-f9fdbe1a3fdb">Lessons Learned from Bitcoin’s and Ethereum’s Programming Models</a> – Zhang Yaning</p>
+<p>[Video] <a href="https://www.youtube.com/watch?v=bjWxwTA2KLw">Build Your Own Blockchain with Substrate and Rust</a> – Bill Laboon
+[Video] <a href="https://avc.com/2019/06/video-of-the-week-what-is-web3/">What Is Web3?</a> <a href="https://twitter.com/juanbenet">@Juan Benet</a>, founder and CEO of our portfolio company <a href="https://protocol.ai/">Protocol Labs</a>, developer of the <a href="https://ipfs.io/">IPFS</a> and <a href="http://filecoin.io/">Filecoin</a> protocols, gave this talk last fall.</p>
+<p> </p>
+<h2 id="events">Events</h2>
+<p>July 17 | San Francisco</p>
+<p><a href="https://www.meetup.com/Rust-in-Blockchain-San-Francisco/events/262773260/">In Rust We Trust– Rust in Blockchain meetup SF Edition</a></p>
+<p>July 19-21 | Los Angeles</p>
+<p><a href="https://www.stateofscale.com/">State of Scale – Ethereum scalability, hackathon, and workshop</a></p>
+<p>July 19-21 | Brooklyn</p>
+<p><a href="https://pages.consensys.net/consensys-grants-hackathon-new-york">ConsenSys Grants hackathon</a></p>
+<p>Aug 2-4 | Bangalore, India</p>
+<p><a href="https://ethindia.co/">ETHIndia – Asia’s biggest Ethereum Hackathon</a></p>
+<h2 id="careers">Careers</h2>
+<p>IOTA</p>
+<p><a href="https://iota.bamboohr.com/jobs/view.php?id=90">Senior Software Engineer (Rust)</a></p>
+<p>Spacemesh</p>
+<p><a href="https://blockchain.works-hub.com/jobs/blockchain-developer-e97">Blockchain Developer: Come and build with us the Spacemesh p2p full node in Rust</a></p>
+<p>FRG Technology Consulting</p>
+<p><a href="https://www.goforcrypto.com/blockchain-developer-rust-solidity/">Blockchain Developer / Rust / Solidity</a></p>
+<p>Facebook</p>
+<p><a href="https://www.facebook.com/careers/jobs/679142629195287/">Operating Systems Engineer</a></p>
+<p>Parity</p>
+<p><a href="https://www.parity.io/jobs/#berlin-blockchain-runtime-engineer">Blockchain Runtime Engineers</a></p>
+<p>Crypto Bobby introduces his new plan <a href="https://medium.com/@crypto_bobby/proofoftalent-d624d3a87e78">Proof of Talent</a>.</p>
+<p> </p>
+<h2 id="interesting-things">Interesting things</h2>
+<p><a href="https://twitter.com/panekkkk/status/1142891604950339585">Thread: the value proposition of crypto assets</a></p>
+<p>This thread is my attempt to explain the value proposition of crypto assets (“crypto”) like bitcoin ($BTC) and ethereum ($ETH) to newcomers like you.</p>
+<p><a href="https://www.reddit.com/r/rust/comments/c27fng/is_rust_my_best_option/">Is Rust My Best Option?</a></p>
+<p>Kally95 wants to become a blockchain developer in the future, he calls for advice on reddit and got valuable comments, which are worth reading.</p>
+<p><strong>Join the action on our</strong> <a href="https://www.reddit.com/r/RustInBlockchain/"><strong>subreddit</strong></a> <strong>❤️</strong></p>
+
+		</div>
+	</article>
+</main>
+
+
+<nav class="post-nav flex">
+	<div class="post-nav__item post-nav__item--prev">
+		<a class="post-nav__link" href="/newsletters/2019-06-06/" rel="prev"><span class="post-nav__caption">«&thinsp;Previous</span><p class="post-nav__post-title">Rust in Blockchain Newsletter #0</p></a>
+	</div>
+	<div class="post-nav__item post-nav__item--next">
+		<a class="post-nav__link" href="/newsletters/2019-08-01/" rel="next"><span class="post-nav__caption">Next&thinsp;»</span><p class="post-nav__post-title">Rust in Blockchain Newsletter #2</p></a>
+	</div>
+</nav>
+
+<section class="comments">
+	<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "rustinblockchain" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+
+			</div>
+			<aside class="sidebar"><div class="widget-search widget">
+	<h4 class="widget__title">Subscribe</h4>
+	<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+	<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	 
+</style>
+	<div id="mc_embed_signup">
+	<form action="https://rustinblockchain.us20.list-manage.com/subscribe/post?u=1ac6f6cdd5c25b48064506045&amp;id=efe2948d57" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+		<div id="mc_embed_signup_scroll">
+		<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+	    
+	    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1ac6f6cdd5c25b48064506045_efe2948d57" tabindex="-1" value=""></div>
+	    <div class="clear">
+				<input class="widget-subscribe-btn" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
+				</div>
+	    </div>
+	</form>
+	</div>
+</div>
+
+<div class="widget-social widget">
+	<h4 class="widget-social__title widget__title">Follow us</h4>
+	<div class="widget-social__content widget__content">
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Twitter" rel="noopener noreferrer" href="https://twitter.com/rust_blockchain" target="_blank">
+				<svg class="widget-social__link-icon icon icon-twitter" width="24" height="24" viewBox="0 0 384 312"><path d="m384 36.9c-14.1 6.3-29.3 10.5-45.2 12.4 16.3-9.7 28.8-25.2 34.6-43.6-15.2 9-32.1 15.6-50 19.1-14.4-15.2-34.9-24.8-57.5-24.8-43.5 0-78.8 35.3-78.8 78.8 0 6.2.7 12.2 2 17.9-65.5-3.3-123.5-34.6-162.4-82.3-6.7 11.6-10.6 25.2-10.6 39.6 0 27.3 13.9 51.4 35 65.6-12.9-.4-25.1-4-35.7-9.9v1c0 38.2 27.2 70 63.2 77.2-6.6 1.8-13.6 2.8-20.8 2.8-5.1 0-10-.5-14.8-1.4 10 31.3 39.1 54.1 73.6 54.7-27 21.1-60.9 33.7-97.8 33.7-6.4 0-12.6-.4-18.8-1.1 34.9 22.4 76.3 35.4 120.8 35.4 144.9 0 224.1-120 224.1-224.1 0-3.4-.1-6.8-.2-10.2 15.4-11.1 28.7-25 39.3-40.8z"/></svg>
+				<span>Twitter</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Telegram" rel="noopener noreferrer" href="https://t.me/rustinblockchain" target="_blank">
+				<svg class="widget-social__link-icon icon icon-telegram" width="24" height="24" viewBox="0 0 132 110"><path fill="#ddd" d="M50 103c-4 0-3-1-5-5L34 60l88-52"/><path fill="#aaa" d="M50 103c3 0 4-1 6-3l16-16-20-12"/><path fill="#fff" d="M52 72l48 36c6 3 10 2 11-5l20-93c2-8-3-11-8-9L7 45c-8 4-8 8-1 10l29 9 69-43c3-2 6-1 4 1"/></svg>
+				<span>Telegram</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="GitHub" rel="noopener noreferrer" href="https://github.com/rust-in-blockchain" target="_blank">
+				<svg class="widget-social__link-icon icon icon-github" width="24" height="24" viewBox="0 0 384 374"><path d="m192 0c-106.1 0-192 85.8-192 191.7 0 84.7 55 156.6 131.3 181.9 9.6 1.8 13.1-4.2 13.1-9.2 0-4.6-.2-16.6-.3-32.6-53.4 11.6-64.7-25.7-64.7-25.7-8.7-22.1-21.3-28-21.3-28-17.4-11.9 1.3-11.6 1.3-11.6 19.3 1.4 29.4 19.8 29.4 19.8 17.1 29.3 44.9 20.8 55.9 15.9 1.7-12.4 6.7-20.8 12.2-25.6-42.6-4.8-87.5-21.3-87.5-94.8 0-20.9 7.5-38 19.8-51.4-2-4.9-8.6-24.3 1.9-50.7 0 0 16.1-5.2 52.8 19.7 15.3-4.2 31.7-6.4 48.1-6.5 16.3.1 32.7 2.2 48.1 6.5 36.7-24.8 52.8-19.7 52.8-19.7 10.5 26.4 3.9 45.9 1.9 50.7 12.3 13.4 19.7 30.5 19.7 51.4 0 73.7-44.9 89.9-87.7 94.6 6.9 5.9 13 17.6 13 35.5 0 25.6-.2 46.3-.2 52.6 0 5.1 3.5 11.1 13.2 9.2 76.2-25.5 131.2-97.3 131.2-182 0-105.9-86-191.7-192-191.7z"/></svg>
+				<span>GitHub</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Email" href="mailto:hello@rustinblockchain.org">
+				<svg class="widget-social__link-icon icon icon-mail" width="24" height="24" viewBox="0 0 416 288"><path d="m0 16v256 16h16 384 16v-16-256-16h-16-384-16zm347 16-139 92.5-139-92.5zm-148 125.5 9 5.5 9-5.5 167-111.5v210h-352v-210z"/></svg>
+				<span>hello@rustinblockchain.org</span>
+			</a>
+		</div>
+
+
+		
+	</div>
+</div>
+
+<div class="widget-categories widget">
+	<h4 class="widget__title">Categories</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/blogposts/">blogposts</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/newsletters/">newsletters</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="widget-text widget">
+	<h4 class="widget__title">Support us</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+		    <b>BTC:</b> 39fUHQ6LEdRvwhyyuaw4Q3xdkofF3YFz84
+			</li>
+			<li class="widget__item">
+		    <b>ETH:</b> 0xE35D48926663dc02B7b4226d6AC044D4c6a30410
+			</li>
+			<li class="widget__item">
+		    <b>CKB:</b> ckb1qyqqm7njp58jlleyy5v8wkkpmmy09rjut5fqj9py3f
+		</li>
+		</ul>
+	</div>
+</div>
+
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2020 Rust in Blockchain
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+</body>
+</html>

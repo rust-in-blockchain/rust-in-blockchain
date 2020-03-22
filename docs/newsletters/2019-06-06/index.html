@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Rust in Blockchain Newsletter #0 - Rust in Blockchain</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="#0 - May 2019">
+	<meta property="og:title" content="Rust in Blockchain Newsletter #0" />
+<meta property="og:description" content="#0 - May 2019" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://rustinblockchain.org/newsletters/2019-06-06/" />
+<meta property="article:published_time" content="2019-06-06T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-06-06T00:00:00+00:00" />
+
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Rust in Blockchain Newsletter #0"/>
+<meta name="twitter:description" content="#0 - May 2019"/>
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container">
+		<div class="logo">
+			<a class="logo__link" href="/" title="Rust in Blockchain" rel="home">
+				<div class="logo__title">Rust in Blockchain</div>
+				<div class="logo__tagline">Bringing engineering insight and experience to blockchain technology.</div>
+			</a>
+		</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/newsletters">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">newsletters</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/blogposts">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">blogposts</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/about">
+				<i class='fa fa-heart'></i>
+				<span class="menu__text">about us</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Rust in Blockchain Newsletter #0</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg>
+	<time class="meta__text" datetime="2019-06-06T00:00:00Z">June 06, 2019</time>
+</div>
+
+<div class="meta__item-categories meta__item">
+	<svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg>
+	<span class="meta__text"><a class="meta__link" href="/categories/newsletters/" rel="category">newsletters</a>
+	</span>
+</div></div>
+		</header><div class="content post__content clearfix">
+			<p>Welcome to the first edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.</p>
+<p>Blockchain technology brings together cryptography, mathematics, game theory, and economics to create distributed systems with uniquely powerful security properties. Rust is a high-performance programming language uniquely suited to creating secure distributed systems. Every edition we bring you the latest developer news related to blockchain technology in Rust, with the ambition of building a greater developer community around this family of projects. For more about why developers choose Rust for their blockchain projects, read <a href="https://medium.com/layerscrypto/why-rust-c877fba0ca94">Why Rust</a>.</p>
+<p> </p>
+<h2 id="project-updates">Project updates</h2>
+<h4 id="grinhttpsgithubcommimblewimblegrin"><a href="https://github.com/mimblewimble/grin"><strong>Grin</strong></a></h4>
+<p><a href="https://github.com/mimblewimble/grin/issues/2820">Byteorder crate does not play nicely with our &ldquo;non-blocking&rdquo; IO #2820</a> It is entirely possible for a u64 or other multi-byte value here to cause the non-blocking IO to fail on a partial read. So comes the question, Rust IO is kind of janky as they do not get <em>any</em> type safety here in terms of blocking/non-blocking behavior.</p>
+<p><a href="https://github.com/mimblewimble/grin/issues/2779">Consider adopting a new git branching model #2779</a> Having discussed the git branching model, the team finally, decided to stay with the current model, with an action point taken to simplify the documentation for newcomers to understand and follow.</p>
+<p><a href="https://github.com/mimblewimble/grin/issues/2585">Db/store full (forked) blocks cleanup #2585</a> The key takeaway from this thread, was to compact the blocks db periodically to remove historical full blocks from the db older than one week (which is based on the current chain by traversing back from the head of the chain). It was also stated, that you wouldn&rsquo;t clean forked blocks up and the blocks will remain in the db indefinitely. Please check the thread for more discussion.</p>
+<h4 id="nervos-httpsgithubcomnervosnetworkckb"><a href="https://github.com/nervosnetwork/ckb"><strong>Nervos</strong> </a></h4>
+<h4 id="ckbhttpsgithubcomnervosnetworkckb"><a href="https://github.com/nervosnetwork/ckb"><strong>CKB</strong></a></h4>
+<p><a href="https://github.com/nervosnetwork/ckb/issues/903">Cross compile x86_64-unknown-linux-musl #903</a> Rocksdb depends on C++ standard library heavily, which might need a real C++ for musl to work.</p>
+<p>Static Build CKB on CentOS 7 for exchanges #626](<a href="https://github.com/nervosnetwork/ckb/issues/626">https://github.com/nervosnetwork/ckb/issues/626</a>) A centos 7 install guide.</p>
+<p><a href="https://github.com/nervosnetwork/ckb/issues/562">Write a tool to dump well known hashes into a readable file #562</a> D<a href="https://github.com/doitian">oitian</a> made a tool to dump various hashes into a file and commit that file into the repository.</p>
+<p><a href="https://github.com/nervosnetwork/ckb/issues/549">Memorize hash #549</a> <a href="https://github.com/zhangsoledad">Zhangsoledad</a> suggests fetching hashes from the database instead of computing them.</p>
+<p><a href="https://github.com/nervosnetwork/ckb/pull/859">Feat: Use snappy to compress large messages #859</a> Use snappy to compress large messages (<a href="https://github.com/driftluo">Driftluo</a>), which saves bandwidth with CPU overhead.</p>
+<p><a href="https://github.com/nervosnetwork/ckb/pull/913">New verification model #913</a> Verification model changes.</p>
+<p><a href="https://github.com/nervosnetwork/ckb-vm"><strong>CKB-VM</strong></a></p>
+<p><a href="https://github.com/nervosnetwork/ckb-vm/pull/61">Chore: add an example named is13 #61</a> <a href="https://github.com/mohanson">Mohanson</a> as a newcomer of CKB-VM contributes an example for easier starting.</p>
+<p><a href="https://github.com/nervosnetwork/ckb-vm/pull/53">Feat: W^X initial implementation #53</a> <a href="https://github.com/xxuejie">Xxuejie</a> adds initial <a href="https://en.wikipedia.org/wiki/W%5EX">W^X</a> implementation to CKB-VM, which also fixes a memory overflow situation in the assembly based interpreter.</p>
+<p><a href="https://github.com/nervosnetwork/ckb-vm/pull/52">Feat: shrink VM&rsquo;s memory from 16MB to 4MB #52</a> It reduces the load on requesting zero paged memory, providing enough time to come up with a better solution that doesn&rsquo;t require zero pages. Plus, 4MB is still enough for a lot of use cases.</p>
+<h4 id="parity-httpsgithubcomparitytech"><a href="https://github.com/paritytech"><strong>Parity</strong> </a></h4>
+<h4 id="substratehttpsgithubcomparitytechsubstrate"><a href="https://github.com/paritytech/substrate"><strong>Substrate</strong></a></h4>
+<p><a href="https://github.com/paritytech/substrate/issues/2631">How to get an ordered linked_map? #2631</a> <a href="https://github.com/liuchengxu">Liuchengxu</a> has a use case of generating a validator set from the top candidates in the staking module. With the election algorithm which is similar to the one before phragmen, they have to sort the candidates based on their total nominations to get the top ones.</p>
+<p><a href="https://github.com/paritytech/substrate/issues/2605">Question: how to import <code>blake2_512</code> into runtime for wasm #2605</a> <a href="https://github.com/thiolliere">Thiolliere</a> explained for implementing blake2_512 for std and no_std in a similar way to blake2_256, you need to modifie sr-io/with_std, sr-io/without_std and core/executor/src/wasm_executor.</p>
+<p><a href="https://github.com/paritytech/substrate/issues/2566">Smart Contract deployment: Invalid transaction: FullBlock on empty block #2566</a> The team increased the gas block limit to solve the smart contract deployment issue.</p>
+<p><a href="https://github.com/paritytech/substrate/issues/2443">Document storage key generating algorithm #2443</a> A breaking change.</p>
+<p><a href="https://github.com/paritytech/polkadot"><strong>Polkadot</strong></a></p>
+<p><a href="https://github.com/paritytech/polkadot/issues/148">Node-specific limit on size of parachain candidates to validate. #148</a> <a href="https://github.com/rphmeier">Rphmeier</a> said validate_collation should reject block_data that is too big with an error code indicating that the block data is considered invalid but due to arbitrary reason. Most of which would happen in the validation crate, except for the portion in the CLI.</p>
+<h4 id="solanahttpsgithubcomsolana-labssolana"><a href="https://github.com/solana-labs/solana"><strong>Solana</strong></a></h4>
+<p><a href="https://github.com/solana-labs/solana/issues/4071">Need better architecture for transaction forwarding #4071</a> <a href="https://github.com/pgarg66">Pgarg66</a> found the problem that, the current transaction forwarding logic may not keep up with leader rotation, and in turn cause unnecessary load on the network and Proposed solutions as well.</p>
+<h4 id="zcashhttpsgithubcomzcashlibrustzcash"><a href="https://github.com/zcash/librustzcash"><strong>Zcash</strong></a></h4>
+<p><a href="https://github.com/zcash/librustzcash/issues/76">Plans for pairing and crates.io? #76</a> <a href="https://github.com/afck">Afck</a> said, there are several projects that use pairing and would like to contribute to it. How does Zcash deal with PRs merge?</p>
+<p> </p>
+<h2 id="challenges">Challenges</h2>
+<p><a href="https://github.com/solana-labs/solana/issues/4336">Long chain attacks could disrupt the network #4336</a> (Source: Solana)</p>
+<p>Problem long chain generated with a faster ASIC could lock the node out from the real network. Proposed Solution The proposed block should be near the local generated PoH before a node considers voting for it.</p>
+<p> </p>
+<h2 id="learning">Learning</h2>
+<p><a href="https://gist.github.com/apiraino/76d878104d3b6f649e6a3db8f6510914">CKB Testnet First Run</a></p>
+<p>Antonio shares his experience on how to start mining on CKB testnet.</p>
+<p><a href="https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c">Why Blockchain is Hard</a></p>
+<p>Blockchain is used way too much as a buzzword to sell a lot of useless snake oil. The faster we get rid of the hype, the better off long-term we’ll all be.</p>
+<p><a href="https://medium.com/@jimmysong/lessons-learned-from-teaching-over-500-developers-or-why-you-should-level-up-ad0e48bce067">Lessons Learned from Teaching Over 500 Developers or: Why You Should Level Up</a></p>
+<p>To understand Bitcoin deeper through reading/coding/teaching.</p>
+<p><a href="https://medium.com/@kevinmobrien1/instead-of-solving-the-blockchain-trilemma-focus-on-building-a-vibrant-cryptoeconomy-7064acb41a26">Instead Of Solving The ‘Blockchain Trilemma’, Focus On Building A Vibrant Cryptoeconomy</a></p>
+<p><a href="https://medium.com/oasislabs/blockchain-flavored-wasi-50e3612b8eba">Blockchain-flavored WASI</a></p>
+<p>General purpose computation on the blockchain using Web Assembly System Interface (WASI).</p>
+<p>[Video] <a href="https://www.youtube.com/watch?v=HAOeR9Xh--A">Understanding Blockchain Programming Languages in 7 Minutes.</a></p>
+<p>[Video] <a href="https://www.youtube.com/watch?v=vJdT05zl6jk&amp;list=PL1rXPCvogp_SsWBI_JpXFypBDhbgXVrSE">Blockchain in Rust series</a></p>
+<p>[Audio] <a href="https://anchor.fm/stephan-livera/episodes/SLP73-Tamas-Blummer---Rust-Bitcoin--Threats-to-Bitcoin--Bitcoin-Data-Science-e44dhk">Rust-Bitcoin, Threats to Bitcoin &amp; Bitcoin Data Science</a></p>
+<p> </p>
+<h2 id="events">Events</h2>
+<p>June 6-14 | Online</p>
+<p><a href="https://workfork.io/hackathon_dutchblockchainweek">The WorkFork Online Hackathon</a></p>
+<p>June 8-9 Breaking Bitcoin, Amsterdam</p>
+<p>[Breaking Bitcoin <a href="https://breaking-bitcoin.com/">Training &amp; Hackathon]</a></p>
+<p>June 14-16 | San Francisco</p>
+<p>[BUIDL San Francisco <a href="https://www.eventbrite.com/e/buidl-san-francisco-blockchain-hackathon-tickets-56603971001">Blockchain Hackathon]</a></p>
+<p>June 20 | Zurich Switzerland</p>
+<p><a href="https://hackathon.trustsquare.ch">Swiss Blockchain Hackathon</a></p>
+<p>June 24th - 26th | Zug, Switzerland</p>
+<p><a href="https://www.cryptovalleyconference.com/">Crypto Valley Conference</a></p>
+<p>June 28-29 | Firenze FI, Italy</p>
+<p><a href="https://www.rustlab.it">RustLab</a></p>
+<p> </p>
+<h2 id="careers">Careers</h2>
+<p>[Report]</p>
+<p><a href="https://media.consensys.net/the-blockchain-jobs-report-2019-b2b911426c34">The Blockchain Jobs Report, 2019</a></p>
+<p>Cryptape</p>
+<p><a href="https://twitter.com/workfork_hq/status/1133424215087042560?s=12">Senior Rust Developer</a></p>
+<p>Parity</p>
+<p><a href="https://www.parity.io/jobs/#berlin-blockchain-runtime-engineer">Blockchain Runtime Engineers</a></p>
+<p>Target</p>
+<p><a href="https://twitter.com/adeebahmed26/status/1133843502465462274">Blockchain Engineer</a></p>
+<p>##Interesting things</p>
+<p><a href="https://twitter.com/bascule/status/1131266407499309056?s=21">Rust Cryptography Working Group</a></p>
+<p><a href="https://twitter.com/crypto_raiturk/status/1130947989692985344">Thread: wins, missteps, and next steps at Holochain and Holo.</a></p>
+<p> </p>
+<h2 id="acknowledgments">Acknowledgments</h2>
+<p>A huge thank you to Mike, <a href="https://twitter.com/ashchan">Ash</a>, <a href="https://brson.github.io/">Brian</a>, <a href="https://twitter.com/a13xndra">Alexandra</a> and <a href="https://twitter.com/gnunicornBen">Ben</a> for your contributions and helping bring this newsletter to fruition. We finally made it!</p>
+<p><strong>Join the action on our</strong> <a href="https://www.reddit.com/r/RustInBlockchain/"><strong>subreddit</strong></a> <strong>❤️</strong></p>
+
+		</div>
+	</article>
+</main>
+
+
+<nav class="post-nav flex">
+	<div class="post-nav__item post-nav__item--next">
+		<a class="post-nav__link" href="/newsletters/2019-07-04/" rel="next"><span class="post-nav__caption">Next&thinsp;»</span><p class="post-nav__post-title">Rust in Blockchain Newsletter #1</p></a>
+	</div>
+</nav>
+
+<section class="comments">
+	<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "rustinblockchain" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+
+			</div>
+			<aside class="sidebar"><div class="widget-search widget">
+	<h4 class="widget__title">Subscribe</h4>
+	<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+	<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	 
+</style>
+	<div id="mc_embed_signup">
+	<form action="https://rustinblockchain.us20.list-manage.com/subscribe/post?u=1ac6f6cdd5c25b48064506045&amp;id=efe2948d57" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+		<div id="mc_embed_signup_scroll">
+		<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+	    
+	    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1ac6f6cdd5c25b48064506045_efe2948d57" tabindex="-1" value=""></div>
+	    <div class="clear">
+				<input class="widget-subscribe-btn" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
+				</div>
+	    </div>
+	</form>
+	</div>
+</div>
+
+<div class="widget-social widget">
+	<h4 class="widget-social__title widget__title">Follow us</h4>
+	<div class="widget-social__content widget__content">
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Twitter" rel="noopener noreferrer" href="https://twitter.com/rust_blockchain" target="_blank">
+				<svg class="widget-social__link-icon icon icon-twitter" width="24" height="24" viewBox="0 0 384 312"><path d="m384 36.9c-14.1 6.3-29.3 10.5-45.2 12.4 16.3-9.7 28.8-25.2 34.6-43.6-15.2 9-32.1 15.6-50 19.1-14.4-15.2-34.9-24.8-57.5-24.8-43.5 0-78.8 35.3-78.8 78.8 0 6.2.7 12.2 2 17.9-65.5-3.3-123.5-34.6-162.4-82.3-6.7 11.6-10.6 25.2-10.6 39.6 0 27.3 13.9 51.4 35 65.6-12.9-.4-25.1-4-35.7-9.9v1c0 38.2 27.2 70 63.2 77.2-6.6 1.8-13.6 2.8-20.8 2.8-5.1 0-10-.5-14.8-1.4 10 31.3 39.1 54.1 73.6 54.7-27 21.1-60.9 33.7-97.8 33.7-6.4 0-12.6-.4-18.8-1.1 34.9 22.4 76.3 35.4 120.8 35.4 144.9 0 224.1-120 224.1-224.1 0-3.4-.1-6.8-.2-10.2 15.4-11.1 28.7-25 39.3-40.8z"/></svg>
+				<span>Twitter</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Telegram" rel="noopener noreferrer" href="https://t.me/rustinblockchain" target="_blank">
+				<svg class="widget-social__link-icon icon icon-telegram" width="24" height="24" viewBox="0 0 132 110"><path fill="#ddd" d="M50 103c-4 0-3-1-5-5L34 60l88-52"/><path fill="#aaa" d="M50 103c3 0 4-1 6-3l16-16-20-12"/><path fill="#fff" d="M52 72l48 36c6 3 10 2 11-5l20-93c2-8-3-11-8-9L7 45c-8 4-8 8-1 10l29 9 69-43c3-2 6-1 4 1"/></svg>
+				<span>Telegram</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="GitHub" rel="noopener noreferrer" href="https://github.com/rust-in-blockchain" target="_blank">
+				<svg class="widget-social__link-icon icon icon-github" width="24" height="24" viewBox="0 0 384 374"><path d="m192 0c-106.1 0-192 85.8-192 191.7 0 84.7 55 156.6 131.3 181.9 9.6 1.8 13.1-4.2 13.1-9.2 0-4.6-.2-16.6-.3-32.6-53.4 11.6-64.7-25.7-64.7-25.7-8.7-22.1-21.3-28-21.3-28-17.4-11.9 1.3-11.6 1.3-11.6 19.3 1.4 29.4 19.8 29.4 19.8 17.1 29.3 44.9 20.8 55.9 15.9 1.7-12.4 6.7-20.8 12.2-25.6-42.6-4.8-87.5-21.3-87.5-94.8 0-20.9 7.5-38 19.8-51.4-2-4.9-8.6-24.3 1.9-50.7 0 0 16.1-5.2 52.8 19.7 15.3-4.2 31.7-6.4 48.1-6.5 16.3.1 32.7 2.2 48.1 6.5 36.7-24.8 52.8-19.7 52.8-19.7 10.5 26.4 3.9 45.9 1.9 50.7 12.3 13.4 19.7 30.5 19.7 51.4 0 73.7-44.9 89.9-87.7 94.6 6.9 5.9 13 17.6 13 35.5 0 25.6-.2 46.3-.2 52.6 0 5.1 3.5 11.1 13.2 9.2 76.2-25.5 131.2-97.3 131.2-182 0-105.9-86-191.7-192-191.7z"/></svg>
+				<span>GitHub</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Email" href="mailto:hello@rustinblockchain.org">
+				<svg class="widget-social__link-icon icon icon-mail" width="24" height="24" viewBox="0 0 416 288"><path d="m0 16v256 16h16 384 16v-16-256-16h-16-384-16zm347 16-139 92.5-139-92.5zm-148 125.5 9 5.5 9-5.5 167-111.5v210h-352v-210z"/></svg>
+				<span>hello@rustinblockchain.org</span>
+			</a>
+		</div>
+
+
+		
+	</div>
+</div>
+
+<div class="widget-categories widget">
+	<h4 class="widget__title">Categories</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/blogposts/">blogposts</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/newsletters/">newsletters</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="widget-text widget">
+	<h4 class="widget__title">Support us</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+		    <b>BTC:</b> 39fUHQ6LEdRvwhyyuaw4Q3xdkofF3YFz84
+			</li>
+			<li class="widget__item">
+		    <b>ETH:</b> 0xE35D48926663dc02B7b4226d6AC044D4c6a30410
+			</li>
+			<li class="widget__item">
+		    <b>CKB:</b> ckb1qyqqm7njp58jlleyy5v8wkkpmmy09rjut5fqj9py3f
+		</li>
+		</ul>
+	</div>
+</div>
+
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2020 Rust in Blockchain
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+</body>
+</html>

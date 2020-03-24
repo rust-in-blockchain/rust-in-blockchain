@@ -2,6 +2,7 @@
 # Common-Defined params
 title: "About us"
 post_navigation: false
+comments: false
 ---
 
 Rust in Blockchain is a monthly newsletter focused on Rust programming and blockchain development, bringing engineering insight and experience to the Rust blockchain community.

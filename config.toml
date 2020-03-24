@@ -28,6 +28,7 @@ relativeURLs = true
   customJS = ["js/custom.js"] # Include custom JS files
   enableEmoji = true
   enableGitInfo = true
+  addThis = "ra-123456789ABCDEF"
 
 [menu]
   [[menu.main]]

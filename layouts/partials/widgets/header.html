@@ -1,0 +1,18 @@
+<header class="header">
+	<div class="container">
+		<div class="logo">
+			<a class="logo__link" href="{{ "" | relLangURL }}" title="{{ .Site.Title }}" rel="home">
+				<div class="logo__title">{{ .Site.Title }}</div>
+				{{ with .Site.Params.subtitle }}<div class="logo__tagline">{{ . }}</div>{{ end }}
+			</a>
+		</div>
+		{{ partial "menu.html" . }}
+	</div>
+</header>
+<head>
+	{{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+  {{ template "_internal/google_analytics.html" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
+</head>

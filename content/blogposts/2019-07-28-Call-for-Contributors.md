@@ -5,7 +5,6 @@ date: "2019-07-28"
 description: "Call for Contributors"
 author: Aimee
 slug: "/call-for-contributors"
-type: single
 categories:
   - "blogposts"
 

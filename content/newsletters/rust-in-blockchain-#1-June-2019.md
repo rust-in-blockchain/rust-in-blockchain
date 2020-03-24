@@ -3,10 +3,9 @@ title: "Rust in Blockchain Newsletter #1"
 description: "#1 - June 2019"
 date: 2019-07-04
 slug: "/2019-07-04"
-type: single
 categories:
   - "newsletters"
-summary: Rust in Blockchain starts a series of offline events in San Francisco, Berlin, and Hangzhou, the first meetup will be held in San Francisco on 17th July. If you are interested in speaking at our events, please apply here, we will be super happy to receive your contributions. Libra might be the hypest news in June, follows with non-stoping blog posts. 
+summary: Rust in Blockchain starts a series of offline events in San Francisco, Berlin, and Hangzhou, the first meetup will be held in San Francisco on 17th July. If you are interested in speaking at our events, please apply here, we will be super happy to receive your contributions. Libra might be the hypest news in June, follows with non-stoping blog posts.
 ---
 
 Welcome to the second edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #0](/newsletters/2019-06-06).

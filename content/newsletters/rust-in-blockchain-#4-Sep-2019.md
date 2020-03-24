@@ -3,7 +3,6 @@ title: "Rust in Blockchain Newsletter #4"
 description: "#4 - Sep 2019"
 date: 2019-10-03
 slug: "/2019-10-03"
-type: single
 categories:
   - "newsletters"
 summary: September featured Berlin Blockchain week, one of the biggest blockchain events of the year, and a number of Rust blockchain projects were there. We held Rust in Blockchain events in Berlin as well as in Hangzhou, the videos for which are linked below in the "learning" section. Rust in Blockchain has a new logo, and there are

@@ -5,4 +5,6 @@ date: "{{ .Date }}"
 thumbnail: ""
 categories:
   - ""
+tags:
+  - ""
 ---

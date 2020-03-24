@@ -3,7 +3,6 @@ title: "RiB Newsletter #9 – The Month of Working from Home"
 description: "#9 - Feb 2020"
 date: 2020-03-04
 slug: "/2020-03-04-the-month-of-working-from-home"
-type: single
 categories:
   - "newsletters"
 summary: This month Solana released version 1.0. Congrats to one of the hardest-working Rust blockchain teams; Solana did things right all last year, with extraordinary development velocity, consistent technical media publications, and multiple event appearances and sponsorships. We wish them the best success.

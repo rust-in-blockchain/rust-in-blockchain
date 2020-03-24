@@ -3,7 +3,6 @@ title: "Rust in Blockchain Newsletter #6"
 description: "#6 - Nov 2019"
 date: 2019-12-05
 slug: "/2019-12-05"
-type: single
 categories:
   - "newsletters"
 summary: Each month we like to shine a light on a notable Rust blockchain project. This month that project is deoxysii-rust. This is a great example of the type of useful crates that come out of Rust blockchain projects. It implements the Deoxys II authenticated encryption scheme, which was a winner of the CAESAR cryptographic competition.

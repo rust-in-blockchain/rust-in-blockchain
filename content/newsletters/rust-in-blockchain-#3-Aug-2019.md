@@ -3,7 +3,6 @@ title: "Rust in Blockchain Newsletter #3"
 description: "#3 - Aug 2019"
 date: 2019-09-05
 slug: "/2019-09-05"
-type: single
 categories:
   - "newsletters"
 summary: August was an exciting month, thanks to the very stunning RustConf and Berlin Blockchain Week! There were many rust & blockchain related meetups during this period. Let’s look forward to videos and reflect on these events in the coming days. The RustinBlockchain telegram group has reached more than 100 people so far. A shoutout to all of our friends in the Rust Community for helping with the contribution call.

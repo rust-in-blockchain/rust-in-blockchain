@@ -3,7 +3,6 @@ title: "Rust in Blockchain Newsletter #2"
 description: "#2 - July 2019"
 date: 2019-08-01
 slug: "/2019-08-01"
-type: single
 categories:
   - "newsletters"
 summary: The first Rust in Blockchain meetup In Rust We Trust went very well on the 17th July in San Francisco. Thanks to all the speakers and the participants! If you want to speak on one of our forthcoming meetups, please apply here.

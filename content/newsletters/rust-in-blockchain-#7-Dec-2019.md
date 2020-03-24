@@ -7,6 +7,7 @@ slug: "/2020-01-02"
 type: single
 categories:
   - "newsletters"
+summary: This month we see a trend, in blockchain and across the Rust ecosystem, of projects quickly picking up stable async/await support and migrating to tokio 0.2. For those interested in a great overview of the future distributed-web landscape, Kyle Samani of Multicoin Capital published a new edition of their "The Web3 Stack"...
 ---
 
 

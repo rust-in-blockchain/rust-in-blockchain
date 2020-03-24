@@ -6,6 +6,7 @@ slug: "/2019-06-06"
 type: single
 categories:
   - "newsletters"
+summary: Blockchain technology brings together cryptography, mathematics, game theory, and economics to create distributed systems with uniquely powerful security properties. Rust is a high-performance programming language uniquely suited to creating secure distributed systems. Every edition we bring you the latest developer news related to blockchain technology in Rust, with the ambition of building a greater developer community around this family of projects. 
 ---
 
 Welcome to the first edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.

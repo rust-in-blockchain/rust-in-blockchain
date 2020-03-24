@@ -6,6 +6,7 @@ slug: "/2019-08-01"
 type: single
 categories:
   - "newsletters"
+summary: The first Rust in Blockchain meetup In Rust We Trust went very well on the 17th July in San Francisco. Thanks to all the speakers and the participants! If you want to speak on one of our forthcoming meetups, please apply here.
 ---
 
 Welcome to the third edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies.  [Previous #1](/newsletters/2019-07-04).

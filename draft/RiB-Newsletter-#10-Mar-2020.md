@@ -74,6 +74,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Events
 
+May 1-2 | Online
+
+[DeFi Discussions: Virtual Summit](https://defi-discussions.dystopialabs.com/)
+
 
 &nbsp;
 

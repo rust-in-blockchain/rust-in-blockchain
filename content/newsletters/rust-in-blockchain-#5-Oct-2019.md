@@ -6,6 +6,8 @@ slug: "/2019-11-07"
 type: single
 categories:
   - "newsletters"
+summary: The highlight this month was San Francisco Blockchain Week. This was a huge series of events, with representation from a number of Rust blockchain projects. Several projects, Interledger, Near, Nervos, Oasis, and Parity came together for a day of Rust in Blockchain workshops.
+
 ---
 
 Welcome to the #5 edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous: #4](/newsletters/2019-10-03).

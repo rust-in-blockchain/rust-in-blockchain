@@ -6,6 +6,7 @@ slug: "/2019-09-05"
 type: single
 categories:
   - "newsletters"
+summary: August was an exciting month, thanks to the very stunning RustConf and Berlin Blockchain Week! There were many rust & blockchain related meetups during this period. Let’s look forward to videos and reflect on these events in the coming days. The RustinBlockchain telegram group has reached more than 100 people so far. A shoutout to all of our friends in the Rust Community for helping with the contribution call.
 ---
 
 Welcome to the fourth edition of Rust in Blockchain, the hypest newsletter about the hypest combination of technologies. [Previous #2](/newsletters/2019-08-01).

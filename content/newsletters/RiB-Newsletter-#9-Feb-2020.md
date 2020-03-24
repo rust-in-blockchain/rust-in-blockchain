@@ -6,6 +6,7 @@ slug: "/2020-03-04-the-month-of-working-from-home"
 type: single
 categories:
   - "newsletters"
+summary: This month Solana released version 1.0. Congrats to one of the hardest-working Rust blockchain teams; Solana did things right all last year, with extraordinary development velocity, consistent technical media publications, and multiple event appearances and sponsorships. We wish them the best success.
 ---
 
 Welcome to the #9 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #8](/newsletters/2020-02-05-looking-fowrward-to-2020).

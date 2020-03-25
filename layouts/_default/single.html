@@ -1,4 +1,7 @@
 {{ define "main" }}
+{{ if .Params.redirectURL }}
+<meta http-equiv="refresh" content="0; url={{ .Params.redirectURL }}"/>
+{{ end }}
 <main class="main" role="main">
 	<article class="post">
 		<header class="post__header">

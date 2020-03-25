@@ -630,13 +630,17 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	width: 100%;
 }
 
-.content a,
+.content a {
+	border-bottom: .125em dotted #bdbdbd;
+}
 .warning a {
 	font-weight: 700;
 	color: {{ $highlightColor }};
 }
 
-.content a:hover,
+.content a:hover {
+	border-bottom: .125em dotted {{ $highlightColor }};
+}
 .warning a:hover {
 	color: {{ $highlightColor }};
 	text-decoration: underline;

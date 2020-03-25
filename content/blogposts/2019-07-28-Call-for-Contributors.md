@@ -4,6 +4,8 @@ title: "Call for Contributors"
 date: "2019-07-28"
 description: "Call for Contributors"
 author: Aimee
+aliases:
+  - /2019/07/30/call-for-contributors/
 slug: "/call-for-contributors"
 categories:
   - "blogposts"

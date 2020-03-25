@@ -3,6 +3,8 @@
 title: "Rust in Blockchain Newsletter #7"
 description: "#7 - Dec 2019"
 date: 2020-01-02
+aliases:
+  - /2020/01/02/rust-in-blockchain-7-december-2019/
 slug: "/2020-01-02"
 categories:
   - "newsletters"

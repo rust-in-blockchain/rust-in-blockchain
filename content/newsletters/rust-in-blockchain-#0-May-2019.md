@@ -2,6 +2,8 @@
 title: "Rust in Blockchain Newsletter #0"
 description: "#0 - May 2019"
 date: 2019-06-06
+aliases:
+  - /2019/06/06/rust-in-blockchain/
 slug: "/2019-06-06"
 categories:
   - "newsletters"

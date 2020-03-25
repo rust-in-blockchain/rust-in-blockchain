@@ -2,6 +2,8 @@
 title: "Rust in Blockchain Newsletter #3"
 description: "#3 - Aug 2019"
 date: 2019-09-05
+aliases:
+  - /2019/09/05/rust-in-blockchain-3-august-2019/
 slug: "/2019-09-05"
 categories:
   - "newsletters"

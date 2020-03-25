@@ -2,6 +2,8 @@
 title: "RiB Newsletter #9 – The Month of Working from Home"
 description: "#9 - Feb 2020"
 date: 2020-03-04
+aliases:
+  - /2020/03/04/rib-newsletter-9-the-month-of-working-from-home/
 slug: "/2020-03-04-the-month-of-working-from-home"
 categories:
   - "newsletters"

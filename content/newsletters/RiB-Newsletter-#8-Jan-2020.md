@@ -2,7 +2,9 @@
 title: "RiB Newsletter #8 - Looking Forward to 2020"
 description: "#8 - Jan 2020"
 date: 2020-02-05
-slug: "/2020-02-05-looking-fowrward-to-2020"
+aliases:
+  - /2020/02/05/rib-newsletter-8-looking-forward-to-2020/
+slug: "/2020-02-05-looking-forward-to-2020"
 categories:
   - "newsletters"
 summary: This month, even with the holidays and world events, saw strong momentum in the big Rust blockchain projects. Solana is moving toward two new testnets, one of which is expected to evolve into their mainnet; Zcash has been blogging technical details about their Rust implementation, Zebra; Nervos has initiated a grants program ...

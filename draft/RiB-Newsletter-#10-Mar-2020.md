@@ -11,10 +11,6 @@ How are you doing from working at home so far? What do you spend time on? We hop
 This month, we changed the website theme, and moved the hosting from wordpress to GitHub Pages, with hugo framework. So now it should be more straightforward to contribute to the website as well as the content. We still need a RSS, maybe also an event calendar ;)
 ---
 
-# RiB Newsletter #10 - Mar 2020
-
-**#10 - Mar 2020**
-
 Welcome to the #10 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #9](/newsletters/2020-03-04-the-month-of-working-from-home). 
 
 How are you doing from working at home so far? What do you spend time on? We hope you find something fun, create interesting hacks and enjoy yourself. 
@@ -56,9 +52,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [Solana]: 240 merged [PRs][solana-merged-prs-1], 30 closed [issues][solana-closed_issues-1]
 
-[NEAR]: 47 merged [PRs][near-merged-prs-1], 56 closed [issues][near-closed_issues-1]
+[CodeChain]: 81 merged PRs ([1][codechain-mergedpr1], [2][codechain-mergedpr2], [3][codechain-mergedpr3], [4][codechain-mergedpr4], [5][codechain-mergedpr5]), 22 closed [issues][codechain-issue]
 
-[CodeChain]: 62 merged PRs ([1][codechain-merged-prs-1], [2][codechain-merged-prs-2]), 22 closed [issues][codechain-closed_issues-1]
+[NEAR]: 47 merged [PRs][near-merged-prs-1], 56 closed [issues][near-closed_issues-1]
 
 [Parity]: 70 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3]), 9 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3])
 
@@ -77,14 +73,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**CodeChain**](https://github.com/codeChain-io/)
 
-81 merged PRs([1][codechain-mergedpr1], [2][codechain-mergedpr2], [3][codechain-mergedpr3], [4][codechain-mergedpr4], [5][codechain-mergedpr5]),
-[22 closed issues](https://github.com/CodeChain-io/foundry/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-03-01..2020-03-31).
+81 merged PRs([1][codechain-mergedpr1], [2][codechain-mergedpr2], [3][codechain-mergedpr3], [4][codechain-mergedpr4], [5][codechain-mergedpr5]), [22 closed issues][codechain-issue].
 
 [codechain-mergedpr1]: https://github.com/CodeChain-io/foundry/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
 [codechain-mergedpr2]: https://github.com/CodeChain-io/foundry-rpc-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
 [codechain-mergedpr3]: https://github.com/CodeChain-io/foundry-primitives-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
 [codechain-mergedpr4]: https://github.com/CodeChain-io/foundry-keystore-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
 [codechain-mergedpr5]: https://github.com/CodeChain-io/foundry-keystore-cli/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
+[codechain-issue]: https://github.com/CodeChain-io/foundry/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-03-01..2020-03-31
 
 - News: [CodeChain Foundry ICS Implementation](https://medium.com/codechain/foundry-ics-poc-proof-of-concept-implementation-c92a8b4757da)
 - R&D: [Adapting BLS Signature Aggregation to CodeChain Foundry](https://medium.com/codechain/adapting-bls-signature-aggregation-to-codechain-foundry-7767d6656e5b)

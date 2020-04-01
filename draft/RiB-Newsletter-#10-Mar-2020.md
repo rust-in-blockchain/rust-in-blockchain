@@ -74,13 +74,19 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [**CodeChain**](https://github.com/codeChain-io/)
 
-62 merged PRs ([1][codechain-merged-prs-1], [2][codechain-merged-prs-2]), 22 closed [issues][codechain-closed_issues-1]
+81 merged PRs([1][codechain-mergedpr1], [2][codechain-mergedpr2], [3][codechain-mergedpr3], [4][codechain-mergedpr4], [5][codechain-mergedpr5]),
+[22 closed issues](https://github.com/CodeChain-io/foundry/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-03-01..2020-03-31).
 
-[codechain-merged-prs-1]: https://github.com/CodeChain-io/codechain/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
-[codechain-merged-prs-2]: https://github.com/CodeChain-io/foundry/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
-[codechain-closed_issues-1]: https://github.com/CodeChain-io/foundry/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-03-01..2020-03-31
+[codechain-mergedpr1]: https://github.com/CodeChain-io/foundry/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
+[codechain-mergedpr2]: https://github.com/CodeChain-io/foundry-rpc-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
+[codechain-mergedpr3]: https://github.com/CodeChain-io/foundry-primitives-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
+[codechain-mergedpr4]: https://github.com/CodeChain-io/foundry-keystore-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
+[codechain-mergedpr5]: https://github.com/CodeChain-io/foundry-keystore-cli/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
 
 - News: [CodeChain Foundry ICS Implementation](https://medium.com/codechain/foundry-ics-poc-proof-of-concept-implementation-c92a8b4757da)
+- R&D: [Adapting BLS Signature Aggregation to CodeChain Foundry](https://medium.com/codechain/adapting-bls-signature-aggregation-to-codechain-foundry-7767d6656e5b)
+- PRs: [ICS Implementation](https://github.com/CodeChain-io/foundry/pulls?q=is%3Apr+label%3Aics+is%3Aclosed)
+- PRs: [Foundry light client implementation](https://github.com/CodeChain-io/foundry/issues?q=is%3Aissue+is%3Aclosed+label%3Alight-client)
 - PR: [Hot events for Informer API ](https://github.com/CodeChain-io/foundry/pull/219) by [@MSNTCS](https://github.com/MSNTCS)
 - PR: [Replace ECDSA and Schnorr with Ed25519](https://github.com/CodeChain-io/foundry/pull/154) by [@HoOngEe](https://github.com/HoOngEe)
 - PR: [Modify logic related to the Tx type for checking whether a Tx is verified or not](https://github.com/CodeChain-io/foundry/pull/257) by [@somniumism](https://github.com/somniumism)

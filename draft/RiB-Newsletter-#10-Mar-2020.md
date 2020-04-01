@@ -49,6 +49,17 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+The [intertrait](https://github.com/CodeChain-io/intertrait) crate.
+
+This clever crate provides a feature missing from Rust project &mdash; the
+ability to cast from one object type to another. Perhaps not directly blockchain
+related, but it comes from [CodeChain], so is another example of the
+contributions that the Rust blockchain community provide to the greater Rust
+ecosystem.
+
+[CodeChain]: https://github.com/CodeChain-io/intertrait
+
+
 &nbsp;
 
 

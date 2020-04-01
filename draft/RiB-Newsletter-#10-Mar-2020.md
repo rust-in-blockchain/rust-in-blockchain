@@ -5,7 +5,7 @@ date: 2020-04-01
 slug: "/2020-04-01-keep-calm-and-hack-more"
 categories:
   - "newsletters"
-summary: How are you doing from working at home so far? What do you spend time on? We hope you find something fun, create interesting hacks and enjoy yourself. This month, we changed the website theme, and moved the hosting from wordpress to GitHub Pages, with hugo framework. So now it should be more straightforward to contribute to the website as well as the content. We still need a RSS, maybe also an event calendar ;)
+summary: How are you doing from working at home so far? What do you spend time on? We hope you find something fun, create interesting hacks and enjoy yourself. This month, we changed the website theme, and moved the hosting from wordpress to GitHub Pages, with hugo framework. So now it should be more straightforward to contribute to the website as well as the content. We still need a RSS, maybe also an event calendar.
 ---
 
 Welcome to the #10 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #9](/newsletters/2020-03-04-the-month-of-working-from-home). 
@@ -41,17 +41,6 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 ## Project spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
-
-The [intertrait](https://github.com/CodeChain-io/intertrait) crate.
-
-This clever crate provides a feature missing from Rust project &mdash; the
-ability to cast from one object type to another. Perhaps not directly blockchain
-related, but it comes from [CodeChain], so is another example of the
-contributions that the Rust blockchain community provide to the greater Rust
-ecosystem.
-
-[CodeChain]: https://github.com/CodeChain-io/intertrait
-
 
 &nbsp;
 

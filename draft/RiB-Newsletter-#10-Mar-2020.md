@@ -6,6 +6,9 @@ slug: "/2020-04-01-keep-calm-and-hack-more"
 categories:
   - "newsletters"
 summary: 
+How are you doing from working at home so far? What do you spend time on? We hope you find something fun, create interesting hacks and enjoy yourself. 
+
+This month, we changed the website theme, and moved the hosting from wordpress to GitHub Pages, with hugo framework. So now it should be more straightforward to contribute to the website as well as the content. We still need a RSS, maybe also an event calendar ;)
 ---
 
 # RiB Newsletter #10 - Mar 2020

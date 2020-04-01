@@ -33,13 +33,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [**CodeChain**](https://github.com/codeChain-io/)
 
 81 merged PRs([1][codechain-mergedpr1], [2][codechain-mergedpr2], [3][codechain-mergedpr3], [4][codechain-mergedpr4], [5][codechain-mergedpr5]),
-[22 closed issues](https://github.com/CodeChain-io/foundry/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-03-01..2020-04-01).
+[22 closed issues](https://github.com/CodeChain-io/foundry/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-03-01..2020-03-31).
 
-[codechain-mergedpr1]: https://github.com/CodeChain-io/foundry/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-04-01
-[codechain-mergedpr2]: https://github.com/CodeChain-io/foundry-rpc-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-04-01
-[codechain-mergedpr3]: https://github.com/CodeChain-io/foundry-primitives-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-04-01
-[codechain-mergedpr4]: https://github.com/CodeChain-io/foundry-keystore-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-04-01
-[codechain-mergedpr5]: https://github.com/CodeChain-io/foundry-keystore-cli/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-04-01
+[codechain-mergedpr1]: https://github.com/CodeChain-io/foundry/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
+[codechain-mergedpr2]: https://github.com/CodeChain-io/foundry-rpc-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
+[codechain-mergedpr3]: https://github.com/CodeChain-io/foundry-primitives-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
+[codechain-mergedpr4]: https://github.com/CodeChain-io/foundry-keystore-js/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
+[codechain-mergedpr5]: https://github.com/CodeChain-io/foundry-keystore-cli/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-03-01..2020-03-31
 
 - News: [CodeChain Foundry ICS Implementation](https://medium.com/codechain/foundry-ics-poc-proof-of-concept-implementation-c92a8b4757da)
 - R&D: [Adapting BLS Signature Aggregation to CodeChain Foundry](https://medium.com/codechain/adapting-bls-signature-aggregation-to-codechain-foundry-7767d6656e5b)

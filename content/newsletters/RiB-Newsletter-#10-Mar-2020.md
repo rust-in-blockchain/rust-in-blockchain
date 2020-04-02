@@ -347,6 +347,6 @@ Offchain Labs | NYC, US
 
 &nbsp;
 
-Want to be included in the next issue? Feel free to submit a PR to the [#11 draft](/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+Want to be included in the next issue? Feel free to submit a PR to the [#11 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 **Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**

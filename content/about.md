@@ -3,7 +3,7 @@
 title: "About us"
 aliases:
   - /about-us/
-slug: "/about-us"
+slug: "/about"
 post_navigation: false
 comments: false
 ---

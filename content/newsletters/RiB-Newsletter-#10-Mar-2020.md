@@ -27,7 +27,7 @@ Stay at home, chill and hack harder.
 
 This edition of RiB was produced with contributions from [SeungMin Lee][contributorsl], [Mattias Nystrom][contributormn], Paulii Good, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
-RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#11 draft](/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#11 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 [contributorsl]: https://github.com/somniumism
 [contributormn]: https://github.com/mat7ias

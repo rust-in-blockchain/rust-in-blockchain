@@ -33,6 +33,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [**COMIT**](https://comit.network/)
 
 
+#### [**Enigma**](https://enigma.co)
+
+News: [April Development Update](https://blog.enigma.co/enigma-development-update-april-2020-f4938a1bee11)
+R&D: [Milestone 2 of 3 ~ CosmWasm in SGX without Encryption](https://forum.enigma.co/t/milestone-2-of-3-cosmwasm-in-sgx-without-encryption/1548)
+Documentation: [Enigma Blockchain Contracts Guide](https://github.com/enigmampc/enigma-blockchain-contracts-guide)
+
 #### [**Golem**](https://golem.network/)
 
 

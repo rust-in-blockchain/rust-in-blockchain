@@ -57,16 +57,18 @@ Most active:
 
 Media:
 
-- https://blog.enigma.co/
+- https://blog.enigma.co
+- https://twitter.com/EnigmaMPC
+- https://forum.enigma.co
 
 Github queries:
 
-- https://github.com/enigmampc/enigma-core/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
+- https://github.com/enigmampc/EnigmaBlockchain/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-04-01+sort%3Acomments-desc
 
 Most active:
 
-- https://github.com/enigmampc/enigma-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/enigmampc/enigma-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
+- https://github.com/enigmampc/EnigmaBlockchain/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-04-01..2020-05-01
+- https://github.com/enigmampc/EnigmaBlockchain/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-04-01..2020-05-01
 
 
 ## Golem

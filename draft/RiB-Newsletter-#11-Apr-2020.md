@@ -14,10 +14,9 @@ Welcome to the #11 edition of Rust in Blockchain, the hypest newsletter about th
 
 ## Project spotlight
 
-Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+NEAR’s Genesis Block officially started the MainNet blockchain on April 22, 2020, ahead of schedule, & has already produced 1 million blocks!
 
-&nbsp;
-
+Read more on the release process [https://near.org/blog/mainnet-roadmap/](https://near.org/blog/mainnet-roadmap/) and the launch announcement [https://buff.ly/2zXOuRt](https://buff.ly/2zXOuRt).
 
 ## Most Active in April
 
@@ -50,6 +49,11 @@ Documentation: [Enigma Blockchain Contracts Guide](https://github.com/enigmampc/
 
 #### [**NEAR**](https://github.com/nearprotocol/nearcore)
 
+* News: [NEAR Community Update: April 24th, 2020](https://near.org/blog/community-update-april-24th-2020/)
+* [A Deep Dive into Private Transactions on NEAR](https://near.org/blog/private-transactions-on-near/)
+* [Introduction to NEAR Protocol’s Economics](https://near.org/blog/near-protocol-economics/)
+* [All public meetings and NEAR events](https://near.ai/community-calendar)
+
 
 #### [**Nervos**](https://github.com/nervosnetwork)
 
@@ -79,6 +83,10 @@ Documentation: [Enigma Blockchain Contracts Guide](https://github.com/enigmampc/
 
 ## Events
 
+May 6-13, 2020
+
+[NEAR online hackathon running](https://gitcoin.co/hackathon/rl1?tab=hackathon:23) on [@gitcoin](https://twitter.com/gitcoin).
+We have prepared seven different challenges, for all experience levels.
 
 &nbsp;
 

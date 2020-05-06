@@ -15,7 +15,9 @@ Welcome to the #11 edition of Rust in Blockchain, the hypest newsletter about th
 
 Wow, it was a huge month for blockchain Rust! It seems like we've all been
 productive sitting at home hacking. We've seen so many interesting developments,
-hopefully captured them all in this report.
+hopefully we captured them all in this report. Really, it has been overwhelming
+trying to pull together all the content and contributions this month. It's
+amazing!
 
 There were significant developments for several Rust blockchain projects:
 
@@ -36,22 +38,26 @@ There were significant developments for several Rust blockchain projects:
 
 We learned of new, or new-to-us Rust blockchain and crypto projects:
 
-- [Crypto.com Chain](https://github.com/crypto-com/chain), a new chain
-  using Tinderment consensus.
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3), a new BLAKE-family hash
   function, with a Rust implementation.
 - [Distaff](https://github.com/BLAKE3-team/BLAKE3), a STARK VM that runs
   encrypted computations.
+- [Crypto.com Chain](https://github.com/crypto-com/chain), a new chain
+  using Tinderment consensus.
 - Both IPFS and FileCoin have ongoing Rust implementations: [ipfs-rust]
   and [forest].
+- [Komodo's AtomicDEX][adex], seemingly one of the most functional
+  implementations of cross-chain atomic swaps, is written in Rust (or is being
+  rewritten in Rust).
 
 [ipfs-rust]: https://github.com/ipfs-rust/rust-ipfs
 [forest]: https://github.com/ChainSafe/forest
+[adex]: https://github.com/KomodoPlatform/atomicDEX-API
 
 Virtual conferences have been flourishing. There were at least three online
 blockchain conferences, the materials for which should be available:
 
-- [Ready Layer One][rlo]. NEAR, Polkadot, and Solana represented.
+- [Ready Layer One][rlo]. NEAR, Polkadot, Solana, Nervos, and Oasis represented.
 - [DeFi Discussions][dfd]. Not Rust-specific, though lots of talks,
   and Enigma is represented.
 - [Sub0][sub0]. A Substrate conference.
@@ -59,6 +65,17 @@ blockchain conferences, the materials for which should be available:
 [rlo]: https://readylayer.one/
 [dfd]: https://defi-discussions.dystopialabs.com/
 [sub0]: https://www.crowdcast.io/e/sub0-online/
+
+Encouraging things are happening in the Rust security and cryptography space.
+The [RustSec] project has been accelerating, releasing [5 Rust-related security
+advisories in April][rsad]; and the [RustCrypto] organization released [new
+secp256k1 curve implementations][rca1] and [ed25519 signature
+implementations][rca2], among others. This and other activity we've seen
+recently from the [Rust secure code working group][scwg] has been encouraging
+and exciting.
+
+[RustSec]: https://rustsec.org/
+[rsad]: https://rustsec.org/advisories/
 
 This was also a big month for RiB. Lots of people submitted news and project
 updates. Thank you so much! It really improves the quality and breadth of our
@@ -79,9 +96,8 @@ expect this section to expand in the future to cover subjects like cryptography,
 security, consensus, WASM and other VMs, and crypto-economics, particularly as
 related to Rust and the Rust blockchain ecosystem.
 
-Let us know what you think in the [telegram group][tg].
-
-Let's have another great month, Rusty blockchainers.
+Let us know what you think in the [telegram group][tg]. Let's have another great
+month, Rusty crypto hackers.
 
 [tg]: https://t.me/rustinblockchain
 
@@ -110,7 +126,7 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
-[`k256`].
+The [`k256`] crate!
 
 This is a pure-Rust implementation of [secp256k1], the elliptic curve used by
 Bitcoin and many other blockchain projects. It was one of several cryptography
@@ -146,6 +162,7 @@ See the announcments of [`k256` and `p256`][rca1] and [`signature` and
 - Project: [Parity's ink to write smart contracts](https://github.com/paritytech/ink)
 - Project: [riemann-rs](https://github.com/summa-tx/riemann-rs). Simple UTXO transactions in Rust.
 - Project: [`p256` and `k256` crates](https://www.reddit.com/r/rust/comments/gbjsr9/ann_rustcrypto_p256_and_k256_v020_pure_rust_nist/) and [`signature` and `ed25519`](https://www.reddit.com/r/rust/comments/g4w8by/ann_rustcrypto_signature_v10_and_ed25519_v10/). Rust implementations of the elliptic curves by the RustCrypto org.
+- Project: [rust-vyper](https://github.com/ethereum/rust-vyper). An implementation of the [Vyper](https://github.com/vyperlang/vyper) smart-contract language.
 - Report: [Analyzing Developers in Cryptocurrency Projects](https://blog.coincodecap.com/analyzing-developers-in-cryptocurrency-projects/)
 - Blog: [When Tailwinds Vanish](https://luttig.substack.com/p/when-tailwinds-vanish)
 - Blog: [Gitcoun Grants Round 5](https://vitalik.ca/general/2020/04/30/round5.html). Vitalik

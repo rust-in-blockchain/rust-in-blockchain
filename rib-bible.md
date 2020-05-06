@@ -37,20 +37,21 @@ Most active:
 
 Media:
 
-- https://blog.coblox.tech/
+- https://comit.network/blog
+- https://twitter.com/comit_network
 
 Github queries:
 
-- https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
-- https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
-- https://github.com/comit-network/RFCs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
+- https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-04-01+sort%3Acomments-desc
+- https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-04-01+sort%3Acomments-desc
+- https://github.com/comit-network/RFCs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-04-01+sort%3Acomments-desc
 
 Most active:
 
-- https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
-- https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
+- https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-04-01..2020-05-01
+- https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-04-01..2020-05-01
+- https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-04-01..2020-05-01
+- https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-04-01..2020-05-01
 
 
 ## Enigma

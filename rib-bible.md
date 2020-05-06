@@ -42,8 +42,10 @@ GitHub:
 - https://github.com/comit-network
 - repos = [
 "comit-network/comit-rs",
+"comit-network/comit-js-sdk",
 "comit-network/create-comit-app",
-"comit-network/RFCs",
+"comit-network/comit.network",
+"comit-network/a2l-poc",
 ]
 
 ## Enigma
@@ -140,7 +142,7 @@ GitHub:
 
 - https://github.com/libra
 - repos = [
-"libra/libra"
+"libra/libra",
 ]
 
 ## Lighthouse

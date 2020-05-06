@@ -6,3 +6,5 @@ Graphics are made by [Echo](http://echoqi.net/).
 
 ## How to contribute
 The draft folder contains content for each edition. To contribute to the next edition, submit pull requests editing the appropriate markdown file.
+
+[The Rust in Blockchain Bible](/rib-bible.md) is the source for the newsletter.

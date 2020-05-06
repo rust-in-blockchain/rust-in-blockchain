@@ -24,9 +24,9 @@ There were significant developments for several Rust blockchain projects:
 - The [Ethereum 2.0 "Schlesi" multi-client testnet launched][eth2], with the
   Rust [lighthouse][lh] client participating.
 - Facebook's Libra resurfaced with a [new roadmap and whitepaper][lbr].
-- [MobileCoin], a privacy-focused payment network associated with [Signal],
-  open-sourced their Rust codebase. MobileCoin runs the Stellar consensus
-  protocol in SGX enclaves, combined with CryptoNote ring signatures.
+- [MobileCoin], a fast and privacy-focused payment network associated with
+  [Signal], open-sourced their Rust codebase. MobileCoin runs the Stellar
+  consensus protocol in SGX enclaves, combined with CryptoNote ring signatures.
 
 [lbr]: https://libra.org/en-US/blog/libra-developers-the-path-forward/
 [MobileCoin]: https://github.com/mobilecoinofficial/mobilecoin

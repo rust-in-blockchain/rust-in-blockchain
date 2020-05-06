@@ -6,10 +6,9 @@ date: 2020-05-06
 slug: "/2020-05-06-"
 categories:
   - "newsletters"
-summary:
----
+summary: It was a huge month for blockchain Rust! It seems like we've all been productive sitting at home hacking. We've seen so many interesting developments, hopefully captured them all in this report. There were significant developments for several Rust blockchain projects.
 
-# RiB Newsletter #11 - April 2020
+---
 
 Welcome to the #11 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #10](/newsletters/2020-04-01-keep-calm-and-hack-more). -->
 
@@ -54,8 +53,7 @@ We learned of new, or new-to-us Rust blockchain and crypto projects:
 [forest]: https://github.com/ChainSafe/forest
 [adex]: https://github.com/KomodoPlatform/atomicDEX-API
 
-Virtual conferences have been flourishing. There were at least three online
-blockchain conferences, the materials for which should be available:
+Virtual conferences have been flourishing. There were at least three online blockchain conferences, the materials for which should be available:
 
 - [Ready Layer One][rlo]. NEAR, Polkadot, Solana, Nervos, and Oasis represented.
 - [DeFi Discussions][dfd]. Not Rust-specific, though lots of talks,

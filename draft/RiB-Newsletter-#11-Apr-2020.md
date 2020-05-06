@@ -15,7 +15,7 @@ Welcome to the #11 edition of Rust in Blockchain, the hypest newsletter about th
 
 Wow, it was a huge month for blockchain Rust! It seems like we've all been
 productive sitting at home hacking. We've seen so many interesting developments,
-hopefully captureed them all in this report.
+hopefully captured them all in this report.
 
 There were significant developments for several Rust blockchain projects:
 

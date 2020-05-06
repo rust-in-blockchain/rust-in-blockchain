@@ -6,16 +6,13 @@ date: 2020-05-06
 slug: "/2020-05-06-"
 categories:
   - "newsletters"
-summary:
----
+summary: It was a huge month for blockchain Rust! It seems like we've all been productive sitting at home hacking. We've seen so many interesting developments, hopefully captured them all in this report. There were significant developments for several Rust blockchain projects.
 
-# RiB Newsletter #11 - April 2020
+---
 
 Welcome to the #11 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #10](/newsletters/2020-04-01-keep-calm-and-hack-more). -->
 
-Wow, it was a huge month for blockchain Rust! It seems like we've all been
-productive sitting at home hacking. We've seen so many interesting developments,
-hopefully captured them all in this report.
+Wow, it was a huge month for blockchain Rust! It seems like we've all been productive sitting at home hacking. We've seen so many interesting developments, hopefully captured them all in this report.
 
 There were significant developments for several Rust blockchain projects:
 
@@ -36,20 +33,15 @@ There were significant developments for several Rust blockchain projects:
 
 We learned of new, or new-to-us Rust blockchain and crypto projects:
 
-- [Crypto.com Chain](https://github.com/crypto-com/chain), a new chain
-  using Tinderment consensus.
-- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3), a new BLAKE-family hash
-  function, with a Rust implementation.
-- [Distaff](https://github.com/BLAKE3-team/BLAKE3), a STARK VM that runs
-  encrypted computations.
-- Both IPFS and FileCoin have ongoing Rust implementations: [ipfs-rust]
-  and [forest].
+- [Crypto.com Chain](https://github.com/crypto-com/chain), a new chain using Tinderment consensus.
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3), a new BLAKE-family hash function, with a Rust implementation.
+- [Distaff](https://github.com/BLAKE3-team/BLAKE3), a STARK VM that runs encrypted computations.
+- Both IPFS and FileCoin have ongoing Rust implementations: [ipfs-rust] and [forest].
 
 [ipfs-rust]: https://github.com/ipfs-rust/rust-ipfs
 [forest]: https://github.com/ChainSafe/forest
 
-Virtual conferences have been flourishing. There were at least three online
-blockchain conferences, the materials for which should be available:
+Virtual conferences have been flourishing. There were at least three online blockchain conferences, the materials for which should be available:
 
 - [Ready Layer One][rlo]. NEAR, Polkadot, and Solana represented.
 - [DeFi Discussions][dfd]. Not Rust-specific, though lots of talks,

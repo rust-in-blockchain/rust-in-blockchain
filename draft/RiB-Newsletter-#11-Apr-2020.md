@@ -91,9 +91,7 @@ Let's have another great month, Rusty blockchainers.
 
 ## Thanks
 
-This edition of RiB was produced with contributions from
-
-[Anais Urlichs][contributorau], Calvin Lau, [Daniel Karzel][contributordk], [James Waugh][contributorjw], [mfaulk][contributormf], Paulii Good, [SeungMin Lee][contributorsl], [Tony Arcieri][contributorta], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+This edition of RiB was produced with contributions from [Anais Urlichs][contributorau], Calvin Lau, [Daniel Karzel][contributordk], [James Waugh][contributorjw], [mfaulk][contributormf], Paulii Good, [SeungMin Lee][contributorsl], [Tony Arcieri][contributorta], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#12 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
@@ -130,11 +128,11 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 ## Most Active in April
 
+[**Solana**](https://github.com/solana-labs/solana): 513 merged [PRs][solana-merged-prs-1], 67 [closed issues][solana-closed_issues-1], 63 [open issues][solana-open_issues-1]
+
 [**Parity** ](https://github.com/paritytech): 303 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3]), 71 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2]), 81 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2])
 
 [**COMIT**](https://comit.network/): 249 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3], [4][comit-merged-prs-4], [5][comit-merged-prs-5]), 97 closed issues ([1][comit-closed_issues-1], [2][comit-closed_issues-2], [3][comit-closed_issues-3], [4][comit-closed_issues-4]), 42 open issues ([1][comit-open_issues-1], [2][comit-open_issues-2], [3][comit-open_issues-3])
-
-[**Solana**](https://github.com/solana-labs/solana): 251 merged [PRs][solana-merged-prs-1], 30 [closed issues][solana-closed_issues-1], 65 [open issues][solana-open_issues-1]
 
 [**NEAR**](https://github.com/nearprotocol/nearcore): 121 merged [PRs][near-merged-prs-1], 90 [closed issues][near-closed_issues-1], 69 [open issues][near-open_issues-1]
 
@@ -336,8 +334,8 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
-251 merged PRs ([1][solana-merged-prs-1]), 30 closed issues ([1][solana-closed_issues-1]), 
-65 open issues ([1][solana-open_issues-1])
+513 merged PRs ([1][solana-merged-prs-1]), 67 closed issues ([1][solana-closed_issues-1]), 
+63 open issues ([1][solana-open_issues-1])
 
 [solana-merged-prs-1]: https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-04-01..2020-05-05
 [solana-closed_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-04-01..2020-05-05

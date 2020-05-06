@@ -2,12 +2,77 @@
 
 Welcome to the #11 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #10](/newsletters/2020-04-01-keep-calm-and-hack-more). -->
 
+Wow, it was a huge month for blockchain Rust! It seems like we've all been
+productive sitting at home hacking. We've seen so many interesting developments,
+hopefully captureed them all in this report.
 
-//Todo
+There were significant developments for several Rust blockchain projects:
 
-NEAR’s Genesis Block officially started the MainNet blockchain on April 22, 2020, ahead of schedule, & has already produced 1 million blocks!
-https://near.org/blog/near-mainnet-genesis/
+- NEAR [launched their mainnet][nmn]. Congrats to the NEAR team!
+- The [Ethereum 2.0 "Schlesi" multi-client testnet launched][eth2], with the
+  Rust [lighthouse][lh] client participating.
+- Facebook's Libra resurfaced with a [new roadmap and whitepaper][lbr].
+- [MobileCoin], a privacy-focused payment network associated with [Signal],
+  open-sourced their Rust codebase. MobileCoin runs the Stellar consensus
+  protocol in SGX enclaves, combined with CryptoNote ring signatures.
 
+[lbr]: https://libra.org/en-US/blog/libra-developers-the-path-forward/
+[MobileCoin]: https://github.com/mobilecoinofficial/mobilecoin
+[Signal]: https://signal.org/
+[nmn]: https://near.org/blog/near-mainnet-genesis/
+[eth2]: https://github.com/goerli/schlesi/
+[lh]: https://github.com/sigp/lighthouse
+
+We learned of new, or new-to-us Rust blockchain and crypto projects:
+
+- [Crypto.com Chain](https://github.com/crypto-com/chain), a new chain
+  using Tinderment consensus.
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3), a new BLAKE-family hash
+  function, with a Rust implementation.
+- [Distaff](https://github.com/BLAKE3-team/BLAKE3), a STARK VM that runs
+  encrypted computations.
+- Both IPFS and FileCoin have ongoing Rust implementations: [ipfs-rust]
+  and [forest].
+
+[ipfs-rust]: https://github.com/ipfs-rust/rust-ipfs
+[forest]: https://github.com/ChainSafe/forest
+
+Virtual conferences have been flourishing. There were at least three online
+blockchain conferences, the materials for which should be available:
+
+- [Ready Layer One][rlo]. NEAR, Polkadot, and Solana represented.
+- [DeFi Discussions][dfd]. Not Rust-specific, though lots of talks,
+  and Enigma is represented.
+- [Sub0][sub0]. A Substrate conference.
+
+[rlo]: https://readylayer.one/
+[dfd]: https://defi-discussions.dystopialabs.com/
+[sub0]: https://www.crowdcast.io/e/sub0-online/
+
+This was also a big month for RiB. Lots of people submitted news and project
+updates. Thank you so much! It really improves the quality and breadth of our
+project coverage.
+
+We now have automation to collect project stats from GitHub (the "merged PR's"
+etc. listed for each project, and that contribute to the "Most Active Projects"
+section). This will help us reduce the effort that goes into producing each
+newsletter, and as a result we no longer need help collecting those stats (we do
+though very much need help choosing important news, blogs, pulls, and issues for
+each project).
+
+Since our project coverage has become quite expansive (and frankly
+overwhelming), this month we have moved the "Interesting Things" section in
+front of "Project Updates". This section contains links about cross-cutting
+topics that we hope are of interest to the broadest technical audience. We
+expect this section to expand in the future to cover subjects like cryptography,
+security, consensus, WASM and other VMs, and crypto-economics, particularly as
+related to Rust and the Rust blockchain ecosystem.
+
+Let us know what you think in the [telegram group][tg].
+
+Let's have another great month, Rusty blockchainers.
+
+[tg]: https://t.me/rustinblockchain
 
 
 &nbsp;
@@ -26,10 +91,16 @@ https://near.org/blog/near-mainnet-genesis/
 ## Interesting Things
 
 - Project: [Introducing Distaff: a STARK-based VM written in Rust](https://ethresear.ch/t/introducing-distaff-a-stark-based-vm-written-in-rust/7318)
+- Project: [BLAKE3(https://github.com/BLAKE3-team/BLAKE3). There's another BLAKE hash! Rust
+  implementation available.
 - Project: [Parity's ink to write smart contracts](https://github.com/paritytech/ink)
 - Report: [Analyzing Developers in Cryptocurrency Projects](https://blog.coincodecap.com/analyzing-developers-in-cryptocurrency-projects/)
 - Blog: [When Tailwinds Vanish](https://luttig.substack.com/p/when-tailwinds-vanish)
-
+- Blog: [Gitcoun Grants Round 5](https://vitalik.ca/general/2020/04/30/round5.html). Vitalik
+  Buterin analyzes efforts to crowd-fund Ethereum projects. Not Rust-related, but interesting
+  analysis about sustainable community development.
+- Blog: [Crypto Fund II](https://a16z.com/2020/04/30/crypto-fund-ii/). Andreeessen Horowitz
+  announced $500-million in available crypto-related funding. Not Rust.
 
 &nbsp;
 

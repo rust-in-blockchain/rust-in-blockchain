@@ -7,7 +7,6 @@ Guidelines when looking for content:
 - Topics on official blogs and tweets are probably important
 - Look for interesting tags on PRs and issues
 - Look for PRs and issues with many comments
-- In the GitHub queries below, replace dates with approprate date from a month ago
 - Sorting by most comments can help find important PRs
 
 ## CodeChain
@@ -18,20 +17,18 @@ Media:
 - https://twitter.com/codechain_io
 - https://research.codechain.io
 
-Github queries:
+GitHub:
 
-- https://github.com/CodeChain-io/codechain/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
-- https://github.com/CodeChain-io/foundry/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
-- https://github.com/CodeChain-io/foundry-rpc-js/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
-- https://github.com/CodeChain-io/foundry-primitives-js/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
-- https://github.com/CodeChain-io/foundry-keystore-js/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
-- https://github.com/CodeChain-io/foundry-keystore-cli/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
-- https://github.com/CodeChain-io/foundry-sandbox/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-12-01+sort%3Acomments-desc
-
-Most active:
-
-- https://github.com/CodeChain-io/codechain/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/CodeChain-io/codechain/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
+- https://github.com/CodeChain-io
+- repos = [
+"CodeChain-io/codechain",
+"CodeChain-io/foundry",
+"CodeChain-io/foundry-rpc-js",
+"CodeChain-io/foundry-primitives-js",
+"CodeChain-io/foundry-keystore-js",
+"CodeChain-io/foundry-keystore-cli",
+"CodeChain-io/foundry-sandbox",
+]
 
 ## COMIT
 
@@ -40,19 +37,14 @@ Media:
 - https://comit.network/blog
 - https://twitter.com/comit_network
 
-Github queries:
+GitHub:
 
-- https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-04-01+sort%3Acomments-desc
-- https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-04-01+sort%3Acomments-desc
-- https://github.com/comit-network/RFCs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-04-01+sort%3Acomments-desc
-
-Most active:
-
-- https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-04-01..2020-05-01
-- https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-04-01..2020-05-01
-- https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-04-01..2020-05-01
-- https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-04-01..2020-05-01
-
+- https://github.com/comit-network
+- repos = [
+"comit-network/comit-rs",
+"comit-network/create-comit-app",
+"comit-network/RFCs",
+]
 
 ## Enigma
 
@@ -62,15 +54,13 @@ Media:
 - https://twitter.com/EnigmaMPC
 - https://forum.enigma.co
 
-Github queries:
+GitHub:
 
-- https://github.com/enigmampc/EnigmaBlockchain/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-04-01+sort%3Acomments-desc
-
-Most active:
-
-- https://github.com/enigmampc/EnigmaBlockchain/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-04-01..2020-05-01
-- https://github.com/enigmampc/EnigmaBlockchain/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-04-01..2020-05-01
-
+- https://github.com/enigmampc
+- repos = [
+"enigmampc/enigma-core",
+"enigmampc/SafeTrace"
+]
 
 ## Golem
 
@@ -80,23 +70,20 @@ Media:
 - https://twitter.com/golemproject
 - https://chat.golem.network/
 
-Github queries:
+GitHub:
 
-- https://github.com/golemfactory/gwasm-runner/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
-- https://github.com/golemfactory/golem/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
-- https://github.com/golemfactory/mandelbrot/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
-- https://github.com/golemfactory/sp-wasm/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
-- https://github.com/golemfactory/gudot/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
-- https://github.com/golemfactory/g-flite/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
-- https://github.com/golemfactory/golem-client/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
-- https://github.com/golemfactory/gMorph/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
-- https://github.com/golemfactory/hello-gwasm-runner/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2020-02-01+sort%3Acomments-desc
-
-
-Most active:
-
-- https://github.com/golemfactory/gwasm-runner/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-02-01..2020-03-03
-- https://github.com/golemfactory/gwasm-runner/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-02-01..2020-03-03
+- https://github.com/golemfactory
+- repos = [
+"golemfactory/gwasm-runner",
+"golemfactory/golem",
+"golemfactory/mandelbrot",
+"golemfactory/sp-wasm",
+"golemfactory/gudot",
+"golemfactory/g-flite",
+"golemfactory/golem-client",
+"golemfactory/gMorph",
+"golemfactory/hello-gwasm-runner",
+]
 
 ## Grin
 
@@ -104,15 +91,12 @@ Media:
 
 - https://grinnews.substack.com
 
-Github queries:
+GitHub:
 
-- https://github.com/mimblewimble/grin/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
-
-Most active:
-
-- https://github.com/mimblewimble/grin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
-
+- https://github.com/mimblewimble
+- repos = [
+"mimblewimble/grin",
+]
 
 ## Holochain
 
@@ -125,14 +109,12 @@ Media:
 - https://blog.holochain.org/
 - https://medium.com/h-o-l-o
 
-GitHub queries:
+GitHub:
 
-- https://github.com/holochain/holochain-rust/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
-
-Most active:
-
-- https://github.com/holochain/holochain-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/holochain/holochain-rust/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
+- https://github.com/holochain
+repos = [
+"holochain/holochain-rust",
+]
 
 ## Interledger
 
@@ -141,15 +123,38 @@ Media:
 - https://twitter.com/interledger
 - https://lists.w3.org/Archives/Public/public-interledger/
 
-GitHub queries:
+GitHub:
 
-- https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
+- https://github.com/interledger-rs
+- repos = [
+"interledger-rs/interledger-rs",
+]
 
-Most active:
+## Libra
 
-- https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
+Media:
 
+- https://libra.org
+
+GitHub:
+
+- https://github.com/libra
+- repos = [
+"libra/libra"
+]
+
+## Lighthouse
+
+Media:
+
+- https://lighthouse.sigmaprime.io/
+
+GitHub:
+
+- https://github.com/sigp/lighthouse
+- repos = [
+"sigp/lighthouse",
+]
 
 ## Near
 
@@ -159,16 +164,13 @@ Media:
 - https://twitter.com/nearprotocol
 - https://nearprotocol.com/community/
 
-GitHub queries:
+GitHub:
 
-- https://github.com/nearprotocol/nearcore/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
-
-Most active:
-
-- https://github.com/nearprotocol/nearcore/pulls?q=is%3Apr+is%3Amerged+merged%3A2019-11-01..2019-11-30
-- https://github.com/nearprotocol/nearcore/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
-
-
+- https://github.com/nearprotocol
+- repos = [
+"nearprotocol/nearcore",
+]
+ 
 ## Nervos
 
 Media:
@@ -179,19 +181,14 @@ Media:
 - https://talk.nervos.org
 - https://www.reddit.com/r/NervosNetwork/
 
-GitHub queries:
+GitHub:
 
-- https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/nervosnetwork/ckb-vm/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Aopen+created%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-
-Most active:
-
-- https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
-
+- https://github.com/nervosnetwork
+- repos = [
+"nervosnetwork/ckb",
+"nervosnetwork/ckb-vm",
+"nervosnetwork/rfcs",
+]
 
 ## Oasis
 
@@ -201,19 +198,14 @@ Media:
 - https://www.twitter.com/OasisLabs
 - https://www.reddit.com/r/OasisLabs
 
-GitHub queries:
+GitHub:
 
-- https://github.com/oasislabs/oasis-runtime/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
-- https://github.com/oasislabs/oasis-rs/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
-- https://github.com/oasislabs/tutorials/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-10-01+sort%3Acomments-desc
-
-Most active:
-
-- https://github.com/oasislabs/oasis-runtime/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/oasislabs/oasis-runtime/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
-- https://github.com/oasislabs/oasis-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/oasislabs/oasis-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
-
+- https://github.com/oasislabs
+- repos = [
+"oasislabs/oasis-runtime",
+"oasislabs/oasis-rs",
+"oasislabs/tutorials",
+]
 
 ## Parity
 
@@ -224,27 +216,16 @@ Media:
 - https://www.reddit.com/r/dot/
 - https://www.reddit.com/r/substrate/
 
-GitHub queries:
+GitHub:
 
-- https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/paritytech/wasmi/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/paritytech/parity-ethereum/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/paritytech/parity-bitcoin/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/paritytech/parity-zcash/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/substrate-developer-hub
-
-Most active:
-
-- https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Amerged+merged%3A2019-11-01..2019-11-30
-- https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
-- https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Amerged+merged%3A2019-11-01..2019-11-30
-- https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
-
-Releases:
-
-- https://github.com/paritytech/parity-ethereum/releases
-
+- https://github.com/paritytech
+- repos = [
+"paritytech/substrate",
+"paritytech/polkadot",
+"paritytech/wasmi",
+"paritytech/parity-bitcoin",
+"paritytech/parity-zcash",
+]
 
 ## Solana
 
@@ -255,15 +236,12 @@ Media:
 - https://twitter.com/solana
 - https://www.reddit.com/r/solana
 
-GitHub queries:
+GitHub:
 
-- https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-
-Most active:
-
-- https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
-
+- https://github.com/solana-labs
+- repos = [
+"solana-labs/solana",
+]
 
 ## Zcash
 
@@ -277,16 +255,12 @@ Media:
 - https://buttondown.email/zcashfoundation
 - https://reddit.com/r/zec
 
-GitHub queries:
+GitHub:
 
-- https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/zcash/zips/pulls?q=is%3Apr+is%3Amerged+closed%3A%3E2019-09-05+sort%3Acomments-desc
-- https://github.com/zcash/zips/pulls?q=is%3Apr+is%3Aopen+created%3A%3E2019-09-05+sort%3Acomments-desc
-
-Most active:
-
-- https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
-- https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Aclosed+merged%3A2019-11-01..2019-11-30
-- https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aclosed+closed%3A2019-11-01..2019-11-30
+- https://github.com/ZcashFoundation
+- https://github.com/zcash
+- repos = [
+"ZcashFoundation/zebra",
+"zcash/librustzcash",
+"zcash/zips",
+]

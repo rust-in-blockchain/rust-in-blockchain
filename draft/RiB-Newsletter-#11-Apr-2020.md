@@ -1,6 +1,9 @@
-# RiB Newsletter #11 - Mar 2020
+# RiB Newsletter #11 - April 2020
 
 Welcome to the #11 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #10](). -->
+
+
+
 
 
 &nbsp;

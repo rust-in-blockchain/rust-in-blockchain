@@ -15,7 +15,9 @@ Welcome to the #11 edition of Rust in Blockchain, the hypest newsletter about th
 
 Wow, it was a huge month for blockchain Rust! It seems like we've all been
 productive sitting at home hacking. We've seen so many interesting developments,
-hopefully captureed them all in this report.
+hopefully captureed them all in this report. Honestly, we were completely
+overwhelmed trying to sort through all the content and contributions this month.
+It's amazing!
 
 There were significant developments for several Rust blockchain projects:
 
@@ -108,6 +110,34 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 ## Project Spotlight
 
+Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+[`k256`].
+
+This is a pure-Rust implementation of [secp256k1], the elliptic curve used by
+Bitcoin and many other blockchain projects. It was one of several cryptography
+projects announced this month by Tony Arcieri, a maintainer of the [RustCrypto]
+GitHub org, and leader of the Rust [secure code working group][scwg].
+
+In addition to `k256`, RustCrypto also released [`p256`], an implementation of
+the [NIST P-256] curve, [`signature`], a crate for generically verifying
+cryptographic signatures, and [`ed25519`], an implementation of the [Ed25519]
+signature scheme.
+
+See the announcments of [`k256` and `p256`][rca1] and [`signature` and
+`ed25519`][rca2] for more links and commentary.
+
+[scwg]: https://www.rust-lang.org/governance/wgs/wg-secure-code
+[`p256`]: https://github.com/RustCrypto/elliptic-curves/tree/master/p256
+[`k256`]: https://github.com/RustCrypto/elliptic-curves/tree/master/k256
+[`signature`]: https://github.com/RustCrypto/traits/tree/master/signature
+[`ed25519`]: https://github.com/RustCrypto/signatures/tree/master/ed25519
+[NIST P-256]: https://csrc.nist.gov/csrc/media/events/workshop-on-elliptic-curve-cryptography-standards/documents/papers/session6-adalier-mehmet.pdf
+[secp256k1]: https://en.bitcoin.it/wiki/Secp256k1
+[RustCrypto]: https://github.com/RustCrypto
+[rca1]: https://www.reddit.com/r/rust/comments/gbjsr9/ann_rustcrypto_p256_and_k256_v020_pure_rust_nist/
+[rca2]: https://www.reddit.com/r/rust/comments/g4w8by/ann_rustcrypto_signature_v10_and_ed25519_v10/
+[Ed25519]: https://en.wikipedia.org/wiki/EdDSA#Ed25519
 
 
 ## Interesting Things
@@ -116,6 +146,8 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 - Project: [BLAKE3(https://github.com/BLAKE3-team/BLAKE3). There's another BLAKE hash! Rust
   implementation available.
 - Project: [Parity's ink to write smart contracts](https://github.com/paritytech/ink)
+- Project: [riemann-rs](https://github.com/summa-tx/riemann-rs). Simple UTXO transactions in Rust.
+- Project: [`p256` and `k256` crates](https://www.reddit.com/r/rust/comments/gbjsr9/ann_rustcrypto_p256_and_k256_v020_pure_rust_nist/) and [`signature` and `ed25519`](https://www.reddit.com/r/rust/comments/g4w8by/ann_rustcrypto_signature_v10_and_ed25519_v10/). Rust implementations of the elliptic curves by the RustCrypto org.
 - Report: [Analyzing Developers in Cryptocurrency Projects](https://blog.coincodecap.com/analyzing-developers-in-cryptocurrency-projects/)
 - Blog: [When Tailwinds Vanish](https://luttig.substack.com/p/when-tailwinds-vanish)
 - Blog: [Gitcoun Grants Round 5](https://vitalik.ca/general/2020/04/30/round5.html). Vitalik

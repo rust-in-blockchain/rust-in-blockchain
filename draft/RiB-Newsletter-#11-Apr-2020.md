@@ -6,7 +6,7 @@ date: 2020-05-06
 slug: "/2020-05-06-"
 categories:
   - "newsletters"
-summary: It was a huge month for blockchain Rust! It seems like we've all been productive sitting at home hacking. We've seen so many interesting developments, hopefully captured them all in this report. There were significant developments for several Rust blockchain projects.
+summary: It was a huge month for blockchain Rust! It seems like we've all been productive sitting at home hacking. We've seen so many interesting developments, and hopefully captured them all in this report. There were significant developments for several Rust blockchain projects.
 
 ---
 
@@ -80,11 +80,10 @@ updates. Thank you so much! It really improves the quality and breadth of our
 project coverage.
 
 We now have automation to collect project stats from GitHub (the "merged PR's"
-etc. listed for each project, and that contribute to the "Most Active Projects"
-section). This will help us reduce the effort that goes into producing each
-newsletter, and as a result we no longer need help collecting those stats (we do
-though very much need help choosing important news, blogs, pulls, and issues for
-each project).
+etc. listed for each project, and the "Most Active Projects" section). This will
+help us reduce the effort that goes into producing each newsletter, and as a
+result we no longer need help collecting those stats (we do though very much
+need help choosing important news, blogs, pulls, and issues for each project).
 
 Since our project coverage has become quite expansive (and frankly
 overwhelming), this month we have moved the "Interesting Things" section in
@@ -151,6 +150,8 @@ See the announcments of [`k256` and `p256`][rca1] and [`signature` and
 [rca2]: https://www.reddit.com/r/rust/comments/g4w8by/ann_rustcrypto_signature_v10_and_ed25519_v10/
 [Ed25519]: https://en.wikipedia.org/wiki/EdDSA#Ed25519
 
+&nbsp;
+
 
 ## Interesting Things
 
@@ -167,6 +168,7 @@ See the announcments of [`k256` and `p256`][rca1] and [`signature` and
 - Blog: [Crypto Fund II](https://a16z.com/2020/04/30/crypto-fund-ii/). Andreeessen Horowitz announced $500-million in available crypto-related funding. Not Rust.
 
 &nbsp;
+
 
 ## Most Active in April
 

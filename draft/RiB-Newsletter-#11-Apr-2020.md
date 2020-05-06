@@ -3,7 +3,7 @@
 title: "RiB Newsletter #11 – The Flourishing Spring"
 description: "#11 - April 2020"
 date: 2020-05-06
-slug: "/2020-05-06-"
+slug: "/2020-05-06-the-flourishing-spring"
 categories:
   - "newsletters"
 summary: It was a huge month for blockchain Rust! It seems like we've all been productive sitting at home hacking. We've seen so many interesting developments, hopefully captured them all in this report. There were significant developments for several Rust blockchain projects.

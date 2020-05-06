@@ -253,8 +253,8 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 [libra-closed_issues-1]: https://github.com/libra/libra/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-04-01..2020-05-05
 [libra-open_issues-1]: https://github.com/libra/libra/issues?q=is%3Aissue+is%3Aopen+created%3A2020-04-01..2020-05-05
 
-- Blog: [Libra still needs more baking](https://voxeu.org/article/libra-still-needs-more-baking)
 - Blog: [Libra developers: The path forward](https://libra.org/en-US/blog/libra-developers-the-path-forward/)
+- Blog: [Libra still needs more baking](https://voxeu.org/article/libra-still-needs-more-baking)
 
 #### [Lighthouse](https://lighthouse.sigmaprime.io/)
 

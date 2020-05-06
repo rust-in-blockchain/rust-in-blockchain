@@ -1,6 +1,6 @@
 
 ---
-title: "RiB Newsletter #11 – "
+title: "RiB Newsletter #11 – The Flourishing Spring"
 description: "#11 - April 2020"
 date: 2020-05-06
 slug: "/2020-05-06-"
@@ -47,7 +47,7 @@ Virtual conferences have been flourishing. There were at least three online bloc
 - [DeFi Discussions][dfd]. Not Rust-specific, though lots of talks,
   and Enigma is represented.
 - [Sub0][sub0]. A Substrate conference.
-
+  
 [rlo]: https://readylayer.one/
 [dfd]: https://defi-discussions.dystopialabs.com/
 [sub0]: https://www.crowdcast.io/e/sub0-online/
@@ -140,11 +140,8 @@ See the announcments of [`k256` and `p256`][rca1] and [`signature` and
 - Project: [`p256` and `k256` crates](https://www.reddit.com/r/rust/comments/gbjsr9/ann_rustcrypto_p256_and_k256_v020_pure_rust_nist/) and [`signature` and `ed25519`](https://www.reddit.com/r/rust/comments/g4w8by/ann_rustcrypto_signature_v10_and_ed25519_v10/). Rust implementations of the elliptic curves by the RustCrypto org.
 - Report: [Analyzing Developers in Cryptocurrency Projects](https://blog.coincodecap.com/analyzing-developers-in-cryptocurrency-projects/)
 - Blog: [When Tailwinds Vanish](https://luttig.substack.com/p/when-tailwinds-vanish)
-- Blog: [Gitcoun Grants Round 5](https://vitalik.ca/general/2020/04/30/round5.html). Vitalik
-  Buterin analyzes efforts to crowd-fund Ethereum projects. Not Rust-related, but interesting
-  analysis about sustainable community development.
-- Blog: [Crypto Fund II](https://a16z.com/2020/04/30/crypto-fund-ii/). Andreeessen Horowitz
-  announced $500-million in available crypto-related funding. Not Rust.
+- Blog: [Gitcoin Grants Round 5 Retrospective](https://vitalik.ca/general/2020/04/30/round5.html). Vitalik Buterin analyzes efforts to crowd-fund Ethereum projects. Not Rust-related, but interesting analysis about sustainable community development.
+- Blog: [Crypto Fund II](https://a16z.com/2020/04/30/crypto-fund-ii/). Andreeessen Horowitz announced $500-million in available crypto-related funding. Not Rust.
 
 &nbsp;
 

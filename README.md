@@ -1,5 +1,5 @@
 # Rust-in-Blockchain
-This is the source for [Rust in Blockchain website](https://rustinblockchain.org/), and it's built by [Hugo](https://github.com/gohugoio/hugo).
+This is the source of [Rust in Blockchain](https://rustinblockchain.org/) website. It's built by [Hugo](https://github.com/gohugoio/hugo).
 
 ## Graphic
 Graphics are made by [Echo](http://echoqi.net/).

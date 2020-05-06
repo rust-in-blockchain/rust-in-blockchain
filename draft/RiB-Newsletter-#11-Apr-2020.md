@@ -88,9 +88,9 @@ need help choosing important news, blogs, pulls, and issues for each project).
 Since our project coverage has become quite expansive, this month we have moved
 the "Interesting Things" section in front of "Project Updates". This section
 contains links about cross-cutting topics that we hope are of interest to the
-broadest technical audience. We expect this section to expand in the future to
-cover subjects like cryptography, security, consensus, WASM and other VMs, and
-crypto-economics, particularly as related to Rust and the Rust blockchain
+broadest technical Rust audience. We expect this section to expand in the future
+to cover subjects like cryptography, security, consensus, WASM and other VMs,
+and crypto-economics, particularly as related to Rust and the Rust blockchain
 ecosystem.
 
 Let us know what you think in the [telegram group][tg]. Let's have another great

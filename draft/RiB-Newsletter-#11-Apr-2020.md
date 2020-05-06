@@ -143,7 +143,7 @@ See the announcments of [`k256` and `p256`][rca1] and [`signature` and
 ## Interesting Things
 
 - Project: [Introducing Distaff: a STARK-based VM written in Rust](https://ethresear.ch/t/introducing-distaff-a-stark-based-vm-written-in-rust/7318)
-- Project: [BLAKE3(https://github.com/BLAKE3-team/BLAKE3). There's another BLAKE hash! Rust
+- Project: [BLAKE3](https://github.com/BLAKE3-team/BLAKE3). There's another BLAKE hash! Rust
   implementation available.
 - Project: [Parity's ink to write smart contracts](https://github.com/paritytech/ink)
 - Project: [riemann-rs](https://github.com/summa-tx/riemann-rs). Simple UTXO transactions in Rust.

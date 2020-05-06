@@ -1,3 +1,14 @@
+
+---
+title: "RiB Newsletter #11 – "
+description: "#11 - April 2020"
+date: 2020-05-06
+slug: "/2020-05-06-"
+categories:
+  - "newsletters"
+summary:
+---
+
 # RiB Newsletter #11 - April 2020
 
 Welcome to the #11 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #10](/newsletters/2020-04-01-keep-calm-and-hack-more). -->
@@ -80,9 +91,22 @@ Let's have another great month, Rusty blockchainers.
 
 ## Thanks
 
+This edition of RiB was produced with contributions from
+
+[Anais Urlichs][contributorau], Calvin Lau, [Daniel Karzel][contributordk], [James Waugh][contributorjw], [mfaulk][contributormf], Paulii Good, [SeungMin Lee][contributorsl], [Tony Arcieri][contributorta], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+
+RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#12 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+
+[contributordk]: https://github.com/da-kami
+[contributorsl]: https://github.com/somniumism
+[contributorjw]: https://github.com/jlwaugh
+[contributormf]: https://github.com/mfaulk
+[contributorau]: https://github.com/AnaisUrlichs
+[contributorta]: https://github.com/tarcieri
+[contributorba]: https://github.com/brson
+[contributoraz]: https://github.com/Aimeedeer
 
 &nbsp;
-
 
 ## Project Spotlight
 
@@ -106,10 +130,18 @@ Let's have another great month, Rusty blockchainers.
 
 ## Most Active in April
 
+[**Parity** ](https://github.com/paritytech): 303 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3]), 71 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2]), 81 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2])
+
+[**COMIT**](https://comit.network/): 249 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3], [4][comit-merged-prs-4], [5][comit-merged-prs-5]), 97 closed issues ([1][comit-closed_issues-1], [2][comit-closed_issues-2], [3][comit-closed_issues-3], [4][comit-closed_issues-4]), 42 open issues ([1][comit-open_issues-1], [2][comit-open_issues-2], [3][comit-open_issues-3])
+
+[**Solana**](https://github.com/solana-labs/solana): 251 merged [PRs][solana-merged-prs-1], 30 [closed issues][solana-closed_issues-1], 65 [open issues][solana-open_issues-1]
+
+[**NEAR**](https://github.com/nearprotocol/nearcore): 121 merged [PRs][near-merged-prs-1], 90 [closed issues][near-closed_issues-1], 69 [open issues][near-open_issues-1]
+
 &nbsp;
 
 
-## Project updates
+## Project Updates
 
 #### [**CodeChain**](https://github.com/codeChain-io/)
 
@@ -188,8 +220,6 @@ Let's have another great month, Rusty blockchainers.
 - News: [Unraveling Golem’s The Next Milestone, Part I](https://blog.golemproject.net/next-milestone/)
 - News: [Clay Golem rises!](https://blog.golemproject.net/clay-golem-rises/)
 - Blog: [How To Protect Yourself From Scams](https://blog.golemproject.net/how-to-protect-yourself-from-scams/)
-- PR: [ACL improvement](https://github.com/golemfactory/golem/pull/5095) by [@mdtanrikulu](https://github.com/mdtanrikulu)
-- PR: [ACL improvement](https://github.com/golemfactory/golem-client/pull/99) by [@mdtanrikulu](https://github.com/mdtanrikulu)
 - PR: [fix wasm tasks `restart_subtask` signature](https://github.com/golemfactory/golem/pull/5166) by [@shadeofblue](https://github.com/shadeofblue)
 - PR: [Abort build if Rust > 1.38.0 is being used.](https://github.com/golemfactory/sp-wasm/pull/40) by [@marmistrz](https://github.com/marmistrz)
 
@@ -236,13 +266,9 @@ Let's have another great month, Rusty blockchainers.
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2020-04-01..2020-05-05
 
 - News: [Lighthouse Update #24](https://lighthouse.sigmaprime.io/update-24.html)
-- PR: [Prune abandoned forks](https://github.com/sigp/lighthouse/pull/916) by [@adaszko](https://github.com/adaszko)
-- PR: [Connect RPC to Peer Manager](https://github.com/sigp/lighthouse/pull/1047) by [@divagant-martian](https://github.com/divagant-martian)
 - PR: [Use checked arithmetic in types and state proc](https://github.com/sigp/lighthouse/pull/1009) by [@michaelsproul](https://github.com/michaelsproul)
-- PR: [Update to spec v0.11](https://github.com/sigp/lighthouse/pull/959) by [@michaelsproul](https://github.com/michaelsproul)
 - PR: [Added purge subcommand to purge beacon chain db](https://github.com/sigp/lighthouse/pull/971) by [@ethDreamer](https://github.com/ethDreamer)
 - PR: [Arbitrary trait for eth2/types](https://github.com/sigp/lighthouse/pull/1040) by [@kirk-baird](https://github.com/kirk-baird)
-- PR: [Ensure batches align to epoch boundaries](https://github.com/sigp/lighthouse/pull/1021) by [@divagant-martian](https://github.com/divagant-martian)
 
 #### [**NEAR**](https://github.com/nearprotocol/nearcore)
 
@@ -262,9 +288,6 @@ Let's have another great month, Rusty blockchainers.
 - Video: [DeFi Primitives with Anton Bukov from 1inch.exchange](https://www.youtube.com/watch?v=KWD0N-xWxXs)
 - Video: [Whiteboard Series with NEAR | Ep: 34 Hans Moog from IOTA Foundation](https://www.youtube.com/watch?v=_c-4fQSlUW4)
 - Video: [Whiteboard Series with NEAR | Ep: 33 Alex from NEAR hosted by Justin Drake from Ethereum Foundation](https://www.youtube.com/watch?v=8xpOUqdoyp0)
-- PR: [feat(chain): Removing Nightshade Finality Gadget if favor of modified Doomslug](https://github.com/nearprotocol/nearcore/pull/2390) by [@SkidanovAlex](https://github.com/SkidanovAlex)
-- PR: [fix: use fraction in configs](https://github.com/nearprotocol/nearcore/pull/2392) by [@bowenwang1996](https://github.com/bowenwang1996)
-- PR: [fix(network): Remove address when nodes goes off.](https://github.com/nearprotocol/nearcore/pull/2471) by [@mfornet](https://github.com/mfornet)
 - PR: [feat: MainNet genesis config](https://github.com/nearprotocol/nearcore/pull/2453) by [@ilblackdragon](https://github.com/ilblackdragon)
 - PR: [fix(rpc): better error handling for transaction submission](https://github.com/nearprotocol/nearcore/pull/2525) by [@bowenwang1996](https://github.com/bowenwang1996)
 - PR: [fix(network): Avoid peers connecting to itself.](https://github.com/nearprotocol/nearcore/pull/2603) by [@mfornet](https://github.com/mfornet)
@@ -308,10 +331,8 @@ Let's have another great month, Rusty blockchainers.
 - Blog: [Kusama & Polkadot: Comparing the Cousins](https://polkadot.network/kusama-polkadot-comparing-the-cousins/)
 - Blog: [Social recovery on Substrate](https://www.parity.io/social-recovery-on-substrate/)
 - Blog: [Built on Substrate: Centrifuge Chain](https://www.parity.io/built-on-substrate-centrifuge-chain/)
-- PR: [feat/ocw/bookkeeping](https://github.com/paritytech/substrate/pull/5200) by [@drahnr](https://github.com/drahnr)
 - PR: [Batch signature verification](https://github.com/paritytech/substrate/pull/5023) by [@NikVolf](https://github.com/NikVolf)
 - PR: [Offchain signing](https://github.com/paritytech/substrate/pull/5182) by [@rakanalh](https://github.com/rakanalh)
-- PR: [Child trie api changes BREAKING](https://github.com/paritytech/substrate/pull/4857) by [@cheme](https://github.com/cheme)
 
 #### [**Solana**](https://github.com/solana-labs/solana)
 
@@ -328,7 +349,6 @@ Let's have another great month, Rusty blockchainers.
 - News: [Solana Partners with Terra to Build a Low-Latency Token Bridge, Bringing Stablecoins To The Solana Ecosystem](https://medium.com/solana-labs/solana-partners-with-terra-to-build-a-low-latency-token-bridge-bringing-stablecoins-to-the-solana-180d76b22a22)
 - Podcast: [Zaki Manian - Co-founder of iqlusion Ep #20](https://podcast.solana.com/episodes/zaki-manian-co-founder-of-iqlusion-ep-20)
 - Podcast: [Viktor Radchenko - Founder of Trust Wallet Ep #19](https://podcast.solana.com/episodes/viktor-radchenko-founder-of-trust-wallet-ep-19)
-- PR: [Optimistic Confirmation Proposal](https://github.com/solana-labs/solana/pull/9157) by [@carllin](https://github.com/carllin)
 - PR: [Add Cross-program invocations](https://github.com/solana-labs/solana/pull/9582) by [@jackcmay](https://github.com/jackcmay)
 - PR: [Input values are not sanitized after they are deserialized, making it far too easy for Leo to earn SOL](https://github.com/solana-labs/solana/pull/9706) by [@aeyakovenko](https://github.com/aeyakovenko)
 - PR: [Proposal for deterministic program generated Pubkey's that can be used only by programs to create signatures in process_instruction.](https://github.com/solana-labs/solana/pull/8155) by [@aeyakovenko](https://github.com/aeyakovenko)
@@ -364,18 +384,62 @@ Let's have another great month, Rusty blockchainers.
 
 ## Events
 
-May 6-13, 2020
+May 6-13 | Online
 
-[NEAR online hackathon running](https://gitcoin.co/hackathon/rl1?tab=hackathon:23) on [@gitcoin](https://twitter.com/gitcoin).
-We have prepared seven different challenges, for all experience levels.
+[NEAR online hackathon running](https://gitcoin.co/hackathon/rl1?tab=hackathon:23)
+
+May 29-Jun 16 | Online
+
+[SOS Hackathon](https://soshackathon.com/)
+
+Jun 17 | Barcelona, EU
+
+[EthBarcelona](http://ethbarcelona.io/)
+
+Aug 3-6, 2020 | Oxford, UK
+
+[IEEE DAPPS 2020](https://ieeedapps.net/)
+
+Oct 21-23 | NYC, US
+
+[ACM Advances in Financial Technologies](https://aft.acm.org/)
+
+
 
 &nbsp;
 
 ## Careers
 
+Chainlink | Remote, US
+
+[Developer Evangelist](https://careers.chain.link/o/developer-evangelist-global)
+
+Definity | SF, US
+
+[Software Engineer, SDK](https://boards.greenhouse.io/dfinity/jobs/4286745002)
+
+[Senior Software Engineer - Infrastructure and Tools](https://boards.greenhouse.io/dfinity/jobs/4473085002)
+
+Findora | CA, US
+
+[Systems Engineer](https://jobs.lever.co/findora/88501a0d-a86d-4cd2-b0b7-8625a107b02b)
+
+Kraken | London, UK; Remote
+
+[Backend Engineer, Kraken Futures](https://jobs.lever.co/kraken/fe1e07f4-6d7c-4f65-9a8f-27cf3b3fd2b1)
+
+[Backend Engineer, Data Processing](https://jobs.lever.co/kraken/246f7fd2-000a-4f61-8f53-b1cc783d51cb)
+
+Nervos | Remote
+
+[Developer Relations](https://angel.co/company/nervos-1/jobs/710826-developer-relations)
+
+Ockam | Remote
+
+[Software Architect - Applied Cryptography in Rust](https://www.ockam.io/team/Software-Architect-Applied-Cryptography-in-Rust/61e07e82-0589-51de-b250-42dbceb31c3c)
 
 &nbsp;
 
-Want to be included in the next issue? Feel free to submit a PR to the [#12 draft](), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+Want to be included in the next issue? Feel free to submit a PR to the [#12 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 **Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**

@@ -28,6 +28,21 @@ Read more on the release process [https://near.org/blog/mainnet-roadmap/](https:
 
 #### [**CodeChain**](https://github.com/codeChain-io/)
 
+[48 merged PRs][codechain-mergedpr1], [9 closed issues](codechain-closedissue1).
+
+[codechain-mergedpr1]: https://github.com/CodeChain-io/foundry/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+merged%3A2020-04-01..2020-05-01
+
+[codechain-closedissue1]: https://github.com/CodeChain-io/foundry/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+closed%3A2020-04-01..2020-05-01
+
+- Video: [Lessons learned from the ICS implementation](https://youtu.be/RseUqfpY-JA)  
+    Further information: [Blog](https://medium.com/codechain/foundry-ics-poc-proof-of-concept-implementation-c92a8b4757da), [Source code](https://github.com/CodeChain-io/foundry/tree/ics-poc/core/src/ibc)
+- Video: [Adpating BLS signature aggregation to CodeChain Foundry](https://youtu.be/dL-rKQJ3H2o)  
+    Further information: [Blog](https://medium.com/codechain/adapting-bls-signature-aggregation-to-codechain-foundry-7767d6656e5b), [Source code](https://github.com/CodeChain-io/foundry/commits/bls-consensus-signature)
+- PR: [Implement validator interface call](https://github.com/CodeChain-io/foundry/pull/260) by [@Byeongjee](https://github.com/Byeongjee)
+- PR: [Cold events for Informer API](https://github.com/CodeChain-io/foundry/pull/285) by [@MSNTCS](https://github.com/MSNTCS)
+- PR: [Event deregister for Informer API](https://github.com/CodeChain-io/foundry/pull/311) by [@MSNTCS](https://github.com/MSNTCS)
+- PR: [Implement IPC](https://github.com/CodeChain-io/foundry/pull/305) by [@junha1](https://github.com/junha1)
+- PR: [Create transactions to replace the implicit state change](https://github.com/CodeChain-io/foundry/pull/324) by [@sgkim126](https://github.com/sgkim126)
 
 #### [**COMIT**](https://comit.network/)
 

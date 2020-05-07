@@ -287,7 +287,7 @@ See the announcments of [`k256` and `p256`][rca1] and [`signature` and
 - PR: [fix Async Zome Calls](https://github.com/holochain/holochain-rust/pull/2179) by [@zippy](https://github.com/zippy)
 - PR: [Redux synced Future Wakers](https://github.com/holochain/holochain-rust/pull/2175) by [@lucksus](https://github.com/lucksus)
 
-#### [Libra](https://libra.org)
+#### [**Libra**](https://libra.org)
 
 0 merged PRs, 49 closed issues ([1][libra-closed_issues-1]), 
 36 open issues ([1][libra-open_issues-1])
@@ -298,7 +298,7 @@ See the announcments of [`k256` and `p256`][rca1] and [`signature` and
 - Blog: [Libra developers: The path forward](https://libra.org/en-US/blog/libra-developers-the-path-forward/)
 - Blog: [Libra still needs more baking](https://voxeu.org/article/libra-still-needs-more-baking)
 
-#### [Lighthouse](https://lighthouse.sigmaprime.io/)
+#### [**Lighthouse**](https://lighthouse.sigmaprime.io/)
 
 86 merged PRs ([1][lighthouse-merged-prs-1]), 44 closed issues ([1][lighthouse-closed_issues-1]), 
 34 open issues ([1][lighthouse-open_issues-1])

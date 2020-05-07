@@ -39,7 +39,7 @@ We learned of new, or new-to-us Rust blockchain and crypto projects:
 
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3), a new BLAKE-family hash
   function, with a Rust implementation.
-- [Distaff](https://github.com/BLAKE3-team/BLAKE3), a STARK VM that runs
+- [Distaff](https://ethresear.ch/t/introducing-distaff-a-stark-based-vm-written-in-rust/7318), a STARK VM that runs
   encrypted computations.
 - [Crypto.com Chain](https://github.com/crypto-com/chain), a new chain
   using Tinderment consensus.
@@ -351,7 +351,7 @@ See the announcments of [`k256` and `p256`][rca1] and [`signature` and
 - News: [ABC Wallet and GrowFi Join the Nervos Ecosystem](https://medium.com/nervosnetwork/abc-wallet-and-growfi-join-the-nervos-ecosystem-2613044cd83f)
 - Blog: [Grant Project - ckb.pw & pw-sdk](https://medium.com/nervosnetwork/ckb-pw-pw-sdk-e60c43037305)
 - Blog: [Understanding the CKByte Token Issuance Schedule](https://medium.com/nervosnetwork/understanding-the-ckbyte-token-issuance-schedule-e5bd36ba950d)
-- CKB Weekly [#1: Keep Calm and Nervos Dao](https://ckbweekly.substack.com/p/1-keep-calm-and-nervos-dao), [#0: #0: 165 days, Hashrate 100X](https://ckbweekly.substack.com/p/0-165-days-hashrate-100x)
+- CKB Weekly: [#1: Keep Calm and Nervos Dao](https://ckbweekly.substack.com/p/1-keep-calm-and-nervos-dao), [#0: 165 days, Hashrate 100X](https://ckbweekly.substack.com/p/0-165-days-hashrate-100x)
 - PR: [feat: Optimize block download tasks with a simple task scheduler](https://github.com/nervosnetwork/ckb/pull/1999) by [@driftluo](https://github.com/driftluo)
 - PR: [refactor: Simplify network protocols](https://github.com/nervosnetwork/ckb/pull/1968) by [@TheWaWaR](https://github.com/TheWaWaR)
 

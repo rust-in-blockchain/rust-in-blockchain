@@ -85,6 +85,9 @@ GitHub:
 "golemfactory/golem-client",
 "golemfactory/gMorph",
 "golemfactory/hello-gwasm-runner",
+"golemfactory/yagna",
+"golemfactory/ya-client",
+"golemfactory/gwasm-rust-api",
 ]
 
 ## Grin

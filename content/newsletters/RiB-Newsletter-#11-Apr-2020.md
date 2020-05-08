@@ -42,7 +42,7 @@ We learned of new, or new-to-us Rust blockchain and crypto projects:
 - [Distaff](https://ethresear.ch/t/introducing-distaff-a-stark-based-vm-written-in-rust/7318), a STARK VM that runs
   encrypted computations.
 - [Crypto.com Chain](https://github.com/crypto-com/chain), a new chain
-  using Tinderment consensus.
+  using Tendermint consensus.
 - Both IPFS and FileCoin have ongoing Rust implementations: [ipfs-rust]
   and [forest].
 - [Komodo's AtomicDEX][adex], seemingly one of the most functional

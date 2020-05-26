@@ -8,7 +8,7 @@ There are several ways to contribute to the Rust in Blockchain community.
 
 ## Contribute to RiB Newsletter
 
-We suggest reading [How RiB Newsletter is Generated]() for understanding the workflow.
+We suggest reading [How RiB Newsletter is Generated](https://rustinblockchain.org/blogposts/how-rib-newsletter-is-generated/) for understanding the workflow.
 
 #### Where to Contribute
 
@@ -24,13 +24,13 @@ We only choose one cool project each month, so we might not choose your suggesti
 
 #### How to Contribute
 
-Contribute to the next issue by submitting PRs to the next [draft](/draft).
+Contribute to the next issue by submitting PRs to the [next draft](/draft).
 Alternately, you can simply file issues, email, tweets, or our [telegram group](https://t.me/rustinblockchain), we will do our best to include your contribution in the next newsletter.
 
 Note that we exercise more editorial control over Project Spotlight, Interesting Things, and the introduction, then the Project Updates.
 We may edit contributions as we feel apropriate.
 
-GitHub statistics for Most Active section is generated automatically. Do not contribute those caculations. Instead, add repos to the [rib-bible]()
+GitHub statistics for Most Active section is generated automatically. Do not contribute those caculations. Instead, add repos to the [rib-bible](/rib-bible.md)
 that should be monitored.
 
 ## Contribute to the Website

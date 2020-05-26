@@ -20,7 +20,6 @@ Please make sure you have read it before contributing.
 
 ## Support Us
 
-Your finacial support is our confidence.
 - BTC
   - 39fUHQ6LEdRvwhyyuaw4Q3xdkofF3YFz84
 - ETH

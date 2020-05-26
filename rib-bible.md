@@ -117,7 +117,7 @@ Media:
 GitHub:
 
 - https://github.com/holochain
-repos = [
+- repos = [
 "holochain/holochain-rust",
 ]
 
@@ -218,8 +218,6 @@ Media:
 
 - https://www.parity.io/blog/
 - https://twitter.com/ParityTech
-- https://www.reddit.com/r/dot/
-- https://www.reddit.com/r/substrate/
 
 GitHub:
 
@@ -236,7 +234,6 @@ GitHub:
 
 Media:
 
-- https://solana.com/category/blog/
 - https://medium.com/solana-labs
 - https://twitter.com/solana
 - https://www.reddit.com/r/solana

@@ -19,7 +19,6 @@ Contributions are welcome to these sections:
 
 Suggestions are also welcome to these sections:
 - Project Spotlight. You can suggest a project (big or small) you are working on, or recommend a project you like, with your comments ;)
-We only choose one cool project each month, so we might not choose your suggestion for this section. But we'll try to accept your content in the right section.
 - Interesting Things. Anything you think it might be interesting to the RiB community.
 
 #### How to Contribute
@@ -35,7 +34,7 @@ that should be monitored.
 
 ## Contribute to the Website
 
-This website is built by Hugo and hosted on GitHub.
+[RiB website](https://rustinblockchain.org) is built by Hugo and hosted on GitHub.
 
 Open an issue and provide your suggestions.
 Help us to improve it and make it better.

@@ -20,7 +20,9 @@ Media:
 GitHub:
 
 - https://github.com/CodeChain-io
-- repos = [
+
+``` toml
+repos = [
 "CodeChain-io/codechain",
 "CodeChain-io/foundry",
 "CodeChain-io/foundry-rpc-js",
@@ -29,6 +31,7 @@ GitHub:
 "CodeChain-io/foundry-keystore-cli",
 "CodeChain-io/foundry-sandbox",
 ]
+```
 
 ## COMIT
 
@@ -40,13 +43,16 @@ Media:
 GitHub:
 
 - https://github.com/comit-network
-- repos = [
+
+``` toml
+repos = [
 "comit-network/comit-rs",
 "comit-network/comit-js-sdk",
 "comit-network/create-comit-app",
 "comit-network/comit.network",
 "comit-network/a2l-poc",
 ]
+```
 
 ## Enigma
 
@@ -59,10 +65,13 @@ Media:
 GitHub:
 
 - https://github.com/enigmampc
-- repos = [
+
+``` toml
+repos = [
 "enigmampc/enigma-core",
 "enigmampc/SafeTrace"
 ]
+```
 
 ## Golem
 
@@ -75,7 +84,10 @@ Media:
 GitHub:
 
 - https://github.com/golemfactory
-- repos = [
+
+
+``` toml
+repos = [
 "golemfactory/gwasm-runner",
 "golemfactory/golem",
 "golemfactory/mandelbrot",
@@ -89,7 +101,7 @@ GitHub:
 "golemfactory/ya-client",
 "golemfactory/gwasm-rust-api",
 ]
-
+```
 ## Grin
 
 Media:
@@ -99,9 +111,12 @@ Media:
 GitHub:
 
 - https://github.com/mimblewimble
-- repos = [
+
+``` toml
+repos = [
 "mimblewimble/grin",
 ]
+```
 
 ## Holochain
 
@@ -117,9 +132,12 @@ Media:
 GitHub:
 
 - https://github.com/holochain
-- repos = [
+
+``` toml
+repos = [
 "holochain/holochain-rust",
 ]
+```
 
 ## Interledger
 
@@ -131,9 +149,12 @@ Media:
 GitHub:
 
 - https://github.com/interledger-rs
-- repos = [
+
+``` toml
+repos = [
 "interledger-rs/interledger-rs",
 ]
+```
 
 ## Libra
 
@@ -144,9 +165,12 @@ Media:
 GitHub:
 
 - https://github.com/libra
-- repos = [
+
+``` toml
+repos = [
 "libra/libra",
 ]
+```
 
 ## Lighthouse
 
@@ -157,9 +181,12 @@ Media:
 GitHub:
 
 - https://github.com/sigp/lighthouse
-- repos = [
+
+``` toml
+repos = [
 "sigp/lighthouse",
 ]
+```
 
 ## Near
 
@@ -172,10 +199,13 @@ Media:
 GitHub:
 
 - https://github.com/nearprotocol
-- repos = [
+
+``` toml
+repos = [
 "nearprotocol/nearcore",
 ]
- 
+```
+
 ## Nervos
 
 Media:
@@ -189,12 +219,14 @@ Media:
 GitHub:
 
 - https://github.com/nervosnetwork
-- repos = [
+
+``` toml
+repos = [
 "nervosnetwork/ckb",
 "nervosnetwork/ckb-vm",
 "nervosnetwork/rfcs",
 ]
-
+```
 ## Oasis
 
 Media:
@@ -206,11 +238,14 @@ Media:
 GitHub:
 
 - https://github.com/oasislabs
-- repos = [
+
+``` toml
+repos = [
 "oasislabs/oasis-runtime",
 "oasislabs/oasis-rs",
 "oasislabs/tutorials",
 ]
+```
 
 ## Parity
 
@@ -222,14 +257,16 @@ Media:
 GitHub:
 
 - https://github.com/paritytech
-- repos = [
+
+``` toml
+repos = [
 "paritytech/substrate",
 "paritytech/polkadot",
 "paritytech/wasmi",
 "paritytech/parity-bitcoin",
 "paritytech/parity-zcash",
 ]
-
+```
 ## Solana
 
 Media:
@@ -241,9 +278,12 @@ Media:
 GitHub:
 
 - https://github.com/solana-labs
-- repos = [
+
+``` toml
+repos = [
 "solana-labs/solana",
 ]
+```
 
 ## Zcash
 
@@ -261,8 +301,11 @@ GitHub:
 
 - https://github.com/ZcashFoundation
 - https://github.com/zcash
-- repos = [
+
+``` toml
+repos = [
 "ZcashFoundation/zebra",
 "zcash/librustzcash",
 "zcash/zips",
 ]
+```

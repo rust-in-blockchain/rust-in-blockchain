@@ -45,7 +45,10 @@ Welcome to the #12 edition of Rust in Blockchain, the hypest newsletter about th
 
 
 #### [**NEAR**](https://github.com/nearprotocol/nearcore)
-
+* Starting to outsource some of its core Rust development through the gitcoin bounties. Please contact max@near.org if you know Rust and are interested to do small tasks for payment. Examples are listed [here](https://github.com/near/bounties/issues);
+* Investigating alternatives to actix framework that is currently used for internal concurrency;
+* Working on “a contract runtime” which in a long run will be an out of the box solution for the blockchains that want to run Wasm contracts, it will support several contract languages, will include best practices, and will not be specific to the NEAR architecture;
+* NEAR finished the implementation of the core Rust contracts and is wrapping up their security audit.
 
 #### [**Nervos**](https://github.com/nervosnetwork)
 

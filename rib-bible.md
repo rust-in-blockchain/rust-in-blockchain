@@ -160,7 +160,9 @@ repos = [
 
 Media:
 
-- https://libra.org
+- https://libra.org/en-US/media-press-news/
+- https://libra.org/en-US/blog/
+- https://community.libra.org/latest
 
 GitHub:
 
@@ -185,6 +187,22 @@ GitHub:
 ``` toml
 repos = [
 "sigp/lighthouse",
+]
+```
+
+## MobileCoin
+
+Media:
+
+- https://www.mobilecoin.com/
+
+GitHub:
+
+- https://github.com/mobilecoinofficial
+
+``` toml
+repos = [
+"mobilecoinofficial/mobilecoin",
 ]
 ```
 
@@ -252,6 +270,7 @@ repos = [
 Media:
 
 - https://www.parity.io/blog/
+- https://polkadot.network/blog/
 - https://twitter.com/ParityTech
 
 GitHub:

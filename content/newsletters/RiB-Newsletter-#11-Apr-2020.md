@@ -10,7 +10,7 @@ summary: It was a huge month for blockchain Rust! It seems like we've all been p
 
 ---
 
-Welcome to the #11 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. <!--[Previous: #10](/newsletters/2020-04-01-keep-calm-and-hack-more). -->
+Welcome to the #11 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #10](/newsletters/2020-04-01-keep-calm-and-hack-more).
 
 Wow, it was a huge month for blockchain Rust! It seems like we've all been
 productive sitting at home hacking. We've seen so many interesting developments,

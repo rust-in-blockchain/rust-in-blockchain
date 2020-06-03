@@ -61,22 +61,9 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 235 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3], [4][comit-merged-prs-4], [5][comit-merged-prs-5], [6][comit-merged-prs-6]), 72 closed issues ([1][comit-closed_issues-1], [2][comit-closed_issues-2], [3][comit-closed_issues-3], [4][comit-closed_issues-4]), 
 32 open issues ([1][comit-open_issues-1], [2][comit-open_issues-2], [3][comit-open_issues-3])
 
-<<<<<<< HEAD
 [**NEAR**](https://github.com/nearprotocol/nearcore):
 79 merged PRs ([1][near-merged-prs-1]), 74 closed issues ([1][near-closed_issues-1]), 
 51 open issues ([1][near-open_issues-1])
-=======
-#### [**Crypto.com Chain**](https://crypto.com/en/chain.html)
-
-- News: [Crypto.com Chain Dev Update #9](https://blog.crypto.com/crypto-com-chain-dev-update-9)
-  - [Testnet Upgraded to v0.5](https://blog.crypto.com/crypto-com-chain-dev-update-9/#new-binary-release-and-testnet-upgrade)  
-  - Further information: [Changelog](https://github.com/crypto-com/chain/blob/release/v0.5/CHANGELOG.md#v053), [Release](https://github.com/crypto-com/chain/releases), [Documentation](https://crypto-com.github.io/getting-started/thaler-testnet.html), [Block Explorer](https://chain.crypto.com/explorer), [Sample Wallet UI](https://github.com/crypto-com/sample-chain-wallet)
-- News: [Node.js](https://github.com/crypto-com/cro-nodelib) library supports more transaction types. It is using Neon bindings to Rust code.
-- Doc update: [Stabilized Transaction Test Vectors](https://crypto-com.github.io/getting-started/serialization.html#test-vectors) are now documented.
-
-#### [**Enigma**](https://enigma.co)
->>>>>>> 75de4bcf10b1bc226d7782808ee9f38ef7f2b3aa
-
 
 &nbsp;
 
@@ -122,7 +109,7 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 - PR: [Replace `parity` config section with `web3_url`](https://github.com/comit-network/comit-rs/pull/2575) by [@D4nte](https://github.com/D4nte)
 
 
-Crypto.com
+#### [Crypto.com Chain](https://crypto.com/en/chain.html)
 
 114 merged PRs ([1][crypto.com-merged-prs-1], [2][crypto.com-merged-prs-2], [3][crypto.com-merged-prs-3]), 65 closed issues ([1][crypto.com-closed_issues-1], [2][crypto.com-closed_issues-2]), 29 open issues ([1][crypto.com-open_issues-1], [2][crypto.com-open_issues-2])
 
@@ -134,9 +121,20 @@ Crypto.com
 [crypto.com-open_issues-1]: https://github.com/crypto-com/chain/issues?q=is%3Aissue+is%3Aopen+created%3A2020-05-01..2020-06-02
 [crypto.com-open_issues-2]: https://github.com/crypto-com/sample-chain-wallet/issues?q=is%3Aissue+is%3Aopen+created%3A2020-05-01..2020-06-02
 
+- News: [Crypto.com Chain Dev Update #9](https://blog.crypto.com/crypto-com-chain-dev-update-9)
+  - [Testnet Upgraded to v0.5](https://blog.crypto.com/crypto-com-chain-dev-update-9/#new-binary-release-and-testnet-upgrade)  
+  - Further information: [Changelog](https://github.com/crypto-com/chain/blob/release/v0.5/CHANGELOG.md#v053), [Release](https://github.com/crypto-com/chain/releases), [Documentation](https://crypto-com.github.io/getting-started/thaler-testnet.html), [Block Explorer](https://chain.crypto.com/explorer), [Sample Wallet UI](https://github.com/crypto-com/sample-chain-wallet)
+- News: [Node.js](https://github.com/crypto-com/cro-nodelib) library supports more transaction types. It is using Neon bindings to Rust code.
+- Doc update: [Stabilized Transaction Test Vectors](https://crypto-com.github.io/getting-started/serialization.html#test-vectors) are now documented.
 - PR: [Problem: tx-query not yet ported to EDP](https://github.com/crypto-com/chain/pull/1494) by [@devashishdxt](https://github.com/devashishdxt)
 - PR: [Problem (#1483): client rpc setup code is duplicated between server and c-api](https://github.com/crypto-com/chain/pull/1619) by [@yihuang](https://github.com/yihuang)
 - PR: [Problem: (fix #1545)light client doesn't verify genesis hash](https://github.com/crypto-com/chain/pull/1594) by [@linfeng-crypto](https://github.com/linfeng-crypto)
+
+
+#### [Enigma](https://enigma.co)
+
+TODO
+
 
 #### [Golem](https://golem.network/)
 

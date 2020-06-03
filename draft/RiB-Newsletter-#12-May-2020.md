@@ -31,13 +31,11 @@ Welcome to the #12 edition of Rust in Blockchain, the hypest newsletter about th
 
 #### [**Crypto.com Chain**](https://chain.crypto.com)
 
-- News: [Testnet Upgraded to v0.5](https://blog.crypto.com/crypto-com-chain-dev-update-9/#new-binary-release-and-testnet-upgrade)  
-    Further information: [Changelog](https://github.com/crypto-com/chain/blob/release/v0.5/CHANGELOG.md#v053), [Release](https://github.com/crypto-com/chain/releases), [Documentation](https://crypto-com.github.io/getting-started/thaler-testnet.html), [Block Explorer](https://chain.crypto.com/explorer), [Sample Wallet UI](https://github.com/crypto-com/sample-chain-wallet)
-- News: Sample code for [Java](https://github.com/crypto-com/sample-chain-java-example) and [Swift](https://github.com/crypto-com/sample-chain-java-example) are now available to demonstrate C-style bindings to the Rust code
+- News: [Crypto.com Chain Dev Update #9](https://blog.crypto.com/crypto-com-chain-dev-update-9)
+  - [Testnet Upgraded to v0.5](https://blog.crypto.com/crypto-com-chain-dev-update-9/#new-binary-release-and-testnet-upgrade)  
+  - Further information: [Changelog](https://github.com/crypto-com/chain/blob/release/v0.5/CHANGELOG.md#v053), [Release](https://github.com/crypto-com/chain/releases), [Documentation](https://crypto-com.github.io/getting-started/thaler-testnet.html), [Block Explorer](https://chain.crypto.com/explorer), [Sample Wallet UI](https://github.com/crypto-com/sample-chain-wallet)
 - News: [Node.js](https://github.com/crypto-com/cro-nodelib) library supports more transaction types. It is using Neon bindings to Rust code.
-- Blog: [Dev Update #9](https://blog.crypto.com/crypto-com-chain-dev-update-9)
-- Doc: [Stabilized Transaction Test Vectors](https://crypto-com.github.io/getting-started/serialization.html#test-vectors) are now documented
-
+- Doc update: [Stabilized Transaction Test Vectors](https://crypto-com.github.io/getting-started/serialization.html#test-vectors) are now documented.
 
 #### [**Enigma**](https://enigma.co)
 

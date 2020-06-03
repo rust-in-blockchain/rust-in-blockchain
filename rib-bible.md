@@ -54,6 +54,26 @@ repos = [
 ]
 ```
 
+## Crypto.com Chain
+
+Media:
+
+- https://blog.crypto.com
+
+GitHub:
+
+- https://github.com/crypto-com
+
+``` toml
+repos = [
+"crypto-com/chain",
+"crypto-com/cro-nodelib",
+"crypto-com/sample-chain-wallet",
+"crypto-com/sample-chain-java-example",
+"crypto-com/sample-chain-ios-example",
+]
+```
+
 ## Enigma
 
 Media:

@@ -29,7 +29,7 @@ Welcome to the #12 edition of Rust in Blockchain, the hypest newsletter about th
 #### [**COMIT**](https://comit.network/)
 
 
-#### [**Crypto.com Chain**](https://crypto.com/en/chain.html)
+#### [**Crypto.com Chain**](https://chain.crypto.com)
 
 - News: [Testnet Upgraded to v0.5](https://blog.crypto.com/crypto-com-chain-dev-update-9/#new-binary-release-and-testnet-upgrade)  
     Further information: [Changelog](https://github.com/crypto-com/chain/blob/release/v0.5/CHANGELOG.md#v053), [Release](https://github.com/crypto-com/chain/releases), [Documentation](https://crypto-com.github.io/getting-started/thaler-testnet.html), [Block Explorer](https://chain.crypto.com/explorer), [Sample Wallet UI](https://github.com/crypto-com/sample-chain-wallet)

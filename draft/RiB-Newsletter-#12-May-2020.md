@@ -109,7 +109,7 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 - PR: [Replace `parity` config section with `web3_url`](https://github.com/comit-network/comit-rs/pull/2575) by [@D4nte](https://github.com/D4nte)
 
 
-#### [Crypto.com Chain](https://crypto.com/en/chain.html)
+#### [Crypto.com Chain](https://chain.crypto.com)
 
 114 merged PRs ([1][crypto.com-merged-prs-1], [2][crypto.com-merged-prs-2], [3][crypto.com-merged-prs-3]), 65 closed issues ([1][crypto.com-closed_issues-1], [2][crypto.com-closed_issues-2]), 29 open issues ([1][crypto.com-open_issues-1], [2][crypto.com-open_issues-2])
 

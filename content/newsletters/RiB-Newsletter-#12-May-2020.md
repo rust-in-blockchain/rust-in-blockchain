@@ -123,8 +123,17 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 The NEAR project is a blockchain written in Rust, that runs smart contracts
 written in Rust, on a WASM VM. It's super-rusty. This recently-released project
-provides well-documented examples of NEAR Rust contracts written with the [NEAR
-SDK].
+provides well-documented, well-commented, examples of NEAR Rust contracts
+written with the [NEAR SDK]:
+
+- [Staking / delegation](https://github.com/near/core-contracts/blob/master/staking-pool)
+- [Lockup / vesting](https://github.com/near/core-contracts/blob/master/lockup)
+- [Whitelist](https://github.com/near/core-contracts/blob/master/whitelist)
+- [Staking pool factory](https://github.com/near/core-contracts/blob/master/staking-pool-factory)
+- [Multisig](https://github.com/near/core-contracts/blob/master/multisig)
+
+It's a concise look into real-world Rust smart contracts, and real-world,
+non-browser Rust WASM.
 
 The NEAR developers are interested in any feedback about the experience
 of writing smart contracts in Rust on NEAR.

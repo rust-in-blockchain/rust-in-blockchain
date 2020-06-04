@@ -7,9 +7,10 @@ month, what strikes us most is the proliferation of Rust cryptography, and
 especially zero-knowledge proof, projects. Even blockchains that aren't
 primarily implemented in Rust are increasingly looking to Rust for their crypto.
 So many of these are springing up that we've lost track, so we spent some time
-doing a survey of the world of Rust crypto and zero-knowledge proofs. For Rust
-blockchain developers there are an overwhelming number of choices for their
-crypto building blocks. Here are some of them.
+doing a survey of the world of Rust crypto and zero-knowledge proofs, and what
+we found kind of blew us away! For Rust blockchain developers there are an
+overwhelming number of choices for their crypto building blocks. Here are some
+of them.
 
 - Rust-crypto-specific GitHub orgs
   - [rustcrypto]: lots of well-maintained, basic crypto primitives and abstractions

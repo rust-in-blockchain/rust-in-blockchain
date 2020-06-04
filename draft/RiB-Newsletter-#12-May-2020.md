@@ -41,11 +41,8 @@ implementanions, libraries, support code, or research projects. Those projects
 are: Bitcoin, Ethereum, Bitcoin Cash, Cardano, Stellar, Crypto.com, Ethereum
 Classic, IOTA, Zcash, Ontology, 0x, Algorand, Qtum. While reviewing these I
 think it's notable that while an increasing number of blockchain projects are
-_using_ Rust, most of the top projects are not _primarily implemented in_ Rust
-(the exception being Crypto.com). Yet, of course. It's also worth noting that Go
-is clearly more popular for implementing blockchains than Rust (as is true
-generally), though a number of Go blockchains do use Rust or are investigating
-Rust for cryptography or other purposes.
+_using_ Rust, few of the top projects are _primarily implemented in_ Rust (the
+exception being Crypto.com). Yet, of course.
 
 [Tendermint]: https://github.com/tendermint
 [ripp]: https://github.com/scipr-lab/ripp

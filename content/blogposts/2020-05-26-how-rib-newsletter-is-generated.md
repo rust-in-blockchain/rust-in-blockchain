@@ -9,6 +9,11 @@ categories:
 
 ---
 
+Rust in Blockchain publishes a monthly newsletter that shares relevant technical content to the Rust blockchain development community.
+
+In this post, we will introduce how our monthly newsletter is generated, the content structure and the workflow.
+
+<!--more-->
 
 Rust in Blockchain publishes a monthly newsletter that shares relevant technical content to the Rust blockchain development community.
 

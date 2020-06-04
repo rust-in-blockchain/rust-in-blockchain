@@ -37,6 +37,9 @@ of them.
     and containing several other interesting in-tree Rust crypto projects.
   - [dusk-network], a blockchain written in Go, has multiple Rust crypto projects, [phoenix], a ZK transaction model,
     [Poseidon252], a hash function, and many more. It apears that they support smart contracts written in Rust.
+  - [Golem]. A non-Rust blockchain with a large number of Rust projects, including [gMorph],
+    a homomorphic encryption library, and several WASM-related projects. Their [yagna]
+    project looks like it might be a reimplementation of Golem in Rust.
   - [Tendermint], another Go blockchain, also has many Rust crypto and security projects.
   - [Komodo], uses Rust for their cross-chain [AtomixDEX] matchmaking network.
   - [IOTA] is [developing some new projects in Rust][iod].
@@ -53,6 +56,9 @@ notable that while an increasing number of blockchain projects are _using_ Rust,
 few of the top projects are _primarily implemented in_ Rust (the exception being
 Crypto.com). Yet, of course.
 
+[yagna]: https://github.com/golemfactory/yagna
+[gMorph]: https://github.com/golemfactory/gMorph
+[Golem]: https://github.com/golemfactory
 [iod]: https://github.com/tendermint
 [Tendermint]: https://github.com/tendermint
 [ripp]: https://github.com/scipr-lab/ripp

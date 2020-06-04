@@ -121,10 +121,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [near/core-contracts].
 
-The NEAR project is a blockchain written in Rust, that runs smart contracts
-written in Rust, on a WASM VM. It's super-rusty. This recently-released project
-provides well-documented examples of NEAR Rust contracts written with the [NEAR
-SDK].
+The NEAR project is a blockchain written in Rust, that runs smart contracts written in Rust, on a WASM VM. It's super-rusty. This recently-released project provides well-documented examples of NEAR Rust contracts written with the [NEAR SDK].
 
 The NEAR developers are interested in any feedback about the experience
 of writing smart contracts in Rust on NEAR.

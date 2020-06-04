@@ -40,10 +40,10 @@ By a rough counting, 13 of the top 50 blockchains by market cap are using Rust
 in some way, whether primary implementations, alternate or unofficial
 implementanions, libraries, support code, or research projects. Those projects
 are: Bitcoin, Ethereum, Bitcoin Cash, Cardano, Stellar, Crypto.com, Ethereum
-Classic, IOTA, Zcash, Ontology, 0x, Algorand, Qtum. While reviewing these I
-think it's notable that while an increasing number of blockchain projects are
-_using_ Rust, few of the top projects are _primarily implemented in_ Rust (the
-exception being Crypto.com). Yet, of course.
+Classic, IOTA, Zcash, Ontology, 0x, Algorand, Qtum. While reviewing these it's
+notable that while an increasing number of blockchain projects are _using_ Rust,
+few of the top projects are _primarily implemented in_ Rust (the exception being
+Crypto.com). Yet, of course.
 
 [iod]: https://github.com/tendermint
 [Tendermint]: https://github.com/tendermint

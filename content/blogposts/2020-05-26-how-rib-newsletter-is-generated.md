@@ -3,17 +3,12 @@ title: "How RiB Newsletter is Generated"
 date: "2020-05-26"
 description: "How RiB Newsletter is Generated"
 author: Aimee
-slug: "/how-rib-newsletter-is-generated"
+slug: /how-rib-newsletter-is-generated
 categories:
   - "blogposts"
-
+  
+summary: Rust in Blockchain publishes a monthly newsletter that shares relevant technical content to the Rust blockchain development community. In this post, we will introduce how our monthly newsletter is generated, the content structure and the workflow.
 ---
-
-Rust in Blockchain publishes a monthly newsletter that shares relevant technical content to the Rust blockchain development community.
-
-In this post, we will introduce how our monthly newsletter is generated, the content structure and the workflow.
-
-<!--more-->
 
 Rust in Blockchain publishes a monthly newsletter that shares relevant technical content to the Rust blockchain development community.
 
@@ -24,7 +19,8 @@ We hope it will be easier for you to contribute to the [next issue](https://gith
 ## RiB Newsletter Structure
 
 - Each month introduction: summary of the month's events
-- Thanks: a list of all the contributors to this issue
+- Thanks:
+a list of all the contributors to this issue
 - Project Spotlight: one cool project each month, per our preference
 - Interesting Things:
   - Interesting Rust & blockchain projects, GitHub repos

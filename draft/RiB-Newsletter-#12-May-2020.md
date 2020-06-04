@@ -2,7 +2,96 @@
 Welcome to the #12 edition of Rust in Blockchain, the hypest newsletter about the hypest tech.
 [Previous: #11](/newsletters/2020-05-06-the-flourishing-spring).
 
-/*intro*/
+Hey there and welcome to another month in the world of Rust blockchain. This
+month, what strikes us most is the proliferation of Rust cryptography, and
+especially zero-knowledge proof, projects. Even blockchains that aren't
+primarily implemented in Rust are increasingly looking to Rust for their crypto.
+So many of these are springing up that we've lost track, so we spent some time
+doing a survey of the world of Rust crypto and zero-knowledge proofs. For Rust
+blockchain developers there are an overwhelming number of choices for their
+crypto building blocks. Here are some of them.
+
+- Rust-crypto-specific GitHub orgs
+  - [rustcrypto]: lots of well-maintained, basic crypto primitives and abstractions
+  - [dalek-cryptography]: mature ed25519 and zkp implementations
+  - [zkcrypto] maintains a number of zero-knowledge crates used by multiple projects, [bellman],
+    [ff], [pairing], [group], [jubjub], [bls12_381].
+  - [SCIPR Lab] has several zero-knowledge Rust projects, [zexe], for [decentralized private computation (paper)][zp],
+    [poly-commit], for polynomial commitments, [marlin], for the [Marlin SNARK (paper)][ms], and [ripp],
+    for [proofs of inner pairing products (paper)][ppro]
+  - [KZen-networks] is another organization filled with Rust crypto, dedicated to threshold cryptography, [multi-party-ecdsa], [curv],
+    [multi-party-schnorr], [class], [white-city], and more.
+- Non-Rust blockchains using Rust for security and other purposes
+  - [0xProject/OpenZKP]. A ZKP implementation by 0x Network.
+  - [algorand/pointproofs]. An implementation of Algorand's [Pointproofs: Aggregating Proofs for Multiple Vector Commitments (paper)][pp].
+  - [Stellar] has a separate Rust blockchain, [Slingshot], built on a zero-knowledge VM, [ZkVM],
+    and containing several other interesting in-tree Rust crypto projects.
+  - [dusk-network], a blockchain written in Go, has multiple Rust crypto projects, [phoenix], a ZK transaction model,
+    [Poseidon252], a hash function, and many more. It apears that they support smart contracts written in Rust.
+  - [Tendermint], another Go blockchain, also has many Rust crypto and security projects.
+  - [Komodo], uses Rust for their cross-chain [AtomixDEX] matchmaking network.
+  - [IOTA] is developing some new projects in Rust.
+  - [Input-Output HK], contributors to Cardano and Ethereum Classic, have multiple Rust projects in Rust,
+    including [jormungandr], a Rust blockchain that appears to be an implementation of Cardano in Rust.
+  - The Ethereum community has many projects in Rust, as does Zcash, and there exist Bitcoin implementations in Rust.
+
+By a rough counting, 13 of the top 50 blockchains by market cap are using Rust
+in some way, whether primary implementations, alternate or unofficial
+implementanions, libraries, support code, or research projects. Those projects
+are: Bitcoin, Ethereum, Bitcoin Cash, Cardano, Stellar, Crypto.com, Ethereum
+Classic, IOTA, Zcash, Ontology, 0x, Algorand, Qtum. While reviewing these I
+think it's notable that while an increasing number of blockchain projects are
+_using_ Rust, most of the top projects are not _primarily implemented in_ Rust
+(the exception being Crypto.com). Yet, of course. It's also worth noting that Go
+is clearly more popular for implementing blockchains than Rust (as is true
+generally), though a number of Go blockchains do use Rust or are investigating
+Rust for cryptography or other purposes.
+
+[Tendermint]: https://github.com/tendermint
+[ripp]: https://github.com/scipr-lab/ripp
+[IOTA]: https://github.com/IOTAledger
+[ZkVM]: https://github.com/stellar/slingshot/blob/main/zkvm
+[Slingshot]: https://github.com/stellar/slingshot
+[Stellar]: https://github.com/stellar
+[jormungandr]: https://github.com/input-output-hk/jormungandr
+[Input-Output HK]: https://github.com/input-output-hk
+[Komodo]: https://github.com/KomodoPlatform/
+[AtomixDEX]: https://github.com/KomodoPlatform/atomicDEX-API
+[dalek-cryptography]: https://github.com/dalek-cryptography/
+[rustcrypto]: https://github.com/rustcrypto
+[Tednermint]: https://github.com/tendermint
+[white-city]: https://github.com/KZen-networks/white-city
+[class]: https://github.com/KZen-networks/class
+[multi-party-schnorr]: https://github.com/KZen-networks/multi-party-schnorr
+[curv]: https://github.com/KZen-networks/curv
+[multi-party-ecdsa]: https://github.com/KZen-networks/multi-party-ecdsa
+[KZen-networks]: https://github.com/KZen-networks
+[Poseidon252]: https://github.com/dusk-network/Poseidon252
+[phoenix]: https://github.com/dusk-network/phoenix
+[dusk-network]: https://github.com/dusk-network
+[0xProject/OpenZKP]: https://github.com/0xProject/OpenZKP
+[algorand/pointproofs]: https://github.com/algorand/pointproofs
+[pp]: https://eprint.iacr.org/2020/419
+[SCIPR Lab]: https://github.com/scipr-lab
+[zexe]: https://github.com/scipr-lab/zexe
+[poly-commit]: https://github.com/scipr-lab/poly-commit
+[marlin]: https://github.com/scipr-lab/marlin
+[ms]: https://ia.cr/2019/1047
+[ppro]: https://eprint.iacr.org/2019/1177
+[zp]: https://ia.cr/2018/962
+[zkcrypto]: https://github.com/zkcrypto
+[bellman]: https://github.com/zkcrypto/bellman
+[ff]: https://github.com/zkcrypto/ff
+[pairing]: https://github.com/zkcrypto/pairing
+[group]: https://github.com/zkcrypto/group
+[jubjub]: https://github.com/zkcrypto/jubjub
+[bls12_381]: https://github.com/zkcrypto/bls12_381
+[groth16]: https://github.com/zkcrypto/groth16
+
+This month Rust-behemoth Polkadot [launched their mainnet][pmn]. Congrats to Parity
+and Polkadot contributors.
+
+[pmn]: https://polkadot.network/web3-foundation-initiates-launch-polkadot-is-live/
 
 &nbsp;
 
@@ -25,17 +114,17 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 ## Interesting Things
 
-- [Rust library for writing NEAR smart contracts](https://github.com/near/near-sdk-rs)
-- [Near rainbow bridge to Ethereum](https://github.com/near/rainbow-bridge)
-- [Nervos CKB as a Rust library](https://github.com/xxuejie/ckb-boxer)
-- [Collection of crates used in Parity projects](https://github.com/paritytech/parity-common)
-- [Rust-language assets for Zcash](https://github.com/zcash/librustzcash)
-- [Rust library for decentralized private computation](https://github.com/scipr-lab/zexe)
-- [Rust language general purpose elliptic curve cryptography](https://github.com/KZen-networks/curv)
-- [OpenZKP - pure Rust implementations of Zero-Knowledge Proof systems](https://github.com/0xProject/OpenZKP)
-- [A Rust library for the Marlin preprocessing zkSNARK](https://github.com/scipr-lab/marlin)
-- [The Dusk Rust WASM VM implementation](https://github.com/dusk-network/rusk-vm)
-- [Zero-knowledge virtual machine written in Rust](https://github.com/GuildOfWeavers/distaff)
+- [zexe: Rust library for decentralized private computation](https://github.com/scipr-lab/zexe)
+- [curv: Rust language general purpose elliptic curve cryptography](https://github.com/KZen-networks/curv)
+- [OpenZKP: pure Rust implementations of Zero-Knowledge Proof systems](https://github.com/0xProject/OpenZKP)
+- [marlin: A Rust library for the Marlin preprocessing zkSNARK](https://github.com/scipr-lab/marlin)
+- [rusk-vm: The Dusk Rust WASM VM implementation](https://github.com/dusk-network/rusk-vm)
+- [distaff](https://github.com/GuildOfWeavers/distaff), the new SNARK VM, posted two status updates
+  ([1](https://ethresear.ch/t/distaff-vm-now-with-deep-fri/7459), [2](https://ethresear.ch/t/expanding-instruction-set-of-distaff-vm/7504)) to ethresear.ch
+- [near-sdk-rs: Rust library for writing NEAR smart contracts](https://github.com/near/near-sdk-rs)
+- [rainbow-bridge: NEAR bridge to Ethereum](https://github.com/near/rainbow-bridge)
+- [ckb-boxer: Nervos CKB as a Rust library](https://github.com/xxuejie/ckb-boxer)
+- [electrs: An Electrum server implementation](https://github.com/romanz/electrs)
 - Blog: [Everything You Need to Know About Reddit's New Blockchain-Based Community Points](https://consensys.net/blog/news/everything-you-need-to-know-about-reddits-new-blockchain-based-community-points/)
   - Reddit is a collection of discussion boards (called subreddits) on various topics where members can upvote or downvote posts. It has an enormous (and devoted) userbase with 430 million monthly active users and 150 million pages visited each day.
   - Community points on the blockchain

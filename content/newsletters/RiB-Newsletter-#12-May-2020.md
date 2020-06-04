@@ -14,7 +14,7 @@ Welcome to the #12 edition of Rust in Blockchain, the hypest newsletter about th
 
 This month, what strikes us most is the proliferation of Rust cryptography, and
 especially zero-knowledge proof, projects. Even blockchains that aren't
-primarily implemented in Rust are increasingly looking to Rust for their crenigaypto.
+primarily implemented in Rust are increasingly looking to Rust for their crypto.
 So many of these are springing up that we've lost track, so we spent some time
 doing a survey of the world of Rust crypto and zero-knowledge proofs, and what
 we found kind of blew us away! For Rust blockchain developers there are an
@@ -48,10 +48,10 @@ By a rough counting, 13 of the top 50 blockchains by market cap are using Rust
 in some way, whether primary implementations, alternate or unofficial
 implementanions, libraries, support code, or research projects. Those projects
 are: Bitcoin, Ethereum, Bitcoin Cash, Cardano, Stellar, Crypto.com, Ethereum
-Classic, IOTA, Zcash, Ontology, 0x, Algorand, Qtum. While reviewing these I
-think it's notable that while an increasing number of blockchain projects are
-_using_ Rust, few of the top projects are _primarily implemented in_ Rust (the
-exception being Crypto.com). Yet, of course.
+Classic, IOTA, Zcash, Ontology, 0x, Algorand, Qtum. While reviewing these it's
+notable that while an increasing number of blockchain projects are _using_ Rust,
+few of the top projects are _primarily implemented in_ Rust (the exception being
+Crypto.com). Yet, of course.
 
 [iod]: https://github.com/tendermint
 [Tendermint]: https://github.com/tendermint

@@ -31,7 +31,7 @@ of them.
     [Poseidon252], a hash function, and many more. It apears that they support smart contracts written in Rust.
   - [Tendermint], another Go blockchain, also has many Rust crypto and security projects.
   - [Komodo], uses Rust for their cross-chain [AtomixDEX] matchmaking network.
-  - [IOTA] is developing some new projects in Rust.
+  - [IOTA] is [developing some new projects in Rust][iod].
   - [Input-Output HK], contributors to Cardano and Ethereum Classic, have multiple Rust projects in Rust,
     including [jormungandr], a Rust blockchain that appears to be an implementation of Cardano in Rust.
   - The Ethereum community has many projects in Rust, as does Zcash, and there exist Bitcoin implementations in Rust.
@@ -45,6 +45,7 @@ think it's notable that while an increasing number of blockchain projects are
 _using_ Rust, few of the top projects are _primarily implemented in_ Rust (the
 exception being Crypto.com). Yet, of course.
 
+[iod]: https://github.com/tendermint
 [Tendermint]: https://github.com/tendermint
 [ripp]: https://github.com/scipr-lab/ripp
 [IOTA]: https://github.com/IOTAledger

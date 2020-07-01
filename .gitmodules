@@ -4,3 +4,6 @@
 [submodule "mainroad"]
 	path = mainroad
 	url = https://github.com/vimux/mainroad
+[submodule "awesome-blockchain-rust"]
+	path = awesome-blockchain-rust
+	url = https://github.com/rust-in-blockchain/awesome-blockchain-rust.git

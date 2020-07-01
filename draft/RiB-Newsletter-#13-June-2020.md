@@ -2,7 +2,9 @@
 
 Welcome to the #13 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #12](/newsletters/2020-06-03-zk-rustups/).
 
-It was another month in 2020. Like previous months in 2020. A lot of us are mostly stuck inside. Still. Hacking away. Probably.
+It was another month in 2020. Like previous months in 2020. A lot of us are mostly stuck inside. Still. Hacking away. Or not.
+
+Right now it's hard to gather the enthusiasm to write something coherent about blockchain Rust.
 
 New Rust crypto and blockchain projects continue to be launched. They are noted in the "Interesting Things" section.
 

@@ -9,7 +9,7 @@ Welcome to the #1 edition of Rust in Blockchain, the hypest newsletter about the
 
 This edition of RiB was produced with contributions from Darosior, Ken Shamir, Paulii Good, Taylor Lee, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
-RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#13 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#14 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer

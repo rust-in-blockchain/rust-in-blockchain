@@ -8,13 +8,17 @@ New Rust crypto and blockchain projects continue to be launched. They are noted 
 
 [Oasis launched what will probably become their mainnet][oasis-1]. Congrats to them!
 
-The Holochain team asked that we highlight the [Holochain DevCamp][hdc], running until August 27th. Now is your opportunity to learn more about the project. There are a number of other online blockchain hackathons going on this summer, noted in our "Events" section. Could be a good way to spend time this summer instead of going to the beach.
+Ethereum 2 [keeps creeping closer][eth2-1], and it looks like [Lighthouse], in Rust, might be [the fastest implementation][eth2-2].
 
-[oasis-1]: https://medium.com/oasis-protocol-project/the-amber-network-is-live-1caa1289cbd8
-[hdc]: https://holochain.typeform.com/to/ptZ79fac
+The Holochain team asked that we highlight the [Holochain DevCamp][hdc], running until August 27th. Now is your opportunity to learn more about the project. There are a number of other online blockchain hackathons going on this summer, noted in our "Events" section. Could be a good way to spend time this summer instead of going to the beach.
 
 Well, anyway, keep hacking or whatever.
 
+[oasis-1]: https://medium.com/oasis-protocol-project/the-amber-network-is-live-1caa1289cbd8
+[hdc]: https://holochain.typeform.com/to/ptZ79fac
+[eth2-1]: https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_200627
+[Lighthouse]: https://github.com/sigp/lighthouse
+[eth2-2]: https://github.com/q9f/eth2-bench-2020-06/blob/master/res/2020-06-eth2-bench.pdf
 
 &nbsp;
 

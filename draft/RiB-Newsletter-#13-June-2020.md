@@ -40,15 +40,32 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 ## Project Spotlight
 
+Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+[electrs].
+
+`electrs` is a server for the [Electrum] Bitcoin wallet, written in Rust. Electrum is a light wallet that
+needs to connect to a server to transact with the Bitcoin network. Although there are public Electrum servers,
+and they are safe to transact with, they can deanonymize users, so it might be prudent to run one's own
+Electrum server, like `electrs`, or [`bwt`][bwt] (also written in Rust).
+
+As [mentioned recently in a blog post][bsblog], Blockstream, one of the primary Bitcoin developers,
+uses `electrs` in its block explorer, [`esplora`], which is live at [blockstream.info].
+
+
+[electrs]: https://github.com/romanz/electrs
+[Electrum]: https://electrum.org/
+[bwt]: https://github.com/shesek/bwt
+[`esplora`]: https://github.com/Blockstream/esplora
+[bsblog]: https://blockstream.com/2020/06/16/en-esplora-and-other-alternatives-to-electrumx/
+[blockstream.info]: https://blockstream.info
+
+
 &nbsp;
 
 ## Interesting Things
 
 [Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework](https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955)
-
-[Esplora and Other Alternatives to ElectrumX](https://blockstream.com/2020/06/16/en-esplora-and-other-alternatives-to-electrumx/)
-- [Bitcoin Wallet Tracker](https://github.com/shesek/bwt#electrum-plugin). A lightweight HD wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
-- [Electrum Server in Rust](https://github.com/romanz/electrs). An efficient re-implementation of Electrum Server.
 
 [Introducing Covalent's DeFi SDK – An integrated approach to value your digital assets with 5 lines of code](https://www.covalenthq.com/blog/covalent-defi-sdk/)
 

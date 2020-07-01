@@ -1,12 +1,11 @@
-#
+# 
+
 
 Welcome to the #13 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #12](/newsletters/2020-06-03-zk-rustups/).
 
-It was another month in 2020. Like previous months in 2020. A lot of us are mostly stuck inside. Still. Hacking away. Or not.
+It was another month in 2020. Like previous months in 2020. A lot of us are mostly stuck inside still. Hacking away.
 
-Right now it's hard to gather the enthusiasm to write something coherent about blockchain Rust.
-
-New Rust crypto and blockchain projects continue to be launched. They are noted in the "Interesting Things" section.
+We don't see a consistent blockchain Rust theme to highlight this month, but interesting new Rust crypto and blockchain projects continue to be launched. They are noted in the "Interesting Things" section.
 
 [Oasis launched what will probably become their mainnet][oasis-1]. Congrats to them!
 
@@ -14,7 +13,7 @@ Ethereum 2 [keeps creeping closer][eth2-1], and it looks like [Lighthouse], in R
 
 The Holochain team asked that we highlight the [Holochain DevCamp][hdc], running until August 27th. Now is your opportunity to learn more about the project. There are a number of other online blockchain hackathons going on this summer, noted in our "Events" section. Could be a good way to spend time this summer instead of going to the beach.
 
-Well, anyway, keep hacking or whatever.
+Well, anyway, keep on hacking.
 
 [oasis-1]: https://medium.com/oasis-protocol-project/the-amber-network-is-live-1caa1289cbd8
 [hdc]: https://holochain.typeform.com/to/ptZ79fac

@@ -65,43 +65,45 @@ uses `electrs` in its block explorer, [`esplora`], which is live at [blockstream
 
 ## Interesting Things
 
-[Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework](https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955)
+News: [Enigma partners with IBM on "SafeTrace"](https://www.ibm.com/cloud/blog/enigma-and-ibm-cloud-are-protecting-human-lives-as-well-as-data-privacy), a contact tracing app. Enigma is a Rust blockchain with private computation.
 
-[Introducing Covalent's DeFi SDK – An integrated approach to value your digital assets with 5 lines of code](https://www.covalenthq.com/blog/covalent-defi-sdk/)
-
-[Oasis](https://twitter.com/OasisProtocol) launched [The Amber Network](https://medium.com/oasis-protocol-project/the-amber-network-is-live-1caa1289cbd8), and the new white paper [The Oasis Blockchain Platform](https://docsend.com/view/aq86q2pckrut2yvq)
+News: [Oasis](https://twitter.com/OasisProtocol) launched [The Amber Network](https://medium.com/oasis-protocol-project/the-amber-network-is-live-1caa1289cbd8), and the new white paper [The Oasis Blockchain Platform](https://docsend.com/view/aq86q2pckrut2yvq).
 
 [New RustCrypto releases](https://www.reddit.com/r/rust/comments/h0em5n/ann_new_rustcrypto_releases_aead_blockcipher/): `aead`, `block-cipher`, `crypto-mac`, `digest`, `signature`, `stream-cipher`, and more!
 
-[Bulletproofs+](https://eprint.iacr.org/2020/735). A new paper with improvements to bulletproofs.
+Blog: [Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework](https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955)
 
-News: [Enigma partners with IBM on "SafeTrace"](https://www.ibm.com/cloud/blog/enigma-and-ibm-cloud-are-protecting-human-lives-as-well-as-data-privacy), a contact tracing app. Enigma is a Rust blockchain with private computation.
+Blog: [Introducing Covalent's DeFi SDK – An integrated approach to value your digital assets with 5 lines of code](https://www.covalenthq.com/blog/covalent-defi-sdk/)
 
-Project: The [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) blockchain implementation, an open-membership replicated state machine produced by the coordination of a non-enumerable set of peers.
+Blog: [How I checked over 1 trillion mnemonics in 30 hours to win a bitcoin.](https://medium.com/@johncantrell97/how-i-checked-over-1-trillion-mnemonics-in-30-hours-to-win-a-bitcoin-635fe051a752)
 
-Project: [ethcontract-rs](https://github.com/gnosis/ethcontract-rs). Generate type-safe bindings for interacting with Ethereum contracts. 
-
-Project: [Crate Crypto](https://github.com/crate-crypto). Open source cryptographic implementations. Mostly from IACR.
-
-Project: [Neptune](https://github.com/filecoin-project/neptune). Neptune is a Rust implementation of the Poseidon hash function tuned for Filecoin.
-
-Project: [riemann-rs](https://github.com/summa-tx/riemann-rs). Bitcoin-oriented dev toolboxes for native and browser apps.
-
-Project: [celo-bls-snark-rs](https://github.com/celo-org/celo-bls-snark-rs). Implements SNARK-friendly BLS signatures over BLS12-377 and BW6-761.
+Paper: [Bulletproofs+](https://eprint.iacr.org/2020/735). A new paper with improvements to bulletproofs.
 
 Project: [blst](https://github.com/supranational/blst/). An implementation of BLS12-381. In C, with Rust bindings.
 
-Project: [poly-commit](https://github.com/scipr-lab/poly-commit). Univariate Polynomial Commitments. A Rust library that implements (univariate) polynomial commitment schemes.
+Project: [celo-bls-snark-rs](https://github.com/celo-org/celo-bls-snark-rs). Implements SNARK-friendly BLS signatures over BLS12-377 and BW6-761.
 
 Project: [Candid](https://github.com/dfinity/candid), an interface description language (IDL) for interacting with canisters (also known as services or actors) running on the Internet Computer.
 
-Project: [Starcoin](https://github.com/starcoinorg/starcoin). A Layered Cryptocurrency and Decentralized Blockchain System.
+Project: [Crate Crypto](https://github.com/crate-crypto). Open source cryptographic implementations. Mostly from IACR.
 
-Project: CKB related
+Project: [ethcontract-rs](https://github.com/gnosis/ethcontract-rs). Generate type-safe bindings for interacting with Ethereum contracts. 
+
+Project: [Neptune](https://github.com/filecoin-project/neptune). Neptune is a Rust implementation of the Poseidon hash function tuned for Filecoin.
+
+Project: Nervos CKB
 - [ckb-std](https://github.com/nervosnetwork/ckb-std) contains serveral modules that help you write CKB contract with Rust.
-- [ckb-zkp](https://github.com/sec-bit/ckb-zkp). Zero Knowledge Proofs Toolkit for CKB
+- [ckb-zkp](https://github.com/sec-bit/ckb-zkp). Zero Knowledge Proofs Toolkit for CKB.
 
-[How I checked over 1 trillion mnemonics in 30 hours to win a bitcoin.](https://medium.com/@johncantrell97/how-i-checked-over-1-trillion-mnemonics-in-30-hours-to-win-a-bitcoin-635fe051a752)
+Project: [poly-commit](https://github.com/scipr-lab/poly-commit). Univariate Polynomial Commitments. A Rust library that implements (univariate) polynomial commitment schemes.
+
+Project: [riemann-rs](https://github.com/summa-tx/riemann-rs). Bitcoin-oriented dev toolboxes for native and browser apps.
+
+Project: [Sigma Rust](https://github.com/ergoplatform/sigma-rust). Rust implementation of ErgoScript cryptocurrency scripting language.
+
+Project: The [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) blockchain implementation, an open-membership replicated state machine produced by the coordination of a non-enumerable set of peers.
+
+Project: [Starcoin](https://github.com/starcoinorg/starcoin). A Layered Cryptocurrency and Decentralized Blockchain System.
 
 Video: [ZkVM: About the motocrab](https://www.youtube.com/watch?v=1i-EJykVzag). ZkVM is a zero-knowledge VM created by Stellar.
 

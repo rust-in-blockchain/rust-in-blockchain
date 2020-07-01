@@ -1,6 +1,19 @@
 #
 
-Welcome to the #1 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #12](/newsletters/2020-06-03-zk-rustups/).
+Welcome to the #13 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #12](/newsletters/2020-06-03-zk-rustups/).
+
+It was another month in 2020. Like previous months in 2020. A lot of us are mostly stuck inside. Still. Hacking away. Probably.
+
+New Rust crypto and blockchain projects continue to be launched. They are noted in the "Interesting Things" section.
+
+[Oasis launched what will probably become their mainnet][oasis-1]. Congrats to them!
+
+The Holochain team asked that we highlight the [Holochain DevCamp][hdc], running until August 27th. Now is your opportunity to learn more about the project. There are a number of other online blockchain hackathons going on this summer, noted in our "Events" section. Could be a good way to spend time this summer instead of going to the beach.
+
+[oasis-1]: https://medium.com/oasis-protocol-project/the-amber-network-is-live-1caa1289cbd8
+[hdc]: https://holochain.typeform.com/to/ptZ79fac
+
+Well, anyway, keep hacking or whatever.
 
 
 &nbsp;
@@ -31,13 +44,15 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 - [Bitcoin Wallet Tracker](https://github.com/shesek/bwt#electrum-plugin). A lightweight HD wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
 - [Electrum Server in Rust](https://github.com/romanz/electrs). An efficient re-implementation of Electrum Server.
 
-[Expanding instruction set of Distaff VM](https://ethresear.ch/t/expanding-instruction-set-of-distaff-vm/7504)
-
 [Introducing Covalent's DeFi SDK – An integrated approach to value your digital assets with 5 lines of code](https://www.covalenthq.com/blog/covalent-defi-sdk/)
 
 [Oasis](https://twitter.com/OasisProtocol) launched [The Amber Network](https://medium.com/oasis-protocol-project/the-amber-network-is-live-1caa1289cbd8), and the new white paper [The Oasis Blockchain Platform](https://docsend.com/view/aq86q2pckrut2yvq)
 
 [New RustCrypto releases](https://www.reddit.com/r/rust/comments/h0em5n/ann_new_rustcrypto_releases_aead_blockcipher/): `aead`, `block-cipher`, `crypto-mac`, `digest`, `signature`, `stream-cipher`, and more!
+
+[Bulletproofs+](https://eprint.iacr.org/2020/735). A new paper with improvements to bulletproofs.
+
+News: [Enigma partners with IBM on "SafeTrace"](https://www.ibm.com/cloud/blog/enigma-and-ibm-cloud-are-protecting-human-lives-as-well-as-data-privacy), a contact tracing app. Enigma is a Rust blockchain with private computation.
 
 Project: The [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) blockchain implementation, an open-membership replicated state machine produced by the coordination of a non-enumerable set of peers.
 
@@ -51,6 +66,8 @@ Project: [riemann-rs](https://github.com/summa-tx/riemann-rs). Bitcoin-oriented 
 
 Project: [celo-bls-snark-rs](https://github.com/celo-org/celo-bls-snark-rs). Implements SNARK-friendly BLS signatures over BLS12-377 and BW6-761.
 
+Project: [blst](https://github.com/supranational/blst/). An implementation of BLS12-381. In C, with Rust bindings.
+
 Project: [poly-commit](https://github.com/scipr-lab/poly-commit). Univariate Polynomial Commitments. A Rust library that implements (univariate) polynomial commitment schemes.
 
 Project: [Candid](https://github.com/dfinity/candid), an interface description language (IDL) for interacting with canisters (also known as services or actors) running on the Internet Computer.
@@ -62,6 +79,8 @@ Project: CKB related
 - [ckb-zkp](https://github.com/sec-bit/ckb-zkp). Zero Knowledge Proofs Toolkit for CKB
 
 [How I checked over 1 trillion mnemonics in 30 hours to win a bitcoin.](https://medium.com/@johncantrell97/how-i-checked-over-1-trillion-mnemonics-in-30-hours-to-win-a-bitcoin-635fe051a752)
+
+Video: [ZkVM: About the motocrab](https://www.youtube.com/watch?v=1i-EJykVzag). ZkVM is a zero-knowledge VM created by Stellar.
 
 &nbsp;
 
@@ -181,13 +200,14 @@ Project: CKB related
 
 #### [Lighthouse](https://lighthouse.sigmaprime.io/)
 
-62 merged PRs ([1][lighthouse-merged-prs-1]), 17 closed issues ([1][lighthouse-closed_issues-1]), 19 open issues ([1][lighthouse-closed_open-1])
+62 merged PRs ([1][lighthouse-merged-prs-1]), 17 closed issues ([1][lighthouse-closed_issues-1]), 19 open issues ([1][lighthouse-open_issues-1])
 
 [lighthouse-merged-prs-1]: https://github.com/sigp/lighthouse/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-06-01..2020-06-30
 [lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-06-01..2020-06-30
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2020-06-01..2020-06-30
 
 - News: [Lighthouse Update #26](https://lighthouse.sigmaprime.io/update-26.html)
+- News: [What's new in Eth2](https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_200627). Links to a [benchmark](https://github.com/q9f/eth2-bench-2020-06/blob/master/res/2020-06-eth2-bench.pdf) indicating that Lighthouse is the best-performing Ethereum 2 implementation.
 - PR: [Improve tokio task execution](https://github.com/sigp/lighthouse/pull/1181) by [@pawanjay176](https://github.com/pawanjay176)
 - PR: [Add error handling to iterators](https://github.com/sigp/lighthouse/pull/1243) by [@adaszko](https://github.com/adaszko)
 - PR: [Add first Server Sent Events API endpoint](https://github.com/sigp/lighthouse/pull/1107) by [@adaszko](https://github.com/adaszko)

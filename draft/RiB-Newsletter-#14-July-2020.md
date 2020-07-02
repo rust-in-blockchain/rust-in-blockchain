@@ -41,7 +41,7 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 #### [CodeChain](https://github.com/codeChain-io/)
 
-#### [**COMIT**](https://github.com/comit-network)
+#### [COMIT](https://github.com/comit-network)
 
 #### [Crypto.com Chain](https://chain.crypto.com)
 

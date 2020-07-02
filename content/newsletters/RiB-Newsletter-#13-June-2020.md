@@ -5,7 +5,7 @@ date: 2020-07-01
 slug: "/2020-07-01-stuck-inside-hacking-away"
 categories:
   - "newsletters"
-summary: This month, we don't see a consistent blockchain Rust theme to highlight this month, but interesting new Rust crypto and blockchain projects continue to be launched. They are noted in the "Interesting Things" section.
+summary: This month, we don't see a consistent blockchain Rust theme to highlight, but interesting new Rust crypto and blockchain projects continue to be launched. They are noted in the "Interesting Things" section.
 
 ---
 
@@ -159,7 +159,7 @@ uses `electrs` in its block explorer, [`esplora`], which is live at [blockstream
 
 - PR: [Fix a deadlock in miner.rs](https://github.com/CodeChain-io/codechain/pull/1968) by [@majecty](https://github.com/majecty)
 
-#### [**COMIT**](https://github.com/comit-network)
+#### [COMIT](https://github.com/comit-network)
 
 186 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3]), 71 closed issues ([1][comit-closed_issues-1], [2][comit-closed_issues-2], [3][comit-closed_issues-3], [4][comit-closed_issues-4]), 15 open issues ([1][comit-open_issues-1], [2][comit-open_issues-2], [3][comit-open_issues-3])
 

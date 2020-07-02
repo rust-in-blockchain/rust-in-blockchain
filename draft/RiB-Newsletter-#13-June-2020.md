@@ -269,6 +269,23 @@ Project: CKB related
 - PR: [Stored call in multisig](https://github.com/paritytech/substrate/pull/6319) by [@gavofyork](https://github.com/gavofyork)
 - PR: [Make transaction pool prune transactions only of canonical blocks](https://github.com/paritytech/substrate/pull/6123) by [@bkchr](https://github.com/bkchr)
 
+#### [Secret Network](https://github.com/enigmampc/SecretNetwork)
+
+50 merged PRs ([1][secretnetwork-merged-prs-1]), 64 closed issues ([1][secretnetwork-closed_issues-1]), 35 open issues ([1][secretnetwork-open_issues-1])
+
+[secretnetwork-merged-prs-1]: https://github.com/enigmampc/SecretNetwork/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-06-01..2020-06-30
+[secretnetwork-closed_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-06-01..2020-06-30
+[secretnetwork-open_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2020-06-01..2020-06-30
+
+- News: [Secret Contracts Update: Milestone 3 of 3 Complete!](https://blog.scrt.network/secret-contracts-update-milestone-3-of-3-is-complete)
+- News: [Introducing Secret Network](https://blog.scrt.network/introducing-secret-network)
+- News: [Enigma and IBM Cloud are Protecting Human Lives as Well as Data Privacy](https://www.ibm.com/cloud/blog/enigma-and-ibm-cloud-are-protecting-human-lives-as-well-as-data-privacy)
+- News: [Introducing Secret Foundation](https://blog.scrt.network/introducing-secret-foundation)
+- News: [Announcing the Secret Games and Incentivized Testnet](https://blog.scrt.network/announcing-the-secret-games)
+- Blog: [Secret Hub: Making Privacy One With the Cosmos](https://blog.scrt.network/secret-hub)
+- Blog: [Secret Network Development Update: May 2020](https://blog.scrt.network/secret-network-development-update-may-2020)
+- PR: [CosmWasm 0.9](https://github.com/enigmampc/SecretNetwork/pull/262) by [@reuvenpo](https://github.com/reuvenpo)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 245 merged PRs ([1][solana-merged-prs-1]), 26 closed issues ([1][solana-closed_issues-1]), 33 open issues ([1][solana-open_issues-1])

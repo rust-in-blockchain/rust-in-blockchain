@@ -17,7 +17,7 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 ## Project Spotlight
 
-&nbsp;
+[ethers.rs](https://github.com/gakonst/ethers-rs) is an Ethereum &amp; Celo library and wallet implementation, implemented as a port of the [ethers-js](https://ethers.io/) library to Rust.
 
 ## Interesting Things
 

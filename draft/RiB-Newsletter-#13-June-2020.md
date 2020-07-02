@@ -1,4 +1,13 @@
-# 
+---
+title: "RiB Newsletter #13 – Stuck inside, hacking away"
+description: "#13 - June 2020"
+date: 2020-07-01
+slug: "/2020-07-01-stuck-inside-hacking-away"
+categories:
+  - "newsletters"
+summary: This month, We don't see a consistent blockchain Rust theme to highlight this month, but interesting new Rust crypto and blockchain projects continue to be launched. They are noted in the "Interesting Things" section.
+
+---
 
 
 Welcome to the #13 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #12](/newsletters/2020-06-03-zk-rustups/).
@@ -25,10 +34,11 @@ Well, anyway, keep on hacking.
 
 ## Thanks
 
-This edition of RiB was produced with contributions from Darosior, Ken Shamir, Paulii Good, Taylor Lee, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+This edition of RiB was produced with contributions from Darosior, [James Waugh][contributorjw], Ken Shamir, Paulii Good, Taylor Lee, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#14 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
+[contributorjw]: https://github.com/jlwaugh
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 

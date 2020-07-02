@@ -74,25 +74,6 @@ repos = [
 ]
 ```
 
-## Enigma
-
-Media:
-
-- https://blog.enigma.co
-- https://twitter.com/EnigmaMPC
-- https://forum.enigma.co
-
-GitHub:
-
-- https://github.com/enigmampc
-
-``` toml
-repos = [
-"enigmampc/enigma-core",
-"enigmampc/SafeTrace"
-]
-```
-
 ## Golem
 
 Media:
@@ -306,6 +287,26 @@ repos = [
 "paritytech/parity-zcash",
 ]
 ```
+
+## Secret Network
+
+Media:
+
+- https://blog.scrt.network
+- https://twitter.com/SecretNetwork
+- https://forum.scrt.network
+
+GitHub:
+
+- https://github.com/enigmampc
+
+``` toml
+repos = [
+"enigmampc/SecretNetwork",
+"enigmampc/SafeTrace"
+]
+```
+
 ## Solana
 
 Media:

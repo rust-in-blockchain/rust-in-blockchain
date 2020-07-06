@@ -46,18 +46,25 @@ relativeURLs = true
     weight = -100
 
   [[menu.main]]
+    identifier = "awesome-rib"
+    name = "awesome-rib"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/awesome-blockchain-rust"
+    weight = -90
+
+  [[menu.main]]
     identifier = "about"
     name = "about us"
     pre = "<i class='fa fa-heart'></i>"
     url = "/about"
-    weight = -90
+    weight = -80
 
   [[menu.main]]
     identifier = "RSS"
     name = "RSS"
     pre = "<i class='fa fa-heart'></i>"
     url = "/index.xml"
-    weight = -80
+    weight = -70
 
 [Params.sidebar]
   home = "right" # Configure layout for home page

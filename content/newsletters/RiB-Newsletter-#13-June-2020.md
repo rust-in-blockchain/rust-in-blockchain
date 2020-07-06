@@ -92,7 +92,7 @@ uses `electrs` in its block explorer, [`esplora`], which is live at [blockstream
 - [ethcontract-rs](https://github.com/gnosis/ethcontract-rs). Generate type-safe bindings for interacting with Ethereum contracts. 
 - [Neptune](https://github.com/filecoin-project/neptune). Neptune is a Rust implementation of the Poseidon hash function tuned for Filecoin.
 - Nervos CKB
-  - [ckb-std](https://github.com/nervosnetwork/ckb-std) contains serveral modules that help you write CKB contract with Rust.
+  - [ckb-std](https://github.com/nervosnetwork/ckb-std) contains several modules that help you write CKB contract with Rust.
   - [ckb-zkp](https://github.com/sec-bit/ckb-zkp). Zero Knowledge Proofs Toolkit for CKB.
 - [poly-commit](https://github.com/scipr-lab/poly-commit). Univariate Polynomial Commitments. A Rust library that implements (univariate) polynomial commitment schemes.
 - [riemann-rs](https://github.com/summa-tx/riemann-rs). Bitcoin-oriented dev toolboxes for native and browser apps.

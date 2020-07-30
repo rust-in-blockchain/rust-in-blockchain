@@ -75,6 +75,8 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 &nbsp;
 
+[Revault](mailto:darosior@protonmail.com) | Build a [Bitcoin vault architecture](https://github.com/re-vault/practical-revault/blob/master/revault.pdf) | Portugal or Remote
+
 Want to be included in the next issue? Feel free to submit a PR to the [#14 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 **Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**

@@ -32,7 +32,7 @@ Blockchain technology brings together cryptography, mathematics, game theory, an
 
 [Cross compile x86_64-unknown-linux-musl #903](https://github.com/nervosnetwork/ckb/issues/903) Rocksdb depends on C++ standard library heavily, which might need a real C++ for musl to work.
 
-Static Build CKB on CentOS 7 for exchanges #626](https://github.com/nervosnetwork/ckb/issues/626) A centos 7 install guide.
+[Static Build CKB on CentOS 7 for exchanges #626](https://github.com/nervosnetwork/ckb/issues/626). A centos 7 install guide.
 
 [Write a tool to dump well known hashes into a readable file #562](https://github.com/nervosnetwork/ckb/issues/562) D[oitian](https://github.com/doitian) made a tool to dump various hashes into a file and commit that file into the repository.
 
@@ -120,11 +120,11 @@ June 6-14 | Online
 
 June 8-9 Breaking Bitcoin, Amsterdam
 
-[Breaking Bitcoin [Training & Hackathon\]](https://breaking-bitcoin.com/)
+[Breaking Bitcoin (Training & Hackathon)](https://breaking-bitcoin.com/)
 
 June 14-16 | San Francisco
 
-[BUIDL San Francisco [Blockchain Hackathon\]](https://www.eventbrite.com/e/buidl-san-francisco-blockchain-hackathon-tickets-56603971001)
+[BUIDL San Francisco (Blockchain Hackathon](https://www.eventbrite.com/e/buidl-san-francisco-blockchain-hackathon-tickets-56603971001)
 
 June 20 | Zurich Switzerland
 
@@ -158,7 +158,7 @@ Target
 
 [Blockchain Engineer](https://twitter.com/adeebahmed26/status/1133843502465462274)
 
-##Interesting things
+## Interesting things
 
 [Rust Cryptography Working Group](https://twitter.com/bascule/status/1131266407499309056?s=21)
 
@@ -168,6 +168,6 @@ Target
 
 ## Acknowledgments
 
-A huge thank you to Mike, [Ash](https://twitter.com/ashchan), [Brian](https://brson.github.io/), [Alexandra](https://twitter.com/a13xndra) and [Ben](https://twitter.com/gnunicornBen) for your contributions and helping bring this newsletter to fruition. We finally made it!
+A huge thank you to Mike, [Ash](https://twitter.com/ashchan), [Brian](https://brson.github.io/), [Alexandra](https://alexandraheller.com/about/) and [Ben](https://twitter.com/gnunicornBen) for your contributions and helping bring this newsletter to fruition. We finally made it!
 
 **Join the action on our** [**subreddit**](https://www.reddit.com/r/RustInBlockchain/) **❤️**

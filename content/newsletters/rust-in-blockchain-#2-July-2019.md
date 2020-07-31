@@ -60,7 +60,7 @@ The first Rust in Blockchain meetup [In Rust We Trust](https://www.meetup.com/Ru
 
 ## Challenges
 
-[Substrate][Websocket protocol errors cause full node halt/stall/crash #3124](https://github.com/paritytech/substrate/issues/3124)
+[Substrate] [Websocket protocol errors cause full node halt/stall/crash #3124](https://github.com/paritytech/substrate/issues/3124)
 
 &nbsp;
 
@@ -81,7 +81,7 @@ VM on Blockchain
 
 [Video] [Cell Model - A programming model that generalizes Bitcoin's UTXO model](https://www.youtube.com/watch?v=EBoTUw4MI0k)
 
-[Video] [In Rust We Trust Meetup 17th July, San Francisco](https://www.youtube.com/watch?v=02oVI_2zDcI&list=PLRke1-EE4VWGLXPbcpxn8fPmXlvRuZGIw)
+[Video] [In Rust We Trust Meetup. 17th July, San Francisco](https://www.youtube.com/watch?v=02oVI_2zDcI&list=PLRke1-EE4VWGLXPbcpxn8fPmXlvRuZGIw)
 - Rust is for Blockchain - Brian Anderson
 - Towards a True Programmable Blockchain World: An Introduction to CKB VM - Xiao Xuejie
 - Rust Smart Contract APIs - Maksym Zavershynskyi

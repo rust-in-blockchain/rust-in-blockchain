@@ -20,7 +20,7 @@ For those interested in a great overview of the future distributed-web landscape
 
 Rust in Blockchain has been expanding our coverage steadily over the months, and this month we begin covering [Zcash], and [COMIT][comit].
 
-With so many Rust blockchain projects of note it is increasingly challenging to report on all of them. If you are a passionate observer of any Rust blockchain project we need your help to gather the monthly updates. Please contact us on the [Telegram group][tg], or email us directly at hello@rustinblockchain.org if you are willing to donate an hour of your time each month.
+With so many Rust blockchain projects of note it is increasingly challenging to report on all of them. If you are a passionate observer of any Rust blockchain project we need your help to gather the monthly updates. Please contact us on the [Telegram group][tg], or email us directly at n3wh4x0rs@gmail.com if you are willing to donate an hour of your time each month.
 
 Happy blockchain new year, Rustaceans!
 

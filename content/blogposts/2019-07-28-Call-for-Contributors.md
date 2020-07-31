@@ -35,6 +35,6 @@ Whatever your skillset &mdash; developer, writer, editor, designer &mdash; Rust 
 - Rust blockchain organizations who will donate space and resources for meetups
 - web developers to help with the maintenance of this newsletter
 
-I don't know exactly where we are going yet, but I have ideas, and I bet you have ideas too. If you want to work together on making Rust and blockchain the best they can be, a good place to start is by joining the Rust in Blockchain [Telegram](https://t.me/rustinblockchain). And you can always email me, Aimee, at aimeedeer@gmail.com.
+I don't know exactly where we are going yet, but I have ideas, and I bet you have ideas too. If you want to work together on making Rust and blockchain the best they can be, a good place to start is by joining the Rust in Blockchain [Telegram](https://t.me/rustinblockchain). And you can always email me, Aimee, at aimeez@pm.me.
 
 I'm looking forward to hearing from you. Let's build the future together.

@@ -85,7 +85,7 @@ A full RISC-V test suite has been integrated into CKB-VM, each change will be va
 
 [Project needs sweet zebra logo](https://github.com/ZcashFoundation/zebra/pull/2) 😉
 
-[][RFC] CKB Consensus Protocol](https://github.com/nervosnetwork/rfcs/pull/124) [@Ren](https://github.com/nirenzang) submitted the consensus protocol and is calling for comments.
+[RFC: CKB Consensus Protocol](https://github.com/nervosnetwork/rfcs/pull/124) [@Ren](https://github.com/nirenzang) submitted the consensus protocol and is calling for comments.
 Bitcoin’s Nakamoto Consensus (NC) is well-received due to its simplicity and low communication overhead. The CKB consensus protocol is a variant of NC that raises its performance limit and selfish mining resistance while keeping its merits. By identifying and eliminating the bottleneck in NC’s block propagation latency, our protocol supports very short block interval without sacrificing security. The shortened block interval not only raises the throughput, but also lowers the transaction confirmation latency. By incorporating all valid blocks in the difficulty adjustment, selfish mining is no longer profitable in this protocol.
 
 
@@ -100,6 +100,7 @@ Bitcoin’s Nakamoto Consensus (NC) is well-received due to its simplicity and l
 [Lessons Learned from Bitcoin’s and Ethereum’s Programming Models](https://hackernoon.com/lessons-learned-from-bitcoins-and-ethereum-s-programming-models-f9fdbe1a3fdb) – Zhang Yaning
 
 [Video] [Build Your Own Blockchain with Substrate and Rust](https://www.youtube.com/watch?v=bjWxwTA2KLw) – Bill Laboon
+
 [Video] [What Is Web3?](https://avc.com/2019/06/video-of-the-week-what-is-web3/) [@Juan Benet](https://twitter.com/juanbenet), founder and CEO of our portfolio company [Protocol Labs](https://protocol.ai/), developer of the [IPFS](https://ipfs.io/) and [Filecoin](http://filecoin.io/) protocols, gave this talk last fall.
 
 

@@ -45,6 +45,14 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 #### [Crypto.com Chain](https://chain.crypto.com)
 
+- News: [Crypto.com Chain Dev Update #10](https://blog.crypto.com/crypto-com-chain-dev-update-10)
+  - Open sourcing [Chain Indexing Service](https://github.com/crypto-com/chain-index). It can index on chain data into structured records for query.
+  - [Successfully complied chain core written in Rust into WebAssembly](https://github.com/crypto-com/chain/blob/master/chain-core/BUILD-WASM.md)
+- News: Released Thaler Testnet [Block Explorer 2.0](https://chain.crypto.com/explorer) and [Faucet](https://chain.crypto.com/faucet)
+- News: Revamped [Chain Website](https://chain.crypto.com) with brand new [Products and Releases Page](https://chain.crypto.com/releases) for developers engagement.
+- News: [Node.js library](https://github.com/crypto-com/chain-nodelib) supports latest Testnet
+- Promotion: [Calling for validators and staking pools to join Crypto.com Thaler Testnet](https://twitter.com/cryptocom/status/1276424962186735616?s=20).
+
 #### [Holochain](https://github.com/holochain/)
 
 #### [Libra](https://libra.org)

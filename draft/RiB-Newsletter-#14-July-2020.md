@@ -2,6 +2,26 @@
 
 Welcome to the #14 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #13](/newsletters/2020-07-01-stuck-inside-hacking-away/).
 
+We published a late [one-year anniversary blog post][anniv].
+It has some reflection on the changes to, and growth of, RiB over the last year.
+
+[anniv]: https://rustinblockchain.org/blogposts/2020-07-30-rib-is-one-year-old/
+
+The [Awesome Blockchain Rust][abr] project,
+which is maintained by [@sunhuachuang] under the [rust-in-blockchain GitHub org][riborg],
+has received a stream of updates recently,
+and is now published [as a page on rustinblockchain.org][abr-rib].
+
+It's a pretty good resource for finding blockchain-related Rust projects,
+with links to many of the more prominant and mature projects noted in the RiB newsletter.
+It could use more eyes on it though.
+
+[abr]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
+[riborg]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
+[@sunhuachuang]: https://github.com/sunhuachuang
+[abr-rib]: https://rustinblockchain.org/awesome-blockchain-rust/
+
+
 &nbsp;
 
 ## Thanks

@@ -2,7 +2,17 @@
 
 Welcome to the #14 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #13](/newsletters/2020-07-01-stuck-inside-hacking-away/).
 
-We published a late [one-year anniversary blog post][anniv].
+This month, [Elrond], appeared on our radar with the launch of their mainnet.
+Although not written in Rust,
+it runs Rust smartcontracts on its [Arwen WASM VM][arwen],
+which itself is based on the Rust [wasmer VM][wasmer].
+This issue includes links to example Rust smart contracts on Elrond.
+
+[Elrond]: https://github.com/elrondnetwork
+[arwen]: https://github.com/ElrondNetwork/arwen-wasm-vm
+[wasmer]: https://github.com/wasmerio/wasmer/
+
+In RiB news, We published a late [one-year anniversary blog post][anniv].
 It has some reflection on the changes to, and growth of, RiB over the last year.
 
 [anniv]: https://rustinblockchain.org/blogposts/2020-07-30-rib-is-one-year-old/
@@ -92,18 +102,20 @@ Note that there is also a Rust alternative to web3.js, [rust-web3].
 ## Interesting Things
 
 #### News
-- [Rust Crypto](https://twitter.com/RustCryptoOrg/status/1282847432787685376) The `k256` crate (pure Rust secp256k1 elliptic curve implementation) just landed an impressive new scalar/field arithmetic backend inspired by bitcoin-core's libsecp256k1 Party popper.
 - [NIST’s Post-Quantum Cryptography Program Enters ‘Selection Round’](https://www.nist.gov/news-events/news/2020/07/nists-post-quantum-cryptography-program-enters-selection-round)
-- [Rust is now a top 20 language in all of the 5 most major language popularity listings](https://www.reddit.com/r/rust/comments/hz7dfp/rust_is_now_a_top_20_language_in_all_of_the_5/)
+- [Rust is now a top 20 language in all of the 5 most major language popularity listings](https://www.reddit.com/r/rust/comments/hz7dfp/rust_is_now_a_top_20_language_in_all_of_the_5/).
+  Looks like we bet on the right horse.
 - Microsoft open sources [Spartan](https://github.com/microsoft/Spartan): High-speed zkSNARKs without trusted setup.
 - [Elrond](https://github.com/elrondnetwork), a sharded blockchain, whose mainnet went live in July, has several Rust projects.
   - Tutorial: The Crowdfunding Smart Contract [(part 1)](https://docs.elrond.com/developers/dev-tutorials/the-crowdfund-smartcontract),
   [(part 2)](https://docs.elrond.com/developers/dev-tutorials/the-crowdfunding-smart-contract-part-2)
   - Blog: [My first smart contract in Rust on Elrond VM](https://hiddentao.com/archives/2020/07/17/my-first-smart-contract-in-rust-on-elrond-vm)
+- From [Rust Crypto](https://twitter.com/RustCryptoOrg/status/1282847432787685376) -- The `k256` crate (pure Rust secp256k1 elliptic curve implementation) just landed an impressive new scalar/field arithmetic backend inspired by bitcoin-core's libsecp256k1 Party popper.
 
 
 #### Blog Posts
-- [What's It Good For?](https://www.etherean.org/blockchain/web3/software/2020/07/25/whats-it-good-for.html)
+- [What's It Good For?](https://www.etherean.org/blockchain/web3/software/2020/07/25/whats-it-good-for.html).
+  A plea to be realistic about blockchain use cases, and for more cross-project collaboration.
 - [NEAR Accounts and Access Keys as Identities for Textile Integration](https://vitalpoint.ai/near-textile-integration/)
 - [Distaff VM: approaching Turing-completeness](https://ethresear.ch/t/distaff-vm-approaching-turing-completeness/7757)
 - [Hunting down a non-determinism-bug in our Rust Wasm build](https://dev.to/gnunicorn/hunting-down-a-non-determinism-bug-in-our-rust-wasm-build-4fk1)

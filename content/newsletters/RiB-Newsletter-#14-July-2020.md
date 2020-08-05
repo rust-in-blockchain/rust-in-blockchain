@@ -174,7 +174,7 @@ Note that there is also a Rust alternative to web3.js, [rust-web3].
 - [SputnikVM](https://github.com/rust-blockchain/evm): Rust Ethereum Virtual Machine Implementation.
 - [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) is an open-membership replicated state machine produced by the coordination of a non-enumerable set of peers.
 - [Tezos node/shell in Rust](https://github.com/simplestaking/tezedge)
-- [Yew](https://github.com/yewstack/yew). Rust / Wasm framework for building client web apps.
+- [Yew](https://github.com/yewstack/yew). Rust / Wasm framework for building client web apps. Perhaps we'll we writing our dapps completely in Rust soon.
 - [zeroize.rs](https://github.com/iqlusioninc/crates/tree/develop/zeroize). Securely zero memory while avoiding compiler optimizations.
 - [ZoKrates](https://github.com/Zokrates/ZoKrates). A toolbox for zkSNARKs on Ethereum.
 - [zkSync](https://github.com/matter-labs/zksync) is a fully trustless, secure, user-centric protocol for scaling payments and smart contracts on Ethereum.

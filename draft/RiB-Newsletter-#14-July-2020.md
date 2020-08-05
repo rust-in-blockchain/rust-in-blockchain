@@ -144,6 +144,22 @@ https://twitter.com/rust_blockchain/status/1278851897961545728
 
 ## Most Active in July
 
+[Parity](https://github.com/paritytech): 
+275 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3]), 105 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3]), 
+87 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3])
+
+[Solana](https://github.com/solana-labs/solana): 
+252 merged PRs ([1][solana-merged-prs-1]), 24 closed issues ([1][solana-closed_issues-1]), 
+43 open issues ([1][solana-open_issues-1])
+
+[Zcash](https://z.cash/): 
+144 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 74 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]), 
+58 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
+
+[COMIT](https://github.com/comit-network): 
+152 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3], [4][comit-merged-prs-4]), 22 closed issues ([1][comit-closed_issues-1], [2][comit-closed_issues-2], [3][comit-closed_issues-3], [4][comit-closed_issues-4]), 
+8 open issues ([1][comit-open_issues-1], [2][comit-open_issues-2], [3][comit-open_issues-3])
+
 &nbsp;
 
 ## Project Updates
@@ -194,8 +210,7 @@ https://twitter.com/rust_blockchain/status/1278851897961545728
 
 #### [Holochain](https://github.com/holochain/)
 
-5 merged PRs ([1][holochain-merged-prs-1]), 0 closed issues (), 
-0 open issues ()
+5 merged PRs ([1][holochain-merged-prs-1]), 0 closed issues, 0 open issues
 
 [holochain-merged-prs-1]: https://github.com/holochain/holochain-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
 

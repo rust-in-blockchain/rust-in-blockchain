@@ -48,13 +48,46 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 &nbsp;
 
+
 ## Project Spotlight
 
-Ethers-rs
-- https://twitter.com/gakonst/status/1278216215345889286
-- https://docs.rs/ethers/0.1.3/ethers/
+Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+[ethers.rs]
+
+`ethers.rs` is an Ethereum &amp; [Celo] library and wallet implementation,
+implemented as a port of the [ethers.js] library to Rust.
+
+Ethereum client programming is usually done in JavaScript with either [web3.js] or [ethers.js],
+with ethers.js being the newer of the two.
+These clients communicate to an Ethereum node, typically via JSON-RPC
+(or, when in the browser, via an "injected" client provider that follows [EIP-1193], like [MetaMask]).
+
+`ethers.rs` then provides a strongly-typed alternative for
+writing software that interacts with the Ethereum network.
+
+As of now it is only suited for non-browser use cases,
+but if you prefer hacking in Rust to JavaScript,
+as some of us surely do,
+it is worth looking into for your next Ethereum project.
+
+The author of `ethers.rs`, [@gakonst],
+[accepts donations][ethers-donate] to sponsor work on `ethers.rs`.
+
+Note that there is also a Rust alternative to web3.js, [rust-web3].
+
+[MetaMask]: https://metamask.io/
+[EIP-1193]: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1193.md
+[ethers.rs]: https://github.com/gakonst/ethers-rs
+[Celo]: https://github.com/celo-org/celo-blockchain
+[ethers.js]: https://docs.ethers.io/v5/
+[web3.js]: https://web3js.readthedocs.io/
+[rust-web3]: https://github.com/tomusdrw/rust-web3/
+[@gakonst]: https://github.com/gakonst
+[ethers-donate]: https://twitter.com/gakonst/status/1278216215345889286
 
 &nbsp;
+
 
 ## Interesting Things
 

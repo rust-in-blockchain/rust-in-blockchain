@@ -1,12 +1,13 @@
 ---
-title: "RiB Newsletter #14 – "
+title: "RiB Newsletter #14 – Are We Smart (Contract) Yet?"
 description: "#14 - July 2020"
 date: 2020-08-05
-slug: "/2020-08-05-"
+slug: "/2020-08-05-are-we-smart-contract-yet"
 categories:
   - "newsletters"
-summary: This month, 
-
+summary: This month, we're seeing a bunch of interesting Rust blockchain and crypto projects. 
+  Rust continues to be popular for research into zero-knowledge proofs, 
+  with Microsoft releasing [Spartan], a zk-SNARK system without trusted setup.
 ---
 
 Welcome to the #14 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #13](/newsletters/2020-07-01-stuck-inside-hacking-away/).
@@ -35,7 +36,7 @@ See the "Interesting Things" section for examples of Elrond's Rust contracts.
 [wasmer]: https://github.com/wasmerio/wasmer/
 [NEAR]: https://github.com/nearprotocol/nearcore
 
-In RiB news, We published a late [one-year anniversary blog post][anniv].
+In RiB news, we published a late [one-year anniversary blog post][anniv].
 It has some reflection on the changes to, and growth of, RiB over the last year.
 
 [anniv]: https://rustinblockchain.org/blogposts/2020-07-30-rib-is-one-year-old/
@@ -50,7 +51,7 @@ with links to many of the more prominant and mature projects noted in the RiB ne
 It could use more eyes on it though.
 
 [abr]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
-[riborg]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
+[riborg]: https://github.com/rust-in-blockchain/
 [sunhuachuang]: https://github.com/sunhuachuang
 [abr-rib]: https://rustinblockchain.org/awesome-blockchain-rust/
 
@@ -61,11 +62,10 @@ It could use more eyes on it though.
 
 This edition of RiB was produced with contributions from [Calvin Lau][contributorcl], [Darosior][contributorda], [EnforSys][contributorenforsys], Paulii Good, [Sol][contributorsol], [Tony Arcieri][contributorta], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
-Also, [Awesome-RiB][awesome-rib] has been updated. Thanks to the **awesome** contributors: [Alfredo Garcia][contributorag], [Andy Nogueira][contributoran], [ChainSafe Systems][contributorchain], [Lane Rettig][contributorlr], [Michael Sproul][contributorms]!
+Also, [Awesome Blockchain Rust][abr] has been updated. Thanks to the **awesome** contributors: [Alfredo Garcia][contributorag], [Andy Nogueira][contributoran], [ChainSafe Systems][contributorchain], [Lane Rettig][contributorlr], [Michael Sproul][contributorms]!
 
 RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#15 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
-[awesome-rib]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
 [contributorcl]: https://github.com/calvinlauco
 [contributorda]: https://github.com/darosior
 [contributorenforsys]: https://twitter.com/SysEnfor

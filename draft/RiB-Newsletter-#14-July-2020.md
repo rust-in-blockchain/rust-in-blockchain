@@ -81,7 +81,7 @@ but if you prefer hacking in Rust to JavaScript,
 as some of us surely do,
 it is worth looking into for your next Ethereum project.
 
-The author of `ethers.rs`, [@gakonst],
+The author of `ethers.rs`, [Georgios Konstantopoulos][gakonst],
 [accepts donations][ethers-donate] to sponsor work on `ethers.rs`.
 
 Note that there is also a Rust alternative to web3.js, [rust-web3].
@@ -93,7 +93,7 @@ Note that there is also a Rust alternative to web3.js, [rust-web3].
 [ethers.js]: https://docs.ethers.io/v5/
 [web3.js]: https://web3js.readthedocs.io/
 [rust-web3]: https://github.com/tomusdrw/rust-web3/
-[@gakonst]: https://github.com/gakonst
+[gakonst]: https://github.com/gakonst
 [ethers-donate]: https://twitter.com/gakonst/status/1278216215345889286
 
 &nbsp;
@@ -156,47 +156,215 @@ https://twitter.com/rust_blockchain/status/1278851897961545728
 
 ## Most Active in July
 
+[Parity](https://github.com/paritytech): 
+275 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3]), 105 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3]), 
+87 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3])
+
+[Solana](https://github.com/solana-labs/solana): 
+252 merged PRs ([1][solana-merged-prs-1]), 24 closed issues ([1][solana-closed_issues-1]), 
+43 open issues ([1][solana-open_issues-1])
+
+[Zcash](https://z.cash/): 
+144 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 74 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]), 
+58 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
+
+[Crypto.com Chain](https://chain.crypto.com): 
+118 merged PRs ([1][crypto.com-merged-prs-1], [2][crypto.com-merged-prs-2], [3][crypto.com-merged-prs-3]), 89 closed issues ([1][crypto.com-closed_issues-1]), 
+33 open issues ([1][crypto.com-open_issues-1], [2][crypto.com-open_issues-2])
+
 &nbsp;
 
 ## Project Updates
 
 #### [COMIT](https://github.com/comit-network)
 
+152 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3], [4][comit-merged-prs-4]), 22 closed issues ([1][comit-closed_issues-1], [2][comit-closed_issues-2], [3][comit-closed_issues-3], [4][comit-closed_issues-4]), 
+8 open issues ([1][comit-open_issues-1], [2][comit-open_issues-2], [3][comit-open_issues-3])
+
+[comit-merged-prs-1]: https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[comit-merged-prs-2]: https://github.com/comit-network/comit-js-sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[comit-merged-prs-3]: https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[comit-merged-prs-4]: https://github.com/comit-network/comit.network/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[comit-closed_issues-1]: https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[comit-closed_issues-2]: https://github.com/comit-network/comit-js-sdk/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[comit-closed_issues-3]: https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[comit-closed_issues-4]: https://github.com/comit-network/comit.network/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[comit-open_issues-1]: https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+[comit-open_issues-2]: https://github.com/comit-network/comit-js-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+[comit-open_issues-3]: https://github.com/comit-network/create-comit-app/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+
+
+- PR: [Add request/response take order NB](https://github.com/comit-network/comit-rs/pull/2938) by [@tcharding](https://github.com/tcharding)
+- PR: [Enable cnd to run over Tor](https://github.com/comit-network/comit-rs/pull/2917) by [@tcharding](https://github.com/tcharding)
+- PR: [Add configurable ledger to ordebook](https://github.com/comit-network/comit-rs/pull/2952) by [@tcharding](https://github.com/tcharding)
+
 #### [Crypto.com Chain](https://chain.crypto.com)
+
+118 merged PRs ([1][crypto.com-merged-prs-1], [2][crypto.com-merged-prs-2], [3][crypto.com-merged-prs-3]), 89 closed issues ([1][crypto.com-closed_issues-1]), 
+33 open issues ([1][crypto.com-open_issues-1], [2][crypto.com-open_issues-2])
+
+[crypto.com-merged-prs-1]: https://github.com/crypto-com/chain/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[crypto.com-merged-prs-2]: https://github.com/crypto-com/chain-nodelib/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[crypto.com-merged-prs-3]: https://github.com/crypto-com/sample-chain-wallet/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[crypto.com-closed_issues-1]: https://github.com/crypto-com/chain/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[crypto.com-open_issues-1]: https://github.com/crypto-com/chain/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+[crypto.com-open_issues-2]: https://github.com/crypto-com/chain-nodelib/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
 
 - News: [Crypto.com Chain Dev Update #10](https://blog.crypto.com/crypto-com-chain-dev-update-10)
   - Open sourcing [Chain Indexing Service](https://github.com/crypto-com/chain-index). It can index on chain data into structured records for query.
-  - [Successfully complied chain core written in Rust into WebAssembly](https://github.com/crypto-com/chain/blob/master/chain-core/BUILD-WASM.md)
+  - [Successfully complied chain core written in Rust into WebAssembly](https://github.com/crypto-com/chain/blob/master/chain-core/BUILD-WASM.md).
 - News: Released Thaler Testnet [Block Explorer 2.0](https://chain.crypto.com/explorer) and [Faucet](https://chain.crypto.com/faucet)
 - News: Revamped [Chain Website](https://chain.crypto.com) with brand new [Products and Releases Page](https://chain.crypto.com/releases) for developers engagement.
 - News: [Node.js library](https://github.com/crypto-com/chain-nodelib) supports latest Testnet
 - Promotion: [Calling for validators and staking pools to join Crypto.com Thaler Testnet](https://twitter.com/cryptocom/status/1276424962186735616?s=20).
+- PR: [Problem (Fix #2040): mls implementation not up with latest spec draft](https://github.com/crypto-com/chain/pull/2059) by [@yihuang](https://github.com/yihuang)
+- PR: [Problem: Transaction builder is accepting unnecessary data](https://github.com/crypto-com/chain-nodelib/pull/208) by [@calvinlauco](https://github.com/calvinlauco)
 
 #### [Holochain](https://github.com/holochain/)
+
+5 merged PRs ([1][holochain-merged-prs-1]), 0 closed issues, 0 open issues
+
+[holochain-merged-prs-1]: https://github.com/holochain/holochain-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
 
 - News: Dev Pulse [76](https://blog.holochain.org/speedy-improved-holochain-release-unblocks-all-the-things/), [75](https://blog.holochain.org/holofuel-enters-community-testing-phase/)
 - News: [The Host Release of HoloFuel](https://medium.com/h-o-l-o/the-host-release-of-holofuel-6fc36003e373)
 - News: [Monthly Roundup for Holo & Holochain](https://medium.com/h-o-l-o/monthly-roundup-for-holo-holochain-18cb9f69c5df)
 - Blog: [Mutual Credit, Part 1: A New Type of Cryptocurrency, As Old As Civilisation](https://blog.holochain.org/mutual-credit-part-1-a-new-type-of-cryptocurrency-as-old-as-civilisation/)
+- PR: [Validation timeout fixes](https://github.com/holochain/holochain-rust/pull/2199) by [@zippy](https://github.com/zippy)
+- PR: [Cache validation packages](https://github.com/holochain/holochain-rust/pull/2202) by [@zippy](https://github.com/zippy)
 
 #### [Libra](https://libra.org)
 
+30 merged PRs ([1][libra-merged-prs-1]), 26 closed issues ([1][libra-closed_issues-1]), 
+55 open issues ([1][libra-open_issues-1])
+
+[libra-merged-prs-1]: https://github.com/libra/libra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[libra-closed_issues-1]: https://github.com/libra/libra/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[libra-open_issues-1]: https://github.com/libra/libra/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+
+- PR: [[move prover] improvements to pure move function call feature](https://github.com/libra/libra/pull/5416) by [@emmazzz](https://github.com/emmazzz)
+- PR: [[executor] fuzzing for execute_and_commit_chunk](https://github.com/libra/libra/pull/4714) by [@mimoo](https://github.com/mimoo)
+- PR: [[db-bootstrapper] support commit genesis with waypoint at startup](https://github.com/libra/libra/pull/5459) by [@zekun000](https://github.com/zekun000)
+
 #### [Lighthouse](https://lighthouse.sigmaprime.io/)
+
+29 merged PRs ([1][lighthouse-merged-prs-1]), 37 closed issues ([1][lighthouse-closed_issues-1]), 
+33 open issues ([1][lighthouse-open_issues-1])
+
+[lighthouse-merged-prs-1]: https://github.com/sigp/lighthouse/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+
+- PR: [Write new blocks and states to the database atomically](https://github.com/sigp/lighthouse/pull/1285) by [@adaszko](https://github.com/adaszko)
+- PR: [swap out rust-crypto for RustCrypto libraries for key management](https://github.com/sigp/lighthouse/pull/1270) by [@realbigsean](https://github.com/realbigsean)
+- PR: [Fix race condition in VC block proposal service](https://github.com/sigp/lighthouse/pull/1282) by [@michaelsproul](https://github.com/michaelsproul)
 
 #### [MobileCoin](https://www.mobilecoin.com/)
 
+83 merged PRs ([1][mobilecoin-merged-prs-1]), 2 closed issues ([1][mobilecoin-closed_issues-1]), 
+1 open issues ([1][mobilecoin-open_issues-1])
+
+[mobilecoin-merged-prs-1]: https://github.com/mobilecoinofficial/mobilecoin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[mobilecoin-closed_issues-1]: https://github.com/mobilecoinofficial/mobilecoin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[mobilecoin-open_issues-1]: https://github.com/mobilecoinofficial/mobilecoin/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+
+- PR: [Mob url](https://github.com/mobilecoinofficial/mobilecoin/pull/242) by [@garbageslam](https://github.com/garbageslam)
+- PR: [Initial fog authority key signature with schnorrkel](https://github.com/mobilecoinofficial/mobilecoin/pull/246) by [@sugargoat](https://github.com/sugargoat)
+- PR: [Mc sig](https://github.com/mobilecoinofficial/mobilecoin/pull/292) by [@garbageslam](https://github.com/garbageslam)
+
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
+83 merged PRs ([1][near-merged-prs-1]), 44 closed issues ([1][near-closed_issues-1]), 
+32 open issues ([1][near-open_issues-1])
+
+[near-merged-prs-1]: https://github.com/nearprotocol/nearcore/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[near-closed_issues-1]: https://github.com/nearprotocol/nearcore/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[near-open_issues-1]: https://github.com/nearprotocol/nearcore/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+
+- PR: [feat: Network indexer](https://github.com/nearprotocol/nearcore/pull/2651) by [@khorolets](https://github.com/khorolets)
+- PR: [Mocknet load testing (#2899)](https://github.com/nearprotocol/nearcore/pull/2922) by [@birchmd](https://github.com/birchmd)
+- PR: [fix: prevent repetitive initialization on node start](https://github.com/nearprotocol/nearcore/pull/3035) by [@bowenwang1996](https://github.com/bowenwang1996)
 
 #### [Nervos](https://github.com/nervosnetwork)
 
+49 merged PRs ([1][nervos-merged-prs-1], [2][nervos-merged-prs-2]), 12 closed issues ([1][nervos-closed_issues-1]), 
+4 open issues ([1][nervos-open_issues-1], [2][nervos-open_issues-2], [3][nervos-open_issues-3])
+
+[nervos-merged-prs-1]: https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[nervos-merged-prs-2]: https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[nervos-closed_issues-1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[nervos-open_issues-1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+[nervos-open_issues-2]: https://github.com/nervosnetwork/ckb-vm/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+[nervos-open_issues-3]: https://github.com/nervosnetwork/rfcs/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+
+- PR: [refactor: use a new method to detect headers sync timeout](https://github.com/nervosnetwork/ckb/pull/1988) by [@yangby-cryptape](https://github.com/yangby-cryptape)
+- PR: [feat: add sync state rpc](https://github.com/nervosnetwork/ckb/pull/2188) by [@driftluo](https://github.com/driftluo)
+- PR: [improvement: don't cache all data of header map in memory during IBD](https://github.com/nervosnetwork/ckb/pull/2147) by [@yangby-cryptape](https://github.com/yangby-cryptape)
+
 #### [Parity](https://github.com/paritytech)
+
+275 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3]), 105 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3]), 
+87 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3])
+
+[parity-merged-prs-1]: https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[parity-merged-prs-2]: https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[parity-merged-prs-3]: https://github.com/paritytech/wasmi/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[parity-closed_issues-1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[parity-closed_issues-2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[parity-closed_issues-3]: https://github.com/paritytech/parity-bitcoin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[parity-open_issues-1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+[parity-open_issues-2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+[parity-open_issues-3]: https://github.com/paritytech/parity-bitcoin/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+
+- PR: [CandidateBackingSubsystem](https://github.com/paritytech/polkadot/pull/1312) by [@montekki](https://github.com/montekki)
+- PR: [Make a test crate to make the runtime-test usable](https://github.com/paritytech/polkadot/pull/1258) by [@cecton](https://github.com/cecton)
+- PR: [Add a back-pressure-friendly alternative to NetworkService::write_notifications 🎉](https://github.com/paritytech/substrate/pull/6692) by [@tomaka](https://github.com/tomaka)
+- PR: [Downward & Upward messages](https://github.com/paritytech/polkadot/pull/1266) by [@bkchr](https://github.com/bkchr)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
+61 merged PRs ([1][secret_network-merged-prs-1], [2][secret_network-merged-prs-2]), 32 closed issues ([1][secret_network-closed_issues-1]), 
+14 open issues ([1][secret_network-open_issues-1])
+
+[secret_network-merged-prs-1]: https://github.com/enigmampc/SecretNetwork/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[secret_network-merged-prs-2]: https://github.com/enigmampc/SafeTrace/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[secret_network-closed_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[secret_network-open_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+
+- PR: [Implement query_chain()](https://github.com/enigmampc/SecretNetwork/pull/392) by [@assafmo](https://github.com/assafmo)
+- PR: [Node auth error messages - take 3](https://github.com/enigmampc/SecretNetwork/pull/397) by [@reuvenpo](https://github.com/reuvenpo)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
+252 merged PRs ([1][solana-merged-prs-1]), 24 closed issues ([1][solana-closed_issues-1]), 
+43 open issues ([1][solana-open_issues-1])
+
+[solana-merged-prs-1]: https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[solana-closed_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+
+- PR: [fix rewards points](https://github.com/solana-labs/solana/pull/10914) by [@rwalker-com](https://github.com/rwalker-com)
+- PR: [Use BlockCommitmentCache for RPC slots](https://github.com/solana-labs/solana/pull/11103) by [@garious](https://github.com/garious)
+- PR: [Add replay votes to gossip vote tracking](https://github.com/solana-labs/solana/pull/11119) by [@carllin](https://github.com/carllin)
+
 #### [Zcash](https://z.cash/)
+
+144 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 74 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]), 
+58 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
+
+[zcash-merged-prs-1]: https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[zcash-merged-prs-2]: https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[zcash-merged-prs-3]: https://github.com/zcash/zips/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-07-01..2020-08-04
+[zcash-closed_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[zcash-closed_issues-2]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[zcash-closed_issues-3]: https://github.com/zcash/zips/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-07-01..2020-08-04
+[zcash-open_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+[zcash-open_issues-2]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+[zcash-open_issues-3]: https://github.com/zcash/zips/issues?q=is%3Aissue+is%3Aopen+created%3A2020-07-01..2020-08-04
+
+- PR: [Start work on new Amount type](https://github.com/ZcashFoundation/zebra/pull/554) by [@yaahc](https://github.com/yaahc)
+- PR: [Command execution tests](https://github.com/ZcashFoundation/zebra/pull/690) by [@oxarbitrage](https://github.com/oxarbitrage)
+- PR: [sync: add backpressure to syncer](https://github.com/ZcashFoundation/zebra/pull/707) by [@hdevalence](https://github.com/hdevalence)
 
 &nbsp;
 

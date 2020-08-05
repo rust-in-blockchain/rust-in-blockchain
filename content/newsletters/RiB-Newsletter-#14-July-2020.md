@@ -26,11 +26,14 @@ This month, [Elrond], appeared on our radar with the launch of their mainnet.
 Although not written in Rust,
 it runs Rust smart contracts on its [Arwen WASM VM][arwen],
 which itself is based on the Rust [Wasmer VM][wasmer].
-Along with [NEAR],
-this continues an encouraging trend of WASM-based blockchains
+Along with [NEAR], [Nervos][ncap],
+[Enigma][econtr] (and probably others),
+this continues an encouraging trend of blockchains
 enabling smart contracts in Rust.
 See the "Interesting Things" section for examples of Elrond's Rust contracts.
 
+[econtr]: https://github.com/enigmampc/secret-template
+[ncap]: https://github.com/nervosnetwork/capsule
 [Elrond]: https://github.com/elrondnetwork
 [arwen]: https://github.com/ElrondNetwork/arwen-wasm-vm
 [wasmer]: https://github.com/wasmerio/wasmer/

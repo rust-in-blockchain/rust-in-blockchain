@@ -6,11 +6,23 @@ Welcome to the #14 edition of Rust in Blockchain, the hypest newsletter about th
 
 ## Thanks
 
-This edition of RiB was produced with contributions from TODO (awesome-rib contributors), [EnforSys][contributorenforsys], Paulii Good, Sol, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+This edition of RiB was produced with contributions from TODO (awesome-rib contributors), [Calvin Lau][contributorcl],[Darosior][contributorda], [EnforSys][contributorenforsys], Paulii Good, [Sol][contributorsol],[Tony Arcieri][contributorta], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+
+Also, [Awesome-RiB][awesome-rib] has been updated. Thanks to the awesome contributors: [Alfredo Garcia][contributorag], [Andy Nogueira][contributoran], [ChainSafe Systems][contributorchain], [Lane Rettig][contributorlr], [Michael Sproul][contributorms]!
 
 RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#15 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
+[awesome-rib]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
+[contributorcl]: https://github.com/calvinlauco
+[contributorda]: https://github.com/darosior
 [contributorenforsys]: https://twitter.com/SysEnfor
+[contributorsol]: https://twitter.com/Sol68635937
+[contributorta]: https://github.com/tarcieri
+[contributoran]: https://github.com/andynog
+[contributorag]: https://github.com/oxarbitrage
+[contributorchain]: https://github.com/ChainSafeSystems
+[contributorlr]: https://github.com/lrettig
+[contributorms]: https://github.com/michaelsproul
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 

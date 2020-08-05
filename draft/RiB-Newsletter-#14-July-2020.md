@@ -71,7 +71,7 @@ but if you prefer hacking in Rust to JavaScript,
 as some of us surely do,
 it is worth looking into for your next Ethereum project.
 
-The author of `ethers.rs`, [@gakonst],
+The author of `ethers.rs`, [Georgios Konstantopoulos][gakonst],
 [accepts donations][ethers-donate] to sponsor work on `ethers.rs`.
 
 Note that there is also a Rust alternative to web3.js, [rust-web3].
@@ -83,7 +83,7 @@ Note that there is also a Rust alternative to web3.js, [rust-web3].
 [ethers.js]: https://docs.ethers.io/v5/
 [web3.js]: https://web3js.readthedocs.io/
 [rust-web3]: https://github.com/tomusdrw/rust-web3/
-[@gakonst]: https://github.com/gakonst
+[gakonst]: https://github.com/gakonst
 [ethers-donate]: https://twitter.com/gakonst/status/1278216215345889286
 
 &nbsp;

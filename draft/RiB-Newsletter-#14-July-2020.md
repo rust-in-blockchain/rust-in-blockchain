@@ -11,7 +11,17 @@ summary: This month,
 
 Welcome to the #14 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #13](/newsletters/2020-07-01-stuck-inside-hacking-away/).
 
-We published a late [one-year anniversary blog post][anniv].
+This month, [Elrond], appeared on our radar with the launch of their mainnet.
+Although not written in Rust,
+it runs Rust smartcontracts on its [Arwen WASM VM][arwen],
+which itself is based on the Rust [wasmer VM][wasmer].
+This issue includes links to example Rust smart contracts on Elrond.
+
+[Elrond]: https://github.com/elrondnetwork
+[arwen]: https://github.com/ElrondNetwork/arwen-wasm-vm
+[wasmer]: https://github.com/wasmerio/wasmer/
+
+In RiB news, We published a late [one-year anniversary blog post][anniv].
 It has some reflection on the changes to, and growth of, RiB over the last year.
 
 [anniv]: https://rustinblockchain.org/blogposts/2020-07-30-rib-is-one-year-old/
@@ -35,9 +45,13 @@ It could use more eyes on it though.
 
 ## Thanks
 
-This edition of RiB was produced with contributions from [Calvin Lau][contributorcl],[Darosior][contributorda], [EnforSys][contributorenforsys], Paulii Good, [Sol][contributorsol],[Tony Arcieri][contributorta], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+This edition of RiB was produced with contributions from [Calvin Lau][contributorcl], [Darosior][contributorda], [EnforSys][contributorenforsys], Paulii Good, [Sol][contributorsol], [Tony Arcieri][contributorta], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
+<<<<<<< HEAD
 Also, [Awesome-RiB][awesome-rib] has been updated. Thanks to the **awesome** contributors: [Alfredo Garcia][contributorag], [Andy Nogueira][contributoran], [ChainSafe Systems][contributorchain], [Lane Rettig][contributorlr], [Michael Sproul][contributorms]!
+=======
+Also, [Awesome Blockchain Rust][awesome-rib] has been updated. Thanks to the awesome contributors: [Alfredo Garcia][contributorag], [Andy Nogueira][contributoran], [ChainSafe Systems][contributorchain], [Lane Rettig][contributorlr], [Michael Sproul][contributorms]!
+>>>>>>> 8f9a23839b7d70cd0113e1a835604c34f878dc88
 
 RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#15 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
@@ -101,13 +115,21 @@ Note that there is also a Rust alternative to web3.js, [rust-web3].
 ## Interesting Things
 
 #### News
+<<<<<<< HEAD
 - [Rust Crypto](https://twitter.com/RustCryptoOrg/status/1282847432787685376) The `k256` crate (pure Rust secp256k1 elliptic curve implementation) just landed an impressive new scalar/field arithmetic backend inspired by bitcoin-core's libsecp256k1 Party popper.
 - [Rust is now a top 20 language in all of the 5 most major language popularity listings](https://www.reddit.com/r/rust/comments/hz7dfp/rust_is_now_a_top_20_language_in_all_of_the_5/)
 - [NIST’s Post-Quantum Cryptography Program Enters ‘Selection Round’](https://www.nist.gov/news-events/news/2020/07/nists-post-quantum-cryptography-program-enters-selection-round)
+=======
+- [NIST’s Post-Quantum Cryptography Program Enters ‘Selection Round’](https://www.nist.gov/news-events/news/2020/07/nists-post-quantum-cryptography-program-enters-selection-round)
+- [Rust is now a top 20 language in all of the 5 most major language popularity listings](https://www.reddit.com/r/rust/comments/hz7dfp/rust_is_now_a_top_20_language_in_all_of_the_5/).
+  Looks like we bet on the right horse.
+- Microsoft open sources [Spartan](https://github.com/microsoft/Spartan): High-speed zkSNARKs without trusted setup.
+>>>>>>> 8f9a23839b7d70cd0113e1a835604c34f878dc88
 - [Elrond](https://github.com/elrondnetwork), a sharded blockchain, whose mainnet went live in July, has several Rust projects.
   - Tutorial: The Crowdfunding Smart Contract [(part 1)](https://docs.elrond.com/developers/dev-tutorials/the-crowdfund-smartcontract),
   [(part 2)](https://docs.elrond.com/developers/dev-tutorials/the-crowdfunding-smart-contract-part-2)
   - Blog: [My first smart contract in Rust on Elrond VM](https://hiddentao.com/archives/2020/07/17/my-first-smart-contract-in-rust-on-elrond-vm)
+<<<<<<< HEAD
 - Microsoft open sources [Spartan](https://github.com/microsoft/Spartan): High-speed zkSNARKs without trusted setup.
 - [World’s first practical hardware for zero-knowledge proofs acceleration](https://medium.com/matter-labs/worlds-first-practical-hardware-for-zero-knowledge-proofs-acceleration-72bf974f8d6e)
 
@@ -115,6 +137,15 @@ Note that there is also a Rust alternative to web3.js, [rust-web3].
 - [zkPorter: Composable Scalability in L2 Beyond zkRollup](https://medium.com/matter-labs/zkporter-composable-scalability-in-l2-beyond-zkrollup-2a30c4d69a75). A scaling architecture proposal.
 - [What's It Good For?](https://www.etherean.org/blockchain/web3/software/2020/07/25/whats-it-good-for.html). Lane's take on the blockchain tech: 
   "blockchain is very good at a narrow set of applications and pretty bad at just about everything else. When you get past the hype, it’s really just a slow, expensive, distributed, permissionless, append-only ledger, nothing more and nothing less."
+=======
+- From [Rust Crypto](https://twitter.com/RustCryptoOrg/status/1282847432787685376) -- The `k256` crate (pure Rust secp256k1 elliptic curve implementation) just landed an impressive new scalar/field arithmetic backend inspired by bitcoin-core's libsecp256k1 Party popper.
+
+
+#### Blog Posts
+- [What's It Good For?](https://www.etherean.org/blockchain/web3/software/2020/07/25/whats-it-good-for.html).
+  A plea to be realistic about blockchain use cases, and for more cross-project collaboration.
+- [NEAR Accounts and Access Keys as Identities for Textile Integration](https://vitalpoint.ai/near-textile-integration/)
+>>>>>>> 8f9a23839b7d70cd0113e1a835604c34f878dc88
 - [Distaff VM: approaching Turing-completeness](https://ethresear.ch/t/distaff-vm-approaching-turing-completeness/7757)
 - [Hunting down a non-determinism-bug in our Rust Wasm build](https://dev.to/gnunicorn/hunting-down-a-non-determinism-bug-in-our-rust-wasm-build-4fk1)
 - [NEAR Accounts and Access Keys as Identities for Textile Integration](https://vitalpoint.ai/near-textile-integration/)

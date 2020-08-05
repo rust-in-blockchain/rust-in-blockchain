@@ -13,7 +13,7 @@ summary: This month, we're seeing a bunch of interesting Rust blockchain and cry
 Welcome to the #14 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #13](/newsletters/2020-07-01-stuck-inside-hacking-away/).
 
 We're seeing a bunch of interesting Rust blockchain and crypto projects,
-so this month the "Interesting Things" is loaded up with
+so this month the "Interesting Things" section is loaded up with
 news, papers, and project links.
 
 Rust continues to be popular for research into zero-knowledge proofs,
@@ -88,7 +88,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [ethers.rs]
 
-`ethers.rs` is an Ethereum &amp; [Celo] library and wallet implementation,
+ethers.rs is an Ethereum &amp; [Celo] library and wallet implementation,
 implemented as a port of the [ethers.js] library to Rust.
 
 Ethereum client programming is usually done in JavaScript with either [web3.js] or [ethers.js],
@@ -96,7 +96,7 @@ with ethers.js being the newer of the two.
 These clients communicate to an Ethereum node, typically via JSON-RPC
 (or, when in the browser, via an "injected" client provider that follows [EIP-1193], like [MetaMask]).
 
-`ethers.rs` then provides a strongly-typed alternative for
+ethers.rs then provides a strongly-typed alternative for
 writing software that interacts with the Ethereum network.
 
 As of now it is only suited for non-browser use cases,
@@ -104,8 +104,8 @@ but if you prefer hacking in Rust to JavaScript,
 as some of us surely do,
 it is worth looking into for your next Ethereum project.
 
-The author of `ethers.rs`, [Georgios Konstantopoulos][gakonst],
-[accepts donations][ethers-donate] to sponsor work on `ethers.rs`.
+The author of ethers.rs, [Georgios Konstantopoulos][gakonst],
+[accepts donations][ethers-donate] to sponsor their work.
 
 Note that there is also a Rust alternative to web3.js, [rust-web3].
 

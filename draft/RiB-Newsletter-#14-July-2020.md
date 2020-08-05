@@ -156,9 +156,9 @@ https://twitter.com/rust_blockchain/status/1278851897961545728
 144 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 74 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]), 
 58 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
 
-[COMIT](https://github.com/comit-network): 
-152 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3], [4][comit-merged-prs-4]), 22 closed issues ([1][comit-closed_issues-1], [2][comit-closed_issues-2], [3][comit-closed_issues-3], [4][comit-closed_issues-4]), 
-8 open issues ([1][comit-open_issues-1], [2][comit-open_issues-2], [3][comit-open_issues-3])
+[Crypto.com Chain](https://chain.crypto.com): 
+118 merged PRs ([1][crypto.com-merged-prs-1], [2][crypto.com-merged-prs-2], [3][crypto.com-merged-prs-3]), 89 closed issues ([1][crypto.com-closed_issues-1]), 
+33 open issues ([1][crypto.com-open_issues-1], [2][crypto.com-open_issues-2])
 
 &nbsp;
 

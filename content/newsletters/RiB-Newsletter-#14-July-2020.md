@@ -16,12 +16,6 @@ We're seeing a bunch of interesting Rust blockchain and crypto projects,
 so this month the "Interesting Things" section is loaded up with
 news, papers, and project links.
 
-Rust continues to be popular for research into zero-knowledge proofs,
-with Microsoft releasing [Spartan],
-a zk-SNARK system without trusted setup.
-
-[Spartan]: https://github.com/microsoft/Spartan
-
 This month, [Elrond], appeared on our radar with the launch of their mainnet.
 Although not written in Rust,
 it runs Rust smart contracts on its [Arwen WASM VM][arwen],
@@ -38,6 +32,12 @@ See the "Interesting Things" section for examples of Elrond's Rust contracts.
 [arwen]: https://github.com/ElrondNetwork/arwen-wasm-vm
 [wasmer]: https://github.com/wasmerio/wasmer/
 [NEAR]: https://github.com/nearprotocol/nearcore
+
+Rust continues to be popular for research into zero-knowledge proofs,
+with Microsoft releasing [Spartan],
+a zk-SNARK system without trusted setup.
+
+[Spartan]: https://github.com/microsoft/Spartan
 
 In RiB news, we published a late [one-year anniversary blog post][anniv].
 It has some reflection on the changes to, and growth of, RiB over the last year.

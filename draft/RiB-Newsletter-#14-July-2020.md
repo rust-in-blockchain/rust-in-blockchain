@@ -26,9 +26,9 @@ It could use more eyes on it though.
 
 ## Thanks
 
-This edition of RiB was produced with contributions from [Calvin Lau][contributorcl],[Darosior][contributorda], [EnforSys][contributorenforsys], Paulii Good, [Sol][contributorsol],[Tony Arcieri][contributorta], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+This edition of RiB was produced with contributions from [Calvin Lau][contributorcl], [Darosior][contributorda], [EnforSys][contributorenforsys], Paulii Good, [Sol][contributorsol], [Tony Arcieri][contributorta], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
-Also, [Awesome-RiB][awesome-rib] has been updated. Thanks to the awesome contributors: [Alfredo Garcia][contributorag], [Andy Nogueira][contributoran], [ChainSafe Systems][contributorchain], [Lane Rettig][contributorlr], [Michael Sproul][contributorms]!
+Also, [Awesome Blockchain Rust][awesome-rib] has been updated. Thanks to the awesome contributors: [Alfredo Garcia][contributorag], [Andy Nogueira][contributoran], [ChainSafe Systems][contributorchain], [Lane Rettig][contributorlr], [Michael Sproul][contributorms]!
 
 RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#15 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 

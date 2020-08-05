@@ -168,8 +168,7 @@ Note that there is also a Rust alternative to web3.js, [rust-web3].
 - [rusty-blockparser](https://github.com/gcarq/rusty-blockparser). Bitcoin Blockchain Parser written in Rust.
 - [rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs). The Filecoin Proving Subsystem (or FPS) provides the storage proofs required by the Filecoin protocol. It is implemented entirely in Rust, as a series of partially inter-dependent crates – some of which export C bindings to the supported API.
 - [Shuffler](https://github.com/roynalnaruto/shuffler) uses StarkWare's VeeDo VDF to seed a seedable RNG, and shuffle a randomisable list of items.
-- SputnikVM: Rust Ethereum Virtual Machine Implementation
-https://twitter.com/rust_blockchain/status/1278851897961545728
+- [SputnikVM](https://github.com/rust-blockchain/evm): Rust Ethereum Virtual Machine Implementation.
 - [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) is an open-membership replicated state machine produced by the coordination of a non-enumerable set of peers.
 - [Tezos node/shell in Rust](https://github.com/simplestaking/tezedge)
 - [Yew](https://github.com/yewstack/yew). Rust / Wasm framework for building client web apps.

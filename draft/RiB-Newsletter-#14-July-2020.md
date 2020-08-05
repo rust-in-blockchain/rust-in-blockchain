@@ -6,7 +6,7 @@ Welcome to the #14 edition of Rust in Blockchain, the hypest newsletter about th
 
 ## Thanks
 
-This edition of RiB was produced with contributions from TODO (awesome-rib contributors), [Calvin Lau][contributorcl],[Darosior][contributorda], [EnforSys][contributorenforsys], Paulii Good, [Sol][contributorsol],[Tony Arcieri][contributorta], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+This edition of RiB was produced with contributions from [Calvin Lau][contributorcl],[Darosior][contributorda], [EnforSys][contributorenforsys], Paulii Good, [Sol][contributorsol],[Tony Arcieri][contributorta], [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
 Also, [Awesome-RiB][awesome-rib] has been updated. Thanks to the awesome contributors: [Alfredo Garcia][contributorag], [Andy Nogueira][contributoran], [ChainSafe Systems][contributorchain], [Lane Rettig][contributorlr], [Michael Sproul][contributorms]!
 

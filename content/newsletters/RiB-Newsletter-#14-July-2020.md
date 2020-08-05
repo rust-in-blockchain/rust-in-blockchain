@@ -7,7 +7,7 @@ categories:
   - "newsletters"
 summary: This month, we're seeing a bunch of interesting Rust blockchain and crypto projects. 
   Rust continues to be popular for research into zero-knowledge proofs, 
-  with Microsoft releasing [Spartan], a zk-SNARK system without trusted setup.
+  with Microsoft releasing Spartan, a zk-SNARK system without trusted setup.
 ---
 
 Welcome to the #14 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #13](/newsletters/2020-07-01-stuck-inside-hacking-away/).

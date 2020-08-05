@@ -27,7 +27,7 @@ Although not written in Rust,
 it runs Rust smart contracts on its [Arwen WASM VM][arwen],
 which itself is based on the Rust [Wasmer VM][wasmer].
 Along with [NEAR], [Nervos][ncap],
-[Enigma][econtr] (and probably others),
+and [Enigma][econtr] (and probably others),
 this continues an encouraging trend of blockchains
 enabling smart contracts in Rust.
 See the "Interesting Things" section for examples of Elrond's Rust contracts.

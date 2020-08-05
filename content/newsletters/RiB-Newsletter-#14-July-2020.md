@@ -54,7 +54,7 @@ has received a stream of updates recently,
 and is now published as [the Awesome-RiB page on rustinblockchain.org][abr-rib].
 
 It's a pretty good resource for finding blockchain-related Rust projects,
-with links to many of the more prominant and mature projects noted in the RiB newsletter.
+with links to many of the more prominent and mature projects noted in the RiB newsletter.
 It could use more eyes on it though.
 
 [abr]: https://github.com/rust-in-blockchain/awesome-blockchain-rust

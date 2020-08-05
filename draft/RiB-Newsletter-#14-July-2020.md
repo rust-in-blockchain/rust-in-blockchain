@@ -11,15 +11,29 @@ summary: This month,
 
 Welcome to the #14 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #13](/newsletters/2020-07-01-stuck-inside-hacking-away/).
 
+We're seeing a bunch of interesting Rust blockchain and crypto projects,
+so this month the "Interesting Things" is loaded up with
+news, papers, and project links.
+
+Rust continues to be popular for research into zero-knowledge proofs,
+with Microsoft releasing [Spartan],
+a zk-SNARK system without trusted setup.
+
+[Spartan]: https://github.com/microsoft/Spartan
+
 This month, [Elrond], appeared on our radar with the launch of their mainnet.
 Although not written in Rust,
-it runs Rust smartcontracts on its [Arwen WASM VM][arwen],
-which itself is based on the Rust [wasmer VM][wasmer].
-This issue includes links to example Rust smart contracts on Elrond.
+it runs Rust smart contracts on its [Arwen WASM VM][arwen],
+which itself is based on the Rust [Wasmer VM][wasmer].
+Along with [NEAR],
+this continues an encouraging trend of WASM-based blockchains
+enabling smart contracts in Rust.
+See the "Interesting Things" section for examples of Elrond's Rust contracts.
 
 [Elrond]: https://github.com/elrondnetwork
 [arwen]: https://github.com/ElrondNetwork/arwen-wasm-vm
 [wasmer]: https://github.com/wasmerio/wasmer/
+[NEAR]: https://github.com/nearprotocol/nearcore
 
 In RiB news, We published a late [one-year anniversary blog post][anniv].
 It has some reflection on the changes to, and growth of, RiB over the last year.
@@ -29,7 +43,7 @@ It has some reflection on the changes to, and growth of, RiB over the last year.
 The [Awesome Blockchain Rust][abr] project,
 which is maintained by [Sun][sunhuachuang] under the [rust-in-blockchain GitHub org][riborg],
 has received a stream of updates recently,
-and is now published [as Awesome-RiB page on rustinblockchain.org][abr-rib].
+and is now published as [the Awesome-RiB page on rustinblockchain.org][abr-rib].
 
 It's a pretty good resource for finding blockchain-related Rust projects,
 with links to many of the more prominant and mature projects noted in the RiB newsletter.
@@ -111,7 +125,8 @@ Note that there is also a Rust alternative to web3.js, [rust-web3].
 ## Interesting Things
 
 #### News
-- [NIST’s Post-Quantum Cryptography Program Enters ‘Selection Round’](https://www.nist.gov/news-events/news/2020/07/nists-post-quantum-cryptography-program-enters-selection-round)
+- [NIST’s Post-Quantum Cryptography Program Enters ‘Selection Round’](https://www.nist.gov/news-events/news/2020/07/nists-post-quantum-cryptography-program-enters-selection-round).
+  Not Rust, but relevant to the future of cryptography.
 - [Rust is now a top 20 language in all of the 5 most major language popularity listings](https://www.reddit.com/r/rust/comments/hz7dfp/rust_is_now_a_top_20_language_in_all_of_the_5/). 
   Looks like we bet on the right horse.
 - Microsoft open sources [Spartan](https://github.com/microsoft/Spartan): High-speed zkSNARKs without trusted setup.

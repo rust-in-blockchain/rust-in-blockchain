@@ -142,7 +142,6 @@ Note that there is also a Rust alternative to web3.js, [rust-web3].
 - [What's It Good For?](https://www.etherean.org/blockchain/web3/software/2020/07/25/whats-it-good-for.html).
   Lane's take on the blockchain tech: 
   "blockchain is very good at a narrow set of applications and pretty bad at just about everything else. When you get past the hype, it’s really just a slow, expensive, distributed, permissionless, append-only ledger, nothing more and nothing less."
-  A plea to be realistic about blockchain use cases, and for more cross-project collaboration.
 - [Distaff VM: approaching Turing-completeness](https://ethresear.ch/t/distaff-vm-approaching-turing-completeness/7757)
 - [Hunting down a non-determinism-bug in our Rust Wasm build](https://dev.to/gnunicorn/hunting-down-a-non-determinism-bug-in-our-rust-wasm-build-4fk1)
 - [NEAR Accounts and Access Keys as Identities for Textile Integration](https://vitalpoint.ai/near-textile-integration/)

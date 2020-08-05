@@ -6,8 +6,12 @@ slug: "/2020-08-05-are-we-smart-contract-yet"
 categories:
   - "newsletters"
 summary: This month, we're seeing a bunch of interesting Rust blockchain and crypto projects. 
-  Rust continues to be popular for research into zero-knowledge proofs, 
-  with Microsoft releasing Spartan, a zk-SNARK system without trusted setup.
+  Elrond, appeared on our radar with the launch of their mainnet.
+  Although not written in Rust,
+  it runs Rust smart contracts on its Arwen WASM VM,
+  which itself is based on the Rust Wasmer VM.
+  Along with NEAR, Nervos, and Enigma (and probably others),
+  this continues an encouraging trend of blockchains enabling smart contracts in Rust. 
 ---
 
 Welcome to the #14 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. [Previous: #13](/newsletters/2020-07-01-stuck-inside-hacking-away/).

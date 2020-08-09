@@ -31,47 +31,55 @@ relativeURLs = true
   addThis = "ra-123456789ABCDEF"
 
 [menu]
-  [[menu.main]]
+    [[menu.main]]
     identifier = "newsletters"
-    name = "newsletters"
+    name = "Newsletters"
     pre = "<i class='fa fa-road'></i>"
     url = "/newsletters"
     weight = -110
 
-  [[menu.main]]
+   [[menu.main]]
     identifier = "blogposts"
-    name = "blogposts"
+    name = "Blog Posts"
     pre = "<i class='fa fa-road'></i>"
     url = "/blogposts"
     weight = -100
 
+   [[menu.main]]
+    identifier = "job-board"
+    name = "Job Board"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/job-board"
+    weight = -90
+
+
   [[menu.main]]
     identifier = "awesome-rib"
-    name = "awesome-rib"
+    name = "Awesome RiB"
     pre = "<i class='fa fa-road'></i>"
     url = "/awesome-blockchain-rust"
-    weight = -90
+    weight = -80
 
   [[menu.main]]
     identifier = "about"
-    name = "about us"
+    name = "About Us"
     pre = "<i class='fa fa-heart'></i>"
     url = "/about"
-    weight = -80
+    weight = -70
 
   [[menu.main]]
     identifier = "RSS"
     name = "RSS"
     pre = "<i class='fa fa-heart'></i>"
     url = "/index.xml"
-    weight = -70
+    weight = -60
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
   list = "right"  # Configure layout for list pages
   single = true # Configure layout for single pages
   # Enable widgets in given order
-  widgets = [ "subscribe",  "social", "categories", "support"] #"search"
+  widgets = [ "subscribe",  "social", "support"] #"search"
 
 [Params.widgets.social]
   # Enable parts of social widget

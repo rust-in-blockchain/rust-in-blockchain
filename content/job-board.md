@@ -5,8 +5,7 @@ pager: false
 ---
 
 *This page shows current available Rust blockchain jobs.* 
-*To post your position here,* 
-*please submit a PR to the* 
+*To post your position here, please submit a PR to the* 
 **[RiB GitHub][rib-job].**
 
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/tree/master/content

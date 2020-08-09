@@ -8,7 +8,7 @@ pager: false
 *To post your position here, please submit a PR to the* 
 **[RiB GitHub][rib-job].**
 
-[rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/tree/master/content
+[rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
 
 Equilibrium | Remote

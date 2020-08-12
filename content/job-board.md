@@ -11,6 +11,10 @@ pager: false
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
 
+Casper Labs | Remote
+- [Core Engineer: dApp Development](https://apply.workable.com/casperlabs/j/F9076101B3/)
+- [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
+
 Equilibrium | Remote
 - [Senior Software Engineer Rust/Go](https://www.notion.so/Hiring-Senior-Software-Engineer-Rust-Go-e6c94ccc261f426c80a483c7fc642412)
 

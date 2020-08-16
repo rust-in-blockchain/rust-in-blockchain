@@ -32,6 +32,9 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 #### Blog Posts
 
+- [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+- [Write your Own Proof-of-Work Blockchain](https://justinmeiners.github.io/tiny-blockchain/)
+
 #### Papers
 
 #### Projects
@@ -64,6 +67,8 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 #### [Nervos](https://github.com/nervosnetwork)
 
+#### [Oasis](https://github.com/oasislabs)
+
 #### [Parity](https://github.com/paritytech)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
@@ -95,6 +100,10 @@ Oct 27-28 | Dubai
 &nbsp;
 
 ## Careers
+
+Casper Labs | Remote
+- [Core Engineer: dApp Development](https://apply.workable.com/casperlabs/j/F9076101B3/)
+- [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
 
 
 &nbsp;

@@ -39,6 +39,9 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 #### Projects
 
+- [Rio Chain](https://github.com/RioDefi/riochain)
+
+
 #### Podcasts and Videos
 
 &nbsp;
@@ -80,6 +83,14 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 &nbsp;
 
 ## Events
+
+Sep 7-27 | Online
+
+[Chainlink Hackathon](https://hack.chain.link/)
+
+Sep 15-16 | Online
+
+[Crypto Privacy Conference](https://fcatalyst.com/events/sept2020/crypto_privacy_conference)
 
 Sep 17-18 | Surrey, UK
 

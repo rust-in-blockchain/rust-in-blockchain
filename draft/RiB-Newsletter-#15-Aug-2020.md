@@ -39,6 +39,7 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 #### Projects
 
+- [PLONK](https://github.com/dusk-network/plonk). Pure Rust implementation of the PLONK ZKProof System done by the Dusk-Network team.
 - [Rio Chain](https://github.com/RioDefi/riochain)
 
 

@@ -94,6 +94,10 @@ Sep 15-16 | Online
 
 [Crypto Privacy Conference](https://fcatalyst.com/events/sept2020/crypto_privacy_conference)
 
+Sep 15-30 | Online
+
+[NEAR Hackathon: Hack The Rainbow](https://near.org/rainbow/)
+
 Sep 17-18 | Surrey, UK
 
 [4th International Workshop on Cryptocurrencies and Blockchain Technology - CBT 2020](https://deic-web.uab.cat/cbt/cbt2020/)

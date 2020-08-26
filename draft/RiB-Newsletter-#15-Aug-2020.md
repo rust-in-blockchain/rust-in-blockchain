@@ -41,7 +41,8 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 - [PLONK](https://github.com/dusk-network/plonk). Pure Rust implementation of the PLONK ZKProof System done by the Dusk-Network team.
 - [Rio Chain](https://github.com/RioDefi/riochain)
-
+- [Rusk](https://github.com/dusk-network/rusk). Dusk's Smart Contract Platform. 
+- [Rusk VM](https://github.com/dusk-network/rusk-vm). The Dusk Rust WASM VM implementation.
 
 #### Podcasts and Videos
 
@@ -97,7 +98,7 @@ Sep 17-18 | Surrey, UK
 
 [4th International Workshop on Cryptocurrencies and Blockchain Technology - CBT 2020](https://deic-web.uab.cat/cbt/cbt2020/)
 
-Oct 2-30 | Online
+Oct 1-30 | Online
 
 [ETHOnline 2020](https://www.ethonline.org/). Summits + Hackathon.
 

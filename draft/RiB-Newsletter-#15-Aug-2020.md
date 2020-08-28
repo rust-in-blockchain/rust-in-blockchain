@@ -59,6 +59,12 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 #### [Crypto.com Chain](https://chain.crypto.com)
 
+- News: [Crypto.com Chain Dev Update #11](https://blog.crypto.com/crypto-com-chain-dev-update-11)
+  - [Technical whitepaper](https://chain.crypto.com/chain_technical_whitepaper.pdf) and [General whitepaper](https://crypto.com/images/crypto_com_whitepaper.pdf) have been updated
+  - Our [technical documentation site](https://chain.crypto.com/docs/getting-started/) is revamped along with our new [GitHub Activities page](https://chain.crypto.com/releases)
+- News: [Microsoft Azure "one-click" Deployment](https://chain.crypto.com/docs/getting-started/thaler-testnet-azure-1click.html) is available to provide easy deployment option
+- News: [Node.js Library](https://github.com/crypto-com/chain-nodelib) Available on NPM
+
 #### [Holochain](https://github.com/holochain/)
 
 

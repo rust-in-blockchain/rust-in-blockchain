@@ -39,10 +39,16 @@ RiB needs help to keep up with Rust blockchain projects. If you follow a particu
 
 #### Projects
 
+- [Crust](https://github.com/crustio/crust). Official Rust implementation of the Crust protocol.
+- [Moonbeam](https://github.com/PureStake/moonbeam). Moonbeam provides an Ethereum-compatible smart contract platform that makes it easy to build natively interoperable applications.
+- [Nomic](https://github.com/nomic-io/nomic). Rust implementation of the Nomic Bitcoin sidechain.
+- [Openlimits](https://github.com/nash-io/openlimits). A Rust high performance cryptocurrency trading API with support for multiple exchanges and language wrappers.
 - [PLONK](https://github.com/dusk-network/plonk). Pure Rust implementation of the PLONK ZKProof System done by the Dusk-Network team.
 - [Rio Chain](https://github.com/RioDefi/riochain)
 - [Rusk](https://github.com/dusk-network/rusk). Dusk's Smart Contract Platform. 
 - [Rusk VM](https://github.com/dusk-network/rusk-vm). The Dusk Rust WASM VM implementation.
+- [SnarkOS](https://github.com/AleoHQ/snarkOS) is a decentralized operating system for private applications. It forms the backbone of Aleo and enables applications to verify and store state in a publicly verifiable manner.
+- [ZEXE](https://github.com/scipr-lab/zexe). Zero knowledge EXEcution is a Rust library for decentralized private computation.
 
 #### Podcasts and Videos
 

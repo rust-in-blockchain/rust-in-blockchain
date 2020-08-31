@@ -13,14 +13,20 @@ Welcome to the #15 edition of Rust in Blockchain, the hypest newsletter about th
 This edition of RiB was produced with contributions from 
  -- TODO -- 
 [Calvin Lau][contributorcl]
-[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. 
+And [Awesome Blockchain Rust][repo-awesome] contributors [Matt Bell][contributormb]
+-- TODO --
+
+Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#16 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 
 [contributorcl]: https://github.com/calvinlauco
+[contributormb]:https://github.com/mappum
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
+[repo-awesome]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
 
 &nbsp;
 

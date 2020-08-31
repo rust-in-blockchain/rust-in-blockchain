@@ -12,10 +12,13 @@ Welcome to the #15 edition of Rust in Blockchain, the hypest newsletter about th
 
 This edition of RiB was produced with contributions from 
  -- TODO -- 
+[Calvin Lau][contributorcl]
 [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. If you follow a particular project, or otherwise find information that is beneficial to the Rust & blockchain community, please contribute to the next issue. Either submit a PR to the [#16 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
+
+[contributorcl]: https://github.com/calvinlauco
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 
@@ -134,6 +137,10 @@ Casper Labs | Remote
 - [Core Engineer: dApp Development](https://apply.workable.com/casperlabs/j/F9076101B3/)
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
 
+
+More jobs can be found at [Job Board][page-jobboard].
+
+[page-jobboard]: https://rustinblockchain.org/job-board/
 
 &nbsp;
 

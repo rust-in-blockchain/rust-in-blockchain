@@ -33,10 +33,47 @@ and again its impossible to follow everything going on.
 
 This month we see continued advancement in zero-knowledge computing,
 an obvious focus from the entire blockchain industry on the DeFi phenomenon,
-an encouraging trend towards Rust smart contracts,
 and a proliferation of hackathons with opportunities for Rust developers.
 
-TODO
+Every month we see advancements in zero-knowledge proofs,
+and new implementations in Rust.
+It is a research area that will probably impact the general computing industry eventually,
+and one where the blockchain industry is leading the way,
+and one where Rust has a huge foothold.
+Even projects that are not written in Rust we see
+implementing their zero-knowledge cryptography in Rust.
+But this stuff is extremely technical,
+and improving at a rapid pace.
+We fear we will never understand it.
+
+There are several Rust blockchains now in development whose smart contracts
+create zero-knowledge proofs:
+
+- [Aleo](https://github.com/AleoHQ/).
+- [Slingshot](https://github.com/stellar/slingshot). A research project from Stellar.
+- [Dusk](https://github.com/dusk-network). Not entirely in Rust.
+
+These are networks that support nearly arbitrary computation,
+but where the specific computation performed is a secret.
+Like programable Zcash.
+
+Speaking of Zcash, the zkSNARK pioneers [announced their next-generation proof system][znext],
+called [Halo 2][halo2], which uses a new zkSNARK construction, [PLONK].
+
+[znext]: https://electriccoin.co/blog/explaining-halo-2/
+[halo2]: https://github.com/zcash/halo2
+[PLONK]: https://eprint.iacr.org/2019/953
+
+There are yet more privacy-oriented blockchains in Rust,
+not relying (soley) on zero-knowledge proofs,
+but instead relying on secure enclaves for privacy.
+One such blockchain,
+Secret Network (formerly Enigma),
+[will launch their mainnet in September](smain).
+Congrats to the team.
+
+[smain]: https://blog.scrt.network/secret-contracts-mainnet/
+
 
 
 &nbsp;
@@ -113,6 +150,8 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 #### Papers 
 
+- [PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953).
+  The new zkSNARK construction that will be employed in future revisions of Zcash.
 - [Consensus Redux: Distributed Ledgers in the Face of Adversarial Supremacy](https://eprint.iacr.org/2020/1021.pdf)
 - [Polynomial IOPs for Linear Algebra Relations](https://eprint.iacr.org/2020/1022.pdf)
 - [RANDCHAIN: Decentralised Randomness Beacon from Sequential Proof-of-Work](https://eprint.iacr.org/2020/1033.pdf)

@@ -6,30 +6,8 @@ date: 2020-09-02
 Welcome to the #15 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
 [Previous: #14](/newsletters/2020-08-05-are-we-smart-contract-yet/).
 
-The big news this month is that [Mozilla laid off all but one of its full-time
-Rust employees][mozlay]. There are a few other people left at Mozilla who
-actively contribute to Rust as part of their role in Firefox, but this mostly
-ends Mozilla's committment to Rust's development.
-
-There's no need to worry though. Rust was intentionally designed to outlive
-Mozilla's withdrawal, and the project will continue nearly
-unaffected. Most of Rust's development and leadership comes from outside Mozilla
-already, and no doubt all of those who lost there jobs will be re-hired quickly,
-and some will continue to contribute to Rust. Rust's legal responsibilities
-[will be transferred to a foundation independent from Mozilla][rustfound].
-
-So long, Mozilla, and thanks. We'll take it from here.
-
-That said, Rust always needs to strengthen its paid contributor base, and
-this is an opportunity for invested companies to step up and help the project,
-possibly while hiring some of the best Rust developers in the world.
-
-[mozlay]: https://news.ycombinator.com/item?id=24120336
-[rustfound]: https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html
-
-Naturally,
 Rust blockchain development continued at its typical blistering pace,
-and again its impossible to follow everything going on.
+and again it's impossible to follow everything going on.
 
 This month we see continued advancement in zero-knowledge computing,
 an obvious focus from the entire blockchain industry on the DeFi phenomenon,
@@ -53,8 +31,7 @@ create zero-knowledge proofs:
 - [Slingshot](https://github.com/stellar/slingshot). A research project from Stellar.
 - [Dusk](https://github.com/dusk-network). Not entirely in Rust.
 
-These are networks that support nearly arbitrary computation,
-but where the specific computation performed is a secret.
+These are networks that support nearly arbitrary computation over secret inputs.
 Like programable Zcash.
 
 Speaking of Zcash, the zkSNARK pioneers [announced their next-generation zero-knowledge proof system][znext],
@@ -73,6 +50,33 @@ Secret Network (formerly Enigma),
 Congrats to the team.
 
 [smain]: https://blog.scrt.network/secret-contracts-mainnet/
+
+The fervor for DeFi continues to grow,
+and pretty much every blockchain wants to have an angle on the subject.
+Here are some Rust projects' views on the subject this month:
+
+- A new decentralized exchange based on Solana,
+[Serum],
+has [launched recently][slaunch].
+- Nervos has been [blogging about DeFi][nde].
+- Secret Network is [promoting DeFi on their privacy chain][ede]
+
+[Serum]: https://projectserum.com/
+[slaunch]: https://projectserum.com/blog/serum-launch
+[defi]: https://projectserum.com/blog/serum-launch
+[ede]: https://projectserum.com/blog/serum-launch
+
+Finally, this month [Mozilla laid off all but one of its full-time Rust
+employees][mozlay]. There are a few other people left at Mozilla who actively
+contribute to Rust as part of their role in Firefox, but this mostly ends
+Mozilla's committment to Rust's development.
+
+There's no need to worry though. Rust was designed to outlive Mozilla's
+withdrawal, and the project will continue nearly unaffected.
+
+So long, Mozilla, and thanks.
+
+[mozlay]: https://news.ycombinator.com/item?id=24120336
 
 
 

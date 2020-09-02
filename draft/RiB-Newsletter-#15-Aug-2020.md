@@ -57,7 +57,7 @@ These are networks that support nearly arbitrary computation,
 but where the specific computation performed is a secret.
 Like programable Zcash.
 
-Speaking of Zcash, the zkSNARK pioneers [announced their next-generation proof system][znext],
+Speaking of Zcash, the zkSNARK pioneers [announced their next-generation zero-knowledge proof system][znext],
 called [Halo 2][halo2], which uses a new zkSNARK construction, [PLONK].
 
 [znext]: https://electriccoin.co/blog/explaining-halo-2/

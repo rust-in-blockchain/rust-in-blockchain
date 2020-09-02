@@ -65,7 +65,7 @@ Mozilla's committment to Rust's development.
 There's no need to worry though. Rust was designed to outlive Mozilla's
 withdrawal, and the project will continue nearly unaffected.
 
-So long, Mozilla, and thanks.
+So long, Mozilla, and thanks for all the turbofish.
 
 [mozlay]: https://news.ycombinator.com/item?id=24120336
 

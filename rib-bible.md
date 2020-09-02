@@ -260,9 +260,10 @@ GitHub:
 
 ``` toml
 repos = [
-"oasislabs/oasis-runtime",
+"oasislabs/oasis-ethwasi-runtime",
 "oasislabs/oasis-rs",
-"oasislabs/tutorials",
+"oasislabs/oasis-cli",
+"oasislabs/oasis-chain", 
 ]
 ```
 

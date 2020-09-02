@@ -18,7 +18,9 @@ Casper Labs | Remote
 Equilibrium | Remote
 - [Senior Software Engineer Rust/Go](https://www.notion.so/Hiring-Senior-Software-Engineer-Rust-Go-e6c94ccc261f426c80a483c7fc642412)
 
-Findora | Menlo Park, CA
+Findora | Beijing, China; Menlo Park, CA
+- [Cryptography Engineer](https://jobs.lever.co/findora/082d76ed-3371-4374-b5f5-25be99df2bdb)
+- [Director of Engineering](https://jobs.lever.co/findora/d1981ece-fb53-4b41-96d9-346b1974a7d8)
 - [Senior Systems Engineer](https://jobs.lever.co/findora/e89e2e02-622c-41da-a14d-c12d854a25b5)
 
 Informal Systems | Berlin, Toronto, Remote
@@ -32,6 +34,9 @@ Kraken | Remote
 
 Libra | San Francisco, CA or Geneva, Switzerland
 - [Developer Advocate](https://libra.org/en-US/job-board/?gh_jid=4465800002)
+
+Moonbeam | Boston, MA USA; Madrid, Spain; Remote
+- [Senior Blockchain Engineer](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
 
 NEAR | Remote
 - [General Purpose Full-time Engineer - Rust](https://twitter.com/mzavershynskyi/status/1286056901914968065?s=20)

@@ -160,6 +160,8 @@ generate profit from open source software.
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 - [Write your Own Proof-of-Work Blockchain](https://justinmeiners.github.io/tiny-blockchain/)
 - [What is a Cryptographic Hash Function?](https://decentralizedthoughts.github.io/2020-08-28-what-is-a-cryptographic-hash-function/)
+- [A Gentle Introduction to Zero Knowledge Proofs with Hands on Examples](https://dochdoch.gitlab.io/snark_intro/snark_intro_front/).
+  Examples in Rust.
 
 #### Papers 
 

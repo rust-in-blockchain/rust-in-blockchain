@@ -88,11 +88,18 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 #### News
 
 - [James Waugh][contributorjamesw] shared big news from Secret Network.
->Privacy-preserving smart contracts are going live on Secret Network Tuesday, September 15! 
->Now developers can build and deploy “secret contracts” with encrypted inputs, outputs, and state.
-- [Welcome to Aleo.](https://www.aleo.org/post/welcome-to-aleo)
+  > Privacy-preserving smart contracts are going live on Secret Network Tuesday, September 15! 
+  > Now developers can build and deploy “secret contracts” with encrypted inputs, outputs, and state.
+- [Welcome to Aleo](https://www.aleo.org/post/welcome-to-aleo).
+  Aleo is a new blockchain that runs a [zero-knowledge VM](https://github.com/AleoHQ/snarkOS),
+  targetted by their own [zero-knowledge programming language](https://github.com/AleoHQ/leo).
+- [Buggy code knocks OpenEthereum clients offline](https://www.coindesk.com/buggy-code-release-13-ethereum-nodes-offline).
+  [OpenEthereum](https://github.com/openethereum/openethereum) is the Rust Ethereum client formerly developed by Parity.
+  Its development has [noticably slowed recently](https://github.com/openethereum/openethereum/graphs/contributors),
+  and it would be a shame for this Geth alternative to disappear due to lack of developer support.
 - [Coinbase: zkSNARKS and Cryptographic Accumulators](https://blog.coinbase.com/zksnarks-and-cryptographic-accumulators-f840da0b61c6)
-- [Flux is Live on Mainnet](https://medium.com/@fluxmarket/flux-is-live-on-mainnet-741cf2dbe126)
+- [Flux is Live on Mainnet](https://medium.com/@fluxmarket/flux-is-live-on-mainnet-741cf2dbe126).
+  Flux is a prediction market built on NEAR.
 - [Flux — decentralizing mainnet](https://medium.com/@fluxmarket/flux-decentralizing-mainnet-e97df35e421a)
 
 

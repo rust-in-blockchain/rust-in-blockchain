@@ -24,12 +24,16 @@ But this stuff is extremely technical,
 and improving at a rapid pace.
 We fear we will never understand it.
 
-There are several Rust blockchains now in development whose smart contracts
-create zero-knowledge proofs:
+There are several Rust blockchains now in development
+that are built around zero-knowledge VMs,
+whose smart contracts create zero-knowledge proofs:
 
 - [Aleo](https://github.com/AleoHQ/).
-- [Slingshot](https://github.com/stellar/slingshot). A research project from Stellar.
-- [Dusk](https://github.com/dusk-network). Not entirely in Rust.
+  A new platform with its own zero-knowledge programming language, [Leo](https://github.com/AleoHQ/leo).
+- [Slingshot](https://github.com/stellar/slingshot).
+  A research project from Stellar.
+- [Dusk](https://github.com/dusk-network).
+  Not entirely in Rust.
 
 These are networks that support nearly arbitrary computation over secret inputs.
 Like programable Zcash.
@@ -41,30 +45,17 @@ called [Halo 2][halo2], which uses a new zkSNARK construction, [PLONK].
 [halo2]: https://github.com/zcash/halo2
 [PLONK]: https://eprint.iacr.org/2019/953
 
-There are yet more privacy-oriented blockchains in Rust,
-not relying (soley) on zero-knowledge proofs,
-but instead relying on secure enclaves for privacy.
-One such blockchain,
-Secret Network (formerly Enigma),
-[will launch their mainnet in September](smain).
-Congrats to the team.
+More Rust blockchain projects launched this week,
+including [Secret Network][smain],
+a blockchain that performs computations in secure enclaves,
+[Serum][serumlaunch],
+a decentralized exchange built on Solana,
+and [Flux][flaunch],
+a prediction market built on NEAR.
 
 [smain]: https://blog.scrt.network/secret-contracts-mainnet/
-
-The fervor for DeFi continues to grow,
-and pretty much every blockchain wants to have an angle on the subject.
-Here are some Rust projects' views on the subject this month:
-
-- A new decentralized exchange based on Solana,
-[Serum],
-has [launched recently][slaunch].
-- Nervos has been [blogging about DeFi][nde].
-- Secret Network is [promoting DeFi on their privacy chain][ede]
-
-[Serum]: https://projectserum.com/
-[slaunch]: https://projectserum.com/blog/serum-launch
-[defi]: https://projectserum.com/blog/serum-launch
-[ede]: https://projectserum.com/blog/serum-launch
+[serumlaunch]: https://projectserum.com/blog/serum-launch
+[flaunch]: https://medium.com/@fluxmarket/flux-is-live-on-mainnet-741cf2dbe126
 
 Finally, this month [Mozilla laid off all but one of its full-time Rust
 employees][mozlay]. There are a few other people left at Mozilla who actively

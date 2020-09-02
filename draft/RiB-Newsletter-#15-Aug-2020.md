@@ -44,24 +44,19 @@ TODO
 ## Thanks
 
 This edition of RiB was produced with contributions from 
- -- TODO -- 
-
 Andrew Miller, 
 [Calvin Lau][contributorcl], 
 [James Waugh][contributorjamesw], 
 [Jane Wu][contributorjw], 
 Kevin McCloskey, 
-/*Paulii Good,*/
+Paulii Good,
 Taylor Lee,
 [Moonbeam][org-moonbean],
 [Fluence][org-fluence], 
-
-
-[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz]. 
-And [Awesome Blockchain Rust][repo-awesome] contributors [Matt Bell][contributormb]
--- TODO --
-
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
+
+And thanks to the [Awesome Blockchain Rust][repo-awesome] contributor [Matt Bell][contributormb]!
 
 RiB needs help to keep up with Rust blockchain projects. 
 If you follow a particular project, or otherwise find information 
@@ -74,7 +69,6 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 [contributormb]:https://github.com/mappum
 [contributorjw]: https://twitter.com/janewuco
 [contributorjamesw]: https://github.com/jlwaugh
-
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 [repo-awesome]: https://github.com/rust-in-blockchain/awesome-blockchain-rust

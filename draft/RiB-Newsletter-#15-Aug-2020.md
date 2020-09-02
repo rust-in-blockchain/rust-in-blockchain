@@ -118,7 +118,20 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 ## Project Spotlight
 
-&nbsp;
+Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+[Fluence](https://github.com/fluencelabs/fluence).
+
+This is a blockchain with built-in software license management.
+We're excited about this because license management is a
+rare non-currency use case for blockchains that makes a lot of sense.
+While we might expect to see more blackchain platforms devoted solely
+to digital licensing,
+fluence is actually a complete distributed computing plaftorm,
+with a unique vision about using license management to
+generate profit from open source software.
+
+
 
 ## Interesting Things
 

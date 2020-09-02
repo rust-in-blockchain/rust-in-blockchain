@@ -185,24 +185,25 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 &nbsp;
 
 ## Most Active in August
-#### [Parity](https://github.com/paritytech)
 
-204 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3]), 95 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2]), 
+[Parity](https://github.com/paritytech):
+204 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3]), 
+95 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2]), 
 85 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3])
 
-#### [Solana](https://github.com/solana-labs/solana)
-
-271 merged PRs ([1][solana-merged-prs-1]), 20 closed issues ([1][solana-closed_issues-1]), 
+[Solana](https://github.com/solana-labs/solana):
+271 merged PRs ([1][solana-merged-prs-1]), 
+20 closed issues ([1][solana-closed_issues-1]), 
 52 open issues ([1][solana-open_issues-1])
 
-#### [Libra](https://libra.org)
-
-213 merged PRs ([1][libra-merged-prs-1]), 38 closed issues ([1][libra-closed_issues-1]), 
+[Libra](https://libra.org):
+213 merged PRs ([1][libra-merged-prs-1]), 
+38 closed issues ([1][libra-closed_issues-1]), 
 45 open issues ([1][libra-open_issues-1])
 
-#### [Zcash](https://z.cash/)
-
-120 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 88 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]), 
+[Zcash](https://z.cash/):
+120 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 
+88 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]), 
 45 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
 
 &nbsp;
@@ -366,7 +367,7 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
   [15](https://ckbweekly.substack.com/p/failed-transactions-still-charge),
   [14](https://ckbweekly.substack.com/p/migrating-web-20-users-to-web-30)
 - Blog: [Nervos Episode IV — A New Hope (for DeFi)](https://medium.com/nervosnetwork/nervos-epsiode-iv-a-new-hope-for-defi-e6b1ce1bf04f)
-- Video: 
+- Videos: 
   - Dapps with CKB Workshop | Lecture [4](https://www.youtube.com/watch?v=9U23hrzCAiM),
   [3-2](https://www.youtube.com/watch?v=TJ2bnSFUpPQ),
   [3-1](https://www.youtube.com/watch?v=7ob-WL1eWrQ),

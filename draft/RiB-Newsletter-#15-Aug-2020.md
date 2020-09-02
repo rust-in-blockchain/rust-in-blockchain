@@ -113,7 +113,25 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 &nbsp;
 
 ## Most Active in August
+#### [Parity](https://github.com/paritytech)
 
+204 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3]), 95 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2]), 
+85 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3])
+
+#### [Solana](https://github.com/solana-labs/solana)
+
+271 merged PRs ([1][solana-merged-prs-1]), 20 closed issues ([1][solana-closed_issues-1]), 
+52 open issues ([1][solana-open_issues-1])
+
+#### [Libra](https://libra.org)
+
+213 merged PRs ([1][libra-merged-prs-1]), 38 closed issues ([1][libra-closed_issues-1]), 
+45 open issues ([1][libra-open_issues-1])
+
+#### [Zcash](https://z.cash/)
+
+120 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 88 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]), 
+45 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
 
 &nbsp;
 
@@ -244,35 +262,6 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 - Video: [Whitepaper Circle: Nightshade NEAR Protocol Sharding Design](https://www.youtube.com/watch?v=9Hdt3JcV5EM)
 - PR: [feat: implement gas profiler.](https://github.com/nearprotocol/nearcore/pull/3038) by [@olonho](https://github.com/olonho)
 - PR: [fix (runtime): Finishing adding wasmtime support](https://github.com/nearprotocol/nearcore/pull/3074) by [@willemneal](https://github.com/willemneal)
-- PR: [fix(store): Fix refcount logic slowness](https://github.com/nearprotocol/nearcore/pull/3123) by [@mikhailOK](https://github.com/mikhailOK)
-- PR: [feat(rosettarpc): Data API implementation](https://github.com/nearprotocol/nearcore/pull/2940) by [@frol](https://github.com/frol)
-- PR: [feat(indexer): Extend the NEAR Indexer API with an ability to communicate the starting point of streaming](https://github.com/nearprotocol/nearcore/pull/3236) by [@khorolets](https://github.com/khorolets)
-- PR: [feat(indexer): NEAR Indexer can init configs](https://github.com/nearprotocol/nearcore/pull/3082) by [@khorolets](https://github.com/khorolets)
-- PR: [fix: Use both version and oldest_supported version](https://github.com/nearprotocol/nearcore/pull/3016) by [@mfornet](https://github.com/mfornet)
-  <!-- ^ comments: 11 -->
-- PR: [feat(client): Extended query to be able to refer to the genesis and the earliest [oldest] available blocks](https://github.com/nearprotocol/nearcore/pull/3127) by [@frol](https://github.com/frol)
-  <!-- ^ comments: 10 -->
-- PR: [fix(network): Verify edge on separate thread](https://github.com/nearprotocol/nearcore/pull/3145) by [@mfornet](https://github.com/mfornet)
-  <!-- ^ comments: 10 -->
-- PR: [fix(gc): address slowness in forks cleaning](https://github.com/nearprotocol/nearcore/pull/3121) by [@bowenwang1996](https://github.com/bowenwang1996)
-  <!-- ^ comments: 9 -->
-- PR: [fix(runtime-params-estimator): disable rocksdb thread in it](https://github.com/nearprotocol/nearcore/pull/3091) by [@ailisp](https://github.com/ailisp)
-  <!-- ^ comments: 7 -->
-- PR: [test: Various stress.py changes](https://github.com/nearprotocol/nearcore/pull/3189) by [@SkidanovAlex](https://github.com/SkidanovAlex)
-  <!-- ^ comments: 6 -->
-- PR: [fix: Properly handling stalls due to 1-height differences](https://github.com/nearprotocol/nearcore/pull/3175) by [@SkidanovAlex](https://github.com/SkidanovAlex)
-  <!-- ^ comments: 5 -->
-- PR: [feat: delay detector](https://github.com/nearprotocol/nearcore/pull/3126) by [@bowenwang1996](https://github.com/bowenwang1996)
-  <!-- ^ comments: 5 -->
-- PR: [fix: remove sync head](https://github.com/nearprotocol/nearcore/pull/3255) by [@bowenwang1996](https://github.com/bowenwang1996)
-  <!-- ^ comments: 4 -->
-- PR: [fix(network_drop_package): Process was starving](https://github.com/nearprotocol/nearcore/pull/3210) by [@mfornet](https://github.com/mfornet)
-  <!-- ^ comments: 4 -->
-- PR: [Revert "Revert "feat(store): Refcounted DB columns (#3215)" (#3226)" ](https://github.com/nearprotocol/nearcore/pull/3230) by [@mikhailOK](https://github.com/mikhailOK)
-  <!-- ^ comments: 4 -->
-- PR: [Refcounted DB columns](https://github.com/nearprotocol/nearcore/pull/3215) by [@mikhailOK](https://github.com/mikhailOK)
-  <!-- ^ comments: 4 -->
-- PR: [fix: skip signature verification in produce_chunk](https://github.com/nearprotocol/nearcore/pull/3224) by [@bowenwang1996](https://github.com/bowenwang1996)
 
 #### [Nervos](https://github.com/nervosnetwork)
 
@@ -317,17 +306,7 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
   - [CKB Studio Tutorial](https://www.youtube.com/watch?v=lOxXrVIfT2Y)
   - [Understanding the Token Sale Lock Script](https://www.youtube.com/watch?v=ysUbx4FAKlE)
 - PR: [Feat: lazy initialization memory](https://github.com/nervosnetwork/ckb-vm/pull/107) by [@mohanson](https://github.com/mohanson)
-- PR: [feat: add metrics service](https://github.com/nervosnetwork/ckb/pull/2199) by [@yangby-cryptape](https://github.com/yangby-cryptape)
-  <!-- ^ comments: 16 -->
-- PR: [feat: add more fields to rpc `get_peers`](https://github.com/nervosnetwork/ckb/pull/2196) by [@quake](https://github.com/quake)
-  <!-- ^ comments: 7 -->
-- PR: [refactor: Rewrite ping](https://github.com/nervosnetwork/ckb/pull/2229) by [@driftluo](https://github.com/driftluo)
-  <!-- ^ comments: 4 -->
-- PR: [feat: support to control memory usage for header map](https://github.com/nervosnetwork/ckb/pull/2239) by [@yangby-cryptape](https://github.com/yangby-cryptape)
-  <!-- ^ comments: 4 -->
 - PR: [Introduce version and fix various bugs](https://github.com/nervosnetwork/ckb-vm/pull/99) by [@xxuejie](https://github.com/xxuejie)
-  <!-- ^ comments: 4 -->
-- PR: [refactor: replace logs by metrics for memory tracker](https://github.com/nervosnetwork/ckb/pull/2201) by [@yangby-cryptape](https://github.com/yangby-cryptape)
 
 #### [Oasis](https://github.com/oasislabs)
 
@@ -341,22 +320,17 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 - News: 
   - [The Biggest University Program on a Layer 1 Network Just Launched on the Oasis Network](https://medium.com/oasis-protocol-project/the-biggest-university-program-on-a-blockchain-network-just-launched-on-the-oasis-network-2a3c3a0dec1d)
   - [Oasis Labs Joins Forces with Binance to Launch CryptoSafe Alliance and Decentralized Platform for Combatting Crypto Fraud](https://medium.com/oasislabs/oasis-labs-joins-forces-with-binance-to-launch-cryptosafe-alliance-and-decentralized-platform-for-db3efa182e37)
-- Blog: [Programming Data and Money: The Data Market Yield](https://medium.com/oasis-protocol-project/programming-data-and-money-the-data-market-yield-ad27a8b35c10). 
+- Blog: 
+  - [Programming Data and Money: The Data Market Yield](https://medium.com/oasis-protocol-project/programming-data-and-money-the-data-market-yield-ad27a8b35c10). 
   How the Oasis Network can enable not just programmable money — like other blockchains — but tokenized data that can help users be fairly compensated for their data and personal information.
-- Blog: [The Journey of a Transaction](https://medium.com/oasis-protocol-project/the-journey-of-a-transaction-ad85a94d0a5b). 
+  - [The Journey of a Transaction](https://medium.com/oasis-protocol-project/the-journey-of-a-transaction-ad85a94d0a5b). 
   A story illustrating how transactions are processed by the Oasis Network, and how it's first-of-its-kind design allows data to remain confidential, private, and highly available on the network.
-- Blog: [The Internet’s Untapped Potential](https://medium.com/oasis-protocol-project/the-internets-untapped-potential-4d16b5107a50)
+  - [The Internet’s Untapped Potential](https://medium.com/oasis-protocol-project/the-internets-untapped-potential-4d16b5107a50)
   The Oasis Foundation's proposal for a new ethos for digital stewardship, 
   and how with the right technology and the right guiding principles, 
   we can create a society that handles data and individuals rights more responsibly.
-
 - PR: [Add custom section with version info to WASM](https://github.com/oasislabs/oasis-cli/pull/159) by [@mitjat](https://github.com/mitjat)
-  <!-- ^ comments: 7 -->
-- PR: [revert testing commit](https://github.com/oasislabs/oasis-ethwasi-runtime/pull/1009) by [@ptrus](https://github.com/ptrus)
 - PR: [Update to oasis-core 20.9](https://github.com/oasislabs/oasis-ethwasi-runtime/pull/1008) by [@ptrus](https://github.com/ptrus)
-
-<!-- total GitHub calls: 15, new GitHub calls: 15 -->
-
 
 #### [Parity](https://github.com/paritytech)
 
@@ -384,63 +358,10 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
   - Hackusama Webinar Series: 
     [Week 6 | Status update, Parachain Economics, WanXiang](https://www.youtube.com/watch?v=7uW2L-ojtTM),
     [Week 5 | Status update, Account Primitives, DoraHacks, PolkaBase](https://www.youtube.com/watch?v=6Eik4TPC2iw)
-- PR: [Merge Subkey into sc-cli](https://github.com/paritytech/substrate/pull/4954) by [@seunlanlege](https://github.com/seunlanlege)
-  <!-- ^ comments: 199 -->
-- PR: [Initial guide text for approvals and especially approvals assignments ](https://github.com/paritytech/polkadot/pull/1518) by [@burdges](https://github.com/burdges)
-  <!-- ^ comments: 93 -->
-- PR: [impl availability distribution](https://github.com/paritytech/polkadot/pull/1460) by [@drahnr](https://github.com/drahnr)
-  <!-- ^ comments: 93 -->
 - PR: [Implement request-responses protocols](https://github.com/paritytech/substrate/pull/6634) by [@tomaka](https://github.com/tomaka)
-  <!-- ^ comments: 68 -->
-- PR: [Add Subscription RPC for Grandpa Finality](https://github.com/paritytech/substrate/pull/5732) by [@HCastano](https://github.com/HCastano)
-  <!-- ^ comments: 64 -->
-- PR: [Add a `LightSyncState` field to the chain spec](https://github.com/paritytech/substrate/pull/6894) by [@expenses](https://github.com/expenses)
-  <!-- ^ comments: 62 -->
 - PR: [Add a DirectedGossip struct](https://github.com/paritytech/substrate/pull/6803) by [@tomaka](https://github.com/tomaka)
-  <!-- ^ comments: 48 -->
-- PR: [implement provisioner](https://github.com/paritytech/polkadot/pull/1473) by [@coriolinus](https://github.com/coriolinus)
-  <!-- ^ comments: 47 -->
-- PR: [Add async test helper to timeout and provide a task_executor automatically](https://github.com/paritytech/substrate/pull/6651) by [@cecton](https://github.com/cecton)
-  <!-- ^ comments: 45 -->
-- PR: [Implementer's guide: downward messages and HRMP, take 2](https://github.com/paritytech/polkadot/pull/1503) by [@pepyakin](https://github.com/pepyakin)
-  <!-- ^ comments: 37 -->
-- PR: [Implementer's Guide: Flesh out more details for upward messages](https://github.com/paritytech/polkadot/pull/1556) by [@pepyakin](https://github.com/pepyakin)
-  <!-- ^ comments: 30 -->
-- PR: [implement collation generation subsystem](https://github.com/paritytech/polkadot/pull/1557) by [@coriolinus](https://github.com/coriolinus)
-  <!-- ^ comments: 29 -->
-- PR: [seal: Fix and improve error reporting](https://github.com/paritytech/substrate/pull/6773) by [@athei](https://github.com/athei)
-  <!-- ^ comments: 27 -->
 - PR: [RpcHandlers Refactorings](https://github.com/paritytech/substrate/pull/6846) by [@seunlanlege](https://github.com/seunlanlege)
-  <!-- ^ comments: 25 -->
-- PR: [Add RPC Builder to Substrate Node Template](https://github.com/paritytech/substrate/pull/6808) by [@Meuko](https://github.com/Meuko)
-  <!-- ^ comments: 25 -->
-- PR: [initial prometheus metrics](https://github.com/paritytech/polkadot/pull/1536) by [@ordian](https://github.com/ordian)
-  <!-- ^ comments: 24 -->
-- PR: [Implementer's Guide: Incorporate HRMP to TransientValidationData ](https://github.com/paritytech/polkadot/pull/1588) by [@pepyakin](https://github.com/pepyakin)
-  <!-- ^ comments: 23 -->
 - PR: [Dynamic Benchmarking DB Whitelist](https://github.com/paritytech/substrate/pull/6815) by [@shawntabrizi](https://github.com/shawntabrizi)
-  <!-- ^ comments: 19 -->
-- PR: [guide: validation data refactoring](https://github.com/paritytech/polkadot/pull/1576) by [@rphmeier](https://github.com/rphmeier)
-  <!-- ^ comments: 18 -->
-- PR: [Update to libp2p-0.23.](https://github.com/paritytech/substrate/pull/6870) by [@romanb](https://github.com/romanb)
-  <!-- ^ comments: 17 -->
-- PR: [proposer: wait for a hash to be in the active-leaves set](https://github.com/paritytech/polkadot/pull/1616) by [@ordian](https://github.com/ordian)
-  <!-- ^ comments: 16 -->
-- PR: [Improve Benchmark Writer: Remove Unused Components, Remove Multiply by Zero, Files Split by Pallet](https://github.com/paritytech/substrate/pull/6785) by [@shawntabrizi](https://github.com/shawntabrizi)
-  <!-- ^ comments: 14 -->
-- PR: [add generated weight info for pallet-collective](https://github.com/paritytech/substrate/pull/6789) by [@apopiak](https://github.com/apopiak)
-  <!-- ^ comments: 13 -->
-- PR: [Custom Codec Implementation for NPoS Election](https://github.com/paritytech/substrate/pull/6720) by [@kianenigma](https://github.com/kianenigma)
-  <!-- ^ comments: 13 -->
-- PR: [Add release checklist](https://github.com/paritytech/polkadot/pull/1316) by [@shawntabrizi](https://github.com/shawntabrizi)
-  <!-- ^ comments: 13 -->
-- PR: [Network bridge refactoring impl](https://github.com/paritytech/polkadot/pull/1537) by [@rphmeier](https://github.com/rphmeier)
-  <!-- ^ comments: 13 -->
-- PR: [Add SyncOracle to network's Service](https://github.com/paritytech/polkadot/pull/1543) by [@cecton](https://github.com/cecton)
-  <!-- ^ comments: 13 -->
-- PR: [Companion PR for `Move subcommands from sc-cli to nodes #6948 `](https://github.com/paritytech/polkadot/pull/1635) by [@expenses](https://github.com/expenses)
-  <!-- ^ comments: 12 -->
-- PR: [Implement validation data refactor](https://github.com/paritytech/polkadot/pull/1585) by [@rphmeier](https://github.com/rphmeier)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
@@ -459,30 +380,8 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
   - [Secret Games Update: Incentivized Testnet Phase 2](https://blog.scrt.network/secret-games-update-incentivized-testnet-phase-2/)
 - Blog: [Secret Staking Derivatives: Liquidity Meets Privacy](https://blog.scrt.network/secret-staking-derivatives/)
 - Blog: [Secret Tokens: Programmable Privacy for DeFi](https://blog.scrt.network/secret-tokens-programmable-privacy-for-defi/)
-- PR: [Verification of msg.sender](https://github.com/enigmampc/SecretNetwork/pull/413) by [@toml01](https://github.com/toml01)
-  <!-- ^ comments: 66 -->
 - PR: [New and improved input validation](https://github.com/enigmampc/SecretNetwork/pull/419) by [@Cashmaney](https://github.com/Cashmaney)
-  <!-- ^ comments: 65 -->
 - PR: [CosmWasm v0.10](https://github.com/enigmampc/SecretNetwork/pull/477) by [@reuvenpo](https://github.com/reuvenpo)
-  <!-- ^ comments: 32 -->
-- PR: [Refactor output encryption](https://github.com/enigmampc/SecretNetwork/pull/445) by [@toml01](https://github.com/toml01)
-  <!-- ^ comments: 23 -->
-- PR: [Attestation advisories](https://github.com/enigmampc/SecretNetwork/pull/484) by [@Cashmaney](https://github.com/Cashmaney)
-  <!-- ^ comments: 18 -->
-- PR: [Secret-secret cli](https://github.com/enigmampc/SecretNetwork/pull/495) by [@Cashmaney](https://github.com/Cashmaney)
-  <!-- ^ comments: 15 -->
-- PR: [WIP: Gov querier & handler + TESTS](https://github.com/enigmampc/SecretNetwork/pull/498) by [@Cashmaney](https://github.com/Cashmaney)
-  <!-- ^ comments: 15 -->
-- PR: [Platform info](https://github.com/enigmampc/SecretNetwork/pull/448) by [@Cashmaney](https://github.com/Cashmaney)
-  <!-- ^ comments: 11 -->
-- PR: [Parameter verification fixes](https://github.com/enigmampc/SecretNetwork/pull/494) by [@toml01](https://github.com/toml01)
-  <!-- ^ comments: 9 -->
-- PR: [Fixed secretd/cli version in testnet builds](https://github.com/enigmampc/SecretNetwork/pull/492) by [@Cashmaney](https://github.com/Cashmaney)
-  <!-- ^ comments: 6 -->
-- PR: [Enclave tests](https://github.com/enigmampc/SecretNetwork/pull/431) by [@reuvenpo](https://github.com/reuvenpo)
-  <!-- ^ comments: 5 -->
-- PR: [Update azuredeploy.json](https://github.com/enigmampc/SecretNetwork/pull/435) by [@Cashmaney](https://github.com/Cashmaney)
-  <!-- ^ comments: 5 -->
 - PR: [Make query gas limit configurable for nodes](https://github.com/enigmampc/SecretNetwork/pull/437) by [@assafmo](https://github.com/assafmo)
 
 #### [Solana](https://github.com/solana-labs/solana)
@@ -498,29 +397,8 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 - Video: [The Future of DeFi](https://www.youtube.com/watch?v=UpaHUb-Lf-0)
 - Podcast: [Justin Drake - Ethereum 2.0 Researcher Ep #25](https://podcast.solana.com/episodes/justin-drake-ethereum-20-researcher-ep-25)
 - Podcast: [Sam Bankman-Fried - CEO of FTX, Co-founder of Serum Ep #24](https://podcast.solana.com/episodes/sam-bankman-fried-ceo-of-ftx-co-founder-of-serum-ep-24)
-- PR: [Switch programs activation to whole-set based gating](https://github.com/solana-labs/solana/pull/11750) by [@jackcmay](https://github.com/jackcmay)
-  <!-- ^ comments: 22 -->
-- PR: [Return token amounts as floats](https://github.com/solana-labs/solana/pull/11370) by [@CriesofCarrots](https://github.com/CriesofCarrots)
-  <!-- ^ comments: 17 -->
-- PR: [Decode native-program and sysvar accounts](https://github.com/solana-labs/solana/pull/11463) by [@CriesofCarrots](https://github.com/CriesofCarrots)
-  <!-- ^ comments: 15 -->
-- PR: [Ensure that the spl-token 2 native mint account is owned by the spl-token 2 program](https://github.com/solana-labs/solana/pull/11966) by [@mvines](https://github.com/mvines)
-  <!-- ^ comments: 14 -->
-- PR: [explorer: Auto-update transactions until they reach max confirmation](https://github.com/solana-labs/solana/pull/11841) by [@oJshua](https://github.com/oJshua)
-  <!-- ^ comments: 14 -->
 - PR: [Submit a vote timestamp every vote](https://github.com/solana-labs/solana/pull/10630) by [@mvines](https://github.com/mvines)
-  <!-- ^ comments: 14 -->
-- PR: [Add StakeInstruction::AuthorizeWithSeed](https://github.com/solana-labs/solana/pull/11700) by [@garious](https://github.com/garious)
-  <!-- ^ comments: 11 -->
-- PR: [Update instruction encoding format](https://github.com/solana-labs/solana/pull/11363) by [@CriesofCarrots](https://github.com/CriesofCarrots)
-  <!-- ^ comments: 6 -->
-- PR: [Add tests for the Debug and activation Vecs](https://github.com/solana-labs/solana/pull/11926) by [@ryoqun](https://github.com/ryoqun)
-  <!-- ^ comments: 6 -->
-- PR: [Update epoch gating](https://github.com/solana-labs/solana/pull/11880) by [@jackcmay](https://github.com/jackcmay)
-  <!-- ^ comments: 6 -->
-- PR: [Add SystemInstruction::CreateAccount support to CPI](https://github.com/solana-labs/solana/pull/11649) by [@jackcmay](https://github.com/jackcmay)
-  <!-- ^ comments: 5 -->
-- PR: [Vote timestamp may equal previous timestamp](https://github.com/solana-labs/solana/pull/11715) by [@CriesofCarrots](https://github.com/CriesofCarrots)
+- PR: [Switch programs activation to whole-set based gating](https://github.com/solana-labs/solana/pull/11750) by [@jackcmay](https://github.com/jackcmay)
 
 #### [Zcash](https://z.cash/)
 
@@ -546,54 +424,9 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
   - [August 18 Community Call on MGRC Structure](https://www.zfnd.org/blog/mgrc-community-call-august-2020/)
   - [Expanding Membership to the Zcash Community Advisory Panel](https://www.zfnd.org/blog/expanding-cap/)
 - Report: [Zcash Network Privacy: An Assessment of Current State and Future Work.](https://www.zfnd.org/blog/zf-network-privacy-assessment/)
-- PR: [Notes, commitments, nullifiers, etc](https://github.com/ZcashFoundation/zebra/pull/596) by [@yaahc](https://github.com/yaahc)
 - PR: [ZIP212 implementation](https://github.com/zcash/librustzcash/pull/258) by [@therealyingtong](https://github.com/therealyingtong)
-- PR: [rfc: Parallel Verification](https://github.com/ZcashFoundation/zebra/pull/763) by [@teor2345](https://github.com/teor2345)
-  <!-- ^ comments: 72 -->
-- PR: [ZIP400 - informational wallet db format](https://github.com/zcash/zips/pull/372) by [@oxarbitrage](https://github.com/oxarbitrage)
-  <!-- ^ comments: 57 -->
-- PR: [Implement group and pairing traits for bls12_381 and jubjub crates](https://github.com/zcash/librustzcash/pull/245) by [@str4d](https://github.com/str4d)
-  <!-- ^ comments: 50 -->
-- PR: [Setup tracing-flame for use profiling zebrad](https://github.com/ZcashFoundation/zebra/pull/436) by [@yaahc](https://github.com/yaahc)
-  <!-- ^ comments: 47 -->
-- PR: [Command execution tests](https://github.com/ZcashFoundation/zebra/pull/690) by [@oxarbitrage](https://github.com/oxarbitrage)
-  <!-- ^ comments: 42 -->
 - PR: [zebra-state: Add support for temporary sled databases](https://github.com/ZcashFoundation/zebra/pull/939) by [@vramana](https://github.com/vramana)
-  <!-- ^ comments: 40 -->
-- PR: [Implement Inventory Tracking RFC](https://github.com/ZcashFoundation/zebra/pull/963) by [@yaahc](https://github.com/yaahc)
-  <!-- ^ comments: 37 -->
-- PR: [Add async script RFC](https://github.com/ZcashFoundation/zebra/pull/868) by [@hdevalence](https://github.com/hdevalence)
-  <!-- ^ comments: 27 -->
-- PR: [Migrate to bls12_381 and jubjub crates](https://github.com/zcash/librustzcash/pull/272) by [@str4d](https://github.com/str4d)
-  <!-- ^ comments: 27 -->
-- PR: [Remove in-memory state service](https://github.com/ZcashFoundation/zebra/pull/974) by [@yaahc](https://github.com/yaahc)
-  <!-- ^ comments: 24 -->
-- PR: [Valid generated config acceptance test](https://github.com/ZcashFoundation/zebra/pull/859) by [@oxarbitrage](https://github.com/oxarbitrage)
-  <!-- ^ comments: 24 -->
-- PR: [feature: Implement CompactDifficulty to Work](https://github.com/ZcashFoundation/zebra/pull/838) by [@teor2345](https://github.com/teor2345)
-  <!-- ^ comments: 24 -->
-- PR: [Make zebra-script wrap the C++ script implementation in zcashconsensus](https://github.com/ZcashFoundation/zebra/pull/708) by [@yaahc](https://github.com/yaahc)
-  <!-- ^ comments: 22 -->
-- PR: [Use transcript in consensus chain tests](https://github.com/ZcashFoundation/zebra/pull/858) by [@oxarbitrage](https://github.com/oxarbitrage)
-  <!-- ^ comments: 18 -->
-- PR: [Use transcripts in block verify tests](https://github.com/ZcashFoundation/zebra/pull/675) by [@oxarbitrage](https://github.com/oxarbitrage)
-  <!-- ^ comments: 17 -->
-- PR: [Implement Add for Work](https://github.com/ZcashFoundation/zebra/pull/894) by [@teor2345](https://github.com/teor2345)
-  <!-- ^ comments: 16 -->
-- PR: [Make sync ignore known hashes](https://github.com/ZcashFoundation/zebra/pull/853) by [@teor2345](https://github.com/teor2345)
-  <!-- ^ comments: 16 -->
-- PR: [Update sha2@0.9.1](https://github.com/ZcashFoundation/zebra/pull/938) by [@vramana](https://github.com/vramana)
-  <!-- ^ comments: 15 -->
-- PR: [Refactor acceptance serialized_tests](https://github.com/ZcashFoundation/zebra/pull/920) by [@oxarbitrage](https://github.com/oxarbitrage)
-  <!-- ^ comments: 15 -->
-- PR: [Bytes read and bytes written metrics](https://github.com/ZcashFoundation/zebra/pull/901) by [@oxarbitrage](https://github.com/oxarbitrage)
-  <!-- ^ comments: 15 -->
 - PR: [Fix sync algorithm.](https://github.com/ZcashFoundation/zebra/pull/887) by [@hdevalence](https://github.com/hdevalence)
-  <!-- ^ comments: 15 -->
-- PR: [Remove environment variables in favor of documented config options.](https://github.com/ZcashFoundation/zebra/pull/827) by [@hdevalence](https://github.com/hdevalence)
-  <!-- ^ comments: 14 -->
-- PR: [Make more checks in non server acceptance tests](https://github.com/ZcashFoundation/zebra/pull/860) by [@oxarbitrage](https://github.com/oxarbitrage)
-  <!-- ^ comments: 11 -->
 - PR: [bellman: add VerificationError](https://github.com/zcash/librustzcash/pull/254) by [@hdevalence](https://github.com/hdevalence)
 
 &nbsp;

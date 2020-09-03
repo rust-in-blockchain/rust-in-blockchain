@@ -156,6 +156,8 @@ generate profit from open source software.
 - [What is a Cryptographic Hash Function?](https://decentralizedthoughts.github.io/2020-08-28-what-is-a-cryptographic-hash-function/)
 - [A Gentle Introduction to Zero Knowledge Proofs with Hands on Examples](https://dochdoch.gitlab.io/snark_intro/snark_intro_front/).
   Examples in Rust.
+- [My first smart contract in Rust on Elrond VM](https://hiddentao.com/archives/2020/07/17/my-first-smart-contract-in-rust-on-elrond-vm)
+
 
 #### Papers 
 

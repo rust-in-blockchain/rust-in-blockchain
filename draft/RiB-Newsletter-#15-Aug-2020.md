@@ -1,8 +1,14 @@
-RiB Newsletter #15 - So Long and Thanks for All the Turbofish
- - Aug 2020"
-
+---
+title: "RiB Newsletter #15 – So Long and Thanks for All the Turbofish"
+description: "#15 - August 2020"
 date: 2020-09-02
-
+slug: "/2020-08-05-are-we-smart-contract-yet"
+categories:
+  - "newsletters"
+summary: This month, we're seeing a bunch of interesting Rust blockchain and crypto projects. 
+  Elrond, appeared on our radar with the launch of their mainnet.
+  Although not written in Rust,
+---
 Welcome to the #15 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
 [Previous: #14](/newsletters/2020-08-05-are-we-smart-contract-yet/).
 

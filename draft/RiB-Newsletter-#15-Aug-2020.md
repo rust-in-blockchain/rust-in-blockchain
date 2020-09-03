@@ -13,7 +13,7 @@ This month we see continued advancement in zero-knowledge computing,
 an obvious focus from the entire blockchain industry on the DeFi phenomenon,
 and some new hackathons with opportunities for Rust developers.
 
-Every month we see advancements in zero-knowledge proofs,
+Every month seems to bring advancements in zero-knowledge proofs,
 and new implementations in Rust.
 It is a research area that will probably impact the general computing industry eventually,
 and one where the blockchain industry is leading the way,

@@ -76,8 +76,6 @@ withdrawal, and the project will continue nearly unaffected.
 
 [mozlay]: https://news.ycombinator.com/item?id=24120336
 
-
-
 &nbsp;
 
 ## Thanks
@@ -133,6 +131,8 @@ fluence is actually a complete distributed computing platform,
 with a unique vision about using license management to
 generate profit from open source software.
 
+
+&nbsp;
 
 
 ## Interesting Things

@@ -11,7 +11,7 @@ and again it's impossible to follow everything going on.
 
 This month we see continued advancement in zero-knowledge computing,
 an obvious focus from the entire blockchain industry on the DeFi phenomenon,
-and a proliferation of hackathons with opportunities for Rust developers.
+and some new hackathons with opportunities for Rust developers.
 
 Every month we see advancements in zero-knowledge proofs,
 and new implementations in Rust.
@@ -45,19 +45,18 @@ called [Halo 2][halo2], which uses a new zkSNARK construction, [PLONK].
 [halo2]: https://github.com/zcash/halo2
 [PLONK]: https://eprint.iacr.org/2019/953
 
-More Rust blockchain projects launched this week,
-including [Secret Network][smain],
-a blockchain that performs computations in secure enclaves,
+Two projects built on Rust blockchains launched this month:
 [Serum][serumlaunch],
-a decentralized exchange built on Solana,
+a decentralized exchange built on Solana;
 and [Flux][flaunch],
 a prediction market built on NEAR.
+Next month [Secret Network launches their mainnet][smain].
 
 [smain]: https://blog.scrt.network/secret-contracts-mainnet/
 [serumlaunch]: https://projectserum.com/blog/serum-launch
 [flaunch]: https://medium.com/@fluxmarket/flux-is-live-on-mainnet-741cf2dbe126
 
-Finally, this month [Mozilla laid off all but one of its full-time Rust
+Finally, [Mozilla laid off all but one of its full-time Rust
 employees][mozlay]. There are a few other people left at Mozilla who actively
 contribute to Rust as part of their role in Firefox, but this mostly ends
 Mozilla's committment to Rust's development.

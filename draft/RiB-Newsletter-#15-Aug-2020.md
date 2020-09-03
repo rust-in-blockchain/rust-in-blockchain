@@ -1,4 +1,4 @@
-RiB Newsletter #15 - So Long and Thanks for All the Turbofish
+RiB Newsletter #15
  - Aug 2020"
 
 date: 2020-09-02
@@ -63,8 +63,6 @@ Mozilla's committment to Rust's development.
 
 There's no need to worry though. Rust was designed to outlive Mozilla's
 withdrawal, and the project will continue nearly unaffected.
-
-So long, Mozilla, and thanks for all the turbofish.
 
 [mozlay]: https://news.ycombinator.com/item?id=24120336
 

@@ -60,7 +60,7 @@ Two projects built on Rust blockchains launched this month:
 a decentralized exchange built on Solana;
 and [Flux][flaunch],
 a prediction market built on NEAR.
-Next month [Secret Network launches their mainnet][smain].
+Soon [Secret Network launches their mainnet][smain].
 
 [smain]: https://blog.scrt.network/secret-contracts-mainnet/
 [serumlaunch]: https://projectserum.com/blog/serum-launch

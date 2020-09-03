@@ -1,14 +1,18 @@
 ---
-title: "RiB Newsletter #15 – So Long and Thanks for All the Turbofish"
+title: "RiB Newsletter #15 – Turbofish in the Blocksea"
 description: "#15 - August 2020"
 date: 2020-09-02
-slug: "/2020-08-05-are-we-smart-contract-yet"
+slug: "/2020-09-02-turbofish-in-the-blocksea"
 categories:
   - "newsletters"
-summary: This month, we're seeing a bunch of interesting Rust blockchain and crypto projects. 
-  Elrond, appeared on our radar with the launch of their mainnet.
-  Although not written in Rust,
+summary: "Rust blockchain development continued at its typical blistering pace,
+  and again it's impossible to follow everything going on.
+  This month we see continued advancement in zero-knowledge computing,
+  an obvious focus from the entire blockchain industry on the DeFi phenomenon,
+  and new hackathons with opportunities for Rust developers."
+
 ---
+
 Welcome to the #15 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
 [Previous: #14](/newsletters/2020-08-05-are-we-smart-contract-yet/).
 
@@ -69,8 +73,6 @@ Mozilla's committment to Rust's development.
 
 There's no need to worry though. Rust was designed to outlive Mozilla's
 withdrawal, and the project will continue nearly unaffected.
-
-So long, Mozilla, and thanks for all the turbofish.
 
 [mozlay]: https://news.ycombinator.com/item?id=24120336
 

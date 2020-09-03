@@ -69,7 +69,7 @@ Next month [Secret Network launches their mainnet][smain].
 Finally, [Mozilla laid off all but one of its full-time Rust
 employees][mozlay]. There are a few other people left at Mozilla who actively
 contribute to Rust as part of their role in Firefox, but this mostly ends
-Mozilla's committment to Rust's development.
+Mozilla's commitment to Rust's development.
 
 There's no need to worry though. Rust was designed to outlive Mozilla's
 withdrawal, and the project will continue nearly unaffected.
@@ -129,7 +129,7 @@ We're excited about this because license management is a
 rare non-currency use case for blockchains that makes a lot of sense.
 While we might expect to see more blockchain platforms devoted solely
 to digital licensing,
-fluence is actually a complete distributed computing plaftorm,
+fluence is actually a complete distributed computing platform,
 with a unique vision about using license management to
 generate profit from open source software.
 
@@ -139,7 +139,7 @@ generate profit from open source software.
 
 #### News
 
-- [James Waugh][contributorjamesw] shared big news from Secret Network.
+- [James Waugh][contributorjamesw] shared big news from Secret Network. 
   > Privacy-preserving smart contracts are going live on Secret Network Tuesday, September 15! 
   > Now developers can build and deploy “secret contracts” with encrypted inputs, outputs, and state.
 - [Welcome to Aleo](https://www.aleo.org/post/welcome-to-aleo).

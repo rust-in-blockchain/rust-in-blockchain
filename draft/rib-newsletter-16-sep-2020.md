@@ -1,7 +1,7 @@
 # RiB Newsletter #16
 
 
-Welcome to the #16 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
+Welcome to the #16 edition of Rust in Blockchain, the hypest newsletter about the hypest tech.
 [Previous: #15](/newsletters/2020-09-02-turbofish-in-the-blocksea/).
 
 
@@ -17,6 +17,17 @@ Contributors.
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[Conflux Network](https://github.com/Conflux-Chain).
+
+Conflux Network is a PoW blockchain written in Rust that achieves 3000+ transactions per second through the innovative [Tree-Graph structure](https://www.usenix.org/system/files/atc20-li-chenxing.pdf), and is only state-endorsed public, permissionless blockchain project in China. The goal of Conflux Network is to provide a stable yet highly scalable foundation for developers to build and grow new applications and marketplaces in Web3 through our many benefits such as:
+* EVM compatibility
+* High transaction rates and low transaction fees
+* [Native staking](https://medium.com/conflux-network/conflux-economic-model-staking-collateral-for-storage-on-conflux-network-cb4c8c150e3)
+* [Transaction sponsorship mechanism](https://medium.com/conflux-network/conflux-transaction-sponsorship-mechanism-2c9acfe770c2)
+* [Grants program](https://www.grants.confluxnetwork.org/)
+* Chinese community access
+
+
 &nbsp;
 
 
@@ -28,7 +39,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 
-#### Papers 
+#### Papers
 
 #### Projects
 
@@ -82,5 +93,3 @@ Want to be included in the next issue? Feel free to submit a PR to the
 or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 **Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**
-
-

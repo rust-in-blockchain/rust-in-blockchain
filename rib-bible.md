@@ -54,6 +54,23 @@ repos = [
 ]
 ```
 
+## Conflux Network
+
+Media:
+
+- https://twitter.com/Conflux_Network
+- https://medium.com/conflux-network
+
+GitHub:
+
+- https://github.com/Conflux-Chain
+
+``` toml
+repos = [
+"Conflux-Chain/conflux-rust",
+]
+```
+
 ## Crypto.com Chain
 
 Media:
@@ -263,7 +280,7 @@ repos = [
 "oasislabs/oasis-ethwasi-runtime",
 "oasislabs/oasis-rs",
 "oasislabs/oasis-cli",
-"oasislabs/oasis-chain", 
+"oasislabs/oasis-chain",
 ]
 ```
 

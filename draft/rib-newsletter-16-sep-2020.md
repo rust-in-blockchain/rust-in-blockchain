@@ -32,6 +32,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Crust](https://github.com/crustio/crust).
+Implementation of a Crust protocol node with Substrate.
+- [Magical Bitcoin Library](https://github.com/bitcoindevkit/bdk/tree/0.1.0-beta.1).
+A modern, lightweight, descriptor-based wallet library written in Rust.
+- [Phala](https://github.com/Phala-Network/phala-blockchain).
+Phala Network is a TEE-Blockchain hybrid architecture implementing Confidential Contract. 
+- [TezEdge](https://github.com/simplestaking/tezedge).
+Tezos node/shell in Rust.
+
 #### Podcasts and Videos
 
 

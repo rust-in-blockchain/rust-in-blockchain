@@ -12,6 +12,13 @@ Welcome to the #16 edition of Rust in Blockchain, the hypest newsletter about th
 
 Contributors.
 
+RiB needs help to keep up with Rust blockchain projects. 
+If you follow a particular project, or otherwise find information 
+that is beneficial to the Rust & blockchain community, 
+please contribute to the next issue. 
+Either submit a PR to the [#17 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), 
+or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+
 &nbsp;
 
 ## Project Spotlight
@@ -33,8 +40,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Anon](https://github.com/hicommonwealth/anon).
+Substrate modules for anonymous group actions (ring signatures + merkle proofs).
+- [Bitcoins-rs](https://github.com/summa-tx/bitcoins-rs). Bitcoin-oriented dev toolboxes for native and browser apps.
 - [Crust](https://github.com/crustio/crust).
 Implementation of a Crust protocol node with Substrate.
+- [Curv](https://github.com/ZenGo-X/curv) has built-in support for some useful operations/primitives such as verifiable secret sharing, commitment schemes, zero-knowledge proofs, and simple two-party protocols such as ECDH and coin flip.
+- [Edgeware](https://github.com/hicommonwealth/edgeware-node).
+Substrate node implementing Edgeware. It's an
+On-chain Governed, Proof-of-Stake (PoS) Blockchain with a WASM Runtime
+- [Hacspec](https://github.com/hacspec/hacspec). A specification language for cryptography primitives.
 - [Magical Bitcoin Library](https://github.com/bitcoindevkit/bdk/tree/0.1.0-beta.1).
 A modern, lightweight, descriptor-based wallet library written in Rust.
 - [Phala](https://github.com/Phala-Network/phala-blockchain).
@@ -53,6 +68,37 @@ Tezos node/shell in Rust.
 &nbsp;
 
 ## Project Updates
+
+
+#### [Aleo](https://github.com/AleoHQ)
+
+#### [Conflux](https://github.com/Conflux-Chain)
+
+#### [COMIT](https://github.com/comit-network)
+
+#### [Crypto.com Chain](https://chain.crypto.com)
+
+#### [Elrond](https://github.com/ElrondNetwork)
+
+#### [Holochain](https://github.com/holochain/)
+
+#### [Libra](https://libra.org)
+
+#### [Lighthouse](https://lighthouse.sigmaprime.io/)
+
+#### [MobileCoin](https://www.mobilecoin.com/)
+
+#### [NEAR](https://github.com/nearprotocol/nearcore)
+
+#### [Nervos](https://github.com/nervosnetwork)
+
+#### [Parity](https://github.com/paritytech)
+
+#### [Secret Network](https://github.com/enigmampc/SecretNetwork)
+
+#### [Solana](https://github.com/solana-labs/solana)
+
+#### [Zcash](https://z.cash/)
 
 
 &nbsp;

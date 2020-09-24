@@ -12,8 +12,16 @@ pager: false
 
 
 Casper Labs | Remote
-- [Core Engineer: dApp Development](https://apply.workable.com/casperlabs/j/F9076101B3/)
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
+
+Chainlink | Remote
+- [Blockchain Tools Engineer - Entry Level](https://careers.smartcontract.com/o/blockchain-tools-engineer-entry-level)
+
+Compound | Remote
+- [Rust Engineer](https://www.crypto-careers.com/jobs/39500671-rust-engineer-at-compound)
+
+Dock | Remote
+- [Rust & DevOps](https://www.cryptojobsdaily.com/job/dock-blockchain-developer-rust-devops/)
 
 Equilibrium | Remote
 - [Senior Software Engineer Rust/Go](https://www.notion.so/Hiring-Senior-Software-Engineer-Rust-Go-e6c94ccc261f426c80a483c7fc642412)
@@ -22,9 +30,6 @@ Findora | Beijing, China; Menlo Park, CA
 - [Cryptography Engineer](https://jobs.lever.co/findora/082d76ed-3371-4374-b5f5-25be99df2bdb)
 - [Director of Engineering](https://jobs.lever.co/findora/d1981ece-fb53-4b41-96d9-346b1974a7d8)
 - [Senior Systems Engineer](https://jobs.lever.co/findora/e89e2e02-622c-41da-a14d-c12d854a25b5)
-
-Informal Systems | Berlin, Toronto, Remote
-- [Senior Distributed Systems Engineer](https://informal.systems/careers/senior-distributed-systems-engineer/)
 
 Kraken | Remote
 - [Backend Engineer - Rust](https://jobs.lever.co/kraken/4019a818-4a7b-46ef-9225-c53c7a7f238c)
@@ -37,9 +42,6 @@ Libra | San Francisco, CA or Geneva, Switzerland
 
 Moonbeam | Boston, MA USA; Madrid, Spain; Remote
 - [Senior Blockchain Engineer](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
-
-NEAR | Remote
-- [General Purpose Full-time Engineer - Rust](https://twitter.com/mzavershynskyi/status/1286056901914968065?s=20)
 
 Protocol Labs | Remote
 - [Software Engineer, Cryptography & Systems](https://jobs.lever.co/protocol/9afbc1c9-8b3b-4c03-856d-6b0cb5518eaa)

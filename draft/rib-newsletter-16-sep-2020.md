@@ -40,9 +40,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Acala](https://github.com/AcalaNetwork/Acala).  CrossChain StableCoin platform based on Substrate. 
 - [Anon](https://github.com/hicommonwealth/anon).
 Substrate modules for anonymous group actions (ring signatures + merkle proofs).
 - [Bitcoins-rs](https://github.com/summa-tx/bitcoins-rs). Bitcoin-oriented dev toolboxes for native and browser apps.
+- [Cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib). A library for serialization & deserialization of data structures used in Cardano's Haskell implementation of Shelley along with useful utility functions.
 - [Crust](https://github.com/crustio/crust).
 Implementation of a Crust protocol node with Substrate.
 - [Curv](https://github.com/ZenGo-X/curv) has built-in support for some useful operations/primitives such as verifiable secret sharing, commitment schemes, zero-knowledge proofs, and simple two-party protocols such as ECDH and coin flip.
@@ -126,6 +128,14 @@ Oct 27-28 | Dubai
 
 ## Careers
 
+Chainlink | Remote
+- [Blockchain Tools Engineer - Entry Level](https://careers.smartcontract.com/o/blockchain-tools-engineer-entry-level)
+
+Compound | Remote
+- [Rust Engineer](https://www.crypto-careers.com/jobs/39500671-rust-engineer-at-compound)
+
+Dock | Remote
+- [Rust & DevOps](https://www.cryptojobsdaily.com/job/dock-blockchain-developer-rust-devops/)
 
 More jobs can be found at [Job Board][page-jobboard].
 

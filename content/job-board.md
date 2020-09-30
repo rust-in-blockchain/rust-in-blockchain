@@ -11,6 +11,11 @@ pager: false
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
 
+Aleo | San Francisco, US; Remote
+- [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)
+- [Backend Developer](https://aleo.org/jobs/backend-developer)
+- [Senior Front-End Developer](https://aleo.org/jobs/senior-front-end-developer)
+
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
 

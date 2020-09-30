@@ -9,6 +9,25 @@ Guidelines when looking for content:
 - Look for PRs and issues with many comments
 - Sorting by most comments can help find important PRs
 
+## Aleo
+
+Media:
+
+- https://www.aleo.org
+- https://www.aleo.org/blog
+- https://twitter.com/AleoHQ
+
+GitHub:
+
+- https://github.com/AleoHQ
+
+```toml
+repos = [
+"AleoHQ/aleo",
+"AleoHQ/snarkOS",
+"Ale
+```
+
 ## CodeChain
 
 Media:

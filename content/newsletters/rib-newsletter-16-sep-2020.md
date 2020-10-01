@@ -1,11 +1,14 @@
 ---
-title: "RiB Newsletter #16 – "
+title: "RiB Newsletter #16 – Secure Enclaves à la Crab"
 description: "#16 - September 2020"
 date: 2020-09-30
-slug: "/2020-09-30-"
+slug: "/2020-09-30-secure-enclaves-a-la-crab"
 categories:
   - "newsletters"
-summary: ""
+summary: "For the last few months we've been following new zero-knowledge proof projects in Rust.
+This month, with Secret Network upgrading their mainnet with secret contracts,
+it seems like a good opportunity to explore Rust blockchains that are using
+a completely different privacy-preserving technology: secure enclaves."
 
 ---
 
@@ -596,6 +599,7 @@ Want to be included in the next issue? Feel free to submit a PR to the
 [#17 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft),
 or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
-**Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**
+![](../../images/2020-09-30-pumkin.jpg)
 
+**Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**
 

@@ -118,9 +118,9 @@ Aleo is a zero-knowledge blockchain,
 with its own zero-knowledge programming language,
 [Leo].
 
-I don't have a lot to say about it,
-but I think it looks cool.
-I hope they blog more.
+We don't have a lot to say about it,
+but we think it looks cool.
+We hope they blog more.
 
 [Aleo]: https://github.com/AleoHQ/
 [Leo]: https://github.com/AleoHQ/leo

@@ -74,10 +74,8 @@ Whether it's secure enclaves or zk-SNARKs,
 Rust blockchains are walking the bleeding edge of privacy technology.
 
 In unrelated RiB news, we recently received two donations,
-- 666 CKB in August:
->https://explorer.nervos.org/transaction/0x4eb46117c218482b84ce19c52ef02f642524b14ef4f39b9ad8c64bb75a8475ca
-- 500,000 CKB in September:
->https://explorer.nervos.org/transaction/0xdd9d3d0afaf07a3d91ff101475b3dffec0961e742c8cfdd617da3e7e9cef0c33
+- [666 CKB in August](https://explorer.nervos.org/transaction/0x4eb46117c218482b84ce19c52ef02f642524b14ef4f39b9ad8c64bb75a8475ca)
+- [500,000 CKB in September](https://explorer.nervos.org/transaction/0xdd9d3d0afaf07a3d91ff101475b3dffec0961e742c8cfdd617da3e7e9cef0c33)
 
 Thanks so much to our anonymous donors.
 We don't often receive donations,

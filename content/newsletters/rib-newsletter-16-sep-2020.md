@@ -42,9 +42,9 @@ But depending on SGX for privacy does have some special risks:
 software that runs in an SGX enclave must be signed (if transitively) by Intel's own cryptographic keys,
 which means that Intel must approve of any software running in SGX,
 that Intel can _revoke_ permission to use SGX,
-and that there is risk of the signing keys being compromised;
+and that there is a risk of the signing keys being compromised;
 and it's not obvious that secure enclaves are actually secure,
-there having already been a number of [attacks against SGX][sgxatt].
+there have already been a number of [attacks against SGX][sgxatt].
 Regardless,
 as of now,
 hardware enclaves provide security features that aren't feasible any other way.
@@ -92,7 +92,7 @@ In unrelated RiB news, we recently received two donations,
 
 Thanks so much to our anonymous donors.
 We don't often receive donations,
-so this was a nice suprise!
+so this was a nice surprise!
 We intend to put all monetary contributions to use funding events or new contributors,
 and we'll let you know what we do with the funds when we spend them.
 

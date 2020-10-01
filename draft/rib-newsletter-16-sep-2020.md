@@ -5,11 +5,85 @@ Publish on 30th September, 2020
 Welcome to the #16 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
 [Previous: #15](/newsletters/2020-09-02-turbofish-in-the-blocksea/).
 
-RiB got two donations,
+For the last few months we've been following new zero-knowledge proof projects in Rust.
+This month, with [Secret Network upgrading their mainnet with secret contracts][smain],
+it seems like a good opportunity to explore Rust blockchains that are using
+a completely different privacy-preserving technology: secure enclaves.
+
+[smain]: https://blog.scrt.network/upgrade-complete-secret-contracts-live-mainnet/
+
+Secure enclaves are processes whose environment is protected from inspection by other processes,
+even the kernel,
+by special hardware.
+This protection particularly involves the encryption of a process's memory.
+Software that wants to compute in secret can put those computations inside a secure enclave and,
+if everything works as expected,
+not even the hosting provider can snoop on the computations being performed,
+nor the secrets used in those computations.
+The most notable implementation of secure enclaves is Intel's [SGX] (Secure Guard Extensions).
+
+[SGX]: https://en.wikipedia.org/wiki/Software_Guard_Extensions
+
+Secure enclaves are an attractive way to perform private computation
+primarily because they don't impose any limitations on what can be computed &mdash;
+code that runs inside SGX is more-or-less just regular x86 code,
+just running inside a special environment.
+But depending on SGX for privacy does have some important risks:
+software that runs in an SGX enclave must be signed by Intel's own cryptographic keys,
+which means that Intel must approve of any software running in SGX,
+that Intel can _revoke_ permission to use SGX,
+and that there is risk of the signing keys being compromised;
+and it's not obvious that secure enclaves are actually secure,
+there having already been a number of timing attacks against SGX.
+If SGX is compromised at any point in the future,
+it could compromise any software that depends on it,
+so it's important for software relying on SGX to be designed to minimize the impact of an attack on SGX.
+
+There are two prominent Rust blockchains relying on SGX:
+
+- **[Secret Network][sn]** is a programmable blockchain based on Cosmos / Tendermint
+that runs smart contracts written in Rust,
+and compiled to WASM,
+inside of secure enclaves.
+
+- **[MobileCoin][mc]** is a private currency that uses SGX to add additional
+confidentiality on top of RingCT transactions and its variant of the Stellar
+Consensus Protocol.
+
+[sn]: https://github.com/enigmampc/
+[mc]: https://github.com/mobilecoinofficial
+
+Outside of the blockchain world there are some other Rust projects
+using SGX, the most notable being:
+
+- **[Teaclave SGX SDK][tea]** is an SDK for running Rust code inside SGX enclaves,
+developed at Baidu, and now an Apache project.
+MobileCoin uses a heavily modified fork.
+
+- **[Fortanix][ftx]** is a provider of various Rust+SGX services,
+and they provide an SGX SDK,
+for which mainline Rust has some built-in support.
+
+**[Rust OP-TEE TrustZone SDK][tz]** is an SDK for ARM TrustZone.
+
+[tea]: https://github.com/apache/incubator-teaclave-sgx-sdk
+[ftx]: https://github.com/fortanix/rust-sgx
+[tz]: https://github.com/sccommunity/rust-optee-trustzone-sdk
+
+Whether it's secure enclaves or zk-SNARKs,
+Rust blockchains are walking the bleeding edge of privacy technology.
+
+In unrelated RiB news, we recently received two donations,
 - 666 CKB in August:
 >https://explorer.nervos.org/transaction/0x4eb46117c218482b84ce19c52ef02f642524b14ef4f39b9ad8c64bb75a8475ca
 - 500,000 CKB in September:
 >https://explorer.nervos.org/transaction/0xdd9d3d0afaf07a3d91ff101475b3dffec0961e742c8cfdd617da3e7e9cef0c33
+
+Thanks so much to our anonymous donors.
+We don't often receive donations,
+so this was a nice suprise!
+We intend to put all monetary contributions to use funding events or new contributors,
+and we'll let you know what we do with the funds when we spend them.
 
 
 &nbsp;

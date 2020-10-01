@@ -110,6 +110,30 @@ repos = [
 ]
 ```
 
+## Elrond
+
+Media:
+
+- https://elrond.com/
+- https://elrond.com/blog/ 
+
+GitHub:
+
+- https://github.com/ElrondNetwork 
+
+```toml
+repos = [
+"ElrondNetwork/sc-delegation-rs",
+"ElrondNetwork/sc-band-bridge-rs",
+"ElrondNetwork/mandos-rs",
+"ElrondNetwork/elrond-wasm-rs",
+"ElrondNetwork/sc-dns-rs",
+]
+
+```
+
+
+
 ## Golem
 
 Media:

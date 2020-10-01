@@ -64,7 +64,7 @@ MobileCoin uses a heavily modified fork.
 and they provide an SGX SDK,
 for which mainline Rust has some built-in support.
 
-**[Rust OP-TEE TrustZone SDK][tz]** is an SDK for ARM TrustZone.
+- **[Rust OP-TEE TrustZone SDK][tz]** is an SDK for ARM TrustZone.
 
 [tea]: https://github.com/apache/incubator-teaclave-sgx-sdk
 [ftx]: https://github.com/fortanix/rust-sgx

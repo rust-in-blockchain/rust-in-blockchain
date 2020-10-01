@@ -152,9 +152,9 @@ We hope they blog more.
 - [ZKV’s Polkadot/Kusama Baseline Report](https://medium.com/zero-knowledge-validator/zkvs-polkadot-kusama-baseline-report-52949809719)
 
 #### Papers
+- [Foundations of Distributed Consensus and Blockchains](http://elaineshi.com/docs/blockchain-book.pdf). A complete book on distributed consensus, written by an expert.
 - [Lunar: a Toolbox for More Efficient Universal and Updatable zkSNARKs and Commit-and-Prove Extensions](https://eprint.iacr.org/2020/1069.pdf)
 - [Mimblewimble Non-Interactive Transaction Scheme](https://eprint.iacr.org/2020/1064.pdf)
-- [Foundations of Distributed Consensus and Blockchains](http://elaineshi.com/docs/blockchain-book.pdf). A complete book on distributed consensus, written by an expert.
 - [Scalable and Probabilistic Leaderless BFT Consensus through Metastability](https://arxiv.org/pdf/1906.08936.pdf)
 - [A Formally Verified Protocol for Log Replication with Byzantine Fault Tolerance](https://arxiv.org/pdf/2009.10664.pdf)
 - [NC-Max: Breaking the Throughput Limit of Nakamoto Consensus](https://eprint.iacr.org/2020/1101.pdf)

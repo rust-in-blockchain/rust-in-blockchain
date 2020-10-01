@@ -333,7 +333,6 @@ Tezos node/shell in Rust.
     - [79: How To Break a Holo App](https://medium.com/holochain/how-to-break-a-holo-app-9e23a97f7e2c)
     - [Special Announcement: New Holochain RSM Released to Public](https://medium.com/holochain/new-holochain-rsm-released-to-public-78f1c08474bf)
   - [A Big Leap Forward for Holochain & Holo](https://medium.com/h-o-l-o/a-big-leap-forward-for-holochain-holo-2efaaa54ed08)
-  - [Dima Barbarchuk: Using Human-centric Design to Build Resilient & Self-developing Economies of the Future](https://medium.com/holochain/dima-barbarchuk-using-human-centric-design-to-build-resilient-self-developing-economies-of-the-ba422427e4a9)
 - Videos:
   - [Holochain Ecosystem Sessions – David Atkinson interviews Architect Mike and CEO Adam from RedGrid](https://www.youtube.com/watch?v=BYcpuKBRIEs)
   - [Holo AMA No. 42 RSM - The New Holochain w/ Art Brock & David Atkinson](https://www.youtube.com/watch?v=a0FOj5YfCaQ)

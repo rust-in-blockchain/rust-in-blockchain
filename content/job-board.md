@@ -57,6 +57,9 @@ Protocol Labs | Remote
 [Revault](mailto:darosior@protonmail.com) | Portugal or Remote
 - Build a [Bitcoin vault architecture](https://github.com/re-vault/practical-revault/blob/master/revault.pdf)
 
+SimpleStaking | Remote
+- [Rust Developer](https://stackoverflow.com/jobs/382213/rust-developer-100-remote-simplestakingcom-ltd)
+
 Solana | (Probably)Remote
 - [Front End Engineer](https://solana.com/frontend-eng-jd.pdf)
 

@@ -1,6 +1,13 @@
-# RiB Newsletter #16
+---
+title: "RiB Newsletter #16 – "
+description: "#16 - September 2020"
+date: 2020-09-30
+slug: "/2020-09-30-"
+categories:
+  - "newsletters"
+summary: ""
 
-Publish on 30th September, 2020
+---
 
 Welcome to the #16 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
 [Previous: #15](/newsletters/2020-09-02-turbofish-in-the-blocksea/).

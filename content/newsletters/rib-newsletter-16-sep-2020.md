@@ -326,6 +326,7 @@ Tezos node/shell in Rust.
 [holochain-merged-prs-1]: https://github.com/holochain/holochain-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-09-01..2020-09-30
 
 - News:
+  - [Announcing and Unpacking the New Holochain](https://blog.holochain.org/announcing-and-unpacking-the-new-holochain/)
   - [Introducing CRISPR](https://blog.holochain.org/introducing-crispr-a-happ-hacking-lab/)
   - Holochain Dev Pulse
     - [80: A Fresh New Holochain](https://medium.com/holochain/a-fresh-new-holochain-902181bfa25b)

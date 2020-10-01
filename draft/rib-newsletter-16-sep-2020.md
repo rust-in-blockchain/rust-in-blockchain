@@ -71,7 +71,7 @@ for which mainline Rust has some built-in support.
 [tz]: https://github.com/sccommunity/rust-optee-trustzone-sdk
 
 Whether it's secure enclaves or zk-SNARKs,
-Rust blockchains are walking the bleeding edge of privacy technology.
+Rust blockchains are walking the bleeding edge of privacy tech.
 
 In unrelated RiB news, we recently received two donations,
 - 666 CKB in August:
@@ -111,6 +111,12 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[Aleo].
+
+Aleo is a new
+
+[Aleo]: https://github.com/AleoHQ/
+
 &nbsp;
 
 
@@ -127,7 +133,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Papers
 - [Lunar: a Toolbox for More Efficient Universal and Updatable zkSNARKs and Commit-and-Prove Extensions](https://eprint.iacr.org/2020/1069.pdf)
 - [Mimblewimble Non-Interactive Transaction Scheme](https://eprint.iacr.org/2020/1064.pdf)
-- [Foundations of Distributed Consensus and Blockchains](http://elaineshi.com/docs/blockchain-book.pdf)
+- [Foundations of Distributed Consensus and Blockchains](http://elaineshi.com/docs/blockchain-book.pdf). A complete book on distributed consensus, written by an expert.
 - [Scalable and Probabilistic Leaderless BFT Consensus through Metastability](https://arxiv.org/pdf/1906.08936.pdf)
 - [A Formally Verified Protocol for Log Replication with Byzantine Fault Tolerance](https://arxiv.org/pdf/2009.10664.pdf)
 - [NC-Max: Breaking the Throughput Limit of Nakamoto Consensus](https://eprint.iacr.org/2020/1101.pdf)
@@ -149,7 +155,7 @@ Implementation of a Crust protocol node with Substrate.
 - [Edgeware](https://github.com/hicommonwealth/edgeware-node).
 Substrate node implementing Edgeware. It's an
 On-chain Governed, Proof-of-Stake (PoS) Blockchain with a WASM Runtime
-- [ergo-utilities-rust](https://github.com/robkorn/ergo-utilities-rust). General utilities to make writing off-chain Ergo code in Rust simpler.
+- [ergo-utilities-rust](https://github.com/robkorn/ergo-utilities-rust). General utilities to make writing off-chain [Ergo code](https://github.com/ergoplatform) in Rust simpler.
 - [Fawkes-Crypto](https://github.com/zeropoolnetwork/fawkes-crypto)  is a lightweight framework for building circuits in bellman, using groth16 proving system and BN254 curve.
 - [Hacspec](https://github.com/hacspec/hacspec). A specification language for cryptography primitives.
 - [Magical Bitcoin Library](https://github.com/bitcoindevkit/bdk/tree/0.1.0-beta.1).

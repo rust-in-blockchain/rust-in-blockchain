@@ -91,7 +91,9 @@ and we'll let you know what we do with the funds when we spend them.
 ## Thanks
 
 This edition of RiB was produced with contributions from 
-[Aaron Lu][contributoral], kathyjah, Paulii Good, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
+[Aaron Lu][contributoral],
+[Alex Chepurnoy][contributorac],
+kathyjah, Paulii Good, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -101,6 +103,7 @@ please contribute to the next issue.
 Either submit a PR to the [#17 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), 
 or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
+[contributorac]: https://twitter.com/chepurnoy
 [contributoral]: https://github.com/aalu1418
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer

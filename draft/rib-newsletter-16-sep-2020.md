@@ -299,7 +299,7 @@ Tezos node/shell in Rust.
 [near-open_issues-1]: https://github.com/nearprotocol/nearcore/issues?q=is%3Aissue+is%3Aopen+created%3A2020-09-01..2020-09-30
 
 - News:
-  - [Community Update: All our Node are Belong to You](https://near.org/blog/all-our-node-are-belong-to-you/). There are a bouch of learning resources.
+  - [Community Update: All our Node are Belong to You](https://near.org/blog/all-our-node-are-belong-to-you/). There is a bunch of learning resources.
   - [NEAR MainNet is now Community-Operated](https://near.org/blog/near-mainnet-is-now-community-operated/)
   - [The First NEAR Community Town Hall(Monday September 28th)](https://near.org/blog/the-first-near-community-town-hall-monday-september-28th/)
   - [Community Update: MainNet Phase I 🚀 , Hack the Rainbow 🌈 , OWC Demo Day](https://near.org/blog/community-update-mainnet-phase-i-%f0%9f%9a%80-hack-the-rainbow-%f0%9f%8c%88-owc-demo-day/)

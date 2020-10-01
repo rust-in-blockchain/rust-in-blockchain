@@ -18,8 +18,8 @@ by special hardware.
 This protection particularly involves the encryption of a process's memory.
 Software that wants to compute in secret can put those computations inside a secure enclave and,
 if everything works as expected,
-not even the hosting provider can snoop on the computations being performed,
-nor the secrets used in those computations.
+neither a local user, nor the hosting provider,
+can snoop on the computations being performed.
 The most notable implementation of secure enclaves is Intel's [SGX] (Secure Guard Extensions).
 
 [SGX]: https://en.wikipedia.org/wiki/Software_Guard_Extensions
@@ -28,16 +28,18 @@ Secure enclaves are an attractive way to perform private computation
 primarily because they don't impose any limitations on what can be computed &mdash;
 code that runs inside SGX is more-or-less just regular x86 code,
 just running inside a special environment.
-But depending on SGX for privacy does have some important risks:
-software that runs in an SGX enclave must be signed by Intel's own cryptographic keys,
+But depending on SGX for privacy does have some special risks:
+software that runs in an SGX enclave must be signed (if transitively) by Intel's own cryptographic keys,
 which means that Intel must approve of any software running in SGX,
 that Intel can _revoke_ permission to use SGX,
 and that there is risk of the signing keys being compromised;
 and it's not obvious that secure enclaves are actually secure,
-there having already been a number of timing attacks against SGX.
-If SGX is compromised at any point in the future,
-it could compromise any software that depends on it,
-so it's important for software relying on SGX to be designed to minimize the impact of an attack on SGX.
+there having already been a number of [attacks against SGX][sgxatt].
+Regardless,
+as of now,
+hardware enclaves provide security features that aren't feasible any other way.
+
+[sgxatt]: https://en.wikipedia.org/wiki/Software_Guard_Extensions#Attacks
 
 There are two prominent Rust blockchains relying on SGX:
 
@@ -46,10 +48,11 @@ that runs smart contracts written in Rust,
 and compiled to WASM,
 inside of secure enclaves.
 
-- **[MobileCoin][mc]** is a private currency that uses SGX to add additional
-confidentiality on top of RingCT transactions and its variant of the Stellar
-Consensus Protocol.
+- **[MobileCoin][mc]** is a private currency that aims to integrate with [Signal],
+and that uses SGX to add additional confidentiality on top of RingCT
+transactions and its variant of the Stellar Consensus Protocol.
 
+[Signal]: https://www.signal.org/
 [sn]: https://github.com/enigmampc/
 [mc]: https://github.com/mobilecoinofficial
 

@@ -116,9 +116,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [Aleo].
 
-Aleo is a new
+Aleo is a zero-knowledge blockchain,
+with its own zero-knowledge programming language,
+[Leo].
+
+I don't have a lot to say about it,
+but I think it looks cool.
+I hope they blog more.
 
 [Aleo]: https://github.com/AleoHQ/
+[Leo]: https://github.com/AleoHQ/leo
 
 &nbsp;
 

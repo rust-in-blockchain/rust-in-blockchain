@@ -144,7 +144,7 @@ We hope they blog more.
 ## Interesting Things
 
 #### News
-- [Tezos Foundation Biannual Update](https://tezos.foundation/wp-content/uploads/2020/09/tezos-foundation-biannual-update-september-2020-en.pdf)
+- [Tezos Foundation Biannual Update](https://tezos.foundation/wp-content/uploads/2020/10/tezos-foundation-biannual-update-september-2020-en.pdf)
 - [Introducing the TezEdge Sandbox: Q&A with Simple Staking CEO Juraj Selep](https://tezos.foundation/tezedge-sandbox-juraj-selep/)
 
 #### Blog Posts

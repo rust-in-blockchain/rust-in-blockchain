@@ -40,6 +40,18 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Marlin](https://github.com/o1-labs/marlin) contains
+  various zk-SNARK protocol implementations for
+  recursive SNARK composition.
+- [Oak](https://github.com/project-oak/oak).
+  Meaningful control of data in distributed systems.
+- [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning)
+  is a Bitcoin Lightning library written in Rust.
+  The main crate, lightning, does not handle networking,
+  persistence, or any other I/O. Thus, it is runtime-agnostic,
+  but users must implement basic networking logic,
+  chain interactions, and disk storage.
+
 #### Podcasts and Videos
 
 

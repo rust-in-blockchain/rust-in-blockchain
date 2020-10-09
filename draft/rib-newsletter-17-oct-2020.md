@@ -105,6 +105,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Careers
 
+Zama | Paris, Partial remote authorized
+- [Senior Engineer - Rust](https://www.welcometothejungle.com/en/companies/zama/jobs/senior-engineer-rust_paris)
 
 More jobs can be found at [Job Board][page-jobboard].
 

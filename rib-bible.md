@@ -25,7 +25,8 @@ GitHub:
 repos = [
 "AleoHQ/aleo",
 "AleoHQ/snarkOS",
-"Ale
+"AleoHQ/leo",
+]
 ```
 
 ## CodeChain
@@ -383,6 +384,8 @@ GitHub:
 ``` toml
 repos = [
 "solana-labs/solana",
+"solana-labs/rbpf",
+"solana-labs/solana-program-library"
 ]
 ```
 

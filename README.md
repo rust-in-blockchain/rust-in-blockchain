@@ -11,7 +11,7 @@ The logo and other grahics are made by [Echo](http://echoqi.net/).
 ## Contribution Guidelines
 
 Please make sure you have read
-[Contributing](https://rustinblockchain.org/contributing)
+[Contribute to RiB Community](https://rustinblockchain.org/contributing)
 before contributing.
 
 You are welcomed to open an issue

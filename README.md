@@ -1,29 +1,29 @@
 # Rust-in-Blockchain
 
-This is the code base of [Rust in Blockchain](https://rustinblockchain.org/) website.
+This is the code base of
+[Rust in Blockchain](https://rustinblockchain.org/) website.
 The RiB website is built by [Hugo](https://github.com/gohugoio/hugo).
 
 ## Graphic Credit
 
-Logos are made by [Echo](http://echoqi.net/).
-
-Website theme is [Mainroad](https://github.com/Vimux/Mainroad/) made by [@Vimux](https://github.com/Vimux)
+The logo and other grahics are made by [Echo](http://echoqi.net/).
 
 ## Contribution Guidelines
 
-[The Rust in Blockchain Bible](/rib-bible.md) is the source of project updates.
+Please make sure you have read
+[Contributing](https://rustinblockchain.org/contributing)
+before contributing.
 
-**Important**
-
-[Contributing](/CONTRIBUTING.md) explains the contribution details.
-Please make sure you have read it before contributing.
+You are welcomed to open an issue
+if the documentation isn't satisfied your question.
 
 ## Support Us
 
+If you like us, please consider sending donation to us:   
 - BTC
-  - 39fUHQ6LEdRvwhyyuaw4Q3xdkofF3YFz84
+  - bc1qrl00ya0p0fg2s27lmws908cfmzapa4fa2uyk8n
 - ETH
   - 0xE35D48926663dc02B7b4226d6AC044D4c6a30410
 - CKB
-  - ckb1qyqqm7njp58jlleyy5v8wkkpmmy09rjut5fqj9py3f
+  - ckb1qyqf7j4282wh0rhzcdjsnzuqas6tjgar2yjq8mtfd2
 

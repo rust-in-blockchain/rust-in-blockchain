@@ -7,11 +7,14 @@ comments: false
 pager: false
 ---
 
-Rust in Blockchain is a monthly newsletter focused on Rust programming and blockchain development, bringing engineering insight and experience to the Rust blockchain community.
+[Rust in Blockchain](https://rustinblockchain.org) is a developer community
+that focuses on Rust engineering and adoption in the blockchain industry.
 
-If you are interested in contributing to this newsletter, or would like a feature published regarding Rust, please visit us on GitHub or tweet us.
+The [RiB Newsletter](/newsletters) is a monthly newsletter focused on Rust programming
+and blockchain development,
+bringing engineering insight and experience to the Rust blockchain community.
 
-Rust in Blockchain is edited by
+Rust in Blockchain is run by
 
 - [Aimee](https://impl.dev/), an experienced Rust community builder, and organizer of [RustCon Asia](https://rustcon.asia/) 2019;
 - Mike, a champion of best practices within the crypto space, making virtual tea;

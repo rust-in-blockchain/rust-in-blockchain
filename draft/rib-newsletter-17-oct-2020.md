@@ -51,6 +51,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   persistence, or any other I/O. Thus, it is runtime-agnostic,
   but users must implement basic networking logic,
   chain interactions, and disk storage.
+- [Serum-dex](https://github.com/project-serum/serum-dex).
+  
 
 #### Podcasts and Videos
 

@@ -61,11 +61,18 @@ relativeURLs = true
     weight = -80
 
   [[menu.main]]
+    identifier = "contributing"
+    name = "Contributing"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/contributing"
+    weight = -70
+
+[[menu.main]]
     identifier = "about"
     name = "About Us"
     pre = "<i class='fa fa-heart'></i>"
     url = "/about"
-    weight = -70
+    weight = -60
 
   [[menu.main]]
     identifier = "RSS"

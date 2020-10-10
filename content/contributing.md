@@ -1,4 +1,8 @@
-# Contribute to RiB Community
+---
+title: "Contribute to RiB Community"
+comments: false
+pager: false
+---
 
 [Rust in Blockchain](https://rustinblockchain.org) is a developer community
 that focuses on Rust engineering and adoption in the blockchain industry.
@@ -86,4 +90,6 @@ or posting in [RiB Telegram group](https://t.me/rustinblockchain).
 Note that we try to keep our Telegram channel **technical and informative** for developers.
 Please refrain from marketing spam.
 
-**❤️** Join [RiB Telegram group](https://t.me/rustinblockchain) for community discussions. 
+&nbsp;
+
+Join [RiB Telegram group](https://t.me/rustinblockchain) for community discussions **❤️** 

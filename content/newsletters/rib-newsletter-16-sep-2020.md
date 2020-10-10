@@ -104,7 +104,7 @@ and we'll let you know what we do with the funds when we spend them.
 This edition of RiB was produced with contributions from 
 [Aaron Lu][contributoral],
 [Alex Chepurnoy][contributorac],
-kathyjah, Paulii Good, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
+kathyjah, Mike, Paulii Good, [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 

@@ -11,7 +11,7 @@ There are several ways to contribute to the Rust in Blockchain community.
 
 ## Contribute to RiB Newsletter
 
-We deal with contribution processes through GitHub.
+We only accept contributions to the newsletter through GitHub.
 Contribute to the next issue by submitting PRs
 (Pull Requests) to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
@@ -43,7 +43,7 @@ that should be monitored.
 
 ### Job Board
 
-We maintains a standalone [Job Board](/job-board) with
+We maintain a standalone [Job Board](/job-board) with
 current job openings.
 Feel free to [add your open positions to this page](https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md).
 Open an issue if you find unavailable links.

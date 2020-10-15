@@ -38,8 +38,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers 
 
+- [Proofs, Arguments, and Zero-Knowledge](http://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+
 #### Projects
 
+- [Curve on Zinc](https://github.com/matter-labs/curve-zinc).
+  The Curve Stableswap smart contract implementation in Zinc v0.2.0.
 - [Marlin](https://github.com/o1-labs/marlin) contains
   various zk-SNARK protocol implementations for
   recursive SNARK composition.

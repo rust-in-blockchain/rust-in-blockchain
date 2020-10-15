@@ -40,6 +40,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/).
+  It isn't blockchain related.
+  The write features some that also very useful for blockchain developers.
 
 #### Papers 
 

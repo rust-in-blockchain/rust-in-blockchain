@@ -12,12 +12,17 @@ Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about th
 
 Contributors.
 
+[ashput]
+
+
 RiB needs help to keep up with Rust blockchain projects. 
 If you follow a particular project, or otherwise find information 
 that is beneficial to the Rust & blockchain community, 
 please contribute to the next issue. 
 Either submit a PR to the [#18 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), 
 or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+
+[ashput]: https://github.com/ashput
 
 &nbsp;
 
@@ -110,6 +115,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 &nbsp;
 
 ## Careers
+
+Parity Technologies | Berlin or Remote 
+- [Rust Blockchain Bridge Engineer](https://www.parity.io/apply/?gh_jid=4170674003)
+- [Rust Core Engineer](https://www.parity.io/apply/?gh_jid=4030037003)
+- [WASM Compiler Engineer](https://www.parity.io/apply/?gh_jid=4170712003)
 
 Zama | Paris, Partial remote authorized
 - [Senior Engineer - Rust](https://www.welcometothejungle.com/en/companies/zama/jobs/senior-engineer-rust_paris)

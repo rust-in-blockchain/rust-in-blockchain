@@ -31,12 +31,5 @@
 </main>
 {{ partial "authorbox.html" . }}
 {{ partial "pager.html" . }}
-
-<section class="comments">
-	<script src="https://utteranc.es/client.js" repo="rust-in-blockchain/rust-in-blockchain" issue-term="pathname"
-		theme="github-light" crossorigin="anonymous" async>
-		</script>
-</section>
-
-<!--{{ partial "comments.html" . }}-->
+{{ partial "comments.html" . }}
 {{ end }}

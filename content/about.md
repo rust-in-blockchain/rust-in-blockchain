@@ -3,7 +3,7 @@ title: "About us"
 aliases:
   - /about-us/
 slug: "/about"
-comments: false
+nocomment: true
 pager: false
 ---
 

@@ -48,6 +48,11 @@ Libra | San Francisco, CA or Geneva, Switzerland
 Moonbeam | Boston, MA USA; Madrid, Spain; Remote
 - [Senior Blockchain Engineer](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
 
+Parity Technologies | Berlin or Remote 
+- [Rust Blockchain Bridge Engineer](https://www.parity.io/apply/?gh_jid=4170674003)
+- [Rust Core Engineer](https://www.parity.io/apply/?gh_jid=4030037003)
+- [WASM Compiler Engineer](https://www.parity.io/apply/?gh_jid=4170712003)
+
 Protocol Labs | Remote
 - [Software Engineer, Cryptography & Systems](https://jobs.lever.co/protocol/9afbc1c9-8b3b-4c03-856d-6b0cb5518eaa)
 - [Software Engineer, Peer-to-Peer Networks](https://jobs.lever.co/protocol/e4a469e4-c420-4ae5-acea-44c33a03dbd2)

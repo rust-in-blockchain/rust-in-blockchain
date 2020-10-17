@@ -19,3 +19,6 @@ Rust in Blockchain is run by
 - [Aimee](https://impl.dev/), an experienced Rust community builder, and organizer of [RustCon Asia](https://rustcon.asia/) 2019;
 - Mike, a champion of best practices within the crypto space, making virtual tea;
 - [Brian](https://brson.github.io/), former Rust core team member.
+
+
+![](../images/2020-09-30-pumkin.jpg)

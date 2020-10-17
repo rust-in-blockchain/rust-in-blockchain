@@ -57,7 +57,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   recursive SNARK composition.
 - [Oak](https://github.com/project-oak/oak).
   Meaningful control of data in distributed systems.
-- [Rust-inpbp](https://github.com/LNP-BP/rust-lnpbp).
+- [Rust-lnpbp](https://github.com/LNP-BP/rust-lnpbp).
   A rust library implementing LNP/BP specifications.
   It can be used to simplify development of layer 2 & 3 solutions
   on top of Lightning Network and Bitcoin blockchain.

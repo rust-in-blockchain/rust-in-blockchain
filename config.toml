@@ -60,36 +60,44 @@ relativeURLs = true
     weight = -80
 
   [[menu.main]]
+    identifier = "learning"
+    name = "Learning"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/learning"
+    weight = -70
+
+  [[menu.main]]
     identifier = "contributing"
     name = "Contributing"
     pre = "<i class='fa fa-heart'></i>"
     url = "/contributing"
-    weight = -70
+    weight = -60
 
-[[menu.main]]
+  [[menu.main]]
     identifier = "about"
     name = "About Us"
     pre = "<i class='fa fa-heart'></i>"
     url = "/about"
-    weight = -60
+    weight = -50
 
   [[menu.main]]
     identifier = "RSS"
     name = "RSS"
     pre = "<i class='fa fa-heart'></i>"
     url = "/index.xml"
-    weight = -60
+    weight = -40
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
   list = "right"  # Configure layout for list pages
   single = true # Configure layout for single pages
   # Enable widgets in given order
-  widgets = [ "subscribe",  "social", "support"] #"search"
+  widgets = [ "subscribe", "support", "social"] #"search"
 
 [Params.widgets.social]
   # Enable parts of social widget
   twitter = "rust_blockchain"
   telegram = "rustinblockchain"
+  reddit = "RustInBlockchain"
   github = "rust-in-blockchain"
   email = "n3wh4x0rs@gmail.com"

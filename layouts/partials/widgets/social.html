@@ -5,7 +5,8 @@
 
 		{{- with .Site.Params.widgets.social.twitter }}
 		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="Twitter" rel="noopener noreferrer" href="https://twitter.com/{{ . }}" target="_blank">
+			<a class="widget-social__link widget__link btn" title="Twitter" rel="noopener noreferrer"
+				href="https://twitter.com/{{ . }}" target="_blank">
 				{{ partial "svg/twitter.svg" (dict "class" "widget-social__link-icon") }}
 				<span>Twitter</span>
 			</a>
@@ -13,16 +14,28 @@
 		{{- end }}
 		{{- with .Site.Params.widgets.social.telegram }}
 		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="Telegram" rel="noopener noreferrer" href="https://t.me/{{ . }}" target="_blank">
+			<a class="widget-social__link widget__link btn" title="Telegram" rel="noopener noreferrer"
+				href="https://t.me/{{ . }}" target="_blank">
 				{{ partial "svg/telegram.svg" (dict "class" "widget-social__link-icon") }}
 				<span>Telegram</span>
 			</a>
 		</div>
 		{{- end }}
 
+		{{- with .Site.Params.widgets.social.reddit }}
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Reddit" rel="noopener noreferrer"
+				href="https://www.reddit.com/r/{{ . }}" target="_blank">
+				{{ partial "svg/reddit.svg" (dict "class" "widget-social__link-icon") }}
+				<span>Reddit</span>
+			</a>
+		</div>
+		{{- end }}
+
 		{{- with .Site.Params.widgets.social.github }}
 		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="GitHub" rel="noopener noreferrer" href="https://github.com/{{ . }}" target="_blank">
+			<a class="widget-social__link widget__link btn" title="GitHub" rel="noopener noreferrer"
+				href="https://github.com/{{ . }}" target="_blank">
 				{{ partial "svg/github.svg" (dict "class" "widget-social__link-icon") }}
 				<span>GitHub</span>
 			</a>
@@ -40,9 +53,10 @@
 
 		{{ range .Site.Params.widgets.social.custom }}
 		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="{{ .title }}" rel="noopener noreferrer" href="{{ .url }}" target="_blank">
+			<a class="widget-social__link widget__link btn" title="{{ .title }}" rel="noopener noreferrer"
+				href="{{ .url }}" target="_blank">
 				{{- if .icon }}
-					{{ partial .icon (dict "class" "widget-social__link-icon") }}
+				{{ partial .icon (dict "class" "widget-social__link-icon") }}
 				{{- end }}
 				<span>{{ .title }}</span>
 			</a>

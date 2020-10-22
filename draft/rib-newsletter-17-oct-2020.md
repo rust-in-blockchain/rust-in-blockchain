@@ -3,7 +3,24 @@
 Publish on 4th Nov, 2020
 
 Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
-[Previous: #16](/newsletters/2020-09-30/).
+[Previous: #16](/newsletters/2020-09-30-secure-enclaves-a-la-crab/).
+
+
+
+Some changes in RiB:
+
+We updated the [Contributing](/contributing) policies a bit.
+The [RiB Newsletter](/newsletters) now only accepts contributions through GitHub.
+
+We shorten the "Project Updates" section for better quality,
+which means we probably edit your contribution
+for considering our readers' enjoyment.
+
+On the website,
+we add [learning resources](/learning) with the hope to help newcomers join in
+blockchain programming easier.
+Please contribute learning content as well as suggestions to this page,
+and let's build the learning experience together.
 
 
 &nbsp;
@@ -12,7 +29,10 @@ Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about th
 
 Contributors.
 
-[ashput]
+[ashput][contributor-ashput],
+[Daniel Karzel][contributor-dakami],
+
+Awesome contributors: [Damascene][contributor-damascene]
 
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -22,7 +42,9 @@ please contribute to the next issue.
 Either submit a PR to the [#18 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), 
 or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 
-[ashput]: https://github.com/ashput
+[contributor-ashput]: https://github.com/ashput
+[contributor-dakami]: https://github.com/da-kami
+[contributor-damascene]: https://github.com/damascene
 
 &nbsp;
 
@@ -40,9 +62,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Rusty Chains: A Basic Blockchain Implementation Written in Pure Rust](https://hackernoon.com/rusty-chains-a-basic-blockchain-implementation-written-in-pure-rust-gk2m3uri)
 - [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/).
   It isn't blockchain related.
   The write features some that also very useful for blockchain developers.
+- [People of Parity: Bastian Köcher](https://www.parity.io/people-of-parity-bastian-koecher/).
+  Besides technology, Parity also creates lovely developer stories.
 
 #### Papers 
 
@@ -67,7 +92,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   persistence, or any other I/O. Thus, it is runtime-agnostic,
   but users must implement basic networking logic,
   chain interactions, and disk storage.
+- [Rust-amplify](https://github.com/LNP-BP/rust-amplify). 
+  Amplifying Rust language capabilities: multiple generic trait implementations, 
+  type wrappers, derive macros
 - [Serum-dex](https://github.com/project-serum/serum-dex).
+- [BTC-Parachain](https://github.com/interlay/BTC-Parachain).
+  BTC-Parachain: Trustless Bitcoin on Polkadot (Mirror).
   
 
 #### Podcasts and Videos
@@ -104,6 +134,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
 #### [Nervos](https://github.com/nervosnetwork)
+
+#### [Oasis](https://github.com/oasislabs)
 
 #### [Parity](https://github.com/paritytech)
 

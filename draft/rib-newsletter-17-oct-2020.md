@@ -7,22 +7,6 @@ Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about th
 
 
 
-Some changes in RiB:
-
-We updated the [Contributing](/contributing) policies a bit.
-The [RiB Newsletter](/newsletters) now only accepts contributions through GitHub.
-
-We shorten the "Project Updates" section for better quality,
-which means we probably edit your contribution
-for considering our readers' enjoyment.
-
-On the website,
-we add [learning resources](/learning) with the hope to help newcomers join in
-blockchain programming easier.
-Please contribute learning content as well as suggestions to this page,
-and let's build the learning experience together.
-
-
 &nbsp;
 
 ## Thanks

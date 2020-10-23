@@ -103,6 +103,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [COMIT](https://github.com/comit-network)
 
+58 merged PRs([1][comit-rs], [2][xmr-btc-swaps], [3][ambrosia]),
+
+[comit-rs]: https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31+NOT+bump
+[xmr-btc-swaps]: https://github.com/comit-network/xmr-btc-swap/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31+NOT+bump
+[ambrosia]: https://github.com/comit-network/ambrosia/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31+NOT+bump
+
+- R&D: [XMR-BTC swaps](https://comit.network/blog/2020/10/06/monero-bitcoin)
+- News: [Trade Bitcoin and DAI with COMIT - Alpha version of our non-custodial trading UI released](https://comit.network/blog/2020/10/12/ambrosia-alpha-release)
+- News: [Designing GitHub workflows for automated releases](https://comit.network/blog/2020/09/25/gh-release)
+
 #### [Crypto.com Chain](https://chain.crypto.com)
 
 #### [Elrond](https://github.com/ElrondNetwork)

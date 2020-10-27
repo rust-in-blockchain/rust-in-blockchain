@@ -47,6 +47,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Rusty Chains: A Basic Blockchain Implementation Written in Pure Rust](https://hackernoon.com/rusty-chains-a-basic-blockchain-implementation-written-in-pure-rust-gk2m3uri)
+- [Rust no-std FAQ](https://justjjy.com/Rust-no-std). Basic and useful.
 - [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/).
   It isn't blockchain related.
   The write features some that also very useful for blockchain developers.
@@ -82,7 +83,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Serum-dex](https://github.com/project-serum/serum-dex).
 - [BTC-Parachain](https://github.com/interlay/BTC-Parachain).
   BTC-Parachain: Trustless Bitcoin on Polkadot (Mirror).
-  
 
 #### Podcasts and Videos
 

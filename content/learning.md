@@ -26,7 +26,7 @@ that is preferred, or comment on this page below.
 - [Progressive Decentralization: A Playbook for Building Crypto Applications](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/)
 - [First impressions of NEAR smart contract development in Rust](https://brson.github.io/2020/09/07/near-smart-contracts-rust)
 
-## Programming and Use cases
+## Programming and Use Cases
 
 - [Rusty Chains: A Basic Blockchain Implementation Written in Pure Rust](https://hackernoon.com/rusty-chains-a-basic-blockchain-implementation-written-in-pure-rust-gk2m3uri)
 - [Rust Blockchain Tutorial: What is Rust and Why is it Important?](https://freestartupkits.com/articles/technology/cryptocurrency-news-and-tips/ultimate-rust-blockchain-tutorial/)

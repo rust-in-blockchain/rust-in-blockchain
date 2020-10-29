@@ -3,12 +3,14 @@ title: "Build the RiB Learning Hub"
 pager: false
 ---
 
-This is a work-in-progress hub 
+This is a work-in-progress page,
 that collects resource for learning Rust and blockchain.
-Most of the current content came from previous [RiB Newsletters](/newsletters).
+Most of the current content
+came from previous [RiB Newsletters](/newsletters).
 
-Please contribute to the collections through the [GitHub page](https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/learning.md)
-that is preferred, or comment on this page below.
+Contribute learning materials
+through the [GitHub page](https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/learning.md)
+is preferred, or comment on this page below.
 
 
 ## Intro and Tutorials

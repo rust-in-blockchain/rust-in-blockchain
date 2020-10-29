@@ -45,20 +45,20 @@ that should be monitored.
 
 ## Contribute to RiB Resources
 
-### RiB Learning Hub
-
-We put educational content to [RiB Learning Hub](/learning)
-and hope to grow it as a wiki someday.
-You can add blog posts, papers, or other materials
-that is useful for the RiB community.
-Simply send a PR to the [GitHub page](https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/learning.md).
-
 ### Job Board
 
 We maintain a standalone [Job Board](/job-board) with
 current job openings.
 Feel free to [add your open positions to this page](https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md).
 Open an issue if you find unavailable links.
+
+### RiB Learning Hub
+
+We put educational content to [RiB Learning Hub](/learning)
+and hope to grow it as a wiki someday.
+You can add blog posts, papers, or other materials
+that are useful for the RiB community.
+Simply send a PR to the [GitHub page](https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/learning.md).
 
 ### Awesome RiB
 

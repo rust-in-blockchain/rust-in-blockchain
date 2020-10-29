@@ -1,9 +1,9 @@
 ---
-title: "Build the RiB Learning Hub"
+title: "RiB Learning Hub"
 pager: false
 ---
 
-This is a work-in-progress page,
+This is a work-in-progress hub,
 that collects resource for learning Rust and blockchain.
 Most of the current content
 came from previous [RiB Newsletters](/newsletters).

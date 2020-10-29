@@ -16,7 +16,8 @@ Contributors.
 [ashput][contributor-ashput],
 [Daniel Karzel][contributor-dakami],
 
-Awesome contributors: [Damascene][contributor-damascene]
+Awesome contributors: [Damascene][contributor-damascene],
+[Mikko Ohtamaa][contributor-miohtama],
 
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -29,6 +30,7 @@ or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
 [contributor-ashput]: https://github.com/ashput
 [contributor-dakami]: https://github.com/da-kami
 [contributor-damascene]: https://github.com/damascene
+[contributor-miohtama]: https://github.com/miohtama
 
 &nbsp;
 

@@ -79,6 +79,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   persistence, or any other I/O. Thus, it is runtime-agnostic,
   but users must implement basic networking logic,
   chain interactions, and disk storage.
+- [Rust-miniscript](https://github.com/rust-bitcoin/rust-miniscript).
+  Support for Miniscript and Output Descriptors for rust-bitcoin.
 - [Rust-amplify](https://github.com/LNP-BP/rust-amplify). 
   Amplifying Rust language capabilities: multiple generic trait implementations, 
   type wrappers, derive macros

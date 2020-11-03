@@ -103,6 +103,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+[Aleo](https://www.aleo.org/) uses blockchain and zero-knowledge cryptography to power decentralized applications. Based on the [Zexe](https://eprint.iacr.org/2018/962.pdf) paper, Aleo features a [Proof-of-Necessary Work](https://eprint.iacr.org/2020/190.pdf) consensus algorithm and a domain-specific language called [Leo](https://github.com/AleoHQ/leo) for programming SNARKs. Check out our [IDE](https://aleo.studio/) and [docs](https://developer.aleo.org/aleo/getting_started/overview/) to discover what you can build today!
+
+- [About](https://aleo.org/post/welcome-to-aleo)
+- [Announcement](https://www.coindesk.com/aleo-internet-data-privacy-zero-knowledge-proofs)
+- PR: [Use criterion in curve benchmarks](https://github.com/AleoHQ/snarkOS/pull/483) by @ljedrz
+- PR: [Initial Storage Implementation for Setup Coordinator](https://github.com/AleoHQ/aleo-setup/pull/100) by @howardwu
+- PR: [Implement a Verifier Instance for Setup Ceremony](https://github.com/AleoHQ/aleo-setup/pull/107) by @raychu86
+
 #### [Conflux](https://github.com/Conflux-Chain)
 
 #### [COMIT](https://github.com/comit-network)

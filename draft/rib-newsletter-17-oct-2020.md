@@ -11,32 +11,37 @@ Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about th
 
 ## Thanks
 
-Contributors.
-
+Thanks to contributors: 
 [ashput][contributor-ashput],
+[Damascene][contributor-damascene],
 [Daniel Karzel][contributor-dakami],
-
-Awesome contributors: [Damascene][contributor-damascene],
+[David Ansermino][contributor-ansermino],
 [Mikko Ohtamaa][contributor-miohtama],
-
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
+Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
 If you follow a particular project, or otherwise find information 
 that is beneficial to the Rust & blockchain community, 
 please contribute to the next issue. 
-Either submit a PR to the [#18 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft), 
-or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+by submitting a PR to the [#18 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributor-ashput]: https://github.com/ashput
 [contributor-dakami]: https://github.com/da-kami
 [contributor-damascene]: https://github.com/damascene
 [contributor-miohtama]: https://github.com/miohtama
+[contributor-ansermino]: https://github.com/ansermino
+[contributorba]: https://github.com/brson
+[contributoraz]: https://github.com/Aimeedeer
 
 &nbsp;
 
 ## Project Spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+
+
 
 &nbsp;
 
@@ -199,6 +204,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - Blog:
   - [How the NEAR Foundation is Supporting Network Decentralization](https://near.org/blog/how-the-near-foundation-is-supporting-network-decentralization/)
   - [Getting Started With the NEAR Wallet](https://near.org/blog/getting-started-with-the-near-wallet/)
+- Videos: Whiteboard Series with NEAR
+  - [Ep: 41 Matt Luongo from Thesis](https://www.youtube.com/watch?v=vak7uyN3GtE)
+  - Ep: 40 John Adler from Lazy Ledger [Part1](https://www.youtube.com/watch?v=jM-om3AqH94) [Part2](https://www.youtube.com/watch?v=MZQMObV3890)
+  - [Alexey Akhunov from TurboGeth](https://www.youtube.com/watch?v=H2YLVP3jyaI)
 - PR: [feat(chain): Versioned ShardChunkHeader](https://github.com/near/nearcore/pull/3463) by [@birchmd](https://github.com/birchmd)
 - PR: [fix: make outcome ids ordered in storage](https://github.com/near/nearcore/pull/3529) by [@bowenwang1996](https://github.com/bowenwang1996)
 - PR: [fix(genesis): Don't write genesis records on restart](https://github.com/near/nearcore/pull/3470) by [@mikhailOK](https://github.com/mikhailOK)
@@ -239,6 +248,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [parity-open_issues-1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
 [parity-open_issues-2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
 
+- News:
+  - [Polkadot Staking: An Update](https://polkadot.network/polkadot-staking-an-update/)
+  - [Bitcoin is Coming to Polkadot](https://polkadot.network/bitcoin-is-coming-to-polkadot/)
+- Blog:
+  - [Obtaining a Parachain Slot on Polkadot](https://polkadot.network/obtaining-a-parachain-slot-on-polkadot/)
+  - [Substrate 2.0.0 Release Deep-Dive](https://www.parity.io/substrate-2-0-release-deep-dive/)
+- Videos: Substrate Seminar: [Benchmarking for your Substrate Pallet](https://www.youtube.com/watch?v=Qa6sTyUqgek),
+  [Substrate Analytics](https://www.youtube.com/watch?v=0CojsjfvP18)  
 - PR: [Async keystore + Authority-Discovery async/await](https://github.com/paritytech/substrate/pull/7000) by [@rakanalh](https://github.com/rakanalh)
 - PR: [Runtime worker threads](https://github.com/paritytech/substrate/pull/7089) by [@NikVolf](https://github.com/NikVolf)
 - PR: [WASM Local-blob override](https://github.com/paritytech/substrate/pull/7317) by [@insipx](https://github.com/insipx)
@@ -307,10 +324,29 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Events
 
+Nov 7-8 | Online
+
+[RustFest Global](https://rustfest.global/)
+
+Nov 9-13 | Online
+
+[ACM CCS 2020](https://www.sigsac.org/ccs/CCS2020/)
+
+Nov 23—24 | Online
+
+[zkSummit 6](https://www.zksummit.com/)
+
+
 
 &nbsp;
 
 ## Careers
+
+ChainSafe | Toronto, Remote
+- [Rust Software Engineer](https://www.notion.so/chainsafe/Blockchain-Developer-Rust-0d577a2636b84511a5d4efc69454585d)
+
+Massa Labs | Remote
+- [Full remote Rust developer, long-term contract (French CDI)](https://massa.network/#jobs)
 
 Parity Technologies | Berlin or Remote 
 - [Rust Blockchain Bridge Engineer](https://www.parity.io/apply/?gh_jid=4170674003)

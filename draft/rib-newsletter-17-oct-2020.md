@@ -120,12 +120,42 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Most Active in October
 
+[Solana](https://github.com/solana-labs/solana):
+240 merged PRs ([1][solana-merged-prs-1]),
+29 closed issues ([1][solana-closed_issues-1]), 
+31 open issues ([1][solana-open_issues-1])
+
+[Parity](https://github.com/paritytech):
+191 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3]),
+110 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4]), 
+53 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2])
+
+[Libra](https://libra.org):
+199 merged PRs ([1][libra-merged-prs-1]),
+21 closed issues ([1][libra-closed_issues-1]), 
+22 open issues ([1][libra-open_issues-1])
+
+[Zcash](https://z.cash/):
+93 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]),
+25 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2]), 
+30 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
+
 
 &nbsp;
 
 ## Project Updates
 
 #### [Aleo](https://github.com/AleoHQ)
+
+36 merged PRs ([1][aleo-merged-prs-1], [2][aleo-merged-prs-2]), 3 closed issues ([1][aleo-closed_issues-1], [2][aleo-closed_issues-2]), 
+5 open issues ([1][aleo-open_issues-1], [2][aleo-open_issues-2])
+
+[aleo-merged-prs-1]: https://github.com/AleoHQ/snarkOS/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[aleo-merged-prs-2]: https://github.com/AleoHQ/leo/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[aleo-closed_issues-1]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[aleo-closed_issues-2]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[aleo-open_issues-1]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+[aleo-open_issues-2]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
@@ -306,8 +336,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - News:
   - [October Newsletter](https://medium.com/solana-labs/october-newsletter-2bca800ed41c)
   - [September Newsletter](https://medium.com/solana-labs/september-newsletter-4d2c341035)
-- Blog:
-  - [Why Solana?](https://medium.com/solana-labs/why-solana-8c927d58ba06)
+- Blog: [Why Solana?](https://medium.com/solana-labs/why-solana-8c927d58ba06)
 - PR: [Break up AccountsIndex lock](https://github.com/solana-labs/solana/pull/12787) by [@carllin](https://github.com/carllin)
 - PR: [Fix tower/blockstore unsync due to external causes](https://github.com/solana-labs/solana/pull/12671) by [@ryoqun](https://github.com/ryoqun)
 - PR: [Codify breaking change guidelines](https://github.com/solana-labs/solana/pull/13066) by [@jstarry](https://github.com/jstarry)

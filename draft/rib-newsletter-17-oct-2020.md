@@ -60,6 +60,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/).
   It isn't blockchain related.
   The write features some that also very useful for blockchain developers.
+- [An Interview with Torben P. Pedersen](https://medium.com/asecuritysite-when-bob-met-alice/an-interview-with-torben-p-pedersen-c50b84182767)
+  about the Pedersen Commitment.
 - [Privacy is normal, safe and essential](https://electriccoin.co/blog/privacy-is-normal-safe-and-essential/)
 - [SNARKs and the future of blockchains](https://medium.com/@RubenSomsen/snarks-and-the-future-of-blockchains-55b82012452b)
 - [People of Parity: Bastian Köcher](https://www.parity.io/people-of-parity-bastian-koecher/).
@@ -69,7 +71,25 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Proofs, Arguments, and Zero-Knowledge](http://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 - [Global Standards Mapping Initiative: An overview of blockchain technical standards](http://www3.weforum.org/docs/WEF_GSMI_Technical_Standards_2020.pdf)
+- [KVaC: Key-Value Commitments for Blockchains and Beyond](https://eprint.iacr.org/2020/1161.pdf)
+> Using our new keyvalue commitment scheme KVaC, one can build an account-based cryptocurrency where a
+node needs to store only two group elements (the commitment) to validate transactions. In
+the new currency, an account is represented by a key-value pair where key is a public key for
+a signature scheme (or a hash of it) and value consists of the account balance and a counter.
+- [Authenticated Dictionaries with Cross-Incremental Proof (Dis)aggregation](https://eprint.iacr.org/2020/1239.pdf)
+> An authenticated dictionary (AD) scheme securely outsources storage of a set of keys-value pairs to an untrusted
+prover. In this setting, the prover can convince any verifier, who has a succinct digest of the dictionary, that a
+key has a particular value in the outsourced dictionary by sending him a lookup proof for that key. Authenticated
+dictionaries are a fundamental building block of numerous applications, including authenticated file systems,
+privacy-preserving web applications, cryptocurrencies, stateless validation in cryptocurrencies
+and transparency logs.
+- [PoSAT: Proof-of-Work Availability and Unpredictability, without the Work](https://arxiv.org/pdf/2010.08154.pdf)
+> The basic idea of our protocol is to mimic the PoW lottery closely: instead
+of using the solution of a Hash puzzle based on the parent block’s hash as
+proof of work, we instead use the randomized VDF computed based on the
+parent block randomness and the coin’s public key as the proof of stake lottery.
 - Doc: [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
+
 
 #### Projects
 

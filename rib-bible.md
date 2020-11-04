@@ -29,6 +29,21 @@ repos = [
 ]
 ```
 
+## Rust Bitcoin
+
+GitHub:
+
+- https://github.com/rust-bitcoin
+
+```toml
+repos = [
+"rust-bitcoin/rust-bitcoin",
+"rust-bitcoin/rust-lightning",
+"rust-bitcoin/rust-miniscript",
+"rust-bitcoin/bitcoin_hashes",
+]
+```
+
 ## CodeChain
 
 Media:

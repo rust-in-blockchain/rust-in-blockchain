@@ -48,6 +48,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [A pitfall of Rust's move/copy/drop semantics and zeroing data](https://benma.github.io/2020/10/16/rust-zeroize-move.html)
 - [Rusty Chains: A Basic Blockchain Implementation Written in Pure Rust](https://hackernoon.com/rusty-chains-a-basic-blockchain-implementation-written-in-pure-rust-gk2m3uri)
 - [Towards formal semantics of the beacon chain’s pyspec](https://ethresear.ch/t/towards-formal-semantics-of-the-beacon-chains-pyspec/8181)
 - [Rust no-std FAQ](https://justjjy.com/Rust-no-std). Basic and useful.
@@ -55,6 +56,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   It isn't blockchain related.
   The write features some that also very useful for blockchain developers.
 - [Privacy is normal, safe and essential](https://electriccoin.co/blog/privacy-is-normal-safe-and-essential/)
+- [SNARKs and the future of blockchains](https://medium.com/@RubenSomsen/snarks-and-the-future-of-blockchains-55b82012452b)
 - [People of Parity: Bastian Köcher](https://www.parity.io/people-of-parity-bastian-koecher/).
   Besides technology, Parity also creates lovely developer stories.
 
@@ -106,6 +108,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Aleo](https://github.com/AleoHQ)
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
 
 
 #### [COMIT](https://github.com/comit-network)

@@ -62,6 +62,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   The write features some that also very useful for blockchain developers.
 - [An Interview with Torben P. Pedersen](https://medium.com/asecuritysite-when-bob-met-alice/an-interview-with-torben-p-pedersen-c50b84182767)
   about the Pedersen Commitment.
+- [Playing with Randomness and Interactions to Prove Theorems](https://zkproof.org/2020/10/15/randomness-and-interactions/)
 - [Privacy is normal, safe and essential](https://electriccoin.co/blog/privacy-is-normal-safe-and-essential/)
 - [SNARKs and the future of blockchains](https://medium.com/@RubenSomsen/snarks-and-the-future-of-blockchains-55b82012452b)
 - [People of Parity: Bastian Köcher](https://www.parity.io/people-of-parity-bastian-koecher/).
@@ -69,38 +70,18 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers 
 
+- [Towards Cross-Blockchain Smart Contracts](https://arxiv.org/pdf/2010.07352.pdf)
+- [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://arxiv.org/pdf/2010.00341.pdf)
+  and the studies on [GitHub](https://github.com/uni-due-syssec/evmpatch-developer-study)
+- [Aardvark: A Concurrent Authenticated Dictionary with Short Proofs](https://eprint.iacr.org/2020/975.pdf)
+- [Incrementally Aggregatable Vector Commitments and Applications to Verifiable Decentralized Storage](https://eprint.iacr.org/2020/149.pdf)
+- [CoVer: Collaborative Light-Node-Only Verification and Data Availability for Blockchains](https://arxiv.org/pdf/2010.00217.pdf)
 - [Using Homomorphic hashes in coded blockchains](https://arxiv.org/pdf/2010.04607.pdf)
-> One of the scalability issues of blockchains
-is the increase of their sizes which can prevent users
-from storing them and thus from contributing to the
-decentralization effort. Recent works developed the
-concept of coded blockchains, which allow users to store
-only some coded fragments of the blockchains. However, this solution is not protected against malicious
-nodes that can propagate erroneous coded fragments.
->
-> We propose in the paper to add homomorphic hashes
-to this system. This allows for instantaneous detection of erroneous fragments and thus avoids decoding
-with wrong data. We describe the integration of this
-mechanism in coded blockchains and we evaluate its
-complexity theoretically and by simulation.
 - [KVaC: Key-Value Commitments for Blockchains and Beyond](https://eprint.iacr.org/2020/1161.pdf)
-> Using our new keyvalue commitment scheme KVaC, one can build an account-based cryptocurrency where a
-node needs to store only two group elements (the commitment) to validate transactions. In
-the new currency, an account is represented by a key-value pair where key is a public key for
-a signature scheme (or a hash of it) and value consists of the account balance and a counter.
 - [Authenticated Dictionaries with Cross-Incremental Proof (Dis)aggregation](https://eprint.iacr.org/2020/1239.pdf)
-> An authenticated dictionary (AD) scheme securely outsources storage of a set of keys-value pairs to an untrusted
-prover. In this setting, the prover can convince any verifier, who has a succinct digest of the dictionary, that a
-key has a particular value in the outsourced dictionary by sending him a lookup proof for that key. Authenticated
-dictionaries are a fundamental building block of numerous applications, including authenticated file systems,
-privacy-preserving web applications, cryptocurrencies, stateless validation in cryptocurrencies
-and transparency logs.
 - [PoSAT: Proof-of-Work Availability and Unpredictability, without the Work](https://arxiv.org/pdf/2010.08154.pdf)
-> The basic idea of our protocol is to mimic the PoW lottery closely: instead
-of using the solution of a Hash puzzle based on the parent block’s hash as
-proof of work, we instead use the randomized VDF computed based on the
-parent block randomness and the coin’s public key as the proof of stake lottery.
 - [Proofs, Arguments, and Zero-Knowledge](http://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+- [Post-Quantum Linkable Ring Signature Enabling Distributed Authorised Ring Confidential Transactions in Blockchain](https://eprint.iacr.org/2020/1121.pdf)
 - [Global Standards Mapping Initiative: An overview of blockchain technical standards](http://www3.weforum.org/docs/WEF_GSMI_Technical_Standards_2020.pdf)- Doc: [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
 
 

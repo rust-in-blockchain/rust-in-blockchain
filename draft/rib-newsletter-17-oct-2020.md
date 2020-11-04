@@ -12,7 +12,7 @@ Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about th
 ## Thanks
 
 Thanks to contributors:
-[apruden2008][contributor-alex]
+[apruden2008][contributor-alex],
 [ashput][contributor-ashput],
 [Damascene][contributor-damascene],
 [Daniel Karzel][contributor-dakami],
@@ -87,7 +87,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [PoSAT: Proof-of-Work Availability and Unpredictability, without the Work](https://arxiv.org/pdf/2010.08154.pdf)
 - [Proofs, Arguments, and Zero-Knowledge](http://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 - [Post-Quantum Linkable Ring Signature Enabling Distributed Authorised Ring Confidential Transactions in Blockchain](https://eprint.iacr.org/2020/1121.pdf)
-- [Global Standards Mapping Initiative: An overview of blockchain technical standards](http://www3.weforum.org/docs/WEF_GSMI_Technical_Standards_2020.pdf)- Doc: [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
+- [Global Standards Mapping Initiative: An overview of blockchain technical standards](http://www3.weforum.org/docs/WEF_GSMI_Technical_Standards_2020.pdf)
+- Doc: [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
 
 
 #### Projects

@@ -69,8 +69,20 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers 
 
-- [Proofs, Arguments, and Zero-Knowledge](http://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
-- [Global Standards Mapping Initiative: An overview of blockchain technical standards](http://www3.weforum.org/docs/WEF_GSMI_Technical_Standards_2020.pdf)
+- [Using Homomorphic hashes in coded blockchains](https://arxiv.org/pdf/2010.04607.pdf)
+> One of the scalability issues of blockchains
+is the increase of their sizes which can prevent users
+from storing them and thus from contributing to the
+decentralization effort. Recent works developed the
+concept of coded blockchains, which allow users to store
+only some coded fragments of the blockchains. However, this solution is not protected against malicious
+nodes that can propagate erroneous coded fragments.
+>
+> We propose in the paper to add homomorphic hashes
+to this system. This allows for instantaneous detection of erroneous fragments and thus avoids decoding
+with wrong data. We describe the integration of this
+mechanism in coded blockchains and we evaluate its
+complexity theoretically and by simulation.
 - [KVaC: Key-Value Commitments for Blockchains and Beyond](https://eprint.iacr.org/2020/1161.pdf)
 > Using our new keyvalue commitment scheme KVaC, one can build an account-based cryptocurrency where a
 node needs to store only two group elements (the commitment) to validate transactions. In
@@ -88,7 +100,8 @@ and transparency logs.
 of using the solution of a Hash puzzle based on the parent block’s hash as
 proof of work, we instead use the randomized VDF computed based on the
 parent block randomness and the coin’s public key as the proof of stake lottery.
-- Doc: [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
+- [Proofs, Arguments, and Zero-Knowledge](http://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+- [Global Standards Mapping Initiative: An overview of blockchain technical standards](http://www3.weforum.org/docs/WEF_GSMI_Technical_Standards_2020.pdf)- Doc: [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
 
 
 #### Projects

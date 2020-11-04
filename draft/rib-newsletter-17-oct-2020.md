@@ -109,7 +109,23 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
+61 merged PRs ([1][rust-bitcoin-merged-prs-1], [2][rust-bitcoin-merged-prs-2], [3][rust-bitcoin-merged-prs-3], [4][rust-bitcoin-merged-prs-4]), 12 closed issues ([1][rust-bitcoin-closed_issues-1], [2][rust-bitcoin-closed_issues-2], [3][rust-bitcoin-closed_issues-3], [4][rust-bitcoin-closed_issues-4]), 15 open issues ([1][rust-bitcoin-open_issues-1], [2][rust-bitcoin-open_issues-2], [3][rust-bitcoin-open_issues-3])
 
+[rust-bitcoin-merged-prs-1]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[rust-bitcoin-merged-prs-2]: https://github.com/rust-bitcoin/rust-lightning/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[rust-bitcoin-merged-prs-3]: https://github.com/rust-bitcoin/rust-miniscript/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[rust-bitcoin-merged-prs-4]: https://github.com/rust-bitcoin/bitcoin_hashes/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[rust-bitcoin-closed_issues-1]: https://github.com/rust-bitcoin/rust-bitcoin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[rust-bitcoin-closed_issues-2]: https://github.com/rust-bitcoin/rust-lightning/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[rust-bitcoin-closed_issues-3]: https://github.com/rust-bitcoin/rust-miniscript/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[rust-bitcoin-closed_issues-4]: https://github.com/rust-bitcoin/bitcoin_hashes/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[rust-bitcoin-open_issues-1]: https://github.com/rust-bitcoin/rust-bitcoin/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+[rust-bitcoin-open_issues-2]: https://github.com/rust-bitcoin/rust-lightning/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+[rust-bitcoin-open_issues-3]: https://github.com/rust-bitcoin/rust-miniscript/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+
+- PR: [Refactor chain monitoring](https://github.com/rust-bitcoin/rust-lightning/pull/649) by [@jkczyz](https://github.com/jkczyz)
+- PR: [Add ChannelDataPersister trait and point ChainMonitor to it.](https://github.com/rust-bitcoin/rust-lightning/pull/681) by [@valentinewallace](https://github.com/valentinewallace)
+- PR: [DescriptorPublicKey, second pass](https://github.com/rust-bitcoin/rust-miniscript/pull/131) by [@darosior](https://github.com/darosior)
 
 #### [COMIT](https://github.com/comit-network)
 
@@ -127,15 +143,51 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Libra](https://libra.org)
 
+199 merged PRs ([1][libra-merged-prs-1]), 21 closed issues ([1][libra-closed_issues-1]), 
+22 open issues ([1][libra-open_issues-1])
+
+[libra-merged-prs-1]: https://github.com/libra/libra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[libra-closed_issues-1]: https://github.com/libra/libra/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[libra-open_issues-1]: https://github.com/libra/libra/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+
 - News: [Testnet push announcement for 10/14](https://community.libra.org/t/testnet-push-announcement-for-10-14/3176)
+- PR: [[network][fuzzing] Fuzz inbound `NetworkMessage` handling and fix memory leak](https://github.com/libra/libra/pull/6601) by [@phlip9](https://github.com/phlip9)
+- PR: [[xbuild] cleaner install and initial pass at xbuild wiring](https://github.com/libra/libra/pull/6212) by [@rexhoffman](https://github.com/rexhoffman)
+- PR: [[network] improve context and clarity of noise handshake errors](https://github.com/libra/libra/pull/6367) by [@phlip9](https://github.com/phlip9)
   
 #### [Lighthouse](https://lighthouse.sigmaprime.io/)
 
+4 merged PRs ([1][lighthouse-merged-prs-1]), 48 closed issues ([1][lighthouse-closed_issues-1]), 
+30 open issues ([1][lighthouse-open_issues-1])
+
+[lighthouse-merged-prs-1]: https://github.com/sigp/lighthouse/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+
 - News: [Lighthouse Update #30](https://lighthouse.sigmaprime.io/update-30.html)
+- PR: [Update blst and milagro_bls subgroup checking](https://github.com/sigp/lighthouse/pull/1793) by [@kirk-baird](https://github.com/kirk-baird)
+- PR: [Staging: v0.3.0](https://github.com/sigp/lighthouse/pull/1671) by [@paulhauner](https://github.com/paulhauner)
+- PR: [Upgrade discovery and restructure task execution](https://github.com/sigp/lighthouse/pull/1693) by [@AgeManning](https://github.com/AgeManning)
 
 #### [MobileCoin](https://www.mobilecoin.com/)
 
+49 merged PRs ([1][mobilecoin-merged-prs-1]), 1 closed issues ([1][mobilecoin-closed_issues-1]), 
+0 open issues ()
+
+[mobilecoin-merged-prs-1]: https://github.com/mobilecoinfoundation/mobilecoin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[mobilecoin-closed_issues-1]: https://github.com/mobilecoinfoundation/mobilecoin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+
+- PR: [Make a constant time aes-gcm decrypt and use in cryptobox](https://github.com/mobilecoinfoundation/mobilecoin/pull/434) by [@xoloki](https://github.com/xoloki)
+- PR: [Make a stderr configuration of the logger module, and use it in tests](https://github.com/mobilecoinfoundation/mobilecoin/pull/537) by [@garbageslam](https://github.com/garbageslam)
+
 #### [NEAR](https://github.com/nearprotocol/nearcore)
+
+41 merged PRs ([1][near-merged-prs-1]), 54 closed issues ([1][near-closed_issues-1]), 
+42 open issues ([1][near-open_issues-1])
+
+[near-merged-prs-1]: https://github.com/near/nearcore/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[near-closed_issues-1]: https://github.com/near/nearcore/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[near-open_issues-1]: https://github.com/near/nearcore/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
 
 - News:
   - [TrustToken Bridges TUSD to NEAR](https://near.org/blog/trusttoken-bridges-tusd-to-near/)
@@ -147,8 +199,21 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - Blog:
   - [How the NEAR Foundation is Supporting Network Decentralization](https://near.org/blog/how-the-near-foundation-is-supporting-network-decentralization/)
   - [Getting Started With the NEAR Wallet](https://near.org/blog/getting-started-with-the-near-wallet/)
+- PR: [feat(chain): Versioned ShardChunkHeader](https://github.com/near/nearcore/pull/3463) by [@birchmd](https://github.com/birchmd)
+- PR: [fix: make outcome ids ordered in storage](https://github.com/near/nearcore/pull/3529) by [@bowenwang1996](https://github.com/bowenwang1996)
+- PR: [fix(genesis): Don't write genesis records on restart](https://github.com/near/nearcore/pull/3470) by [@mikhailOK](https://github.com/mikhailOK)
 
 #### [Nervos](https://github.com/nervosnetwork)
+
+30 merged PRs ([1][nervos-merged-prs-1], [2][nervos-merged-prs-2], [3][nervos-merged-prs-3]), 6 closed issues ([1][nervos-closed_issues-1], [2][nervos-closed_issues-2]), 4 open issues ([1][nervos-open_issues-1], [2][nervos-open_issues-2])
+
+[nervos-merged-prs-1]: https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[nervos-merged-prs-2]: https://github.com/nervosnetwork/ckb-vm/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[nervos-merged-prs-3]: https://github.com/nervosnetwork/rfcs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[nervos-closed_issues-1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[nervos-closed_issues-2]: https://github.com/nervosnetwork/ckb-vm/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[nervos-open_issues-1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+[nervos-open_issues-2]: https://github.com/nervosnetwork/rfcs/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
 
 - News:
   - [Bitpie builds stablecoin bridge between Ethereum and CKB](https://medium.com/nervosnetwork/bitpie-builds-stablecoin-bridge-between-ethereum-and-ckb-d6a4b30cc92)
@@ -156,12 +221,36 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - Blog:
   - [Session with #NervosHack winners SECBIT, NerBRos, and LeapDAO](https://medium.com/nervosnetwork/q-a-session-with-nervoshack-winners-secbit-nerbros-and-leapdao-1b22a92cebaf)
   - [Portal Wallet and pw-sdk: Connecting blockchain users around the world](https://medium.com/nervosnetwork/portal-wallet-and-pw-sdk-connecting-blockchain-users-around-the-world-78027e0860e7)
-
-#### [Oasis](https://github.com/oasislabs)
+- PR: [docs: deny missing docs](https://github.com/nervosnetwork/ckb/pull/2313) by [@doitian](https://github.com/doitian)
+- PR: [chore: upgrade rust toolchain to 1.46](https://github.com/nervosnetwork/ckb/pull/2296) by [@driftluo](https://github.com/driftluo)
 
 #### [Parity](https://github.com/paritytech)
 
+191 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3]), 110 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4]), 
+53 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2])
+
+[parity-merged-prs-1]: https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[parity-merged-prs-2]: https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[parity-merged-prs-3]: https://github.com/paritytech/wasmi/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[parity-closed_issues-1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[parity-closed_issues-2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[parity-closed_issues-3]: https://github.com/paritytech/wasmi/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[parity-closed_issues-4]: https://github.com/paritytech/parity-bitcoin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[parity-open_issues-1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+[parity-open_issues-2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+
+- PR: [Async keystore + Authority-Discovery async/await](https://github.com/paritytech/substrate/pull/7000) by [@rakanalh](https://github.com/rakanalh)
+- PR: [Runtime worker threads](https://github.com/paritytech/substrate/pull/7089) by [@NikVolf](https://github.com/NikVolf)
+- PR: [WASM Local-blob override](https://github.com/paritytech/substrate/pull/7317) by [@insipx](https://github.com/insipx)
+
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
+
+13 merged PRs ([1][secret_network-merged-prs-1]), 24 closed issues ([1][secret_network-closed_issues-1]), 
+15 open issues ([1][secret_network-open_issues-1])
+
+[secret_network-merged-prs-1]: https://github.com/enigmampc/SecretNetwork/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[secret_network-closed_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[secret_network-open_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
 
 - News:
   - [SecretSCRT: Privacy Tokens are Live on Mainnet!](https://blog.scrt.network/secret-scrt-privacy-tokens-mainnet/)
@@ -170,16 +259,40 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - Blog:
   - [Secret NFTs: Privacy for Verifiable Goods and Experiences](https://blog.scrt.network/secret-nfts/)
   - [Secret Ethereum Bridge: Programmable Privacy for Ethereum and ERC-20s](https://blog.scrt.network/secret-ethereum-bridge-privacy/)
+- PR: [secretcli update to snip20](https://github.com/enigmampc/SecretNetwork/pull/582) by [@toml01](https://github.com/toml01)
+- PR: [DOC: added macos mention to work with ledger](https://github.com/enigmampc/SecretNetwork/pull/548) by [@lacabra](https://github.com/lacabra)
 
 #### [Solana](https://github.com/solana-labs/solana)
+
+240 merged PRs ([1][solana-merged-prs-1]), 29 closed issues ([1][solana-closed_issues-1]), 
+31 open issues ([1][solana-open_issues-1])
+
+[solana-merged-prs-1]: https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[solana-closed_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
 
 - News:
   - [October Newsletter](https://medium.com/solana-labs/october-newsletter-2bca800ed41c)
   - [September Newsletter](https://medium.com/solana-labs/september-newsletter-4d2c341035)
 - Blog:
   - [Why Solana?](https://medium.com/solana-labs/why-solana-8c927d58ba06)
+- PR: [Break up AccountsIndex lock](https://github.com/solana-labs/solana/pull/12787) by [@carllin](https://github.com/carllin)
+- PR: [Fix tower/blockstore unsync due to external causes](https://github.com/solana-labs/solana/pull/12671) by [@ryoqun](https://github.com/ryoqun)
+- PR: [Codify breaking change guidelines](https://github.com/solana-labs/solana/pull/13066) by [@jstarry](https://github.com/jstarry)
 
 #### [Zcash](https://z.cash/)
+
+93 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 25 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2]), 
+30 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
+
+[zcash-merged-prs-1]: https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[zcash-merged-prs-2]: https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[zcash-merged-prs-3]: https://github.com/zcash/zips/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[zcash-closed_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[zcash-closed_issues-2]: https://github.com/zcash/zips/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[zcash-open_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+[zcash-open_issues-2]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+[zcash-open_issues-3]: https://github.com/zcash/zips/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
 
 - News:
   - [ECC Transparency Report for Q1 2020](https://electriccoin.co/blog/ecc-transparency-report-for-q1-2020/)
@@ -187,7 +300,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   [10-16](https://www.zcashcommunity.com/2020/10/16/zcash-developers-update-10-16-2020/)
   [10-9](https://www.zcashcommunity.com/2020/10/09/zcash-developers-update-10-9-2020/)
   [10-2](https://www.zcashcommunity.com/2020/10/02/zcash-developers-update-10-2-2020/)
-  
+- PR: [Block Subsidy and Founders Reward Amounts](https://github.com/ZcashFoundation/zebra/pull/1051) by [@oxarbitrage](https://github.com/oxarbitrage)
+- PR: [Implementation for ZIP-222 Transparent Zcash Extensions](https://github.com/zcash/librustzcash/pull/286) by [@nuttycom](https://github.com/nuttycom)
 
 &nbsp;
 

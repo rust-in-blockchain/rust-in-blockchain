@@ -103,11 +103,11 @@ GitHub:
 
 ``` toml
 repos = [
-"crypto-com/chain",
-"crypto-com/cro-nodelib",
-"crypto-com/sample-chain-wallet",
-"crypto-com/sample-chain-java-example",
-"crypto-com/sample-chain-ios-example",
+"crypto-com/thaler",
+"crypto-com/chain-nodelib",
+"crypto-com/thaler-sample-wallet",
+"crypto-com/sample-thaler-java-example",
+"crypto-com/sample-thaler-ios-example",
 ]
 ```
 
@@ -260,12 +260,13 @@ Media:
 
 GitHub:
 
-- https://github.com/mobilecoinofficial
+- https://github.com/mobilecoinfoundation
 
 ``` toml
-repos = [
-"mobilecoinofficial/mobilecoin",
+repos	= [
+"mobilecoinfoundation/mobilecoin",
 ]
+
 ```
 
 ## Near

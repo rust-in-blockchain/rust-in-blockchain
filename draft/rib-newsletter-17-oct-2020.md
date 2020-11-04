@@ -49,6 +49,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Rusty Chains: A Basic Blockchain Implementation Written in Pure Rust](https://hackernoon.com/rusty-chains-a-basic-blockchain-implementation-written-in-pure-rust-gk2m3uri)
+- [Towards formal semantics of the beacon chain’s pyspec](https://ethresear.ch/t/towards-formal-semantics-of-the-beacon-chains-pyspec/8181)
 - [Rust no-std FAQ](https://justjjy.com/Rust-no-std). Basic and useful.
 - [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/).
   It isn't blockchain related.
@@ -117,21 +118,37 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - News: [Trade Bitcoin and DAI with COMIT - Alpha version of our non-custodial trading UI released](https://comit.network/blog/2020/10/12/ambrosia-alpha-release)
 - News: [Designing GitHub workflows for automated releases](https://comit.network/blog/2020/09/25/gh-release)
 
-#### [Crypto.com Chain](https://chain.crypto.com)
-
-#### [Elrond](https://github.com/ElrondNetwork)
-
 #### [Holochain](https://github.com/holochain/)
 
 #### [Libra](https://libra.org)
 
 #### [Lighthouse](https://lighthouse.sigmaprime.io/)
 
+- News: [Lighthouse Update #30](https://lighthouse.sigmaprime.io/update-30.html)
+
 #### [MobileCoin](https://www.mobilecoin.com/)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
+- News:
+  - [TrustToken Bridges TUSD to NEAR](https://near.org/blog/trusttoken-bridges-tusd-to-near/)
+  - [NEAR joins FlamingoDAO](https://near.org/blog/near-joins-flamingodao-%f0%9f%a6%a9/)
+  - [Balancer’s DeFi Protocol is bringing Programmable Liquidity to NEAR](https://near.org/blog/balancers-defi-protocol-is-bringing-programmable-liquidity-to-near/)
+  - [NEAR Developer Research: Validating the NEAR DevX Tech Stack – Round 2](https://near.org/blog/near-developer-research-validating-the-near-devx-tech-stack-round-2/)
+  - [The NEAR MainNet is now Unrestricted and Decentralized](https://near.org/blog/near-mainnet-phase-2-unrestricted-decentralized/)
+  - [Community Update – Beyond Launch](https://near.org/blog/community-update-beyond-launch/)
+- Blog:
+  - [How the NEAR Foundation is Supporting Network Decentralization](https://near.org/blog/how-the-near-foundation-is-supporting-network-decentralization/)
+  - [Getting Started With the NEAR Wallet](https://near.org/blog/getting-started-with-the-near-wallet/)
+
 #### [Nervos](https://github.com/nervosnetwork)
+
+- News:
+  - [Bitpie builds stablecoin bridge between Ethereum and CKB](https://medium.com/nervosnetwork/bitpie-builds-stablecoin-bridge-between-ethereum-and-ckb-d6a4b30cc92)
+  - [Advanced CKB mining infrastructure with Insight](https://medium.com/nervosnetwork/grant-approved-advanced-ckb-mining-infrastructure-with-insight-956146955dc5)
+- Blog:
+  - [Session with #NervosHack winners SECBIT, NerBRos, and LeapDAO](https://medium.com/nervosnetwork/q-a-session-with-nervoshack-winners-secbit-nerbros-and-leapdao-1b22a92cebaf)
+  - [Portal Wallet and pw-sdk: Connecting blockchain users around the world](https://medium.com/nervosnetwork/portal-wallet-and-pw-sdk-connecting-blockchain-users-around-the-world-78027e0860e7)
 
 #### [Oasis](https://github.com/oasislabs)
 
@@ -140,6 +157,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 #### [Solana](https://github.com/solana-labs/solana)
+
+- News:
+  - [October Newsletter](https://medium.com/solana-labs/october-newsletter-2bca800ed41c)
+  - [September Newsletter](https://medium.com/solana-labs/september-newsletter-4d2c341035)
+- Blog:
+  - [Why Solana?](https://medium.com/solana-labs/why-solana-8c927d58ba06)
 
 #### [Zcash](https://z.cash/)
 

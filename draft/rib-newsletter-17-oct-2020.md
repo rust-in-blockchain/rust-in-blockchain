@@ -198,6 +198,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Holochain](https://github.com/holochain/)
 
+
 #### [Libra](https://libra.org)
 
 199 merged PRs ([1][libra-merged-prs-1]), 21 closed issues ([1][libra-closed_issues-1]), 

@@ -69,6 +69,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Proofs, Arguments, and Zero-Knowledge](http://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 - [Global Standards Mapping Initiative: An overview of blockchain technical standards](http://www3.weforum.org/docs/WEF_GSMI_Technical_Standards_2020.pdf)
+- Doc: [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
 
 #### Projects
 

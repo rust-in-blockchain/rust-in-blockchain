@@ -127,6 +127,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+- PR: [Use criterion in curve benchmarks](https://github.com/AleoHQ/snarkOS/pull/483) by @ljedrz
+- PR: [Initial Storage Implementation for Setup Coordinator](https://github.com/AleoHQ/aleo-setup/pull/100) by @howardwu
+- PR: [Implement a Verifier Instance for Setup Ceremony](https://github.com/AleoHQ/aleo-setup/pull/107) by @raychu86
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 61 merged PRs ([1][rust-bitcoin-merged-prs-1], [2][rust-bitcoin-merged-prs-2], [3][rust-bitcoin-merged-prs-3], [4][rust-bitcoin-merged-prs-4]), 12 closed issues ([1][rust-bitcoin-closed_issues-1], [2][rust-bitcoin-closed_issues-2], [3][rust-bitcoin-closed_issues-3], [4][rust-bitcoin-closed_issues-4]), 15 open issues ([1][rust-bitcoin-open_issues-1], [2][rust-bitcoin-open_issues-2], [3][rust-bitcoin-open_issues-3])

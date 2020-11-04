@@ -54,12 +54,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/).
   It isn't blockchain related.
   The write features some that also very useful for blockchain developers.
+- [Privacy is normal, safe and essential](https://electriccoin.co/blog/privacy-is-normal-safe-and-essential/)
 - [People of Parity: Bastian Köcher](https://www.parity.io/people-of-parity-bastian-koecher/).
   Besides technology, Parity also creates lovely developer stories.
 
 #### Papers 
 
 - [Proofs, Arguments, and Zero-Knowledge](http://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+- [Global Standards Mapping Initiative: An overview of blockchain technical standards](http://www3.weforum.org/docs/WEF_GSMI_Technical_Standards_2020.pdf)
 
 #### Projects
 
@@ -101,10 +103,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Project Updates
 
-
 #### [Aleo](https://github.com/AleoHQ)
 
-#### [Conflux](https://github.com/Conflux-Chain)
+#### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
 
 #### [COMIT](https://github.com/comit-network)
 
@@ -122,6 +124,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Libra](https://libra.org)
 
+- News: [Testnet push announcement for 10/14](https://community.libra.org/t/testnet-push-announcement-for-10-14/3176)
+  
 #### [Lighthouse](https://lighthouse.sigmaprime.io/)
 
 - News: [Lighthouse Update #30](https://lighthouse.sigmaprime.io/update-30.html)
@@ -156,6 +160,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
+- News:
+  - [SecretSCRT: Privacy Tokens are Live on Mainnet!](https://blog.scrt.network/secret-scrt-privacy-tokens-mainnet/)
+  - [Secret Network Gets a Secret API!](https://blog.scrt.network/secret-api/)
+  - [Secret Network Ecosystem Update: September 2020](https://blog.scrt.network/ecosystem-update-september-2020/)
+- Blog:
+  - [Secret NFTs: Privacy for Verifiable Goods and Experiences](https://blog.scrt.network/secret-nfts/)
+  - [Secret Ethereum Bridge: Programmable Privacy for Ethereum and ERC-20s](https://blog.scrt.network/secret-ethereum-bridge-privacy/)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 - News:
@@ -166,6 +178,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Zcash](https://z.cash/)
 
+- News:
+  - [ECC Transparency Report for Q1 2020](https://electriccoin.co/blog/ecc-transparency-report-for-q1-2020/)
+  - Zcash Developers Update [10-23](https://www.zcashcommunity.com/2020/10/23/zcash-developers-update-10-23-2020/)
+  [10-16](https://www.zcashcommunity.com/2020/10/16/zcash-developers-update-10-16-2020/)
+  [10-9](https://www.zcashcommunity.com/2020/10/09/zcash-developers-update-10-9-2020/)
+  [10-2](https://www.zcashcommunity.com/2020/10/02/zcash-developers-update-10-2-2020/)
+  
 
 &nbsp;
 

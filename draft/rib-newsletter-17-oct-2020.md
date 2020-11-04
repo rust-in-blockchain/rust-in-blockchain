@@ -11,12 +11,14 @@ Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about th
 
 ## Thanks
 
-Thanks to contributors: 
+Thanks to contributors:
+[apruden2008][contributor-alex]
 [ashput][contributor-ashput],
 [Damascene][contributor-damascene],
 [Daniel Karzel][contributor-dakami],
 [David Ansermino][contributor-ansermino],
 [Mikko Ohtamaa][contributor-miohtama],
+[Paulii][contributor-paulii],
 [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
@@ -26,11 +28,13 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue. 
 by submitting a PR to the [#18 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[contributor-alex]: https://github.com/apruden2008
 [contributor-ashput]: https://github.com/ashput
 [contributor-dakami]: https://github.com/da-kami
 [contributor-damascene]: https://github.com/damascene
 [contributor-miohtama]: https://github.com/miohtama
 [contributor-ansermino]: https://github.com/ansermino
+[contributor-paulii]: https://github.com/PauliiG22
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 
@@ -50,6 +54,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- Conflux: [Tethys Mainnet is Live](https://medium.com/conflux-network/tethys-mainnet-is-live-cd9819a96ae3)
 
 #### Blog Posts
 
@@ -112,8 +117,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Serum-dex](https://github.com/project-serum/serum-dex).
 - [BTC-Parachain](https://github.com/interlay/BTC-Parachain).
   BTC-Parachain: Trustless Bitcoin on Polkadot (Mirror).
-
-#### Podcasts and Videos
 
 
 &nbsp;

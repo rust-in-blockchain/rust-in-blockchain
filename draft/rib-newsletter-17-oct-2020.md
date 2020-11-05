@@ -224,8 +224,7 @@ Rust crates that look like they could be reused with relative ease:
 21 closed issues ([1][libra-closed_issues-1]), 
 22 open issues ([1][libra-open_issues-1])
 
-[COMIT](https://github.com/comit-network)
-
+[COMIT](https://github.com/comit-network):
 161 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3]), 2 closed issues ([1][comit-closed_issues-1]), 
 4 open issues ([1][comit-open_issues-1])
 

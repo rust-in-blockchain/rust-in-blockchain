@@ -24,7 +24,7 @@ written in Rust.
 [Conflux]: https://github.com/Conflux-Chain/conflux-rust
 
 Hiring for Rust blockchain developers seems to be increasing,
-particulary within the Chinese Rust communities,
+particularly within the Chinese Rust communities,
 where we see some new blockchain startups using Rust,
 including [Patract Labs], who are developing on Substrate,
 and [TaiDi Tech].
@@ -70,7 +70,7 @@ Thank you for your help!
 RiB needs help to keep up with Rust blockchain projects. 
 If you follow a particular project, or otherwise find information 
 that is beneficial to the Rust & blockchain community, 
-please contribute to the next issue. 
+please contribute to the next issue
 by submitting a PR to the [#18 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributor-alex]: https://github.com/apruden2008
@@ -180,7 +180,7 @@ Rust crates that look like they could be reused with relative ease:
 - [BTC-Parachain](https://github.com/interlay/BTC-Parachain).
   BTC-Parachain: Trustless Bitcoin on Polkadot (Mirror).
 - [arcturus](https://github.com/cargodog/arcturus).
-  A pure rust implementation of Arcturus proofs for
+  Pure rust implementation of Arcturus proofs for
   confidential transactions.
   - Its paper [Arcturus: efficient proofs for confidential
     transactions](https://eprint.iacr.org/2020/312)
@@ -265,7 +265,7 @@ Rust crates that look like they could be reused with relative ease:
 
 #### [Holochain](https://github.com/holochain/)
 
-0 merged PRs, 0 closed issues, 1 open issues ([1][holochain-open_issues-1])
+0 merged PRs, 0 closed issues, 1 open issue ([1][holochain-open_issues-1])
 
 [holochain-open_issues-1]: https://github.com/holochain/holochain-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
 

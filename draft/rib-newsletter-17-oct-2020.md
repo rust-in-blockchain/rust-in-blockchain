@@ -5,10 +5,21 @@ Publish on 4th Nov, 2020
 Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
 [Previous: #16](/newsletters/2020-09-30-secure-enclaves-a-la-crab/).
 
-This month [Conflux launched their mainnet][cm].
+It was a steady month in the Rust blockchain world.
+Though mostly not Rust-specific,
+the coolest stuff we've got for you this month is a bunch of interesting new papers
+on blockchain-related topics.
+Check those out in the "Papers" section.
+
+Almost every month we see one or two mainnet launches,
+and this one continues that trend as
+[Conflux launched their mainnet][cm].
 Congratulations to the Conflux team!
+[Conflux] is an EVM-compatible proof-of-work chain with high transaction throughput,
+written in Rust.
 
 [cm]: https://medium.com/conflux-network/tethys-mainnet-is-live-cd9819a96ae3
+[Conflux]: https://github.com/Conflux-Chain/conflux-rust
 
 Hiring for Rust blockchain developers seems to be increasing,
 particulary within the Chinese Rust communities,

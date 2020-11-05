@@ -56,7 +56,38 @@ by submitting a PR to the [#18 draft](https://github.com/rust-in-blockchain/Rust
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[lnp-node].
 
+`lnp-node` is an implementation of the [Lightning Network][ln] in Rust,
+created by the [LNP/BP Standards Association][lnpbp].
+
+It's not obvious how this implementation relates to the reference implementation,
+but between the [LNP-BP] GitHub org and the [rust-bitcoin] GitHub org,
+which LNP-BP depends on,
+there is quite a lot of development going into Bitcoin implementations in Rust.
+
+It's active and well documented, so for Rust hackers looking to get involved
+in Bitcoin layer 2 development, this seems like a promising entry point.
+
+`lnp-node` has a modular architecture that depends on a number of other
+Rust crates that look like they could reused with relative ease:
+
+- [`rust-lnpbp`] - the lightning network protocol
+- [`rust-bitcoin`] - the bitcoin protocol (but not a full node)
+- [`rust-secp256k1`] - bindings to the official implementation of bitcoin's elliptic curve
+- [`rust-miniscript`] - implementation of a subset of Bitcoin Script
+- [`rust-amplify`] - some rust-language helpers, including generic trait implementations, type wrappers and custom derives
+
+[lnp-node]: https://github.com/LNP-BP/lnp-node
+[ln]: https://lightning.network/
+[lnpbp]: https://www.lnp-bp.org/
+[LNP-BP]: https://github.com/LNP-BP
+[rust-bitcoin]: https://github.com/rust-bitcoin
+[`rust-lnpbp`]: https://github.com/LNP-BP/rust-lnpbp
+[`rust-bitcoin`]: https://github.com/rust-bitcoin/rust-bitcoin
+[`rust-secp256k1`]: https://github.com/rust-bitcoin/rust-secp256k1
+[`rust-miniscript`]: https://github.com/rust-bitcoin/rust-miniscript
+[`rust-amplify`]: https://github.com/LNP-BP/rust-amplify
 
 
 &nbsp;
@@ -112,21 +143,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   recursive SNARK composition.
 - [Oak](https://github.com/project-oak/oak).
   Meaningful control of data in distributed systems.
-- [Rust-lnpbp](https://github.com/LNP-BP/rust-lnpbp).
-  A rust library implementing LNP/BP specifications.
-  It can be used to simplify development of layer 2 & 3 solutions
-  on top of Lightning Network and Bitcoin blockchain.
-- [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning)
-  is a Bitcoin Lightning library written in Rust.
-  The main crate, lightning, does not handle networking,
-  persistence, or any other I/O. Thus, it is runtime-agnostic,
-  but users must implement basic networking logic,
-  chain interactions, and disk storage.
-- [Rust-miniscript](https://github.com/rust-bitcoin/rust-miniscript).
-  Support for Miniscript and Output Descriptors for rust-bitcoin.
-- [Rust-amplify](https://github.com/LNP-BP/rust-amplify). 
-  Amplifying Rust language capabilities: multiple generic trait implementations, 
-  type wrappers, derive macros
 - [Serum-dex](https://github.com/project-serum/serum-dex).
 - [BTC-Parachain](https://github.com/interlay/BTC-Parachain).
   BTC-Parachain: Trustless Bitcoin on Polkadot (Mirror).

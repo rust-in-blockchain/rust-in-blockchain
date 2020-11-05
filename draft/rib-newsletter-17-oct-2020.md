@@ -6,6 +6,18 @@ Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about th
 [Previous: #16](/newsletters/2020-09-30-secure-enclaves-a-la-crab/).
 
 
+Hiring for Rust blockchain developers seems to be increasing,
+particular within the Chinese Rust communities,
+where we see some new blockchain startups using Rust,
+including [Patract Labs], who are developing on Substrate,
+and [TaiDi Tech].
+A Rust conference is [being planned for December in Shanghai][rcc],
+and there are likely to be talks from major Rust blockchain companies.
+
+[rcc]: https://rustcc.cn/article?id=33c3384f-9401-481a-b508-d13f49dd7f87
+[Patract Labs]: https://github.com/patractlabs
+[TaiDi Tech]: http://taiditech.com/
+
 
 &nbsp;
 

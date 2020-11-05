@@ -199,6 +199,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Holochain](https://github.com/holochain/)
 
+0 merged PRs, 0 closed issues, 1 open issues ([1][holochain-open_issues-1])
+
+[holochain-open_issues-1]: https://github.com/holochain/holochain-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
+
 - News: Dev Pulse
   - [A Look at the Holo Hosting Infrastructure](https://blog.holochain.org/a-look-at-the-holo-testnet-coming-soon/)
   - [Migrating Your Holochain App To RSM](https://blog.holochain.org/migrating-your-holochain-app-to-rsm/)

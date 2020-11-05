@@ -1,8 +1,8 @@
 ---
-title: "RiB Newsletter #17 – "
+title: "RiB Newsletter #17 – Trick? Or Trait?"
 description: "#17 - October 2020"
 date: 2020-11-04
-slug: "/2020-11-04-"
+slug: "/2020-11-04-trick-or-trait"
 categories:
   - "newsletters"
 summary: ""

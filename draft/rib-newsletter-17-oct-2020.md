@@ -5,7 +5,10 @@ date: 2020-11-04
 slug: "/2020-11-04-trick-or-trait"
 categories:
   - "newsletters"
-summary: ""
+summary: "Welcome to November, Rust blockchaineers. We hope your Halloween wasn't too frightful. 
+  In the meantime we hope you wrote some great Rust.
+  Though mostly not Rust-specific,
+  the coolest stuff we've got for you this month is a bunch of interesting new papers."
 ---
 
 Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
@@ -318,8 +321,7 @@ Rust crates that look like they could be reused with relative ease:
 
 #### [MobileCoin](https://www.mobilecoin.com/)
 
-49 merged PRs ([1][mobilecoin-merged-prs-1]), 1 closed issues ([1][mobilecoin-closed_issues-1]), 
-0 open issues ()
+49 merged PRs ([1][mobilecoin-merged-prs-1]), 1 closed issue ([1][mobilecoin-closed_issues-1]), 0 open issue
 
 [mobilecoin-merged-prs-1]: https://github.com/mobilecoinfoundation/mobilecoin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
 [mobilecoin-closed_issues-1]: https://github.com/mobilecoinfoundation/mobilecoin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31

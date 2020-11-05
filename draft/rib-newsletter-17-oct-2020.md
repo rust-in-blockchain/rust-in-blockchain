@@ -12,17 +12,7 @@ Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about th
 [Previous: #16](/newsletters/2020-09-30-secure-enclaves-a-la-crab/).
 
 Welcome to November, Rust blockchaineers.
-We hope your Halloween wasn't too frightful.
-I mean,
-if you are like us you probably spent it inside,
-mostly alone,
-like we have been,
-month after month,
-endlessly hiding from an unseen adversary.
-Come to think of it,
-yeah that is pretty spooky.
-
-In the meantime we hope you wrote some great Rust.
+We hope you've been writing some great Rust.
 
 Though mostly not Rust-specific,
 the coolest stuff we've got for you this month is a bunch of interesting new papers

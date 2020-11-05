@@ -5,10 +5,10 @@ date: 2020-11-04
 slug: "/2020-11-04-trick-or-trait"
 categories:
   - "newsletters"
-summary: "Welcome to November, Rust blockchaineers. We hope your Halloween wasn't too frightful. 
-  In the meantime we hope you wrote some great Rust.
-  Though mostly not Rust-specific,
-  the coolest stuff we've got for you this month is a bunch of interesting new papers."
+summary: "Welcome to November, Rust blockchaineers.
+  We hope you've been writing some great Rust. Though mostly not Rust-specific,
+  the coolest stuff we've got for you this month are a bunch of interesting new papers
+  on blockchain-related topics."
 ---
 
 Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 

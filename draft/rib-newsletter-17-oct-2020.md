@@ -5,6 +5,11 @@ Publish on 4th Nov, 2020
 Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
 [Previous: #16](/newsletters/2020-09-30-secure-enclaves-a-la-crab/).
 
+This month [Conflux launched their mainnet][cm].
+Congratulations to the Conflux team!
+
+[cm]: https://medium.com/conflux-network/tethys-mainnet-is-live-cd9819a96ae3
+
 Hiring for Rust blockchain developers seems to be increasing,
 particulary within the Chinese Rust communities,
 where we see some new blockchain startups using Rust,

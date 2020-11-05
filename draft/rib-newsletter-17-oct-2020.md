@@ -1,6 +1,12 @@
-# RiB Newsletter #17
-
-Publish on 4th Nov, 2020
+---
+title: "RiB Newsletter #17 – "
+description: "#17 - October 2020"
+date: 2020-11-04
+slug: "/2020-11-04-"
+categories:
+  - "newsletters"
+summary: ""
+---
 
 Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
 [Previous: #16](/newsletters/2020-09-30-secure-enclaves-a-la-crab/).

@@ -85,7 +85,7 @@ It's active and well documented, so for Rust hackers looking to get involved
 in Bitcoin layer 2 development, this seems like a promising entry point.
 
 `lnp-node` has a modular architecture that depends on a number of other
-Rust crates that look like they could reused with relative ease:
+Rust crates that look like they could be reused with relative ease:
 
 - [`rust-lnpbp`] - the lightning network protocol
 - [`rust-bitcoin`] - the bitcoin protocol (but not a full node)

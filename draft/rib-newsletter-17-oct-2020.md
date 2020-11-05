@@ -199,14 +199,17 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Holochain](https://github.com/holochain/)
 
-- Blog: [Dev Pulse - A Look at the Holo Hosting Infrastructure](https://blog.holochain.org/a-look-at-the-holo-testnet-coming-soon/)
-- Blog: [Dev Pulse – Migrating Your Holochain App To RSM](https://blog.holochain.org/migrating-your-holochain-app-to-rsm/)
-- Blog: [Building Together: RedGrid’s ‘Internet of Energy’ Mission and the Holochain Community](https://blog.holochain.org/building-together-redgrids-internet-of-energy-mission-and-the-holochain-community/)
-- Blog: [Holo Today – The Path from RSM to Beta](https://medium.com/h-o-l-o/the-path-from-rsm-to-beta-1fdca3f581a)
-- Video: [Holochain Ecosystem Sessions with Acorn](https://youtu.be/qUHyxUk8mlw)
-- Video: [Acorn Quick Demo](https://youtu.be/FBCsQHRLsGA)
-- Video: [Holo AMA 43](https://youtu.be/IlW4CP5HGV8)
-- Video: [Demo First Hosted hApp Available via a Web Browser](https://youtu.be/xj2zSvLjViU)
+- News: Dev Pulse
+  - [A Look at the Holo Hosting Infrastructure](https://blog.holochain.org/a-look-at-the-holo-testnet-coming-soon/)
+  - [Migrating Your Holochain App To RSM](https://blog.holochain.org/migrating-your-holochain-app-to-rsm/)
+- Blog:
+  - [Building Together: RedGrid’s ‘Internet of Energy’ Mission and the Holochain Community](https://blog.holochain.org/building-together-redgrids-internet-of-energy-mission-and-the-holochain-community/)
+  - [Holo Today – The Path from RSM to Beta](https://medium.com/h-o-l-o/the-path-from-rsm-to-beta-1fdca3f581a)
+- Videos:
+  - [Holochain Ecosystem Sessions with Acorn](https://youtu.be/qUHyxUk8mlw)
+  - [Acorn Quick Demo](https://youtu.be/FBCsQHRLsGA)
+  -  [Holo AMA 43](https://youtu.be/IlW4CP5HGV8)
+  - [Demo First Hosted hApp Available via a Web Browser](https://youtu.be/xj2zSvLjViU)
 
 #### [Libra](https://libra.org)
 

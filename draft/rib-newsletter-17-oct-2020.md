@@ -1,8 +1,12 @@
 ---
-title: "RiB Newsletter #17 - Trick? Or Trait?
+title: "RiB Newsletter #17 – Trick? Or Trait?"
+description: "#17 - October 2020"
+date: 2020-11-04
+slug: "/2020-11-04-trick-or-trait"
+categories:
+  - "newsletters"
+summary: ""
 ---
-
-Publish on 4th Nov, 2020
 
 Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
 [Previous: #16](/newsletters/2020-09-30-secure-enclaves-a-la-crab/).
@@ -217,11 +221,10 @@ Rust crates that look like they could be reused with relative ease:
 21 closed issues ([1][libra-closed_issues-1]), 
 22 open issues ([1][libra-open_issues-1])
 
-[Zcash](https://z.cash/):
-93 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]),
-25 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2]), 
-30 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
+[COMIT](https://github.com/comit-network)
 
+161 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3]), 2 closed issues ([1][comit-closed_issues-1]), 
+4 open issues ([1][comit-open_issues-1])
 
 &nbsp;
 
@@ -265,11 +268,14 @@ Rust crates that look like they could be reused with relative ease:
 
 #### [COMIT](https://github.com/comit-network)
 
-58 merged PRs([1][comit-rs], [2][xmr-btc-swaps], [3][ambrosia]),
+161 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3]), 2 closed issues ([1][comit-closed_issues-1]), 
+4 open issues ([1][comit-open_issues-1])
 
-[comit-rs]: https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31+NOT+bump
-[xmr-btc-swaps]: https://github.com/comit-network/xmr-btc-swap/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31+NOT+bump
-[ambrosia]: https://github.com/comit-network/ambrosia/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31+NOT+bump
+[comit-merged-prs-1]: https://github.com/comit-network/comit-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[comit-merged-prs-2]: https://github.com/comit-network/create-comit-app/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[comit-merged-prs-3]: https://github.com/comit-network/comit.network/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-10-01..2020-10-31
+[comit-closed_issues-1]: https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-10-01..2020-10-31
+[comit-open_issues-1]: https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2020-10-01..2020-10-31
 
 - R&D: [XMR-BTC swaps](https://comit.network/blog/2020/10/06/monero-bitcoin)
 - News: [Trade Bitcoin and DAI with COMIT - Alpha version of our non-custodial trading UI released](https://comit.network/blog/2020/10/12/ambrosia-alpha-release)

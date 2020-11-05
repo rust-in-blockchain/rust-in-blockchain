@@ -15,7 +15,7 @@ Welcome to November, Rust blockchaineers.
 We hope you've been writing some great Rust.
 
 Though mostly not Rust-specific,
-the coolest stuff we've got for you this month is a bunch of interesting new papers
+the coolest stuff we've got for you this month are a bunch of interesting new papers
 on blockchain-related topics.
 Check those out in the "Papers" section.
 

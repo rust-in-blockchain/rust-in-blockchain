@@ -1,4 +1,6 @@
-# RiB Newsletter #17
+---
+title: "RiB Newsletter #17 - Trick? Or Trait?
+---
 
 Publish on 4th Nov, 2020
 

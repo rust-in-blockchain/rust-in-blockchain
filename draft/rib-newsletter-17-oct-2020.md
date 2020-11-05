@@ -5,9 +5,8 @@ Publish on 4th Nov, 2020
 Welcome to the #17 edition of Rust in Blockchain, the hypest newsletter about the hypest tech. 
 [Previous: #16](/newsletters/2020-09-30-secure-enclaves-a-la-crab/).
 
-
 Hiring for Rust blockchain developers seems to be increasing,
-particular within the Chinese Rust communities,
+particulary within the Chinese Rust communities,
 where we see some new blockchain startups using Rust,
 including [Patract Labs], who are developing on Substrate,
 and [TaiDi Tech].
@@ -18,6 +17,22 @@ and there are likely to be talks from major Rust blockchain companies.
 [Patract Labs]: https://github.com/patractlabs
 [TaiDi Tech]: http://taiditech.com/
 
+Some changes in RiB:
+
+We updated the [contributing](https://rustinblockchain.org/contributing) policies a bit,
+and the [RiB Newsletter](https://rustinblockchain.org/newsletters) now only accepts contributions through GitHub pull requests,
+not email or other means.
+This will both reduce our workload, and create a proper record of who contributed what.
+Thanks for your cooperation.
+
+We are being more selective about what goes into the "Project Updates" sections,
+as the volume of content there had gotten overwhelming in previous months.
+Hopefully these sections will be more focused and meaningful in the future.
+
+On the website,
+we added [learning resources](https://rustinblockchain.org/learning) for new blockchain programmers.
+Please contribute content as well as suggestions to this page,
+and let's improve the learning experience together.
 
 &nbsp;
 
@@ -146,6 +161,11 @@ Rust crates that look like they could reused with relative ease:
 - [Serum-dex](https://github.com/project-serum/serum-dex).
 - [BTC-Parachain](https://github.com/interlay/BTC-Parachain).
   BTC-Parachain: Trustless Bitcoin on Polkadot (Mirror).
+- [arcturus](https://github.com/cargodog/arcturus).
+  A pure rust implementation of Arcturus proofs for
+  confidential transactions.
+  - Its paper [Arcturus: efficient proofs for confidential
+    transactions](https://eprint.iacr.org/2020/312)
 
 
 &nbsp;

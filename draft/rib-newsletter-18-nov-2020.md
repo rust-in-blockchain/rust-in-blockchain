@@ -94,8 +94,7 @@ More jobs can be found at [Job Board][page-jobboard].
 &nbsp;
 
 Want to be included in the next issue? Feel free to submit a PR to the
-[#18 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft),
-or Tweet [@rust_blockchain](https://twitter.com/rust_blockchain).
+[#18 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 **Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**
 

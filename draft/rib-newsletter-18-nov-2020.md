@@ -40,6 +40,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Introducing the `k256` crate: a pure Rust secp256k1 library based on projective formulas](https://iqlusion.blog/k256-crate-pure-rust-projective-secp256k1-library)
+
 #### Papers 
 
 #### Projects

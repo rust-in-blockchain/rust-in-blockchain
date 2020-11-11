@@ -15,6 +15,8 @@ Thanks to contributors:
 
 _TODO_
 
+[Tony Arcieri][contributor-tony]
+
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -22,6 +24,8 @@ If you follow a particular project, or otherwise find information
 that is beneficial to the Rust & blockchain community, 
 please contribute to the next issue
 by submitting a PR to the [#19 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+
+[contributor-tony]: https://github.com/tarcieri
 
 &nbsp;
 

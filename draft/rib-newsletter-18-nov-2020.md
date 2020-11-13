@@ -15,6 +15,7 @@ Thanks to contributors:
 
 _TODO_
 
+[Stanley Jones][contributor-sj],
 [Tony Arcieri][contributor-tony]
 
 Thank you for your help!
@@ -25,6 +26,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#19 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[contributor-sj]: https://github.com/stanleygjones
 [contributor-tony]: https://github.com/tarcieri
 
 &nbsp;
@@ -92,6 +94,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 &nbsp;
 
 ## Careers
+
+
+DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
+- [Software Engineer, Distributed Systems](https://grnh.se/1f702d2e2us)
+- [Software Engineer, Front-End](https://grnh.se/b8daa0ed2us)
+- [Software Engineer, SDK](https://grnh.se/92e1344b2us)
+
 
 More jobs can be found at [Job Board][page-jobboard].
 

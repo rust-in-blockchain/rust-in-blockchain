@@ -31,6 +31,11 @@ Compound | Remote
 Dock | Remote
 - [Rust & DevOps](https://www.cryptojobsdaily.com/job/dock-blockchain-developer-rust-devops/)
 
+DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
+- [Software Engineer, Distributed Systems](https://grnh.se/1f702d2e2us)
+- [Software Engineer, Front-End](https://grnh.se/b8daa0ed2us)
+- [Software Engineer, SDK](https://grnh.se/92e1344b2us)
+
 Equilibrium | Remote
 - [Senior Software Engineer Rust/Go](https://www.notion.so/Hiring-Senior-Software-Engineer-Rust-Go-e6c94ccc261f426c80a483c7fc642412)
 

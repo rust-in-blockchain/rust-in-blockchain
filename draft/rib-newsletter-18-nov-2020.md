@@ -52,6 +52,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [t3rn](https://github.com/t3rn/t3rn).
+  A protocol for interoperable code execution between
+  multiple blockchains, which makes it safe and simple.
 
 &nbsp;
 

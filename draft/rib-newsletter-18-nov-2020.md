@@ -60,7 +60,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   underlying zkSNARKs: finite fields, elliptic curves,
   and polynomials.
   This [organization](https://github.com/arkworks-rs)
-  looks cool: An ecosystem for developing and programming with zkSNARKs.
+  looks cool: An ecosystem for developing and programming with zkSNARKs.	
 - [t3rn](https://github.com/t3rn/t3rn).
   A protocol for interoperable code execution between
   multiple blockchains, which makes it safe and simple.

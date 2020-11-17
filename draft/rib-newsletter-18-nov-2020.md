@@ -52,6 +52,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [arkworks::algebra](https://github.com/arkworks-rs/algebra).
+  The arkworks ecosystem consist of Rust libraries for designing
+  and working with zero knowledge succinct non-interactive
+  arguments (zkSNARKs). This repository contains efficient
+  implementations some of the key algebraic components
+  underlying zkSNARKs: finite fields, elliptic curves,
+  and polynomials.
+  This [organization](https://github.com/arkworks-rs)
+  looks cool: An ecosystem for developing and programming with zkSNARKs.
 - [t3rn](https://github.com/t3rn/t3rn).
   A protocol for interoperable code execution between
   multiple blockchains, which makes it safe and simple.

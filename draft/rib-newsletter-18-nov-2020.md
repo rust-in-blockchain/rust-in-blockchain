@@ -64,6 +64,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [t3rn](https://github.com/t3rn/t3rn).
   A protocol for interoperable code execution between
   multiple blockchains, which makes it safe and simple.
+- [Kulupu](https://github.com/kulupu/kulupu).
+  Kulupu is a pure (no pre-mine, no gadget) proof-of-work blockchain
+  built on the Substrate framework, with support of on-chain
+  governance and online upgrades. It uses ASIC-resistant mining algorithm of RandomX.
 
 &nbsp;
 

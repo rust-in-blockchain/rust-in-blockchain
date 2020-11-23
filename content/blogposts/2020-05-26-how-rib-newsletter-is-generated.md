@@ -42,7 +42,7 @@ a list of all the contributors to this issue
 Every month we
 - Call for contribution one week ahead of the publish date (will introduce publish date in the next section)
 - Accept contribution from GitHub, deal with PRs and issues
-- Accept contribution from other channels. e.g. [Twitter](https://twitter.com/rust_blockchain), [Email](n3wh4x0rs@gmail.com), [Telegram](https://t.me/rustinblockchain)
+- Accept contribution from other channels. e.g. [Twitter](https://twitter.com/rust_blockchain), [Email](hi@rib.rs), [Telegram](https://t.me/rustinblockchain)
 - Generate newsfeed from projects' RSS subscription
 - Run Ribbot one day ahead to calculate GitHub data from projects in rib-bible
 - Discuss on Introduction, Spotlight, Interesting Things sections (we gather some of the content from reading news randomly)

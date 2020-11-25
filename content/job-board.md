@@ -22,11 +22,19 @@ Casper Labs | Remote
 Chainlink | Remote
 - [Blockchain Tools Engineer - Entry Level](https://careers.smartcontract.com/o/blockchain-tools-engineer-entry-level)
 
+ChainSafe | Toronto, Remote
+- [Rust Software Engineer](https://www.notion.so/chainsafe/Blockchain-Developer-Rust-0d577a2636b84511a5d4efc69454585d)
+
 Compound | Remote
 - [Rust Engineer](https://www.crypto-careers.com/jobs/39500671-rust-engineer-at-compound)
 
 Dock | Remote
 - [Rust & DevOps](https://www.cryptojobsdaily.com/job/dock-blockchain-developer-rust-devops/)
+
+DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
+- [Software Engineer, Distributed Systems](https://grnh.se/1f702d2e2us)
+- [Software Engineer, Front-End](https://grnh.se/b8daa0ed2us)
+- [Software Engineer, SDK](https://grnh.se/92e1344b2us)
 
 Equilibrium | Remote
 - [Senior Software Engineer Rust/Go](https://www.notion.so/Hiring-Senior-Software-Engineer-Rust-Go-e6c94ccc261f426c80a483c7fc642412)

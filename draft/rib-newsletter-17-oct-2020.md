@@ -103,6 +103,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+Intro Blog Post https://aleo.org/post/welcome-to-aleo
+DP 1
+Coindesk Article?
+
+
 #### [Conflux](https://github.com/Conflux-Chain)
 
 #### [COMIT](https://github.com/comit-network)

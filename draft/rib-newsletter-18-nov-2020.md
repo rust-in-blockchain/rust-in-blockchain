@@ -107,6 +107,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Events
 
+Dec 7-11 | Online
+
+[Asiacrypt 2020](https://asiacrypt.iacr.org/2020/)
+
+Dec 26-27 | Shenzhen, China
+
+[Rust China Conf 2020](https://2020conf.rustcc.cn/)
+
 &nbsp;
 
 ## Careers

@@ -79,6 +79,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+* News
+* PR: [Implements Phase I coodinator w/ optimistic pipelining](https://github.com/AleoHQ/aleo-setup/pull/88)
+* PR: [Implements Phase I coodinator w/ optimistic pipelining](https://github.com/AleoHQ/aleo-setup/pull/88)
+* PR: [Implements Phase I coodinator w/ optimistic pipelining](https://github.com/AleoHQ/aleo-setup/pull/88)
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 #### [COMIT](https://github.com/comit-network)

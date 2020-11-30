@@ -111,6 +111,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Careers
 
+Aleo | San Francisco, CA; Remote
 
 DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
 - [Software Engineer, Distributed Systems](https://grnh.se/1f702d2e2us)

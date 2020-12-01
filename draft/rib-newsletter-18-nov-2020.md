@@ -87,12 +87,32 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Holochain](https://github.com/holochain/)
 
 #### [Libra](https://libra.org)
+
+- News: [Announcement: Libra is now Diem](https://community.diem.com/t/announcement-libra-is-now-diem/3282).
+  [New Diem documentation for developers](https://developers.diem.com/docs/welcome-to-diem),
+  and [Move](https://developers.diem.com/docs/move/overview/), a Rust-based language.
   
+
 #### [Lighthouse](https://lighthouse.sigmaprime.io/)
+
+- News: Lighthouse Update [#32](https://lighthouse.sigmaprime.io/update-32.html),
+  [#31 (Deposit Contract Launch)](https://lighthouse.sigmaprime.io/update-31.html)
 
 #### [MobileCoin](https://www.mobilecoin.com/)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
+
+- News: [Mooniswap brings its next-generation AMM protocol by 1inch to NEAR](https://near.org/blog/mooniswap-brings-its-next-generation-amm-protocol-by-1inch-to-near/)
+- Videos:
+  - Whiteboard Series with NEAR
+    - [Ep: 44 Adrian Manning from Sigma Prime](https://www.youtube.com/watch?v=XvWf6QMBO6k).
+  About the Network Layer in Eth2, how the nodes communicate and for what reason.
+    - [Ep: 42 Adin Schmahmann from Protocol Labs' IPFS](https://www.youtube.com/watch?v=J-drqD2UebM)
+  - [Rust: NEAR collections, U128, build, deploy, call/view with NEAR CLI](https://www.youtube.com/watch?v=wC6CS7js-tc)
+  - NEAR Live Contract Review
+    - [Episode 3: Whitelist and Staking Pool Factory](https://www.youtube.com/watch?v=S6-1GokbGy0)
+    - [Episode 4: Fungible Tokens](https://www.youtube.com/watch?v=GsDB_YN51SQ)
+    - [Episode 5: Berry Club](https://www.youtube.com/watch?v=W_nI1C3_sQs)
 
 #### [Nervos](https://github.com/nervosnetwork)
 

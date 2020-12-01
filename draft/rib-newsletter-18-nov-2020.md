@@ -47,6 +47,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Introducing the `k256` crate: a pure Rust secp256k1 library based on projective formulas](https://iqlusion.blog/k256-crate-pure-rust-projective-secp256k1-library)
+- [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/)
 
 #### Papers 
 
@@ -97,11 +98,28 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Parity](https://github.com/paritytech)
 
+- Blog:
+  - [Building a Hot Wallet With Substrate Primitives](https://www.parity.io/building-a-hot-wallet-with-substrate-primitives/)
+  - [Moonbeam: Ethereum Smart Contracts on Substrate](https://www.parity.io/ethereum-smart-contracts-on-substrate-moonbeam/)
+
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 #### [Solana](https://github.com/solana-labs/solana)
 
 #### [Zcash](https://z.cash/)
+
+- News:
+  - Zcash developers update [11-13](https://www.zcashcommunity.com/2020/11/13/zcash-developers-update-11-13-2020/),
+  - [The Zcash ecosystem: A 2020 recap](https://electriccoin.co/blog/the-zcash-ecosystem-a-2020-recap/)
+  - New Release
+    - [4.1.1](https://electriccoin.co/blog/new-release-4-1-1/).
+  A hotfix release that addresses a performance regression in v4.1.0.
+    - [4.1.0](https://electriccoin.co/blog/new-release-4-1-0/).
+    Migration to Clang and static libc++; replaces libsodium BLAKE2b usage with the blake2b_simd Rust crate; and more.
+  - [Zcash is Unstoppable: Privacy-focused wallet first to integrate ECC wallet SDKs](https://electriccoin.co/blog/zcash-is-unstoppable-privacy-focused-wallet-first-to-integrate-ecc-wallet-sdks/)
+- Blog:
+  - [The Pasta Curves for Halo 2 and Beyond](https://electriccoin.co/blog/the-pasta-curves-for-halo-2-and-beyond/)
+  
 
 &nbsp;
 

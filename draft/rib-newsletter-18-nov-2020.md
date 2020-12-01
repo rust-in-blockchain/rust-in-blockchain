@@ -116,13 +116,25 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Nervos](https://github.com/nervosnetwork)
 
+- News:
+  - [COFFEE launches on Nervos to tokenize Starbucks coffee in China](https://medium.com/nervosnetwork/coffee-launches-on-nervos-to-tokenize-starbucks-coffee-in-china-5550485650ff)
+  - [Nervos CKB Development Update #41](https://medium.com/nervosnetwork/nervos-ckb-development-update-41-2b2e88ded06)
+  - [Nervos Community Update: October](https://medium.com/nervosnetwork/nervos-community-update-october-2020-2f4925d96217)
+
 #### [Parity](https://github.com/paritytech)
 
 - Blog:
+  - [Introducing the Open Oracle Gateway for Polkadot](https://medium.com/polkadot-network/introducing-the-open-oracle-gateway-for-polkadot-1cf2e1b71c92)
   - [Building a Hot Wallet With Substrate Primitives](https://www.parity.io/building-a-hot-wallet-with-substrate-primitives/)
   - [Moonbeam: Ethereum Smart Contracts on Substrate](https://www.parity.io/ethereum-smart-contracts-on-substrate-moonbeam/)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
+
+- News:
+  - [Announcing 'Holodeck' the Official Secret Network Testnet](https://blog.scrt.network/holodeck-secret-testnet/)
+  - [Ocean and Secret: Collaborating on Access Control and Private Compute for datatokens](https://blog.scrt.network/ocean-and-secret-collaborating-on-access-control-and-private-compute-for-datatokens/)
+  - [Secret Network Ecosystem Update: October 2020](https://blog.scrt.network/secret-network-ecosystem-update-october-2020/)
+- Blog: [Secret Bids: Trust-Minimized Auction Contracts](https://blog.scrt.network/secret-auctions/)
 
 #### [Solana](https://github.com/solana-labs/solana)
 

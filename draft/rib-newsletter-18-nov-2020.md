@@ -138,10 +138,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Solana](https://github.com/solana-labs/solana)
 
+- News:
+  - [Announcing the Winners of Solana’s Inaugural Hackathon](https://medium.com/solana-labs/announcing-the-winners-of-solanas-inaugural-hackathon-66a280b33e6)
+  - [Solana Foundation Grants — Wave One](https://medium.com/solana-labs/solana-foundation-grants-wave-one-14ae40338b59)
+  - [Announcing the Solana Foundation Delegation Strategy](https://medium.com/solana-labs/announcing-the-solana-foundation-delegation-strategy-5bcccf9104ab)
+
+
 #### [Zcash](https://z.cash/)
 
 - News:
-  - Zcash developers update [11-13](https://www.zcashcommunity.com/2020/11/13/zcash-developers-update-11-13-2020/),
+  - Zcash developers update [11-13](https://www.zcashcommunity.com/2020/11/13/zcash-developers-update-11-13-2020/), [11-6](https://www.zcashcommunity.com/2020/11/06/zcash-developers-update-11-6-2020/)
   - [The Zcash ecosystem: A 2020 recap](https://electriccoin.co/blog/the-zcash-ecosystem-a-2020-recap/)
   - New Release
     - [4.1.1](https://electriccoin.co/blog/new-release-4-1-1/).

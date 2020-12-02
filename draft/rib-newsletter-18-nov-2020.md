@@ -8,22 +8,57 @@ categories:
 summary: ""
 ---
 
+Welcome to the #18 edition of Rust in Blockchain,
+the hypest newsletter about the hypest tech.
+[Previous: #17](/newsletters/2020-11-04-trick-or-trait/).
 
+Hope everybody stays safe and healthy.
+It's time to be even more patient with
+blockchain development and pandemic restrictions. 
 
+[Oasis launched their mainnet][oasismainnet] this month,
+while all the attention seems to be on [Eth2's launch][eth2].
+NEAR has a [whiteboard video with the Sigma Prime team][neareth2],
+who develops Lighthouse, the Eth2 client in Rust,
+introduces network layer in Eth2, how the nodes communicate, and more. 
 
+Brian started experimenting with different layer1 blockchains
+to compare the smart contract development experience among them.
+There are some freshly published posts about the impression with Substrate:
+
+- 1:
+- 2:
+- 3:
+
+For further progress, follow the repo on GitHub:
+[A comparison of Rust smart contract platforms][brsonrepo].
+Suggestions are very welcome.
+
+We open-sourced [ribbot], the script that helps us
+generate engineering progress from GitHub repos.
+It currently has no documentation or readability.
+We plan to refactor it (slowly) and hope it can be
+a general purposed program that is useful for other projects. 
+
+RiB received emails from many organizations
+with the request for advertising in the newsletter and the website.
+As RiB is always a community project, we do not want to
+decide for the RiB community.
+We open the question here, asking your thoughts about advertising in RiB.
+Please reply to this email directly, or discuss on the [Telegram group][ribtg].
+
+[ribbot]: https://github.com/rust-in-blockchain/ribbot
+[brsonrepo]: https://github.com/brson/rust-contract-comparison
+[eth2]: https://twitter.com/ethereum/status/1333743998637400073
 
 ## Thanks
 
 Thanks to contributors:
-
-_TODO_
-
 [apruden2008][contributor-ap],
 [Paulii][contributor-pa],
 [Stanley Jones][contributor-sj],
 [Tony Arcieri][contributor-tony],
-
-
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -36,6 +71,8 @@ by submitting a PR to the [#19 draft](https://github.com/rust-in-blockchain/Rust
 [contributor-tony]: https://github.com/tarcieri
 [contributor-ap]: https://github.com/apruden2008
 [contributor-pa]: https://github.com/PauliiG22
+[contributorba]: https://github.com/brson
+[contributoraz]: https://github.com/Aimeedeer
 
 &nbsp;
 
@@ -43,8 +80,32 @@ by submitting a PR to the [#19 draft](https://github.com/rust-in-blockchain/Rust
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[arkworks].
+
+Arkworks is "an ecosystem for developing and programming with zkSNARKs"
+as they said on the GitHub org page.
+
+It has a hell bunch of Rust cryptography libraries
+for designing and working with zero-knowledge succinct
+non-interactive arguments (zkSNARKs), and most of them are under active development:
+- [`snark`] - interfaces for zkSNARKs
+- [`curves`] - implementations of popular elliptic curves
+- [`algebra`] - libraries for finite field, elliptic curve, and polynomial arithmetic
+- [`groth16`] - implementation of the Groth16 zkSNARK
+- [`marlin`] - preprocessing zkSNARK for R1CS with universal and updatable SRS
+- [`ripp`] - proofs about inner pairing products and applications built atop these
+
+They just gave a talk on zkSummit6 recently:
+[zkSummit6: arkworks: A Rust Ecosystem for zkSNARKs – Pratyush Mishra – UC Berkeley](https://www.youtube.com/watch?v=zgSF_dRe4UY).
 
 
+[arkworks]: https://github.com/arkworks-rs
+[`snark`]: https://github.com/arkworks-rs/snark
+[`curves`]: https://github.com/arkworks-rs/curves
+[`algebra`]: https://github.com/arkworks-rs/algebra
+[`groth16`]: https://github.com/arkworks-rs/groth16
+[`marlin`]: https://github.com/arkworks-rs/marlin
+[`ripp`]: https://github.com/arkworks-rs/ripp
 
 
 &nbsp;
@@ -54,8 +115,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
-- Oasis launched its mainnet on Nov 18th. [[Mainnet] Proposal for Upgrading to Mainnet](https://github.com/oasisprotocol/community/issues/1)
+- Oasis launched its mainnet on Nov 18th. [[Mainnet] Proposal for Upgrading to Mainnet][oasismainnet]
   and its documentation: [Mainnet Overview](https://docs.oasis.dev/general/mainnet/mainnet).
+
+[oasismainnet]: https://github.com/oasisprotocol/community/issues/1
 
 #### Blog Posts
 
@@ -76,22 +139,17 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
-- [arkworks::algebra](https://github.com/arkworks-rs/algebra).
-  The arkworks ecosystem consist of Rust libraries for designing
-  and working with zero knowledge succinct non-interactive
-  arguments (zkSNARKs). This repository contains efficient
-  implementations some of the key algebraic components
-  underlying zkSNARKs: finite fields, elliptic curves,
-  and polynomials.
-  This [organization](https://github.com/arkworks-rs)
-  looks cool: An ecosystem for developing and programming with zkSNARKs.	
+- [fe](https://github.com/ethereum/fe).
+  Emerging smart contract language for the Ethereum blockchain.
+  The language was initially created as the Rust implementation of the Vyper compiler.
 - [t3rn](https://github.com/t3rn/t3rn).
   A protocol for interoperable code execution between
   multiple blockchains, which makes it safe and simple.
 - [Kulupu](https://github.com/kulupu/kulupu).
   Kulupu is a pure (no pre-mine, no gadget) proof-of-work blockchain
-  built on the Substrate framework, with support of on-chain
-  governance and online upgrades. It uses ASIC-resistant mining algorithm of RandomX.
+  built on the Substrate framework, supporting on-chain
+  governance and online upgrades.
+  It uses ASIC-resistant mining algorithm of RandomX.
 
 &nbsp;
 
@@ -248,8 +306,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - News: [Mooniswap brings its next-generation AMM protocol by 1inch to NEAR](https://near.org/blog/mooniswap-brings-its-next-generation-amm-protocol-by-1inch-to-near/)
 - Videos:
   - Whiteboard Series with NEAR
-    - [Ep: 44 Adrian Manning from Sigma Prime](https://www.youtube.com/watch?v=XvWf6QMBO6k).
-  About the Network Layer in Eth2, how the nodes communicate and for what reason.
+    - [Ep: 44 Adrian Manning from Sigma Prime][neareth2].
+  About the network layer in Eth2, how the nodes communicate and for what reason.
     - [Ep: 42 Adin Schmahmann from Protocol Labs' IPFS](https://www.youtube.com/watch?v=J-drqD2UebM)
   - [Rust: NEAR collections, U128, build, deploy, call/view with NEAR CLI](https://www.youtube.com/watch?v=wC6CS7js-tc)
   - NEAR Live Contract Review
@@ -259,6 +317,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - PR: [Cache compiled contracts.](https://github.com/near/nearcore/pull/3310) by [@olonho](https://github.com/olonho)
 - PR: [Evm gas estimation](https://github.com/near/nearcore/pull/3299) by [@ailisp](https://github.com/ailisp)
 - PR: [Pass cache to viewing contracts as well.](https://github.com/near/nearcore/pull/3607) by [@olonho](https://github.com/olonho)
+
+[neareth2]: https://www.youtube.com/watch?v=XvWf6QMBO6k
 
 #### [Nervos](https://github.com/nervosnetwork)
 
@@ -417,8 +477,10 @@ More jobs can be found at [Job Board][page-jobboard].
 &nbsp;
 
 Want to be included in the next issue? Feel free to submit a PR to the
-[#18 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+[#19 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
-**Join the discussion on** [**RiB telegram group**](https://t.me/rustinblockchain) **❤️**
+Join the discussion on [RiB telegram group][ribtg] **❤️**
+
+[ribtg]: https://t.me/rustinblockchain
 
 

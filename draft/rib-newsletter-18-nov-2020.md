@@ -15,8 +15,9 @@ Thanks to contributors:
 
 _TODO_
 
+[apruden2008][contributor-ap],
 [Stanley Jones][contributor-sj],
-[Tony Arcieri][contributor-tony]
+[Tony Arcieri][contributor-tony],
 
 Thank you for your help!
 
@@ -28,6 +29,7 @@ by submitting a PR to the [#19 draft](https://github.com/rust-in-blockchain/Rust
 
 [contributor-sj]: https://github.com/stanleygjones
 [contributor-tony]: https://github.com/tarcieri
+[contributor-ap]: https://github.com/apruden2008
 
 &nbsp;
 

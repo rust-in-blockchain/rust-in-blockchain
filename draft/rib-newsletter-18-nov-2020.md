@@ -82,6 +82,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+* News: Howard Wu [presents](https://www.youtube.com/channel/UCYWsYz5cKw4wZ9Mpe4kuM_g) Aleo at ZK Summit 6
+* PR: [Implements Phase I coodinator w/ optimistic pipelining](https://github.com/AleoHQ/aleo-setup/pull/88)
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 #### [COMIT](https://github.com/comit-network)
@@ -177,6 +180,8 @@ Dec 26-27 | Shenzhen, China
 
 ## Careers
 
+Aleo | San Francisco, CA; Remote
+- [Rust Developer - Programming Languages](https://docs.google.com/document/d/1Q-5y9V6QmBBLSNiHRrYRCvNKuxFLy6EnHe4DKPESMX4/edit?usp=sharing)
 
 DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
 - [Software Engineer, Distributed Systems](https://grnh.se/1f702d2e2us)

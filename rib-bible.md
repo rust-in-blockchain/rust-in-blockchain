@@ -40,7 +40,7 @@ repos = [
 "rust-bitcoin/rust-bitcoin",
 "rust-bitcoin/rust-lightning",
 "rust-bitcoin/rust-miniscript",
-"rust-bitcoin/bitcoin_hashes",
+"rust-bitcoin/rust-bitcoincore-rpc",
 ]
 ```
 
@@ -82,11 +82,11 @@ GitHub:
 ``` toml
 repos = [
 "comit-network/comit-rs",
-"comit-network/comit-js-sdk",
+"comit-network/xmr-btc-swap",
 "comit-network/create-comit-app",
-"comit-network/comit.network",
-"comit-network/a2l-poc",
+"comit-network/blockchain-contracts",
 ]
+
 ```
 
 ## Conflux Network
@@ -147,8 +147,6 @@ repos = [
 ]
 
 ```
-
-
 
 ## Golem
 
@@ -213,6 +211,10 @@ GitHub:
 ``` toml
 repos = [
 "holochain/holochain-rust",
+"holochain/holochain",
+"holochain/elemental-chat",
+"holochain/holochain-wasmer",
+"holochain/lair",
 ]
 ```
 
@@ -248,6 +250,7 @@ GitHub:
 ``` toml
 repos = [
 "libra/libra",
+"libra/rosetta-proxy",
 ]
 ```
 
@@ -264,6 +267,8 @@ GitHub:
 ``` toml
 repos = [
 "sigp/lighthouse",
+"sigp/beacon-fuzz",
+"sigp/discv5",
 ]
 ```
 
@@ -298,7 +303,10 @@ GitHub:
 
 ``` toml
 repos = [
-"nearprotocol/nearcore",
+"near/nearcore",
+"near/borsh",
+"near/core-contracts",
+"near/near-evm",
 ]
 ```
 
@@ -320,7 +328,9 @@ GitHub:
 repos = [
 "nervosnetwork/ckb",
 "nervosnetwork/ckb-vm",
-"nervosnetwork/rfcs",
+"nervosnetwork/ckb-cli",
+"nervosnetwork/capsule",
+"nervosnetwork/ckb-std",
 ]
 ```
 ## Oasis
@@ -328,12 +338,14 @@ repos = [
 Media:
 
 - https://medium.com/oasislabs
+- https://medium.com/oasis-protocol-project
 - https://www.twitter.com/OasisLabs
 - https://www.reddit.com/r/OasisLabs
 
 GitHub:
 
 - https://github.com/oasislabs
+- https://github.com/oasisprotocol
 
 ``` toml
 repos = [
@@ -341,6 +353,7 @@ repos = [
 "oasislabs/oasis-rs",
 "oasislabs/oasis-cli",
 "oasislabs/oasis-chain",
+"oasisprotocol/deoxysii-rust",
 ]
 ```
 
@@ -360,9 +373,11 @@ GitHub:
 repos = [
 "paritytech/substrate",
 "paritytech/polkadot",
+"paritytech/cargo-contract",
 "paritytech/wasmi",
 "paritytech/parity-bitcoin",
-"paritytech/parity-zcash",
+"paritytech/cumulus",
+"paritytech/ink",
 ]
 ```
 
@@ -381,7 +396,8 @@ GitHub:
 ``` toml
 repos = [
 "enigmampc/SecretNetwork",
-"enigmampc/SafeTrace"
+"enigmampc/secret-toolkit",
+"enigmampc/SafeTrace",
 ]
 ```
 
@@ -425,7 +441,7 @@ GitHub:
 ``` toml
 repos = [
 "ZcashFoundation/zebra",
+"zcash/halo2",
 "zcash/librustzcash",
-"zcash/zips",
 ]
 ```

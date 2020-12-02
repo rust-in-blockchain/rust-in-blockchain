@@ -115,10 +115,11 @@ They just gave a talk on zkSummit6 recently:
 
 #### News
 
-- Oasis launched its mainnet on Nov 18th. [[Mainnet] Proposal for Upgrading to Mainnet][oasismainnet]
+- Oasis launched its mainnet on Nov 18th.
+  [Oasis Mainnet: Ushering in a New Era of Privacy and Scalability][oasismainnet]
   and its documentation: [Mainnet Overview](https://docs.oasis.dev/general/mainnet/mainnet).
 
-[oasismainnet]: https://github.com/oasisprotocol/community/issues/1
+[oasismainnet]: https://medium.com/oasis-protocol-project/oasis-mainnet-ushering-in-a-new-era-of-privacy-and-scalability-25379d152122
 
 #### Blog Posts
 

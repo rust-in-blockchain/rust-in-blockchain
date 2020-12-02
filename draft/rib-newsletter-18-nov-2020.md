@@ -51,6 +51,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers 
 
+- [Publicly Verifiable Zero Knowledge from (Collapsing) Blockchains](https://eprint.iacr.org/2020/1435)
+
 #### Projects
 
 - [arkworks::algebra](https://github.com/arkworks-rs/algebra).

@@ -149,22 +149,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Holochain](https://github.com/holochain/)
 
-Amidst the continued progress on Holo and Holochain development, the sweet news that all of our super fans heard loud and clear is true P2P networking is here!
-Kizuna Kickstarter Crowdfund is Live! Distributed, P2P messaging app built on Holochain? Yes please. [Support their project!](https://www.kickstarter.com/projects/hci-japan/kizuna-protect-your-conversations-with-confidence)
-
-News: Dev Pulse
-[Real P2P Networking Coming To Holochain RSM](https://blog.holochain.org/real-p2p-networking-coming-to-holochain-rsm/)
-[Networking Has Landed!](https://blog.holochain.org/networking-has-landed/)
-
-Videos:
-[Holochain Ecosystem Session with bhive](https://youtu.be/ww6buoxSmDI)
-[Holochain Ecosystem Session with Sacred Capital](https://youtu.be/cNuOa2LSnpQ)
-[Holochain Ecosystem Session with Digital Value Capture Academy](https://youtu.be/ZBp2HvtKaEA)
-[Holochain Ecosystem Session with Kizuna](https://youtu.be/SskgD45STwg)
-[Holochain is a data integrity fabric](https://youtu.be/tmr-pRPDQ6s)
-[Holochain RSM Low Code, High Repeatability](https://youtu.be/hXdrf2R3hkc)
-[Holochain RSM - Anchors for Data Mapping](https://youtu.be/Fu8dtuANsEg)
-
 58 merged PRs ([1][holochain-merged-prs-1], [2][holochain-merged-prs-2], [3][holochain-merged-prs-3], [4][holochain-merged-prs-4]), 4 closed issues ([1][holochain-closed_issues-1]), 
 8 open issues ([1][holochain-open_issues-1], [2][holochain-open_issues-2])
 

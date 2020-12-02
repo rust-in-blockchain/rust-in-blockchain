@@ -9,6 +9,9 @@ summary: ""
 ---
 
 
+
+
+
 ## Thanks
 
 Thanks to contributors:
@@ -41,6 +44,9 @@ by submitting a PR to the [#19 draft](https://github.com/rust-in-blockchain/Rust
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
 
+
+
+
 &nbsp;
 
 
@@ -48,6 +54,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- Oasis launched its mainnet on Nov 18th. [[Mainnet] Proposal for Upgrading to Mainnet](https://github.com/oasisprotocol/community/issues/1)
+  and its documentation: [Mainnet Overview](https://docs.oasis.dev/general/mainnet/mainnet).
 
 #### Blog Posts
 
@@ -57,7 +65,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers 
 
+- [Secure Regenerating Codes for Reducing Storage and Bootstrap Costs in Sharded Blockchains](https://arxiv.org/pdf/2011.06201.pdf)
+- [Modelling Attacks in Blockchain Systems using Petri Nets](https://www.researchgate.net/publication/345864834_Modelling_Attacks_in_Blockchain_Systems_using_Petri_Nets)
 - [Publicly Verifiable Zero Knowledge from (Collapsing) Blockchains](https://eprint.iacr.org/2020/1435)
+- [Efficient Fully Secure Computation via Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2020/1451.pdf)
+- [On Broadcast in Generalized Network and Adversarial Models](https://eprint.iacr.org/2020/1408)
+- [TaiJi: Longest Chain Availability with BFT Fast Confirmation](https://arxiv.org/abs/2011.11097)
 
 #### Projects
 

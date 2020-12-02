@@ -60,6 +60,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Introducing the `k256` crate: a pure Rust secp256k1 library based on projective formulas](https://iqlusion.blog/k256-crate-pure-rust-projective-secp256k1-library)
+- [Build your own: GPG](https://andrewhalle.github.io/build-your-own/gpg).
+  Implementing one part of the PGP standard in Rust.
 - [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/).
   An interest read about personal security. Not Rust or blockchain.
 

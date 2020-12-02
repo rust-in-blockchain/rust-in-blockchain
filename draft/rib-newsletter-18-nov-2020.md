@@ -149,7 +149,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Holochain](https://github.com/holochain/)
 
-
 58 merged PRs ([1][holochain-merged-prs-1], [2][holochain-merged-prs-2], [3][holochain-merged-prs-3], [4][holochain-merged-prs-4]), 4 closed issues ([1][holochain-closed_issues-1]), 
 8 open issues ([1][holochain-open_issues-1], [2][holochain-open_issues-2])
 

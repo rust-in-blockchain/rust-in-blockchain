@@ -32,6 +32,7 @@ There are some freshly published posts about the impression with Substrate:
 - 1:
 - 2:
 - 3:
+- 4: 
 
 For further progress, follow the repo on GitHub:
 [A comparison of Rust smart contract platforms][brsonrepo].

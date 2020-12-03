@@ -450,8 +450,7 @@ The team recently gave a talk on zkSummit6:
     Migration to Clang and static libc++; replaces libsodium BLAKE2b usage with the blake2b_simd Rust crate; and more.
   - [The Zcash ecosystem: A 2020 recap](https://electriccoin.co/blog/the-zcash-ecosystem-a-2020-recap/)
   - [Zcash is Unstoppable: Privacy-focused wallet first to integrate ECC wallet SDKs](https://electriccoin.co/blog/zcash-is-unstoppable-privacy-focused-wallet-first-to-integrate-ecc-wallet-sdks/)
-- Blog:
-  - [The Pasta Curves for Halo 2 and Beyond](https://electriccoin.co/blog/the-pasta-curves-for-halo-2-and-beyond/)
+- Blog: [The Pasta Curves for Halo 2 and Beyond](https://electriccoin.co/blog/the-pasta-curves-for-halo-2-and-beyond/)
 - PR: [Inbound `FindBlocks` and `FindHeaders`](https://github.com/ZcashFoundation/zebra/pull/1347) by [@oxarbitrage](https://github.com/oxarbitrage)
 - PR: [RFC: Contextual Difficulty](https://github.com/ZcashFoundation/zebra/pull/1246) by [@teor2345](https://github.com/teor2345)
 - PR: [Make transcript generic over curve point](https://github.com/zcash/halo2/pull/43) by [@therealyingtong](https://github.com/therealyingtong)

@@ -17,12 +17,12 @@ It's a good time to be patient and cautious with
 the health of our blockchains.
 Oh, and also our frail human bodies.
 
-On to the ribbles!
+Anyway, on to the ribbles!
 (That's Rust-in-Blockchain Nibbles, I guess)
 
 This month, [Oasis],
 a blockchain that runs Rust contracts on WASM inside secure enclaves,
-[launched their mainnet][oasismainnet] this month.
+[launched their mainnet][oasismainnet].
 Also the [Ethereum 2 beacon chain went live][eth2].
 NEAR has a [whiteboard video with the Sigma Prime team][neareth2],
 who develops Lighthouse, the Eth2 client in Rust.
@@ -38,7 +38,9 @@ developers to learn programming blockchain.
 [Brian], one of the RiB editors,
 has continued documenting his experiments with Rust-based smart contract platforms,
 this month publishing his [initial impressions of Substrate and Ink][substink].
-He hopes to continue bringing this kind of content to the RiB community.
+We hope to bring more of this kind of content to the RiB community in the future,
+and are considering whether RiB itself should be used for publishing
+original content in addition to the newsletter.
 
 [Brian]: https://github.com/brson
 [substink]: https://brson.github.io/2020/11/30/substrate-and-ink-part-1
@@ -46,8 +48,10 @@ He hopes to continue bringing this kind of content to the RiB community.
 We open-sourced [ribbot], the script that helps us
 generate progress reports from GitHub repos.
 It currently has no documentation or readability.
-We plan to refactor it (slowly) and hope it can be
-a general purpose tool program that is useful for other projects. 
+If you ever wonder why the stats we publish for your project seem wrong,
+the answer is somewhere in here.
+We plan to slowly refactor it and hope it can be
+a general purpose tool program that is useful for other projects.
 
 RiB has recently received requests from multiple organizations
 to advertise in the newsletter or the website.
@@ -91,30 +95,28 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [arkworks].
 
-Arkworks is "an ecosystem for developing and programming with zkSNARKs"
-as it says on the GitHub org page.
+Arkworks is "an ecosystem for developing and programming with zkSNARKs".
+It particularly stands out for abstracting over multiple SNARK constructions,
+including [Groth16], [GM17], and [Marlin].
 
-It has a heck bunch of Rust cryptography libraries
-for designing and working with zero-knowledge succinct
-non-interactive arguments (zkSNARKs), and most of them are under active development:
-- [`snark`] - interfaces for zkSNARKs
-- [`curves`] - implementations of popular elliptic curves
-- [`algebra`] - libraries for finite field, elliptic curve, and polynomial arithmetic
-- [`groth16`] - implementation of the Groth16 zkSNARK
-- [`marlin`] - preprocessing zkSNARK for R1CS with universal and updatable SRS
-- [`ripp`] - proofs about inner pairing products and applications built atop these
-
-The team recently gave a talk on zkSummit6:
+The team recently gave a talk at zkSummit6:
 [zkSummit6: arkworks: A Rust Ecosystem for zkSNARKs – Pratyush Mishra](https://www.youtube.com/watch?v=zgSF_dRe4UY).
 
+The best entry point for understanding the code as of now
+appears to be the [`snark`] repository,
+which defines generic traits for zkSNARKS.
 
+This work is an extension of that done for
+the previously-published [Zexe: Enabling Decentralized Private Computation][zexe]
+
+[Groth16]: https://github.com/arkworks-rs/groth16
+[GM17]: https://github.com/arkworks-rs/gm17
+[Marlin]: https://github.com/arkworks-rs/marlin
 [arkworks]: https://github.com/arkworks-rs
 [`snark`]: https://github.com/arkworks-rs/snark
-[`curves`]: https://github.com/arkworks-rs/curves
-[`algebra`]: https://github.com/arkworks-rs/algebra
-[`groth16`]: https://github.com/arkworks-rs/groth16
-[`marlin`]: https://github.com/arkworks-rs/marlin
-[`ripp`]: https://github.com/arkworks-rs/ripp
+[zexe]: https://eprint.iacr.org/2018/962
+
+
 
 
 &nbsp;

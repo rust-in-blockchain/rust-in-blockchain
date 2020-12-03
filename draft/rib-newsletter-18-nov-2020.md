@@ -139,7 +139,7 @@ the previously-published [Zexe: Enabling Decentralized Private Computation][zexe
   Implementing one part of the PGP standard in Rust.
 - [Using Bloom filters to efficiently synchronise hash graphs](https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html)  
 - [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/).
-  An interest read about personal security. Not Rust or blockchain.
+  An interesting read about personal security. Not Rust or blockchain.
 
 
 #### Papers 
@@ -167,7 +167,7 @@ the previously-published [Zexe: Enabling Decentralized Private Computation][zexe
   Kulupu is a pure (no pre-mine, no gadget) proof-of-work blockchain
   built on the Substrate framework, supporting on-chain
   governance and online upgrades.
-  It uses ASIC-resistant mining algorithm of RandomX.
+  It uses the ASIC-resistant RandomX mining algorithm.
 
 &nbsp;
 

@@ -88,7 +88,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [arkworks].
 
 Arkworks is "an ecosystem for developing and programming with zkSNARKs"
-as they said on the GitHub org page.
+as it says on the GitHub org page.
 
 It has a heck bunch of Rust cryptography libraries
 for designing and working with zero-knowledge succinct

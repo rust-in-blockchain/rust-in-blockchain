@@ -22,7 +22,7 @@ Anyway, on to the ribbles!
 This month, [Oasis],
 a blockchain that runs Rust contracts on WASM inside secure enclaves,
 [launched their mainnet][oasismainnet].
-Also the [Ethereum 2 beacon chain went live][eth2].
+The [Ethereum 2 beacon chain also went live][eth2].
 NEAR has a [whiteboard video with the Sigma Prime team][neareth2],
 who develops Lighthouse, the Eth2 client in Rust.
 It introduces the network layer in Eth2, how the nodes communicate, and more.

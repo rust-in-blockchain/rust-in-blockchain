@@ -1,8 +1,8 @@
 ---
 title: "RiB Newsletter #18"
 description: "#18 - November 2020"
-date: 2020-12-02
-slug: "/2020-12-02-"
+date: 2020-12-03
+slug: "/"
 categories:
   - "newsletters"
 summary: ""
@@ -149,6 +149,8 @@ The team recently gave a talk on zkSummit6:
 
 #### Projects
 
+- [Firma](https://github.com/RCasatta/firma).
+  Firma is a tool to create bitcoin multisig wallets with private keys stored on offline devices.
 - [fe](https://github.com/ethereum/fe).
   Emerging smart contract language for the Ethereum blockchain.
   The language was initially created as the Rust implementation of the Vyper compiler.

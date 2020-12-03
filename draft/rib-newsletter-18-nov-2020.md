@@ -22,7 +22,10 @@ NEAR has a [whiteboard video with the Sigma Prime team][neareth2],
 who develops Lighthouse, the Eth2 client in Rust,
 introduces network layer in Eth2, how the nodes communicate, and more. 
 
-Brian started experimenting with different layer1 blockchains
+From projects we have been covered, Parity and NEAR released
+many good videos this month, which are great resources for
+developers to learn programming blockchain.
+Meanwhile, Brian started experimenting with different layer1 blockchains
 to compare the smart contract development experience among them.
 There are some freshly published posts about the impression with Substrate:
 
@@ -85,7 +88,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 Arkworks is "an ecosystem for developing and programming with zkSNARKs"
 as they said on the GitHub org page.
 
-It has a hell bunch of Rust cryptography libraries
+It has a heck bunch of Rust cryptography libraries
 for designing and working with zero-knowledge succinct
 non-interactive arguments (zkSNARKs), and most of them are under active development:
 - [`snark`] - interfaces for zkSNARKs
@@ -95,8 +98,8 @@ non-interactive arguments (zkSNARKs), and most of them are under active developm
 - [`marlin`] - preprocessing zkSNARK for R1CS with universal and updatable SRS
 - [`ripp`] - proofs about inner pairing products and applications built atop these
 
-They just gave a talk on zkSummit6 recently:
-[zkSummit6: arkworks: A Rust Ecosystem for zkSNARKs – Pratyush Mishra – UC Berkeley](https://www.youtube.com/watch?v=zgSF_dRe4UY).
+The team recently gave a talk on zkSummit6:
+[zkSummit6: arkworks: A Rust Ecosystem for zkSNARKs – Pratyush Mishra](https://www.youtube.com/watch?v=zgSF_dRe4UY).
 
 
 [arkworks]: https://github.com/arkworks-rs
@@ -126,8 +129,10 @@ They just gave a talk on zkSummit6 recently:
 - [Introducing the `k256` crate: a pure Rust secp256k1 library based on projective formulas](https://iqlusion.blog/k256-crate-pure-rust-projective-secp256k1-library)
 - [Build your own: GPG](https://andrewhalle.github.io/build-your-own/gpg).
   Implementing one part of the PGP standard in Rust.
+- [Using Bloom filters to efficiently synchronise hash graphs](https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html)  
 - [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/).
   An interest read about personal security. Not Rust or blockchain.
+
 
 #### Papers 
 
@@ -135,7 +140,9 @@ They just gave a talk on zkSummit6 recently:
 - [Modelling Attacks in Blockchain Systems using Petri Nets](https://www.researchgate.net/publication/345864834_Modelling_Attacks_in_Blockchain_Systems_using_Petri_Nets)
 - [Publicly Verifiable Zero Knowledge from (Collapsing) Blockchains](https://eprint.iacr.org/2020/1435)
 - [Efficient Fully Secure Computation via Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2020/1451.pdf)
+- [CommiTEE: An Efficient and Secure Commit-Chain Protocol using TEEs](https://eprint.iacr.org/2020/1486)
 - [On Broadcast in Generalized Network and Adversarial Models](https://eprint.iacr.org/2020/1408)
+- [Byzantine Eventual Consistency and the Fundamental Limits of Peer-to-Peer Databases](https://arxiv.org/abs/2012.00472)
 - [TaiJi: Longest Chain Availability with BFT Fast Confirmation](https://arxiv.org/abs/2011.11097)
 
 #### Projects
@@ -369,6 +376,10 @@ They just gave a talk on zkSummit6 recently:
   - [Introducing the Open Oracle Gateway for Polkadot](https://medium.com/polkadot-network/introducing-the-open-oracle-gateway-for-polkadot-1cf2e1b71c92)
   - [Building a Hot Wallet With Substrate Primitives](https://www.parity.io/building-a-hot-wallet-with-substrate-primitives/)
   - [Moonbeam: Ethereum Smart Contracts on Substrate](https://www.parity.io/ethereum-smart-contracts-on-substrate-moonbeam/)
+- Videos:
+  - Newly released videos in [Substrate Seminar](https://www.youtube.com/watch?v=bg9l72vvu2s&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS)
+  - [Sub0 Online](https://www.youtube.com/watch?v=HKNuGYk1EkE&list=PLp0_ueXY_enUZk1RuEAU9ly5h0wy5FuLs) videos.
+  If you are interested in ink: [Sub0 Online: ink! 3.0: A Rust & Smart Contracts Love Story](https://www.youtube.com/watch?v=WNNJzK3dGGQ)
 - PR: [Use inbound peerslot slots when a substream is received, rather than a connection](https://github.com/paritytech/substrate/pull/7464) by [@tomaka](https://github.com/tomaka)
 - PR: [Approval Distribution Subsystem](https://github.com/paritytech/polkadot/pull/1951) by [@rphmeier](https://github.com/rphmeier)
 - PR: [contracts: Add automated weights for wasm instructions](https://github.com/paritytech/substrate/pull/7361) by [@athei](https://github.com/athei)
@@ -432,12 +443,11 @@ They just gave a talk on zkSummit6 recently:
 
 - News:
   - Zcash developers update [11-13](https://www.zcashcommunity.com/2020/11/13/zcash-developers-update-11-13-2020/), [11-6](https://www.zcashcommunity.com/2020/11/06/zcash-developers-update-11-6-2020/)
-  - [The Zcash ecosystem: A 2020 recap](https://electriccoin.co/blog/the-zcash-ecosystem-a-2020-recap/)
-  - New Release
-    - [4.1.1](https://electriccoin.co/blog/new-release-4-1-1/).
+  - Release [4.1.1](https://electriccoin.co/blog/new-release-4-1-1/).
   A hotfix release that addresses a performance regression in v4.1.0.
-    - [4.1.0](https://electriccoin.co/blog/new-release-4-1-0/).
+  - Release [4.1.0](https://electriccoin.co/blog/new-release-4-1-0/).
     Migration to Clang and static libc++; replaces libsodium BLAKE2b usage with the blake2b_simd Rust crate; and more.
+  - [The Zcash ecosystem: A 2020 recap](https://electriccoin.co/blog/the-zcash-ecosystem-a-2020-recap/)
   - [Zcash is Unstoppable: Privacy-focused wallet first to integrate ECC wallet SDKs](https://electriccoin.co/blog/zcash-is-unstoppable-privacy-focused-wallet-first-to-integrate-ecc-wallet-sdks/)
 - Blog:
   - [The Pasta Curves for Halo 2 and Beyond](https://electriccoin.co/blog/the-pasta-curves-for-halo-2-and-beyond/)

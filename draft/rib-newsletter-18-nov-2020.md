@@ -12,8 +12,7 @@ Welcome to the #18 edition of Rust in Blockchain,
 the hypest newsletter about the hypest tech.
 [Previous: #17](/newsletters/2020-11-04-trick-or-trait/).
 
-Hope everybody stays safe and healthy.
-It's a good time to be patient and cautious with
+It's a good time right now to be patient and cautious with
 the health of our blockchains.
 Oh, and also our frail human bodies.
 

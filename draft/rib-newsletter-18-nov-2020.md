@@ -13,10 +13,14 @@ the hypest newsletter about the hypest tech.
 [Previous: #17](/newsletters/2020-11-04-trick-or-trait/).
 
 Hope everybody stays safe and healthy.
-It's time to be even more patient, with
-both blockchain development and pandemic restrictions. 
+It's a good time to be patient and cautious with
+the health of our blockchains.
+Oh, and also our frail human bodies.
 
-[Oasis],
+On to the ribbles!
+(That's Rust-in-Blockchain Nibbles, I guess)
+
+This month, [Oasis],
 a blockchain that runs Rust contracts on WASM inside secure enclaves,
 [launched their mainnet][oasismainnet] this month.
 Also the [Ethereum 2 beacon chain went live][eth2].

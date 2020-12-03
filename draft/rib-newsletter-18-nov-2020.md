@@ -13,47 +13,48 @@ the hypest newsletter about the hypest tech.
 [Previous: #17](/newsletters/2020-11-04-trick-or-trait/).
 
 Hope everybody stays safe and healthy.
-It's time to be even more patient with
-blockchain development and pandemic restrictions. 
+It's time to be even more patient, with
+both blockchain development and pandemic restrictions. 
 
-[Oasis launched their mainnet][oasismainnet] this month,
-while all the attention seems to be on [Eth2's launch][eth2].
+[Oasis],
+a blockchain that runs Rust contracts on WASM inside secure enclaves,
+[launched their mainnet][oasismainnet] this month.
+Also the [Ethereum 2 beacon chain went live][eth2].
 NEAR has a [whiteboard video with the Sigma Prime team][neareth2],
-who develops Lighthouse, the Eth2 client in Rust,
-introduces network layer in Eth2, how the nodes communicate, and more. 
+who develops Lighthouse, the Eth2 client in Rust.
+It introduces the network layer in Eth2, how the nodes communicate, and more.
+Congrats to both the Oasis and Lighthouse teams!
 
-From projects we have been covered, Parity and NEAR released
+[Oasis]: https://github.com/oasislabs
+
+From projects we typically cover, Parity and NEAR released
 many good videos this month, which are great resources for
 developers to learn programming blockchain.
-Meanwhile, Brian started experimenting with different layer1 blockchains
-to compare the smart contract development experience among them.
-There are some freshly published posts about the impression with Substrate:
 
-- 1:
-- 2:
-- 3:
-- 4: 
+[Brian], one of the RiB editors,
+has continued documenting his experiments with Rust-based smart contract platforms,
+this month publishing his [initial impressions of Substrate and Ink][substink].
+He hopes to continue bringing this kind of content to the RiB community.
 
-For further progress, follow the repo on GitHub:
-[A comparison of Rust smart contract platforms][brsonrepo].
-Suggestions are very welcome.
+[Brian]: https://github.com/brson
+[substink]: https://brson.github.io/2020/11/30/substrate-and-ink-part-1
 
 We open-sourced [ribbot], the script that helps us
-generate engineering progress from GitHub repos.
+generate progress reports from GitHub repos.
 It currently has no documentation or readability.
 We plan to refactor it (slowly) and hope it can be
-a general purposed program that is useful for other projects. 
+a general purpose tool program that is useful for other projects. 
 
-RiB received emails from many organizations
-with the request for advertising in the newsletter and the website.
-As RiB is always a community project, we do not want to
-decide for the RiB community.
-We open the question here, asking your thoughts about advertising in RiB.
-Please reply to this email directly, or discuss on the [Telegram group][ribtg].
+RiB has recently received requests from multiple organizations
+to advertise in the newsletter or the website.
+As RiB is always a community project, we do not want to make
+any decisions without open discussion first.
+We ask your thoughts about how to handle advertising or sponsored content in RiB.
+Please reply to this newsletter email directly, or discuss on the [Telegram group][ribtg].
 
 [ribbot]: https://github.com/rust-in-blockchain/ribbot
-[brsonrepo]: https://github.com/brson/rust-contract-comparison
 [eth2]: https://twitter.com/ethereum/status/1333743998637400073
+
 
 ## Thanks
 
@@ -377,6 +378,7 @@ The team recently gave a talk on zkSummit6:
   - [Introducing the Open Oracle Gateway for Polkadot](https://medium.com/polkadot-network/introducing-the-open-oracle-gateway-for-polkadot-1cf2e1b71c92)
   - [Building a Hot Wallet With Substrate Primitives](https://www.parity.io/building-a-hot-wallet-with-substrate-primitives/)
   - [Moonbeam: Ethereum Smart Contracts on Substrate](https://www.parity.io/ethereum-smart-contracts-on-substrate-moonbeam/)
+  - [First impressions of Rust smart contracts with Substrate and Ink](https://brson.github.io/2020/11/30/substrate-and-ink-part-1)
 - Videos:
   - Newly released videos in [Substrate Seminar](https://www.youtube.com/watch?v=bg9l72vvu2s&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS)
   - [Sub0 Online](https://www.youtube.com/watch?v=HKNuGYk1EkE&list=PLp0_ueXY_enUZk1RuEAU9ly5h0wy5FuLs) videos.

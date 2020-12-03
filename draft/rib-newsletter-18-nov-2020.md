@@ -5,7 +5,9 @@ date: 2020-12-03
 slug: "/"
 categories:
   - "newsletters"
-summary: ""
+summary: "Oasis launched their mainnet.
+  The Ethereum 2 beacon chain also went live. Parity and NEAR released many good videos.
+  Brian keeps documenting his experiments with Rust-based smart contract platforms."
 ---
 
 Welcome to the #18 edition of Rust in Blockchain,

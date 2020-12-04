@@ -383,7 +383,7 @@ the previously-published [Zexe: Enabling Decentralized Private Computation][zexe
   - [Introducing the Open Oracle Gateway for Polkadot](https://medium.com/polkadot-network/introducing-the-open-oracle-gateway-for-polkadot-1cf2e1b71c92)
   - [Building a Hot Wallet With Substrate Primitives](https://www.parity.io/building-a-hot-wallet-with-substrate-primitives/)
   - [Moonbeam: Ethereum Smart Contracts on Substrate](https://www.parity.io/ethereum-smart-contracts-on-substrate-moonbeam/)
-  - [First impressions of Rust smart contracts with Substrate and Ink](https://brson.github.io/2020/11/30/substrate-and-ink-part-1)
+  - [First impressions of Rust smart contracts with Substrate and Ink][substink]
 - Videos:
   - Newly released videos in [Substrate Seminar](https://www.youtube.com/watch?v=bg9l72vvu2s&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS)
   - [Sub0 Online](https://www.youtube.com/watch?v=HKNuGYk1EkE&list=PLp0_ueXY_enUZk1RuEAU9ly5h0wy5FuLs) videos.

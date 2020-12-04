@@ -2,7 +2,7 @@
 title: "RiB Newsletter #18 On to the Ribbles"
 description: "#18 - November 2020"
 date: 2020-12-03
-slug: "/rib-18"
+slug: "/on-to-the-ribbles"
 categories:
   - "newsletters"
 summary: "This month, Oasis launched its mainnet.

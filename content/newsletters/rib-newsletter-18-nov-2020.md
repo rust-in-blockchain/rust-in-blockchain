@@ -2,10 +2,10 @@
 title: "RiB Newsletter #18"
 description: "#18 - November 2020"
 date: 2020-12-03
-slug: "/"
+slug: "/rib-18"
 categories:
   - "newsletters"
-summary: "Oasis launched their mainnet.
+summary: "This month, Oasis launched their mainnet.
   The Ethereum 2 beacon chain also went live. Parity and NEAR released many good videos.
   Brian keeps documenting his experiments with Rust-based smart contract platforms."
 ---
@@ -108,7 +108,7 @@ appears to be the [`snark`] repository,
 which defines generic traits for zkSNARKS.
 
 This work is an extension of that done for
-the previously-published [Zexe: Enabling Decentralized Private Computation][zexe]
+the previously-published [Zexe: Enabling Decentralized Private Computation][zexe].
 
 [Groth16]: https://github.com/arkworks-rs/groth16
 [GM17]: https://github.com/arkworks-rs/gm17

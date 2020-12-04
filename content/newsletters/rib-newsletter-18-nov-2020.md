@@ -1,5 +1,5 @@
 ---
-title: "RiB Newsletter #18 - On to the Ribbles"
+title: "RiB Newsletter #18 – On to the Ribbles"
 description: "#18 - November 2020"
 date: 2020-12-03
 slug: "/on-to-the-ribbles"

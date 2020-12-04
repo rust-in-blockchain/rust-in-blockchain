@@ -39,9 +39,7 @@ developers to learn programming blockchain.
 [Brian], one of the RiB editors,
 has continued documenting his experiments with Rust-based smart contract platforms,
 this month publishing his [initial impressions of Substrate and Ink][substink].
-We hope to bring more of this kind of content to the RiB community in the future,
-and are considering whether RiB itself should be used for publishing
-original content in addition to the newsletter.
+We hope to bring more of this kind of content to the RiB community in the future.
 
 [Brian]: https://github.com/brson
 [substink]: https://brson.github.io/2020/11/30/substrate-and-ink-part-1

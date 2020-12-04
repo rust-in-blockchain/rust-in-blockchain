@@ -43,7 +43,7 @@ this month publishing his [initial impressions of Substrate and Ink][substink].
 We hope to bring more of this kind of content to the RiB community in the future.
 
 [Brian]: https://github.com/brson
-[substink]: https://brson.github.io/2020/11/30/substrate-and-ink-part-1
+[substink]: https://brson.github.io/2020/12/03/substrate-and-ink-part-1
 
 We open-sourced [ribbot], the script that helps us
 generate progress reports from GitHub repos.

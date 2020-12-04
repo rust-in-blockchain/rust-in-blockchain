@@ -1,14 +1,14 @@
 ---
-title: "RiB Newsletter #18"
+title: "RiB Newsletter #18 On to the Ribbles"
 description: "#18 - November 2020"
 date: 2020-12-03
 slug: "/rib-18"
 categories:
   - "newsletters"
-summary: "This month, Oasis launched their mainnet.
+summary: "This month, Oasis launched its mainnet.
   The Ethereum 2 beacon chain also went live. Parity and NEAR released many good videos.
-  RiB co-editor Brian keeps documenting his experiments with Rust-based smart contract platforms, 
-  and yet another no_std post."
+  RiB editor Brian keeps documenting his experiments with Rust-based smart contract platforms, 
+  and yet another first-impressions post."
 ---
 
 Welcome to the #18 edition of Rust in Blockchain,

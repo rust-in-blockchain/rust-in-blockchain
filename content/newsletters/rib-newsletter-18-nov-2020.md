@@ -117,9 +117,6 @@ the previously-published [Zexe: Enabling Decentralized Private Computation][zexe
 [`snark`]: https://github.com/arkworks-rs/snark
 [zexe]: https://eprint.iacr.org/2018/962
 
-
-
-
 &nbsp;
 
 

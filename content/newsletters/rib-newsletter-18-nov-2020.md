@@ -7,7 +7,8 @@ categories:
   - "newsletters"
 summary: "This month, Oasis launched their mainnet.
   The Ethereum 2 beacon chain also went live. Parity and NEAR released many good videos.
-  Brian keeps documenting his experiments with Rust-based smart contract platforms."
+  RiB co-editor Brian keeps documenting his experiments with Rust-based smart contract platforms, 
+  and yet another no_std post."
 ---
 
 Welcome to the #18 edition of Rust in Blockchain,

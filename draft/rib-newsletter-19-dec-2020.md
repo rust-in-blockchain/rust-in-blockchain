@@ -47,6 +47,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [MobileCoin Main Net](https://medium.com/@mobilecoinfoundation/mobilecoin-main-net-8e355d82c726)
 
 #### Blog Posts
 

@@ -128,6 +128,11 @@ DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
 - [Software Engineer, SDK](https://grnh.se/92e1344b2us)
 
 
+Chainflip | Berlin, Germany
+- [Rust/C++ Developer](https://cryptojobslist.com/jobs/rust-c-developer-at-chainflip-berlin)
+
+
+
 More jobs can be found at [Job Board][page-jobboard].
 
 [page-jobboard]: https://rustinblockchain.org/job-board/

@@ -51,11 +51,19 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Understanding Peer-to-Peer Git Forges with Radicle](http://blog.vmsplice.net/2020/12/understanding-peer-to-peer-git-forges.html)
 
 #### Papers 
 
 
 #### Projects
+
+- [Plasm](https://github.com/staketechnologies/Plasm).
+  The Scaling DApps Platform on Polkadot using Plasma and State Channel.
+- [sn_client](https://github.com/maidsafe/sn_client).
+  A set of libraries providing a way for developers to consume and use the Safe Network facilities.
+- [sn_node](https://github.com/maidsafe/sn_node).
+  An Implementation of a Safe Network Vault.
 
 &nbsp;
 

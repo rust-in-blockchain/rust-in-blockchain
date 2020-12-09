@@ -55,6 +55,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers 
 
+- [VM Matters: A Comparison of WASM VMs and EVMs in the Performance of Blockchain Smart Contracts](https://arxiv.org/abs/2012.01032)
+
 
 #### Projects
 

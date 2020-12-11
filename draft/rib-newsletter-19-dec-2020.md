@@ -60,6 +60,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [aquamarine](https://github.com/fluencelabs/aquamarine).
+  Aquamarine is a distributed choreography language & platform.
 - [Plasm](https://github.com/staketechnologies/Plasm).
   The Scaling DApps Platform on Polkadot using Plasma and State Channel.
 - [sn_client](https://github.com/maidsafe/sn_client).

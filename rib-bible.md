@@ -148,6 +148,26 @@ repos = [
 
 ```
 
+## Fluence
+
+Media:
+
+- https://fluence.network
+- https://twitter.com/fluence_project
+
+GitHub:
+
+- https://github.com/fluencelabs
+
+```toml
+repos = [
+"fluencelabs/fluence",
+"fluencelabs/fce",
+"fluencelabs/aquamarine",
+"fluencelabs/rust-sdk",
+]
+```
+
 ## Golem
 
 Media:

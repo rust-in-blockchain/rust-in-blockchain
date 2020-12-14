@@ -70,6 +70,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A zkSNARK toolkit to work with circom zkp DSL in plonk proof system.
   The project announcement: [Announcing FluiDex: Building the first PLONK layer2 DEX on Ethereum](https://fluid-dex.medium.com/announcing-fluidex-building-the-first-plonk-layer2-dex-on-ethereum-e19136304a5d) and tech intro in detail:
   [Fluidex: A zkrollup layer2 DEX](https://lispc.github.io/2020/11/30/fluidex-a-zkrollup-layer2-dex).
+- [Reverie](https://github.com/trailofbits/reverie).
+  Reverie is an implementation (prover and verifier) of the MPC-in-the-head NIZKPoK outlined in
+  [Improved Non-Interactive Zero Knowledge with Applications to Post-Quantum Signatures](https://eprint.iacr.org/2018/475). 
 - [sn_client](https://github.com/maidsafe/sn_client).
   A set of libraries providing a way for developers to consume and use the Safe Network facilities.
 - [sn_node](https://github.com/maidsafe/sn_node).

@@ -113,6 +113,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [MobileCoin](https://www.mobilecoin.com/)
 
+- News: [Mechanics of MobileCoin: Chapters 1+2](https://mobilecoinfoundation.medium.com/mechanics-of-mobilecoin-chapters-1-2-273b5a42b4e)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
@@ -127,6 +128,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 
 #### [Solana](https://github.com/solana-labs/solana)
+
+- News: [Mainnet Beta Stall - Postmortem](https://medium.com/solana-labs/mainnet-beta-stall-postmortem-ba0c6064e3)
 
 
 #### [Zcash](https://z.cash/)

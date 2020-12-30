@@ -59,6 +59,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [VM Matters: A Comparison of WASM VMs and EVMs in the Performance of Blockchain Smart Contracts](https://arxiv.org/abs/2012.01032)
 - [RouTEE: A Secure Payment Network Routing Hub using Trusted Execution Environments](https://arxiv.org/abs/2012.04254)
+- [Freedom to (Smart) Contract: The Myth of Code and Blockchain Governance Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715647)
+- [Lockable Signatures for Blockchains: Scriptless Scripts for All Signatures](https://eprint.iacr.org/2020/1613)
+- [Adaptive layer-two dispute periods in blockchains](https://eprint.iacr.org/2020/1601)
+  
 
 #### Projects
 

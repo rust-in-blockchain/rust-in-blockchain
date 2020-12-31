@@ -1,6 +1,6 @@
 ---
 title: "Contribute to RiB Community"
-comments: false
+nocomment: true
 pager: false
 ---
 

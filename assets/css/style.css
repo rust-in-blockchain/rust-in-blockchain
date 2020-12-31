@@ -389,7 +389,7 @@ select {
 
 .logo__link {
 	display: inline-block;
-	text-transform: uppercase;
+/*	text-transform: uppercase;*/
 }
 
 .logo__title {
@@ -442,7 +442,7 @@ select {
 	padding: .625rem .9375rem;
 	font-weight: 700;
 	text-align: right;
-	text-transform: uppercase;
+/*	text-transform: uppercase;*/
 	cursor: pointer;
 	-webkit-user-select: none;
 	-moz-user-select: none;
@@ -491,7 +491,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	padding: .625rem .9375rem;
 	font-weight: 700;
 	color: #fff;
-	text-transform: uppercase;
+/*	text-transform: uppercase;*/
 }
 
 .menu__link:hover {
@@ -719,7 +719,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	float: left;
 	margin: 0 6px 6px 0;
 	margin: 0 .375rem .375rem 0;
-	text-transform: uppercase;
+/*	text-transform: uppercase;*/
 	background: #2a2a2a;
 }
 
@@ -760,7 +760,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .toc__title {
 	padding: 5px 10px;
 	color: #fff;
-	text-transform: uppercase;
+/*	text-transform: uppercase;*/
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
@@ -898,7 +898,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	margin-bottom: 5px;
 	font-weight: 700;
 	line-height: 1;
-	text-transform: uppercase;
+/*	text-transform: uppercase;*/
 }
 
 .post-nav__post-title {
@@ -992,7 +992,7 @@ input[type=reset] {
 	padding: 10px 15px;
 	font-weight: 700;
 	color: #fff;
-	text-transform: uppercase;
+/*	text-transform: uppercase;*/
 	cursor: pointer;
 	background: #2a2a2a;
 	border: 0;
@@ -1030,7 +1030,7 @@ textarea {
 	padding-bottom: 5px;
 	font-size: 16px;
 	font-size: 1rem;
-	text-transform: uppercase;
+/*	text-transform: uppercase;*/
 	border-bottom: 3px solid {{ $highlightColor }};
 }
 
@@ -1110,7 +1110,7 @@ textarea {
 	display: inline-block;
 	margin: 0 4px 8px 0;
 	font-size: 12px;
-	text-transform: uppercase;
+/*	text-transform: uppercase;*/
 }
 
 /* Languages Widget */

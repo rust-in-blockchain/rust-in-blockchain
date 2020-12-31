@@ -62,7 +62,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Freedom to (Smart) Contract: The Myth of Code and Blockchain Governance Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715647)
 - [Lockable Signatures for Blockchains: Scriptless Scripts for All Signatures](https://eprint.iacr.org/2020/1613)
 - [Adaptive layer-two dispute periods in blockchains](https://eprint.iacr.org/2020/1601)
-  
+  	    	      
 
 #### Projects
 

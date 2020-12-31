@@ -1,9 +1,9 @@
 baseURL = "https://rustinblockchain.org/"
 languageCode = "en-us"
-title = "Rust in Blockchain"
+title = "Rust in Blockchain ❤ rib.rs"
 theme = "mainroad"
-paginate = "6" # Number of posts per page
-googleAnalytics = "UA-140591727-1" # Enable Google Analytics by entering your tracking id
+paginate = "6"
+googleAnalytics = "UA-140591727-1" 
 publishDir = "../rust-in-blockchain.github.io"
 relativeURLs = true
 
@@ -44,19 +44,18 @@ relativeURLs = true
     url = "/blogposts"
     weight = -100
 
-   [[menu.main]]
-    identifier = "job-board"
-    name = "Job Board"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/job-board"
-    weight = -90
-
-
   [[menu.main]]
     identifier = "awesome-rib"
     name = "Awesome RiB"
     pre = "<i class='fa fa-road'></i>"
     url = "/awesome-blockchain-rust"
+    weight = -90
+
+   [[menu.main]]
+    identifier = "job-board"
+    name = "Job Board"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/job-board"
     weight = -80
 
   [[menu.main]]
@@ -74,18 +73,25 @@ relativeURLs = true
     weight = -60
 
   [[menu.main]]
+    identifier = "sponsoring"
+    name = "Sponsoring"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/sponsoring"
+    weight = -50
+
+  [[menu.main]]
     identifier = "about"
     name = "About Us"
     pre = "<i class='fa fa-heart'></i>"
     url = "/about"
-    weight = -50
+    weight = -40
 
   [[menu.main]]
     identifier = "RSS"
     name = "RSS"
     pre = "<i class='fa fa-heart'></i>"
     url = "/index.xml"
-    weight = -40
+    weight = -30
 
 [Params.sidebar]
   home = "right" # Configure layout for home page

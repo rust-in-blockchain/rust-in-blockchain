@@ -1,6 +1,6 @@
 ---
 title: "Job Board"
-comments: false
+nocomment: true
 pager: false
 ---
 

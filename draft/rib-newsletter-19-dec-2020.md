@@ -57,6 +57,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers 
 
+- [A Languge-Based Approach to Smart Contract Engineering](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-220.html)
 - [VM Matters: A Comparison of WASM VMs and EVMs in the Performance of Blockchain Smart Contracts](https://arxiv.org/abs/2012.01032)
 - [RouTEE: A Secure Payment Network Routing Hub using Trusted Execution Environments](https://arxiv.org/abs/2012.04254)
 - [Freedom to (Smart) Contract: The Myth of Code and Blockchain Governance Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715647)

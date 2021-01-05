@@ -56,6 +56,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [A Brief Breakdown of Monero’s Ongoing Network Attacks](https://sethsimmons.me/posts/moneros-ongoing-network-attack/)
 - [Understanding Peer-to-Peer Git Forges with Radicle](http://blog.vmsplice.net/2020/12/understanding-peer-to-peer-git-forges.html)
 - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
+- [Notes on cross-compiling Rust](https://john-millikin.com/notes-on-cross-compiling-rust)
 
 #### Papers 
 
@@ -109,6 +110,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+- Blog: [How Zero Knowledge is Rebalancing the Scales of the Internet](https://www.aleo.org/post/how-zero-knowledge-is-rebalancing-the-internet)
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
@@ -121,12 +123,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Holochain](https://github.com/holochain/)
 
+- News: [Holochain Dev Pulse 86](https://medium.com/holochain/steady-progress-455e932d2aa1)
 
-#### [Libra](https://libra.org)
+#### [Diem](https://www.diem.com)
 
 
 #### [Lighthouse](https://lighthouse.sigmaprime.io/)
 
+- Blog: [Eth2 on MacOS: A beginners guide for the technically-challenged](https://lighthouse.sigmaprime.io/macos-guide.html)
 
 #### [MobileCoin](https://www.mobilecoin.com/)
 
@@ -134,32 +138,52 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
+- News: [2020 NEAR In Review & Ecosystem Tour](https://near.org/blog/2020-near-in-review-ecosystem-tour/)
+- Videos:
+  - [Cross-contract calls in Rust](https://www.youtube.com/watch?v=971dTz6nM2g)
+  - NEAR Live Contract Review
+    - [Episode 8: RE STAKE token](https://www.youtube.com/watch?v=KvXfEXUbcqA)
+    - [Episode 7: Berry Farm](https://www.youtube.com/watch?v=H3QvYHjunwc)
+    - [Episode 6: STAKE fungible token](https://www.youtube.com/watch?v=7g6C-UeDumg)
 
 #### [Nervos](https://github.com/nervosnetwork)
+
+- News:
+  - Nervos CKB Development Dossier [#43](https://medium.com/nervosnetwork/nervos-ckb-development-43-4ab91ef0de6d),
+  [#42](https://medium.com/nervosnetwork/nervos-ckb-development-dossier-42-9d6321cc5362)
+  - CKB Weekly: [Exploring the Yield Dollar](https://ckbweekly.substack.com/p/exploring-the-yield-dollar)
 
 
 #### [Parity](https://github.com/paritytech)
 
+- News: [Rococo V1 - A Holiday Gift to the Polkadot Community](https://polkadot.network/rococo-v1-a-holiday-gift-to-the-polkadot-community/)
+- Blog:
+  - [Polkadot 2020 Roundup](https://polkadot.network/polkadot-2020-roundup/)
+  - [DeFi on Polkadot: An Ecosystem Overview](https://www.parity.io/defi-on-polkadot-an-ecosystem-overview/)
+
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
+- News: [Secret Network Tokenomics and Ecosystem Pool](https://scrt.network/blog/secret-network-tokenomics-and-ecosystem-pool)
 
 #### [Solana](https://github.com/solana-labs/solana)
 
-- News: [Mainnet Beta Stall - Postmortem](https://medium.com/solana-labs/mainnet-beta-stall-postmortem-ba0c6064e3)
+- News:
+  - [Solana Year in Review 2020](https://medium.com/solana-labs/year-in-review-2020-c3731d1cc8a)
+  - [Solana Ecosystem News](https://medium.com/solana-labs/solana-ecosystem-news-1ba12b6fb8d3)
+  - [Mainnet Beta Stall - Postmortem](https://medium.com/solana-labs/mainnet-beta-stall-postmortem-ba0c6064e3)
 
 
 #### [Zcash](https://z.cash/)
-  
+
+- News: [ECC Transparency Report for Q2 2020](https://electriccoin.co/blog/ecc-transparency-report-for-q2-2020/)
+- Blog: [Fuzzing Zcash with Kubernetes](https://electriccoin.co/blog/fuzzing-zcash-with-kubernetes/)
 
 &nbsp;
 
 ## Events
 
-
-Dec 26-27 | Shenzhen, China
-
-[Rust China Conf 2020](https://2020conf.rustcc.cn/)
+`panic!()`
 
 &nbsp;
 
@@ -173,10 +197,11 @@ DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
 - [Software Engineer, Front-End](https://grnh.se/b8daa0ed2us)
 - [Software Engineer, SDK](https://grnh.se/92e1344b2us)
 
-
 Chainflip | Berlin, Germany
 - [Rust/C++ Developer](https://cryptojobslist.com/jobs/rust-c-developer-at-chainflip-berlin)
 
+Massa | Remote
+- [Full remote Rust developer, long-term contract (French CDI)](https://massa.network/#jobs)
 
 
 More jobs can be found at [Job Board][page-jobboard].

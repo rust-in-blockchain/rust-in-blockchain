@@ -28,6 +28,9 @@ ChainSafe | Toronto, Remote
 Compound | Remote
 - [Rust Engineer](https://www.crypto-careers.com/jobs/39500671-rust-engineer-at-compound)
 
+Diem | Remote
+- [Developer Advocate](https://www.diem.com/en-us/job-board/?gh_jid=4465800002)
+
 Dock | Remote
 - [Rust & DevOps](https://www.cryptojobsdaily.com/job/dock-blockchain-developer-rust-devops/)
 
@@ -50,8 +53,8 @@ Kraken | Remote
 - [Backend Engineer - Crypto/Payments](https://jobs.lever.co/kraken/39031c44-2060-467d-8991-79f23deacbb8)
 - [Backend Engineer, Data Processing – Rust](https://jobs.lever.co/kraken/246f7fd2-000a-4f61-8f53-b1cc783d51cb)
 
-Libra | San Francisco, CA or Geneva, Switzerland
-- [Developer Advocate](https://libra.org/en-US/job-board/?gh_jid=4465800002)
+Massa | Remote
+- [Full remote Rust developer, long-term contract (French CDI)](https://massa.network/#jobs)
 
 Moonbeam | Boston, MA USA; Madrid, Spain; Remote
 - [Senior Blockchain Engineer](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)

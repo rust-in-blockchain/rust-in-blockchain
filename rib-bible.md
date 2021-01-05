@@ -255,22 +255,21 @@ repos = [
 ]
 ```
 
-## Libra
+## Diem
 
 Media:
 
-- https://libra.org/en-US/media-press-news/
-- https://libra.org/en-US/blog/
-- https://community.libra.org/latest
+- https://www.diem.com/
 
 GitHub:
 
-- https://github.com/libra
+- https://github.com/diem 
 
 ``` toml
 repos = [
-"libra/libra",
-"libra/rosetta-proxy",
+"diem/diem",
+"diem/rosetta-proxy",
+"diem/bcs",
 ]
 ```
 

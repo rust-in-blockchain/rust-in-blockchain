@@ -4,28 +4,28 @@ nocomment: true
 pager: false
 ---
 
-About the sponsoring fund:
-**50% of the sponsoring fund goes to the RiB community fund
-and the other 50% for supporting editors' work.**
+RiB ocassionally accepts sponsorship from relevant companies and organizations
+in exchange for advertisement placement
+on the website, and/or prominent acknowledgement in the monthly newsletter.
+
+**50% of all such funds recieved go to the RiB community fund
+and the other 50% to the editors.**
 
 [Rust in Blockchain](https://rustinblockchain.org) is a developer community
 that focuses on Rust engineering and adoption in the blockchain industry.
 The [RiB Newsletter](/newsletters) is a monthly newsletter that publishes on
-the first Wednesday of each month (**Pacific time**).
+the first Wednesday of each month (Pacific time).
 
-By sponsoring RiB, you will reach the niche community of our network.
-Your information will be shown to all our readers via our website,
-email and RSS subscriptions, and RiB's social media.
+By sponsoring RiB, your message will reach the niche (but important!) community
+of Rust blockchain experts. Your information will be shown to all our readers
+via our website, email and RSS subscriptions, as well as RiB's social media.
 
 ## RiB Traffic Numbers
 
-The average monthly numbers are:
+The average monthly numbers as of December 2020 are:
 - **49,220** impressions  
 - **5,000** unique visitors
-
-**654** email subscribers, as of Dec 2020.
-
-&nbsp;
+- **654** email subscribers
 
 ## Packages
 
@@ -33,20 +33,31 @@ The average monthly numbers are:
 :---------------------------------:|:---------------------------------:|:--------------------------------:
             $8,000                 |             $3,000                |             $1600
 **3** months site banner **_AND_** | **1** month site banner **_AND_** | **1** month site banner **_OR_** 
-**3** newsletter ads in text       | **1** newsletter ads in text      | **1** newsletter mention
+**3** newsletter mention           | **1** newsletter mention          | **1** newsletter mention
 
 
-Text in the RiB Newsletter will be display with "Sponsor" tag
-with descriptions (3 lines at most).
-Text will be positioned right after introduction and before "Thanks" section.
-Both text and banner will be monitored by RiB editors.
+Ads on the website are placed at the top of the sidebar,
+before all other sidebar content, and should be 300x250 pixels.
+The ad links to the URL of your choice.
+Note that on mobile, the ad will appear after the page content.
 
-&nbsp;
+Sponsorships in the RiB Newsletter are textual.
+They are prominently displayed as a thanks from our sponsor,
+including the word "sponsor", along with a mutually
+agreed upon description of the sponsor (3 sentences maximum),
+which may include inline links.
+It will be positioned after the introduction but before all other sections.
 
-## Previous Partner and Growth Customers
+All sponsors are additionally thanked via our social media channels,
+including Twitter and Telegram.
 
-Your logo will be shown here.
+We run only a single website ad and newsletter sponsor at a time.
 
 ## Contacts
 
-Feel free to send us an email: hi@rib.rs. Thanks!
+For inquiries please send us an email: hi@rib.rs
+
+## Previous Supporters
+
+None yet! But your logo will be shown here.
+

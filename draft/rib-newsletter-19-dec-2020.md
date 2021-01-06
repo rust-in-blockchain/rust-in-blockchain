@@ -12,6 +12,41 @@ Welcome to the #19 edition of Rust in Blockchain,
 the hypest newsletter about the hypest tech.
 [Previous: #18](/newsletters/.../).
 
+[Aleo's Leo](https://github.com/AleoHQ/leo):
+202 merged PRs ([1][aleo-merged-prs-1]),
+67 closed issues ([1][aleo-closed_issues-1]), 
+53 open issues ([1][aleo-open_issues-1])
+
+[aleo-merged-prs-1]: https://github.com/AleoHQ/leo/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-12-31
+[aleo-closed_issues-1]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-12-31
+[aleo-open_issues-1]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2020-01-01..2020-12-31
+
+[Parity's ink](https://github.com/paritytech):
+166 merged PRs ([1][parity-merged-prs-1]), 112 closed issues ([1][parity-closed_issues-1]), 
+36 open issues ([1][parity-open_issues-1])
+
+[parity-merged-prs-1]: https://github.com/paritytech/ink/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-12-31
+[parity-closed_issues-1]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-12-31
+[parity-open_issues-1]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aopen+created%3A2020-01-01..2020-12-31
+
+[Secret Network's ](https://github.com/enigmampc):
+9 merged PRs ([1][secret_network-merged-prs-1]),
+0 closed issues (), 
+5 open issues ([1][secret_network-open_issues-1])
+
+[secret_network-merged-prs-1]: https://github.com/enigmampc/secret-toolkit/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-12-31
+[secret_network-open_issues-1]: https://github.com/enigmampc/secret-toolkit/issues?q=is%3Aissue+is%3Aopen+created%3A2020-01-01..2020-12-31
+
+[Near's Rust libraries](https://github.com/near/nearcore):
+76 merged PRs ([1][near-merged-prs-1]),
+63 closed issues ([1][near-closed_issues-1]), 
+40 open issues ([1][near-open_issues-1])
+
+[near-merged-prs-1]: https://github.com/near/near-sdk-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-12-31
+[near-closed_issues-1]: https://github.com/near/near-sdk-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-12-31
+[near-open_issues-1]: https://github.com/near/near-sdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2020-01-01..2020-12-31
+
+
 ## Thanks
 
 Thanks to contributors:
@@ -61,9 +96,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Papers 
 
 - [A Languge-Based Approach to Smart Contract Engineering](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-220.html)
+- [Freedom to (Smart) Contract: The Myth of Code and Blockchain Governance Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715647)
 - [VM Matters: A Comparison of WASM VMs and EVMs in the Performance of Blockchain Smart Contracts](https://arxiv.org/abs/2012.01032)
 - [RouTEE: A Secure Payment Network Routing Hub using Trusted Execution Environments](https://arxiv.org/abs/2012.04254)
-- [Freedom to (Smart) Contract: The Myth of Code and Blockchain Governance Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715647)
 - [Lockable Signatures for Blockchains: Scriptless Scripts for All Signatures](https://eprint.iacr.org/2020/1613)
 - [Adaptive layer-two dispute periods in blockchains](https://eprint.iacr.org/2020/1601)
 - [Unifying Compilers for SNARKs, SMT, and More](https://eprint.iacr.org/2020/1586)  	    	      
@@ -103,6 +138,20 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Most Active in December
 
+[Parity](https://github.com/paritytech):
+204 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5]),
+77 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+60 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5])
+
+[Solana](https://github.com/solana-labs/solana):
+272 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
+18 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+40 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[Zcash](https://z.cash/):
+104 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]),
+42 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]), 
+38 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
 
 &nbsp;
 
@@ -162,6 +211,19 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Fluence](https://github.com/fluencelabs)
 
+60 merged PRs ([1][fluence-merged-prs-1], [2][fluence-merged-prs-2], [3][fluence-merged-prs-3], [4][fluence-merged-prs-4]), 1 closed issues ([1][fluence-closed_issues-1]), 
+1 open issues ([1][fluence-open_issues-1])
+
+[fluence-merged-prs-1]: https://github.com/fluencelabs/fluence/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-12-01..2020-12-31
+[fluence-merged-prs-2]: https://github.com/fluencelabs/fce/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-12-01..2020-12-31
+[fluence-merged-prs-3]: https://github.com/fluencelabs/aquamarine/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-12-01..2020-12-31
+[fluence-merged-prs-4]: https://github.com/fluencelabs/rust-sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-12-01..2020-12-31
+[fluence-closed_issues-1]: https://github.com/fluencelabs/fluence/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-12-01..2020-12-31
+[fluence-open_issues-1]: https://github.com/fluencelabs/fluence/issues?q=is%3Aissue+is%3Aopen+created%3A2020-12-01..2020-12-31
+
+- PR: [Introduce security tetraplets](https://github.com/fluencelabs/aquamarine/pull/32) by [@michaelvoronov](https://github.com/michaelvoronov)
+- PR: [Send particle.data in base64 through the wire](https://github.com/fluencelabs/fluence/pull/1008) by [@folex](https://github.com/folex)
+- PR: [Implement two last fold iterable usage scenarious](https://github.com/fluencelabs/aquamarine/pull/51) by [@michaelvoronov](https://github.com/michaelvoronov)
 
 #### [Holochain](https://github.com/holochain/)
 

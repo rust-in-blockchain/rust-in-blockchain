@@ -23,7 +23,7 @@ The average monthly numbers are:
 - **49,220** impressions  
 - **5,000** unique visitors
 
-**653** email subscribers, as of Dec 2020.
+**654** email subscribers, as of Dec 2020.
 
 &nbsp;
 

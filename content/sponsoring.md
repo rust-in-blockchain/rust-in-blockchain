@@ -51,8 +51,8 @@ It will be positioned after the introduction but before all other sections.
 All sponsors are additionally thanked via our social media channels,
 including Twitter and Telegram.
 
-All sponsors additionally have their logo listed at the bottom of _this_ page
-forever, linking to their website.
+All sponsors additionally have their logo listed at the bottom of _this_ page,
+linking to their website, forever.
 
 We run only a single website ad and newsletter sponsor at a time.
 

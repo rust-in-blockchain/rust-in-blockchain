@@ -74,7 +74,7 @@ They fall into a few categories:
   Solidity to WASM compiler), [Leo] (a zero-knowledge language), and [Move]
   (Diem's language).
 
-  Although many chains are moving toward general-purpose VMS, particularly to
+  Although many chains are moving toward general-purpose VMs, particularly to
   WASM, there are reasons not to, the main two beings: wanting Ethereum
   EVM compatibility, and being based on zero-knowledge proofs. Move is
   a relatively rare case in that it is both its own language, and

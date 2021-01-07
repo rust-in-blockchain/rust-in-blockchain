@@ -5,7 +5,13 @@ date: 2021-01-06
 slug: "/rust-and-smart-contracts"
 categories:
   - "newsletters"
-summary: ""
+summary: "Since there's not much else of note this month,
+let's survey a topic that's been on our minds recently:
+Rust and smart contracts. There are a number of blockchains that either
+run smart contracts written in Rust,
+or implement their smart contract runtimes
+or languages in Rust.
+"
 ---
 
 Welcome to the #19 edition of Rust in Blockchain,

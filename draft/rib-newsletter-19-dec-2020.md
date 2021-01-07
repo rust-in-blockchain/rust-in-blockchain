@@ -60,7 +60,7 @@ They fall into a few categories:
   smart-contract capable blockchain using the UTXO model instead of the account
   model.
 
-  Solana uses an especially eccentric VM: [eBPF]. Originally designed as a
+  Solana runs an especially eccentric VM: [eBPF]. Originally designed as a
   non-Turing-complete interpreter for running inside OS kernels, eBPF is slowly
   finding its way into other applications. Did you know Rust supports eBPF?
   Neither did we! But it kinda does, or LLVM has a backend for it at least; and

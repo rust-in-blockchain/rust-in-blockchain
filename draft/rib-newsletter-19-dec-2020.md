@@ -136,7 +136,7 @@ This is our first time running such a program and feedback is welcome in the
 [cfund]: https://rustinblockchain.org/community-fund
 [spons]: https://rustinblockchain.org/sponsoring
 [tg]: https://t.me/rustinblockchain
-[em]: hi@rib.rs
+[em]: mailto:hi@rib.rs
 
 
 ## Thanks

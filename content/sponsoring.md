@@ -8,8 +8,10 @@ RiB ocassionally accepts sponsorship from relevant companies and organizations
 in exchange for advertisement placement
 on the website, and/or prominent acknowledgement in the monthly newsletter.
 
-**50% of all such funds recieved go to the RiB community fund
+**50% of all such funds received go to the [RiB community fund][cfund]
 and the other 50% to the editors.**
+
+[cfund]: /community-fund
 
 [Rust in Blockchain](https://rustinblockchain.org) is a developer community
 that focuses on Rust engineering and adoption in the blockchain industry.

@@ -24,7 +24,7 @@ not a lot of technical blog posts to report.
 
 But, in a seemingly monthly tradition,
 a Rust blockchain launched a mainnet:
-this time its [MobileCoin][mcl],
+this time it's [MobileCoin][mcl],
 a fast and private payment network,
 that uses a combination of [CryptoNote],
 [RingCT], and the [Stellar Consensus Protocol],

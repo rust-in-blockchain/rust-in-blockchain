@@ -62,7 +62,7 @@ They fall into a few categories:
   and [Solana] (eBPF).
 
   Nervos contracts are programmed in Rust with their [Capsule] library. Besides
-  being the only blockchain running a RISC-V, Nervos is also a rare
+  being the only blockchain running RISC-V, Nervos is also a rare
   smart-contract capable blockchain using the UTXO model instead of the account
   model.
 
@@ -81,7 +81,7 @@ They fall into a few categories:
   (Diem's language).
 
   Although many chains are moving toward general-purpose VMs, particularly to
-  WASM, there are reasons not to, the main two beings: wanting Ethereum
+  WASM, there are reasons not to, the main two being: wanting Ethereum
   EVM compatibility, and being based on zero-knowledge proofs. Move is
   a relatively rare case in that it is both its own language, and
   its own VM, but does not share the obvious reason to have a custom VM

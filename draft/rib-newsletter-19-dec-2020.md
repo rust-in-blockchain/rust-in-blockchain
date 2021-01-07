@@ -117,20 +117,19 @@ the [RiB community fund][cfund]. Details of the program [are on the
 website][spons]. This is our first time running such a program and feedback is
 welcome in the [Telegram group][tg] or privately [by email][em].
 
-[cfund]: https://www.rustinblockchain.org/community-fund
-[spons]: https://www.rustinblockchain.org/sponsoring
+[cfund]: https://rustinblockchain.org/community-fund
+[spons]: https://rustinblockchain.org/sponsoring
 [tg]: https://t.me/rustinblockchain
-[em]: hi@rib.rs
+[em]: mailto:hi@rib.rs
 
 
 ## Thanks
 
 Thanks to contributors:
 
-[Adam Gutierrez][contributor-ag]
-
-_TODO_
-
+[Adam Gutierrez][contributor-ag],
+[Paulii][contributor-pa],
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -140,6 +139,7 @@ please contribute to the next issue
 by submitting a PR to the [#20 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributor-ag]: https://github.com/adamisrusty
+[contributor-pa]: https://github.com/PauliiG22
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 

@@ -31,7 +31,7 @@ The average monthly numbers as of December 2020 are:
 
  Partner                           | Growth                            | Supporter
 :---------------------------------:|:---------------------------------:|:--------------------------------:
-            $8,000                 |             $3,000                |             $1600
+            $8,000                 |             $3,000                |             $1,600
 **3** months site banner **_AND_** | **1** month site banner **_AND_** | **1** month site banner **_OR_** 
 **3** newsletter mention           | **1** newsletter mention          | **1** newsletter mention
 
@@ -51,13 +51,16 @@ It will be positioned after the introduction but before all other sections.
 All sponsors are additionally thanked via our social media channels,
 including Twitter and Telegram.
 
+All sponsors additionally have their logo listed at the bottom of _this_ page,
+linking to their website, forever.
+
 We run only a single website ad and newsletter sponsor at a time.
 
 ## Contacts
 
 For inquiries please send us an email: hi@rib.rs
 
-## Previous Supporters
+## Previous Sponsors
 
 None yet! But your logo will be shown here.
 

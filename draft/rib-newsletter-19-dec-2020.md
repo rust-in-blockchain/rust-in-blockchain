@@ -12,39 +12,113 @@ Welcome to the #19 edition of Rust in Blockchain,
 the hypest newsletter about the hypest tech.
 [Previous: #18](/newsletters/.../).
 
-[Aleo's Leo](https://github.com/AleoHQ/leo):
-202 merged PRs ([1][aleo-merged-prs-1]),
-67 closed issues ([1][aleo-closed_issues-1]), 
-53 open issues ([1][aleo-open_issues-1])
+It was a super uneventful December in the Rust blockchain world.
+Not a lot of GitHub activity,
+not a lot of technical blog posts to report.
 
-[aleo-merged-prs-1]: https://github.com/AleoHQ/leo/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-12-31
-[aleo-closed_issues-1]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-12-31
-[aleo-open_issues-1]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2020-01-01..2020-12-31
+But, in a seemingly monthly tradition,
+a Rust blockchain launched a mainnet:
+this time it's [MobileCoin][mcl],
+a fast and private payment network,
+that uses a combination of [CryptoNote],
+[RingCT], and the [Stellar Consensus Protocol],
+all inside of [SGX enclaves].
+Congrats to the MobileCoin team.
 
-[Parity's ink](https://github.com/paritytech):
-166 merged PRs ([1][parity-merged-prs-1]), 112 closed issues ([1][parity-closed_issues-1]), 
-36 open issues ([1][parity-open_issues-1])
+[mcl]: https://mobilecoinfoundation.medium.com/mobilecoin-main-net-8e355d82c726
+[CryptoNote]: https://cryptonote.org/whitepaper.pdf
+[RingCT]: https://eprint.iacr.org/2015/1098
+[Stellar Consensus Protocol]: https://www.stellar.org/papers/stellar-consensus-protocol
+[SGX enclaves]: https://software.intel.com/content/www/us/en/develop/topics/software-guard-extensions.html
 
-[parity-merged-prs-1]: https://github.com/paritytech/ink/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-12-31
-[parity-closed_issues-1]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-12-31
-[parity-open_issues-1]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aopen+created%3A2020-01-01..2020-12-31
+Since there's not much else of note this month,
+let's survey a topic that's been on our minds recently:
+Rust and smart contracts.
 
-[Secret Network's ](https://github.com/enigmampc):
-9 merged PRs ([1][secret_network-merged-prs-1]),
-0 closed issues (), 
-5 open issues ([1][secret_network-open_issues-1])
+There are a number of blockchains that either
+run smart contracts written in Rust,
+or implement their smart contract runtimes
+or languages in Rust.
 
-[secret_network-merged-prs-1]: https://github.com/enigmampc/secret-toolkit/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-12-31
-[secret_network-open_issues-1]: https://github.com/enigmampc/secret-toolkit/issues?q=is%3Aissue+is%3Aopen+created%3A2020-01-01..2020-12-31
+So along with blockchain implementations themselves,
+cryptography, and zero-knowledge proofs,
+smart contracts are an area seeing a lot of Rust development.
 
-[Near's Rust libraries](https://github.com/near/nearcore):
-76 merged PRs ([1][near-merged-prs-1]),
-63 closed issues ([1][near-closed_issues-1]), 
-40 open issues ([1][near-open_issues-1])
+Smart contract platforms related to Rust fall into a few categories:
 
-[near-merged-prs-1]: https://github.com/near/near-sdk-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2020-01-01..2020-12-31
-[near-closed_issues-1]: https://github.com/near/near-sdk-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2020-01-01..2020-12-31
-[near-open_issues-1]: https://github.com/near/near-sdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2020-01-01..2020-12-31
+- Those that support Rust compiled to WASM, like [Elrond], [Holochain], [NEAR],
+  [Secret Network], [Substrate].
+
+  These mostly have similar programming models, influenced by Solidity, and all
+  have SDKS for Rust:
+
+  - Elrond's [elrond-wasm-rs]
+  - [Holochain's HDK][hrust]
+  - [NEAR's SDK][nrust]
+  - Secret Network's [secret-toolkit]
+  - Substrate's [Ink]
+
+- Those that support Rust compiled to other VMS, like [Nervos] (RISC-V),
+  and [Solana] (eBPF).
+
+  Nervos contracts are programmed in Rust with their [Capsule] library. Besides
+  being the only blockchain running a RISC-V, Nervos is also a rare
+  smart-contract capable blockchain using the UTXO model instead of the account
+  model. It's not clear how that affects the contract programming model.
+
+  Solana uses an especially eccentric VM: [eBPF]. Originally designed as a
+  non-turing complete interpreter for running inside OS kernels, eBPF is slowly
+  finding its way into other applications. Did you know Rust supports eBPF?
+  Well, it kinda does, or LLVM has a backend for it at least; and while Rust
+  doesn't officially seem to have _any_ in-tree eBPF support, Solana have hacked
+  together a working Rust->eBPF toolchain that includes a [fork of the Rust
+  compiler with eBPF support][rebpf]. Fascinating! Upstream that code, Solana!
+  Of course, with eBPF not supporting loops, the Rust here must be quite
+  curious.
+
+- Those that use Rust to implement a smart-contract language, [Solang] (a
+  Solidity to WASM compiler), like [Leo] (a zero-knowledge language), and [Move]
+  (Diem's language).
+
+  Although many chains are moving toward general-purpose VMS, particularly
+  WASM, there are reasons not to, the main two being: wanting Ethereum
+  EVM compatibility, and being based on zero-knowledge proofs. Move is
+  a relatively rare case in that it is both its own language, and
+  its own VM, but does not share the obvious reason to have a custom VM
+  that zero-knowledge languages do.
+
+Chains running general purpose VMs like WASM and RISC-V often support multiple
+languages for their contracts. Sometimes this means that Rust is the best
+language for writing contracts on those chains, for the usual reasons one wants
+to use Rust, but it also means that smart contract authors on those chains must
+suffer the Rust learning curve. For this reason, such chains often offer
+multiple smart contract languages, particularly AssemblyScript for WASM chains,
+or perhaps soon Solang. We might expect many more smart-contract specific
+languages to appear in the future, hopefully compatible with multiple chains.
+
+Notably, it is impossible to write Rust contracts that target Ethereum's EVM,
+which is of course the dominant smart contract platform. Maybe eventually
+somebody will write an LLVM backend for EVM, and we can change that.
+
+[Diem]: https://github.com/diem/diem
+[Move]: https://github.com/diem/diem/tree/master/language
+[Leo]: https://github.com/AleoHQ/leo
+[Secret Network]: https://github.com/enigmamcp
+[secret-toolkit]: https://github.com/enigmampc/secret-toolkit
+[elrond-wasm-rs]: https://github.com/ElrondNetwork/elrond-wasm-rs
+[Elrond]: https://github.com/ElrondNetwork
+[Holochain]: https://github.com/holochain
+[Substrate]: https://github.com/paritytech/substrate
+[NEAR]: https://github.com/near
+[Ink]: https://github.com/paritytech/ink
+[nrust]: https://github.com/near/near-sdk-rs
+[hrust]: https://github.com/holochain/holochain/blob/develop/crates/hdk3/README.md
+[Capsule]: https://github.com/nervosnetwork/capsule
+[Solang]: https://github.com/hyperledger-labs/solang
+[Nervos]: https://github.com/nervosnetwork
+[Solana]: https://github.com/solana-labs
+[eBPF]: https://ebpf.io/
+[rebpf]: https://github.com/solana-labs/rust
 
 
 ## Thanks

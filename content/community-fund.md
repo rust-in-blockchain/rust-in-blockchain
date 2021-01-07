@@ -10,7 +10,7 @@ But it does bring in some [donations],
 and may receive [paid sponsorships][spons] in the future.
 
 [spons]: /sponsoring
-[donations]: #donating
+[donations]: #donating-to-rib
 
 100% of donations, and a portion of sponsorships,
 go to the RiB community fund,

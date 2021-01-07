@@ -147,8 +147,16 @@ by submitting a PR to the [#20 draft](https://github.com/rust-in-blockchain/Rust
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[Solang](https://github.com/hyperledger-labs/solang)
 
+Solang is a Solidity compiler implemented in Rust,
+but it does not target the Ethereum EVM.
+Instead it uses LLVM as a backend,
+which means it can potentially target most blockchains that do _not_ run EVM.
+Currently that includes Substrate, Solana, [ewasm], and [Sawtooth].
 
+[ewasm]: https://github.com/ewasm
+[Sawtooth]: https://github.com/hyperledger/sawtooth-core
 
 
 &nbsp;

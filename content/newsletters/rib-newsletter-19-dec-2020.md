@@ -1,8 +1,8 @@
 ---
-title: "RiB Newsletter #19"
+title: "RiB Newsletter #19 - Rust and smart contracts"
 description: "#19 - December 2020"
 date: 2021-01-06
-slug: "/"
+slug: "/rust-and-smart-contracts"
 categories:
   - "newsletters"
 summary: ""
@@ -10,7 +10,7 @@ summary: ""
 
 Welcome to the #19 edition of Rust in Blockchain,
 the hypest newsletter about the hypest tech.
-[Previous: #18](/newsletters/.../).
+[Previous: #18](/newsletters/on-to-the-ribbles/).
 
 It was a super uneventful December in the Rust blockchain world.
 Not a lot of GitHub activity,
@@ -122,6 +122,8 @@ welcome in the [Telegram group][tg] or privately [by email][em].
 [tg]: https://t.me/rustinblockchain
 [em]: mailto:hi@rib.rs
 
+
+&nbsp;
 
 ## Thanks
 
@@ -324,10 +326,12 @@ Currently that includes Substrate, Solana, [ewasm], and [Sawtooth].
 [holochain-open_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2020-12-01..2020-12-31
 [holochain-open_issues-2]: https://github.com/holochain/lair/issues?q=is%3Aissue+is%3Aopen+created%3A2020-12-01..2020-12-31
 
-- News: [Holochain Dev Pulse 86 - Steady Progress](https://blog.holochain.org/steady-progress/)
-- News: [Holochain Dev Pulse 87 - It's ALIIIVE!](https://blog.holochain.org/its-aliiiiiive/)
-- Video: [Hack it with Phil Ep 1](https://youtu.be/MCvL8ttHRW4)
-- Video: [Hack it with Phil Ep 2](https://youtu.be/hySVLVeN5GQ)
+- News: Holochain Dev Pulse
+  - [86 - Steady Progress](https://blog.holochain.org/steady-progress/)
+  - [87 - It's ALIIIVE!](https://blog.holochain.org/its-aliiiiiive/)
+- Videos:
+  - [Hack it with Phil Ep 1](https://youtu.be/MCvL8ttHRW4)
+  - [Hack it with Phil Ep 2](https://youtu.be/hySVLVeN5GQ)
 - PR: [Inline zome](https://github.com/holochain/holochain/pull/512) by [@maackle](https://github.com/maackle)
 - PR: [[TK-06381] Many fixes to gossip and other parts of holochain](https://github.com/holochain/holochain/pull/518) by [@freesig](https://github.com/freesig)
 

@@ -322,7 +322,10 @@ Currently that includes Substrate, Solana, [ewasm], and [Sawtooth].
 [holochain-open_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2020-12-01..2020-12-31
 [holochain-open_issues-2]: https://github.com/holochain/lair/issues?q=is%3Aissue+is%3Aopen+created%3A2020-12-01..2020-12-31
 
-- News: [Holochain Dev Pulse 86](https://medium.com/holochain/steady-progress-455e932d2aa1)
+- News: [Holochain Dev Pulse 86 - Steady Progress](https://blog.holochain.org/steady-progress/)
+- News: [Holochain Dev Pulse 87 - It's ALIIIVE!](https://blog.holochain.org/its-aliiiiiive/)
+- Video: [Hack it with Phil Ep 1](https://youtu.be/MCvL8ttHRW4)
+- Video: [Hack it with Phil Ep 2](https://youtu.be/hySVLVeN5GQ)
 - PR: [Inline zome](https://github.com/holochain/holochain/pull/512) by [@maackle](https://github.com/maackle)
 - PR: [[TK-06381] Many fixes to gossip and other parts of holochain](https://github.com/holochain/holochain/pull/518) by [@freesig](https://github.com/freesig)
 

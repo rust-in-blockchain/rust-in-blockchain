@@ -18,7 +18,7 @@ not a lot of technical blog posts to report.
 
 But, in a seemingly monthly tradition,
 a Rust blockchain launched a mainnet:
-this time it's [MobileCoin][mcl],
+this time its [MobileCoin][mcl],
 a fast and private payment network,
 that uses a combination of [CryptoNote],
 [RingCT], and the [Stellar Consensus Protocol],
@@ -50,7 +50,7 @@ Smart contract platforms related to Rust fall into a few categories:
   [Secret Network], [Substrate].
 
   These mostly have similar programming models, influenced by Solidity, and all
-  have SDKS for Rust:
+  have SDKs for Rust:
 
   - Elrond's [elrond-wasm-rs]
   - [Holochain's HDK][hrust]
@@ -58,7 +58,7 @@ Smart contract platforms related to Rust fall into a few categories:
   - Secret Network's [secret-toolkit]
   - Substrate's [Ink]
 
-- Those that support Rust compiled to other VMS, like [Nervos] (RISC-V),
+- Those that support Rust compiled to other VMs, like [Nervos] (RISC-V),
   and [Solana] (eBPF).
 
   Nervos contracts are programmed in Rust with their [Capsule] library. Besides
@@ -67,10 +67,10 @@ Smart contract platforms related to Rust fall into a few categories:
   model. It's not clear how that affects the contract programming model.
 
   Solana uses an especially eccentric VM: [eBPF]. Originally designed as a
-  non-turing complete interpreter for running inside OS kernels, eBPF is slowly
+  non-Turing complete interpreter for running inside OS kernels, eBPF is slowly
   finding its way into other applications. Did you know Rust supports eBPF?
   Well, it kinda does, or LLVM has a backend for it at least; and while Rust
-  doesn't officially seem to have _any_ in-tree eBPF support, Solana have hacked
+  doesn't officially seem to have _any_ in-tree eBPF support, Solana has hacked
   together a working Rust->eBPF toolchain that includes a [fork of the Rust
   compiler with eBPF support][rebpf]. Fascinating! Upstream that code, Solana!
   Of course, with eBPF not supporting loops, the Rust here must be quite
@@ -81,7 +81,7 @@ Smart contract platforms related to Rust fall into a few categories:
   (Diem's language).
 
   Although many chains are moving toward general-purpose VMS, particularly
-  WASM, there are reasons not to, the main two being: wanting Ethereum
+  WASM, there are reasons not to, the main two beings: wanting Ethereum
   EVM compatibility, and being based on zero-knowledge proofs. Move is
   a relatively rare case in that it is both its own language, and
   its own VM, but does not share the obvious reason to have a custom VM

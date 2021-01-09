@@ -44,6 +44,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
+#### Blog Posts
+- [Solana Development Tutorial: Things you should know before structuring your code](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
+
 
 &nbsp;
 
@@ -79,6 +82,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 #### [Solana](https://github.com/solana-labs/solana)
+- Blog: [Solana Year in Review 2020](https://medium.com/solana-labs/year-in-review-2020-c3731d1cc8a)
 
 #### [Zcash](https://z.cash/)
 

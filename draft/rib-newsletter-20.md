@@ -18,6 +18,8 @@ the hypest newsletter about the hypest tech.
 
 Thanks to contributors:
 [Adam Gutierrez][contributor-ag],
+[Paul][contributor-ps],
+
 
 _TODO_
 
@@ -30,6 +32,7 @@ please contribute to the next issue
 by submitting a PR to the [#21 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributor-ag]: https://github.com/adamisrusty
+[contributor-ps]: https://github.com/paul-schaaf
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 

@@ -51,6 +51,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 - [Solana Development Tutorial: Things you should know before structuring your code](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
+- [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 
 
 &nbsp;

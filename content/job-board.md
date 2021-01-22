@@ -83,7 +83,7 @@ Soramitsu | Remote
 - [Senior Rust Developer](https://soramitsu.freshteam.com/jobs/ifK-X2sHqXp6/rust-developer-senior-remote)
 
 The Graph | Remote
-- [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer).
+- [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer)
  
 Trail of Bits | Remote
 - [Cryptography Analyst](https://jobs.lever.co/trailofbits/56af8506-3205-4c7b-b28d-ba8292bd1a47)

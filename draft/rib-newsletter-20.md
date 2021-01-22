@@ -108,7 +108,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 ## Careers
 
 The Graph | Remote
-- [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer).
+- [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer)
 
 More jobs can be found at [Job Board][page-jobboard].
 

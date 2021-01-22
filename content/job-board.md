@@ -82,6 +82,9 @@ Solana | (Probably)Remote
 Soramitsu | Remote
 - [Senior Rust Developer](https://soramitsu.freshteam.com/jobs/ifK-X2sHqXp6/rust-developer-senior-remote)
 
+The Graph | Remote
+- [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer).
+ 
 Trail of Bits | Remote
 - [Cryptography Analyst](https://jobs.lever.co/trailofbits/56af8506-3205-4c7b-b28d-ba8292bd1a47)
 - [Application Security Engineer](https://jobs.lever.co/trailofbits/8b7f7fc1-efb0-4e89-b406-784c3a2d77e4)

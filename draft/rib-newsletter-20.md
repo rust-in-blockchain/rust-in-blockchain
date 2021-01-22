@@ -18,6 +18,7 @@ the hypest newsletter about the hypest tech.
 
 Thanks to contributors:
 [Adam Gutierrez][contributor-ag],
+[Leonardo Yvens][contributor-ly],
 [Paul][contributor-ps],
 
 
@@ -32,6 +33,7 @@ please contribute to the next issue
 by submitting a PR to the [#21 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributor-ag]: https://github.com/adamisrusty
+[contributor-ly]: https://github.com/leoyvens
 [contributor-ps]: https://github.com/paul-schaaf
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
@@ -104,6 +106,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 &nbsp;
 
 ## Careers
+
+The Graph | Remote
+- [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer).
 
 More jobs can be found at [Job Board][page-jobboard].
 

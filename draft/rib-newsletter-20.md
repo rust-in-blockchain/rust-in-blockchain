@@ -65,6 +65,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://deepai.org/publication/the-eye-of-horus-spotting-and-analyzing-attacks-on-ethereum-smart-contracts)
 - [Horizon: A Gas-Efficient, Trustless Bridge for Cross-Chain Transactions](https://github.com/harmony-one/horizon/blob/main/horizon-whitepaper.pdf)
 - [Byzantine Generals in the Permissionless Setting](https://paperswithcode.com/paper/byzantine-generals-in-the-permissionless)
+- [SoK: Decentralized Finance (DeFi)](https://arxiv.org/abs/2101.08778)
 
 &nbsp;
 

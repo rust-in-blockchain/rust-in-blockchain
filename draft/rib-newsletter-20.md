@@ -42,7 +42,24 @@ by submitting a PR to the [#21 draft](https://github.com/rust-in-blockchain/Rust
 
 ## Project Spotlight
 
+
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+## Concordium 
+
+Concordium is a software company, launching a public and permissionless blockchain for the Enterprise world in Q2 2021 that has opted for Rust as its primary programming language at both the protocol level and as its smart contract language.  “RustLang enforces memory discipline through its type system and ownership model, this prevents memory from being accessed from outside its Lifetime in Unsafe ways”, according to Torben Pedersen, Concordium CTO. 
+
+The community ethos of the Rust programming language is another very important part of why Concordium has chosen Rust, the openness of the community and the opportunity for Concordium to contribute and to the Rust ecosystem is a really important part of Concordiums overall mission.  
+
+Concordium is currently running its fourth and last Testnet before its official launch in Q2 2021. 
+There is a strong and challenging mission when it comes to creating, running and deploying smart contracts in Rust and the project has allocated resources to support this challenge. 
+You can learn more here https://medium.com/concordium/announcing-concordium-testnet-4-incentives-3b2d72fcee68 
+
+
+You can read more about Concordium here https://concordium.com
+
+The standard library for writing Rust smart contracts for Concordium is here https://github.com/Concordium/concordium-rust-smart-contracts  
+
 
 
 &nbsp;

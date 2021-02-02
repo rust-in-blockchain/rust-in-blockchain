@@ -40,9 +40,30 @@ by submitting a PR to the [#21 draft](https://github.com/rust-in-blockchain/Rust
 
 &nbsp;
 
+
 ## Project Spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+[mev-inspect](https://github.com/flashbots/mev-inspect-rs).
+
+This is a tool for analyzing historical miner extractable value (MEV) on Ethereum.
+Miner extractable value refers to value that can be earned by miners directly from transactions,
+through e.g. mempool frontrunning,
+as opposed to traditional miner rewards.
+It was defined and analyzed in the [Flashboys 2.0 paper][fb2],
+which claims that the phenomenon poses near-term system risk to Ethereum's
+security by skewing the economic incentives of miners in unanticipated ways.
+`mev-inspect` then is a tool designed to illuminate how bots
+today are competing with each other to squeeze value out of Ethereum transactions.
+
+It is described further in [a post on the Ethereum research forum][mevpost].
+
+`mev-inspect` communicates with Ethereum nodes via the [ethers crate][ethers].
+
+[fb2]: https://pdaian.com/flashboys2.pdf
+[mevpost]: https://ethresear.ch/t/flashbots-frontrunning-the-mev-crisis/8251
+[ethers]: https://github.com/gakonst/ethers-rs
 
 
 &nbsp;
@@ -53,8 +74,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### News
 
 - Dfinity: [Announcing the Internet Computer “Mainnet” and a 20-Year Roadmap](https://medium.com/dfinity/announcing-internet-computer-mainnet-and-a-20-year-roadmap-790e56cbe04a)
-- [Concordium releases Testnet 4](https://medium.com/concordium/concordium-releases-testnet-4-b5c0f2895b3b).
-> Testnet 4 is the last iteration of Concordium Blockchain before the launch of its Mainnet, which is scheduled for Q2 2021.
+
+### Projects
+
+- [Concordium](https://concordium.com)
+  - This is an enterprise blockchain that [runs Rust smart contracts](https://github.com/Concordium/concordium-rust-smart-contracts) on wasm
+  - [Concordium releases Testnet 4](https://medium.com/concordium/concordium-releases-testnet-4-b5c0f2895b3b).
+    > "Testnet 4 is the last iteration of Concordium blockchain before the launch of its mainnet, which is scheduled for Q2 2021."
 
 #### Blog Posts
 

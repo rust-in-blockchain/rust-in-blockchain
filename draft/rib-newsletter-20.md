@@ -9,12 +9,28 @@ summary: ""
 ---
 
 Welcome to the #20 edition of Rust in Blockchain,
-the hypest newsletter about the hypest tech.
+the chillest newsletter about the chillest tech.
 [Previous: #19](/newsletters/rust-and-smart-contracts/).
 
 
 
 
+For those wanting to stay even more in-tune with Rust blockchain developer news,
+the pace of the [Telegram group][ribtg] has been picking up lately,
+and the announcements and discussions there are more detailed
+than the brief one-liners in the newsletter.
+
+Representatives from Rust blockchain projects will often hop in and link to
+developer tools, events, and jobs.
+While we usually include these links in the newsletter,
+we also generally strip out the details and nuance of the message.
+
+This month we talked a lot about Rust smart contract platforms,
+including the possibility of creating a single Rust library that abstracts
+over multiple blockchain runtimes.
+
+Still, it is a low-volume group that only permits developer-relevant content &mdash;
+typical blockchain marketing spam is moderated away.
 
 
 &nbsp;
@@ -270,6 +286,7 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 [near-open_issues-3]: https://github.com/near/near-sdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-01-31
 
 - News: [Dragonfly Capital Joins NEAR Validator Advisory Board](https://near.org/blog/dragonfly-capital/)
+- Learn: [Build Apps and Earn NEAR with the NEAR Learn Pathway](https://figment.io/resources/build-apps-and-earn-near-with-the-near-learn-pathway/)
 - Videos: NEAR Live Contract Review
   - [Episode 11: Low-level no_std](https://www.youtube.com/watch?v=Hy4VBSCqnsE)
   - [Episode 10: Rainbow Bridge](https://www.youtube.com/watch?v=ptmFN41igks)
@@ -353,6 +370,7 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-01-31
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-01-31
 
+- Project: [Anchor](https://github.com/project-serum/anchor), a Rust eDSL for writing Solana programs.
 - News: [Announcing the Solana Foundation x Serum DeFi Hackathon](https://medium.com/solana-labs/announcing-the-solana-foundation-x-serum-defi-hackathon-7e34290f8262)
 - Blog: [Solana Year in Review 2020](https://medium.com/solana-labs/year-in-review-2020-c3731d1cc8a)
 - PR: [Clean accounts cache before flush](https://github.com/solana-labs/solana/pull/14596) by [@carllin](https://github.com/carllin)

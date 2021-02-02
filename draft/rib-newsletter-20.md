@@ -80,7 +80,7 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 - [Concordium](https://concordium.com)
   - This is an enterprise blockchain that [runs Rust smart contracts](https://github.com/Concordium/concordium-rust-smart-contracts) on wasm
   - [Concordium releases Testnet 4](https://medium.com/concordium/concordium-releases-testnet-4-b5c0f2895b3b).
-    - They are looking for people to test their smart contracts and network ahead of the mainnet launch in Q2.
+  - They are [looking for people to test](https://medium.com/concordium/announcing-concordium-testnet-4-incentives-3b2d72fcee68) their smart contracts and network ahead of the mainnet launch in Q2.
 
 #### Blog Posts
 

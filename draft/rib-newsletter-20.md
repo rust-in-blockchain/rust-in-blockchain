@@ -56,7 +56,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [mev-inspect](https://github.com/flashbots/mev-inspect-rs)
 
 This is a tool for analyzing historical miner extractable value (MEV) on Ethereum.
-Miner extractable value refers to value that can be earned by miners directly from transactions,
+"Miner extractable value" refers to value that can be earned by miners directly from transactions,
 through e.g. mempool frontrunning,
 as opposed to traditional miner rewards.
 It was defined and analyzed in the [Flashboys 2.0 paper][fb2],

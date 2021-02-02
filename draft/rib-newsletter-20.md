@@ -109,7 +109,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Events
 
+Feb 1-21 | Online
 
+[Binance Hackathon: The Future Is Now](https://gitcoin.co/issue/binancex/Grant-projects/17/100024656)
 
 &nbsp;
 

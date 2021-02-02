@@ -75,13 +75,6 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 
 - Dfinity: [Announcing the Internet Computer “Mainnet” and a 20-Year Roadmap](https://medium.com/dfinity/announcing-internet-computer-mainnet-and-a-20-year-roadmap-790e56cbe04a)
 
-### Projects
-
-- [Concordium](https://concordium.com)
-  - This is an enterprise blockchain that [runs Rust smart contracts](https://github.com/Concordium/concordium-rust-smart-contracts) on wasm
-  - [Concordium releases Testnet 4](https://medium.com/concordium/concordium-releases-testnet-4-b5c0f2895b3b).
-    > "Testnet 4 is the last iteration of Concordium blockchain before the launch of its mainnet, which is scheduled for Q2 2021."
-
 #### Blog Posts
 
 - [Solana Development Tutorial: Things you should know before structuring your code](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
@@ -101,6 +94,13 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 - [Byzantine Generals in the Permissionless Setting](https://paperswithcode.com/paper/byzantine-generals-in-the-permissionless)
 - [SoK: Decentralized Finance (DeFi)](https://arxiv.org/abs/2101.08778)
 
+#### Projects
+
+- [Concordium](https://concordium.com)
+  - This is an enterprise blockchain that [runs Rust smart contracts](https://github.com/Concordium/concordium-rust-smart-contracts) on wasm
+  - [Concordium releases Testnet 4](https://medium.com/concordium/concordium-releases-testnet-4-b5c0f2895b3b).
+    > "Testnet 4 is the last iteration of Concordium blockchain before the launch of its mainnet, which is scheduled for Q2 2021."
+- [DIDKit](https://github.com/spruceid/didkit) provides Verifiable Credential and Decentralized Identifier functionality across different platforms. 
 
 &nbsp;
 

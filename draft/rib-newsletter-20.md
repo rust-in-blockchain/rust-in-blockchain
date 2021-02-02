@@ -17,8 +17,8 @@ the chillest newsletter about the chillest tech.
 Within the blockchain industray and without,
 the rate of Rust job postings appears to be on a steady rise,
 and every month we come across interesting new Rust gigs.
-New public job listings are listed
-in the "Careers" section in the newsletter,
+New public job postings are listed
+in the "Careers" section in this newsletter,
 while previously-open listings are on the website [job board][page-jobboard].
 It's a good time to be a skilled Rust programmer,
 especially for those of us into blockchain tech.
@@ -40,8 +40,8 @@ over multiple blockchain runtimes.
 Still, it is a low-volume group that only permits developer-relevant content &mdash;
 typical blockchain marketing spam is moderated away.
 
-Talking about Telegram group, we welcome Ilya to be our new administrator.
-Ilya's vigilance is one of the reasons there's so little spam in the group
+Speakd of the Telegram group, we welcome Ilya as our new administrator.
+Ilya's vigilance is one of the reasons there's so little spam in the group.
 
 &nbsp;
 

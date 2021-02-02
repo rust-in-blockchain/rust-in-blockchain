@@ -100,6 +100,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
 - News: [Dragonfly Capital Joins NEAR Validator Advisory Board](https://near.org/blog/dragonfly-capital/)
+- Videos: NEAR Live Contract Review
+  - [Episode 11: Low-level no_std](https://www.youtube.com/watch?v=Hy4VBSCqnsE)
+  - [Episode 10: Rainbow Bridge](https://www.youtube.com/watch?v=ptmFN41igks)
+  - [Episode 9: BananaSwap](https://www.youtube.com/watch?v=TkFYBEOk9pI)
+- Videos: NEAR Core
+  - [Episode 05: NEAR Network Routing](https://www.youtube.com/watch?v=jmdxdO0gifY)
+  - [Episode 04: Network P2P Connection](https://www.youtube.com/watch?v=r6gyuUYo2tw)
+  - [Episode 03: Runtime State](https://www.youtube.com/watch?v=JCkSNL4ie1U)
+  - [Episode 02: Runtime Action and Data Receipts](https://www.youtube.com/watch?v=RBb3rJGtqOE)
+  - [Episode 01: Runtime Overview](https://www.youtube.com/watch?v=Xi_8PapFCjo)
 
 #### [Nervos](https://github.com/nervosnetwork)
 

@@ -170,6 +170,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [holochain-closed_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-01-01..2021-01-31
 [holochain-open_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-01-31
 
+- News: Holochain Dev Pulse:
+  - [89: Testing, Testing, Testing (and some goodies for developers)](https://blog.holochain.org/testing-testing-testing-and-some-goodies-for-developers/)
+  - [88: New Year, New Energy](https://blog.holochain.org/new-year-new-energy/)
 - PR: [Add RegisterDna to conductor api and allow InstallApp to take a hash](https://github.com/holochain/holochain/pull/582) by [@zippy](https://github.com/zippy)
 - PR: [Convert signal test to show  failure point while scaling](https://github.com/holochain/elemental-chat/pull/41) by [@zippy](https://github.com/zippy)
 
@@ -254,7 +257,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [nervos-closed_issues-1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-01-01..2021-01-31
 [nervos-open_issues-1]: https://github.com/nervosnetwork/capsule/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-01-31
 
-- Blog: [Towards CKB style Lego pieces: Polyjuice on Godwoken](https://medium.com/nervosnetwork/towards-ckb-style-lego-pieces-polyjuice-on-godwoken-cbc935d77abf)
+- Blog:
+  - [Nervos 2020: A Year in Review](https://medium.com/nervosnetwork/nervos-2020-a-year-in-review-3d560ed93880)
+  - [Towards CKB style Lego pieces: Polyjuice on Godwoken](https://medium.com/nervosnetwork/towards-ckb-style-lego-pieces-polyjuice-on-godwoken-cbc935d77abf)
 - PR: [fix: resolve rocksdb cache size issue when using `default.db-options`](https://github.com/nervosnetwork/ckb/pull/2542) by [@quake](https://github.com/quake)
 - PR: [feat: add RPC get_block_median_time](https://github.com/nervosnetwork/ckb/pull/2520) by [@keroro520](https://github.com/keroro520)
 - PR: [feat: provide `--overwrite-spec` to override the chain spec in storage](https://github.com/nervosnetwork/ckb/pull/2505) by [@keroro520](https://github.com/keroro520)

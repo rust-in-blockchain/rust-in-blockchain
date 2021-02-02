@@ -57,7 +57,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 ### Projects
 
 - [Concordium](https://concordium.com)
-  - This is an enterprise blockchain that runs Rust smart contracts on wasm
+  - This is an enterprise blockchain that [runs Rust smart contracts](https://github.com/Concordium/concordium-rust-smart-contracts) on wasm
   - [Concordium releases Testnet 4](https://medium.com/concordium/concordium-releases-testnet-4-b5c0f2895b3b).
     > "Testnet 4 is the last iteration of Concordium Blockchain before the launch of its Mainnet, which is scheduled for Q2 2021."
 

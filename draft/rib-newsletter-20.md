@@ -47,7 +47,7 @@ by submitting a PR to the [#21 draft](https://github.com/rust-in-blockchain/Rust
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
-[mev-inspect](https://github.com/flashbots/mev-inspect-rs).
+[mev-inspect](https://github.com/flashbots/mev-inspect-rs)
 
 This is a tool for analyzing historical miner extractable value (MEV) on Ethereum.
 Miner extractable value refers to value that can be earned by miners directly from transactions,

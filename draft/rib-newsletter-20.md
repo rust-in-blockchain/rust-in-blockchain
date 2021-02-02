@@ -118,6 +118,7 @@ It is described further in [a post on the Ethereum research forum][mevpost].
   Source code: [Candid](https://github.com/dfinity/candid).
 - [First impressions of programming on DFINITY](https://brson.github.io/2021/01/30/dfinity-impressions)
 - [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
+  - A typically good post from Vitalik that helps illuminate a difficult subject
 
 #### Papers
 

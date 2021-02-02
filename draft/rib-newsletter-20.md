@@ -12,7 +12,13 @@ Welcome to the #20 edition of Rust in Blockchain,
 the hypest newsletter about the hypest tech.
 [Previous: #19](/newsletters/rust-and-smart-contracts/).
 
+
+
+
+
+
 &nbsp;
+
 
 ## Thanks
 
@@ -58,6 +64,10 @@ which claims that the phenomenon poses near-term system risk to Ethereum's
 security by skewing the economic incentives of miners in unanticipated ways.
 `mev-inspect` then is a tool designed to illuminate how bots
 today are competing with each other to squeeze value out of Ethereum transactions.
+
+It can introspect transactions with common DeFi applications,
+including Uniswap, Aave, and Curve,
+to find instances of arbitrage and other front-running activites.
 
 It is described further in [a post on the Ethereum research forum][mevpost].
 

@@ -14,9 +14,17 @@ the chillest newsletter about the chillest tech.
 
 
 
+Within the blockchain industray and without,
+the rate of Rust job postings appears to be on a steady rise,
+and every month we come across interesting new Rust gigs.
+New public job listings are listed
+in the "Careers" section in the newsletter,
+while previously-open listings are on the website [job board][page-jobboard].
+It's a good time to be a skilled Rust programmer,
+especially for those of us into blockchain tech.
 
-For those wanting to stay even more in-tune with Rust blockchain developer news,
-the pace of the [Telegram group][ribtg] has been picking up lately,
+For those wanting to stay the most up to date with what's going on,
+the pace of the RiB [Telegram group][ribtg] has been picking up lately,
 and the announcements and discussions there are more detailed
 than the brief one-liners in the newsletter.
 
@@ -432,6 +440,9 @@ May 20 | Online
 
 The Graph | Remote
 - [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer)
+
+Nervos | Remote
+- Verious Rust positions. Contact Vicky at vicky@cryptape.com
 
 Parity | Berlin, Germany
 

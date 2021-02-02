@@ -18,6 +18,7 @@ the hypest newsletter about the hypest tech.
 
 Thanks to contributors:
 [Adam Gutierrez][contributor-ag],
+[Ernest Kissiedu][contributor-ek],
 [Leonardo Yvens][contributor-ly],
 [Paul][contributor-ps],
 
@@ -37,6 +38,7 @@ by submitting a PR to the [#21 draft](https://github.com/rust-in-blockchain/Rust
 [contributor-ps]: https://github.com/paul-schaaf
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
+[contributor-ek]: https://github.com/ernestkissiedu
 
 &nbsp;
 

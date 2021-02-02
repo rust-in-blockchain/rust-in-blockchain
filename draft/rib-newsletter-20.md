@@ -83,7 +83,7 @@ today are competing with each other to squeeze value out of Ethereum transaction
 
 It can introspect transactions with common DeFi applications,
 including Uniswap, Aave, and Curve,
-to find instances of arbitrage and other front-running activites.
+to find instances of arbitrage, liquidations, and other front-runnable activites.
 
 It is described further in [a post on the Ethereum research forum][mevpost].
 

@@ -55,8 +55,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - Dfinity: [Announcing the Internet Computer “Mainnet” and a 20-Year Roadmap](https://medium.com/dfinity/announcing-internet-computer-mainnet-and-a-20-year-roadmap-790e56cbe04a)
 
 #### Blog Posts
+
 - [Solana Development Tutorial: Things you should know before structuring your code](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+- [Candid: A Common Language for Application Interfaces on the Internet Computer](https://medium.com/dfinity/candid-a-tool-for-interoperable-programming-languages-on-the-internet-computer-27e7085cd97f).
+  Source code: [Candid](https://github.com/dfinity/candid).
+- [First impressions of programming on DFINITY](https://brson.github.io/2021/01/30/dfinity-impressions)
 
 #### Papers
 

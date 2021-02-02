@@ -97,9 +97,9 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 #### Projects
 
 - [Concordium](https://concordium.com)
-  - This is an enterprise blockchain that [runs Rust smart contracts](https://github.com/Concordium/concordium-rust-smart-contracts) on wasm
-  - [Concordium releases Testnet 4](https://medium.com/concordium/concordium-releases-testnet-4-b5c0f2895b3b).
-    > "Testnet 4 is the last iteration of Concordium blockchain before the launch of its mainnet, which is scheduled for Q2 2021."
+  - This is an enterprise blockchain that [runs Rust smart contracts](https://github.com/Concordium/concordium-rust-smart-contracts) on wasm.
+  - [Concordium releases Testnet 4](https://medium.com/concordium/concordium-releases-testnet-4-b5c0f2895b3b)
+  - They are [looking for people to test](https://medium.com/concordium/announcing-concordium-testnet-4-incentives-3b2d72fcee68) their smart contracts and network ahead of the mainnet launch in Q2.
 - [DIDKit](https://github.com/spruceid/didkit) provides Verifiable Credential and Decentralized Identifier functionality across different platforms. 
 
 &nbsp;

@@ -33,8 +33,7 @@ Still, it is a low-volume group that only permits developer-relevant content &md
 typical blockchain marketing spam is moderated away.
 
 Talking about Telegram group, we welcome Ilya to be our new administrator.
-Ilya has been helped to avoid spam for a long time.
-Besides, we’ve been knowing him from the Rust community and met in person at several Rust conferences.
+Ilya's vigilance is one of the reasons there's so little spam in the group
 
 &nbsp;
 

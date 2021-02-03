@@ -105,6 +105,7 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 
 #### Blog Posts
 
+- [The Cost of Transparency in Public Blockchain Networks](https://aleo.org/post/what-does-transparency-cost-you)
 - [Solana Development Tutorial: Things you should know before structuring your code](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Candid: A Common Language for Application Interfaces on the Internet Computer](https://medium.com/dfinity/candid-a-tool-for-interoperable-programming-languages-on-the-internet-computer-27e7085cd97f).
@@ -423,7 +424,12 @@ Feb 15-Mar 1 | Online
 
 ## Careers
 
+Aleo | Remote
+
+- [Community Manager](https://aleo.org/jobs/community-manager)
+
 The Graph | Remote
+
 - [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer)
 
 Zcash | Remote

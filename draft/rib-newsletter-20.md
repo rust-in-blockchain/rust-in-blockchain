@@ -43,10 +43,7 @@ Thanks to contributors:
 [Ernest Kissiedu][contributor-ek],
 [Leonardo Yvens][contributor-ly],
 [Paul][contributor-ps],
-
-
-_TODO_
-
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 

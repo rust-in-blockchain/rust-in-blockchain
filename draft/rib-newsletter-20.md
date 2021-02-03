@@ -131,6 +131,8 @@ It is described further in [a post on the Ethereum research forum][mevpost].
   - [Concordium releases Testnet 4](https://medium.com/concordium/concordium-releases-testnet-4-b5c0f2895b3b)
   - They are [looking for people to test](https://medium.com/concordium/announcing-concordium-testnet-4-incentives-3b2d72fcee68) their smart contracts and network ahead of the mainnet launch in Q2
 - [DIDKit](https://github.com/spruceid/didkit) provides Verifiable Credential and Decentralized Identifier functionality across different platforms
+- [Mirror Core Contracts](https://github.com/Mirror-Protocol/mirror-contracts).
+  A DeFi smart contract that implements Mirror Protocol on the Terra blockchain, written in Rust
 
 &nbsp;
 

@@ -125,6 +125,7 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 
 #### Projects
 
+- [Anchor](https://github.com/project-serum/anchor), a Rust eDSL for writing Solana programs
 - [Concordium](https://concordium.com)
   - This is an enterprise blockchain that [runs Rust smart contracts](https://github.com/Concordium/concordium-rust-smart-contracts) on wasm
   - [Concordium releases Testnet 4](https://medium.com/concordium/concordium-releases-testnet-4-b5c0f2895b3b)
@@ -371,7 +372,6 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-01-31
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-01-31
 
-- Project: [Anchor](https://github.com/project-serum/anchor), a Rust eDSL for writing Solana programs.
 - News: [Announcing the Solana Foundation x Serum DeFi Hackathon](https://medium.com/solana-labs/announcing-the-solana-foundation-x-serum-defi-hackathon-7e34290f8262)
 - Blog: [Solana Year in Review 2020](https://medium.com/solana-labs/year-in-review-2020-c3731d1cc8a)
 - PR: [Clean accounts cache before flush](https://github.com/solana-labs/solana/pull/14596) by [@carllin](https://github.com/carllin)

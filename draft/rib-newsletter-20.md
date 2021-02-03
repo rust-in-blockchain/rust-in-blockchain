@@ -114,6 +114,7 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 
 #### Papers
 
+- [Streaming Merkle Proofs within Binary Numeral Trees](https://eprint.iacr.org/2021/038)
 - [On Elapsed Time Consensus Protocols](https://eprint.iacr.org/2021/086)
 - [SPURT: Scalable Distributed Randomness Beacon with Transparent Setup](https://eprint.iacr.org/2021/100)
 - [Evolution of Bulletin Board & its application to E-Voting – A Survey](https://eprint.iacr.org/2021/047)

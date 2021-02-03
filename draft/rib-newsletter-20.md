@@ -164,8 +164,10 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 [aleo-open_issues-2]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-01-31
 [aleo-open_issues-3]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-01-31
 
-- PR: [cargo +nightly clippy](https://github.com/AleoHQ/leo/pull/573) by [@collinc97](https://github.com/collinc97)
-- PR: [[CLI, CI] Leo add does not require login](https://github.com/AleoHQ/leo/pull/582) by [@damirka](https://github.com/damirka)
+- PR: [Add ASG Base Implementation for Leo Compiler](https://github.com/AleoHQ/leo/pull/594) by [@collinc97](https://github.com/collinc97) and [@protryon](https://github.com/Protryon)
+- PR: [Rebase Leo Compiler to use ASG vs AST](https://github.com/AleoHQ/leo/pull/597) by [@collinc97](https://github.com/collinc97)
+- PR: [Implements Aleo account generation & derivation methods in WASM](https://github.com/AleoHQ/aleo/pull/16) by [@howardwu](https://github.com/howardwu)
+- Blog: [The Cost of Transparency in Public Blockchain Networks](https://aleo.org/post/what-does-transparency-cost-you)
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 

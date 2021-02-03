@@ -422,12 +422,21 @@ Feb 15-Mar 1 | Online
 
 [Solana Foundation x Serum DeFi Hackathon](https://solana.com/defi)
 
+May 20 | Online
+
+[Polkadot Decoded](https://decoded.polkadot.network/).
+[Submit your proposal](https://decoded.polkadot.network/2021submission) by February 28th. 
+
 &nbsp;
 
 ## Careers
 
 The Graph | Remote
 - [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer)
+
+Parity | Berlin, Germany
+
+- [Runtime Engineer (m/f/d)](https://www.parity.io/apply/?gh_jid=4030002003)
 
 Zcash | Remote
 

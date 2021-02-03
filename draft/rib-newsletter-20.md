@@ -204,8 +204,8 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 
 #### [Fluence](https://github.com/fluencelabs)
 
-17 merged PRs ([1][fluence-merged-prs-1], [2][fluence-merged-prs-2], [3][fluence-merged-prs-3]), 0 closed issues (), 
-0 open issues ()
+17 merged PRs ([1][fluence-merged-prs-1], [2][fluence-merged-prs-2], [3][fluence-merged-prs-3]),
+0 closed issues, 0 open issues
 
 [fluence-merged-prs-1]: https://github.com/fluencelabs/fluence/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-01-01..2021-01-31
 [fluence-merged-prs-2]: https://github.com/fluencelabs/fce/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-01-01..2021-01-31

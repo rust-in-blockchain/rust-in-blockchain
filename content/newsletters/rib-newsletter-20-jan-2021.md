@@ -1,11 +1,15 @@
 ---
-title: "RiB Newsletter #20"
+title: "RiB Newsletter #20 - Old fashioned chill"
 description: "#20 - January 2021"
 date: 2021-02-03
-slug: "/"
+slug: "/old-fashioned-chill"
 categories:
   - "newsletters"
-summary: ""
+summary: "It's a good time to be a skilled Rust programmer,
+especially for those of us into blockchain tech.
+This month we talked a lot about Rust smart contract platforms,
+including the possibility of creating a single Rust library that abstracts
+over multiple blockchain runtimes."
 ---
 
 Welcome to the #20 edition of Rust in Blockchain,

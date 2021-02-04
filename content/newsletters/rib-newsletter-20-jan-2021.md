@@ -42,8 +42,10 @@ over multiple blockchain runtimes.
 Still, it is a low-volume group that only permits developer-relevant content &mdash;
 typical blockchain marketing spam is moderated away.
 
-On that note, we welcome Ilya as our new administrator.
+On that note, we welcome [Ilya] as our new administrator.
 Ilya's vigilance is one of the reasons there's so little spam in the group.
+
+[Ilya]: https://github.com/ibaryshnikov
 
 &nbsp;
 

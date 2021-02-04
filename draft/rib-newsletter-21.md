@@ -51,6 +51,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [ethabi](https://github.com/rust-ethereum/ethabi). Encode and decode smart contract invocations.
+
 &nbsp;
 
 ## Most Active in January

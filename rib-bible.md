@@ -44,6 +44,21 @@ repos = [
 ]
 ```
 
+## Rust Ethereum
+
+GitHub:
+
+- https://github.com/rust-ethereum
+
+```toml
+repos = [
+"rust-ethereum/ethabi",
+"rust-ethereum/enr",
+"rust-ethereum/devp2p",
+"rust-ethereum/dnsdisc",
+]
+```
+
 ## CodeChain
 
 Media:

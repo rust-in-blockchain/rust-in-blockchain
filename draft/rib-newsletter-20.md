@@ -110,6 +110,7 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 
 #### Blog Posts
 
+- [The Cost of Transparency in Public Blockchain Networks](https://aleo.org/post/what-does-transparency-cost-you)
 - [Solana Development Tutorial: Things you should know before structuring your code](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Candid: A Common Language for Application Interfaces on the Internet Computer](https://medium.com/dfinity/candid-a-tool-for-interoperable-programming-languages-on-the-internet-computer-27e7085cd97f).
@@ -173,8 +174,10 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 [aleo-open_issues-2]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-01-31
 [aleo-open_issues-3]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-01-31
 
-- PR: [cargo +nightly clippy](https://github.com/AleoHQ/leo/pull/573) by [@collinc97](https://github.com/collinc97)
-- PR: [[CLI, CI] Leo add does not require login](https://github.com/AleoHQ/leo/pull/582) by [@damirka](https://github.com/damirka)
+- PR: [Add ASG Base Implementation for Leo Compiler](https://github.com/AleoHQ/leo/pull/594) by [@collinc97](https://github.com/collinc97) and [@protryon](https://github.com/Protryon)
+- PR: [Rebase Leo Compiler to use ASG vs AST](https://github.com/AleoHQ/leo/pull/597) by [@collinc97](https://github.com/collinc97)
+- PR: [Implements Aleo account generation & derivation methods in WASM](https://github.com/AleoHQ/aleo/pull/16) by [@howardwu](https://github.com/howardwu)
+- Blog: [The Cost of Transparency in Public Blockchain Networks](https://aleo.org/post/what-does-transparency-cost-you)
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
@@ -437,7 +440,12 @@ May 20 | Online
 
 ## Careers
 
+Aleo | Remote
+
+- [Community Manager](https://aleo.org/jobs/community-manager)
+
 The Graph | Remote
+
 - [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer)
 
 Nervos | Remote

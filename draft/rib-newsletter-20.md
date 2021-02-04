@@ -12,7 +12,7 @@ Welcome to the #20 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #19](/newsletters/rust-and-smart-contracts/).
 
-Within the blockchain industray and without,
+Within the blockchain industry and without,
 the rate of Rust job postings appears to be on a steady rise,
 and every month we come across interesting new Rust gigs.
 New public job postings are listed

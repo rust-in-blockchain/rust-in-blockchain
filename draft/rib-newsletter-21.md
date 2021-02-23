@@ -47,10 +47,27 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Serving up zero-knowledge proofs](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)
+- [Confessions of a smart contract paper reviewer](https://blog.trailofbits.com/2021/02/05/confessions-of-a-smart-contract-paper-reviewer/)
+
 #### Papers
+
+- [Efficient State Management in Distributed Ledgers](https://eprint.iacr.org/2021/183)
+- [Smart Contracts for Incentivized Outsourcing of Computation](https://eprint.iacr.org/2021/174)
+- [Peer-to-Peer Content Delivery via Blockchain](https://arxiv.org/abs/2102.04685)
+- [A Security Framework for Distributed Ledgers](https://eprint.iacr.org/2021/145)
+- [IPDL: A Simple Framework for Formally Verifying Distributed Cryptographic Protocols](https://eprint.iacr.org/2021/147)
+- [Group Signatures with User-Controlled and Sequential Linkability](https://eprint.iacr.org/2021/181)
+- [smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption](https://eprint.iacr.org/2021/133)
+- [OptSmart: A Space Efficient Optimistic Concurrent Execution of Smart Contracts](https://arxiv.org/abs/2102.04875)
+- [FPPW: A Fair and Privacy Preserving Watchtower For Bitcoin](https://eprint.iacr.org/2021/117)
+- [MAKE: a Matrix Action Key Exchange](https://eprint.iacr.org/2021/116)
+
 
 #### Projects
 
+- [europa](https://github.com/patractlabs/europa).
+  A sandbox to run and debug smart contracts for FRAME Contracts pallet and also a sandbox framework for Substrate runtime.
 - [ethabi](https://github.com/rust-ethereum/ethabi). Encode and decode smart contract invocations.
 
 &nbsp;

@@ -60,9 +60,13 @@ Moonbeam | Boston, MA USA; Madrid, Spain; Remote
 - [Senior Blockchain Engineer](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
 
 Parity Technologies | Berlin or Remote 
-- [Rust Blockchain Bridge Engineer](https://www.parity.io/apply/?gh_jid=4170674003)
-- [Rust Core Engineer](https://www.parity.io/apply/?gh_jid=4030037003)
-- [WASM Compiler Engineer](https://www.parity.io/apply/?gh_jid=4170712003)
+- [Blockchain Node Developer](https://grnh.se/a070a3c83us)
+- [Rust Performance Engineer](https://grnh.se/122d55873us)
+- [Core Developer - Runtime](https://grnh.se/87f802f93us)
+- [Solution Engineer](https://grnh.se/d7fe278f3us)
+- [Rust Developer - Tools](https://grnh.se/e1cc2c0c3us)
+- [P2P Network Engineer](https://grnh.se/4e54162d3us)
+- [Rust/Core Developer](https://grnh.se/0efc64513us)
 
 Protocol Labs | Remote
 - [Software Engineer, Cryptography & Systems](https://jobs.lever.co/protocol/9afbc1c9-8b3b-4c03-856d-6b0cb5518eaa)

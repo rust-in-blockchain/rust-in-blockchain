@@ -102,6 +102,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Parity](https://github.com/paritytech)
 
+#### [Concordium] (https://github.com/Concordium)
+
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 

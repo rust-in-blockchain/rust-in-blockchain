@@ -14,7 +14,24 @@ the chillest newsletter about the chillest tech.
 
 It's a great time to be a Rust programmer.
 
-Anyway, this month [NEAR announced a grants program][ngrant],
+Rust adoption is exploding &mdash;
+in the blockchain industry
+and everywhere else.
+This month the [Rust Foundation] was announced,
+and major tech companies including Microsoft, Google, Amazon, and Facebook
+have hired prominent Rust compiler developers.
+Kraken, a major cryptocurrency exchange,
+posted [a blog about how much they love Rust][krblog],
+then immediately posted a bazillion job openings,
+which we have added to the other job openings
+in the "careers" section below,
+and the [job board] on the website.
+
+[Rust Foundation]: https://foundation.rust-lang.org/posts/2021-02-08-hello-world/
+[krblog]: https://blog.kraken.com/post/7964/oxidizing-kraken/
+[job board]: https://rustinblockchain.org/job-board/
+
+This month [NEAR announced a grants program][ngrant],
 and [so did Secret Network][sgrant].
 Many other Rust blockchains have grant programs:
 Polkadot [has one][pgrant],
@@ -28,10 +45,6 @@ and [so does Zcash][zgrant].
 [nvgrant]: https://www.nervos.org/developer/grants/
 [sogrant]: https://solana.com/grants
 [zgrant]: https://www.zfnd.org/grants/
-
-Hey, [Kraken loves Rust][kr].
-
-[kr]: https://blog.kraken.com/post/7964/oxidizing-kraken/
 
 And RiB can now accept donations in NEAR at [@rib.near],
 the account for which was donated to us by

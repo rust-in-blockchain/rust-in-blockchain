@@ -20,13 +20,12 @@ and everywhere else.
 This month the [Rust Foundation] was announced,
 and major tech companies including Microsoft, Google, Amazon, and Facebook
 have hired prominent Rust compiler developers.
-
-Rust programmers are in great demand.
-Check out our "careers" section this month,
-and the extended [job board] on the website.
 Kraken, the popular cryptocurrency exchange,
 posted [a blog about how much they love Rust][krblog],
-then immediately posted a bazillion job openings.
+then immediately posted a bazillion job openings,
+which we have added to the existing bazillaion job openings
+in the "careers" section below,
+and the [job board] on the website.
 
 [Rust Foundation]: https://foundation.rust-lang.org/posts/2021-02-08-hello-world/
 [krblog]: https://blog.kraken.com/post/7964/oxidizing-kraken/

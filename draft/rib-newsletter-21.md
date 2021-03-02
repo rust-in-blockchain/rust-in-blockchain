@@ -9,7 +9,7 @@ summary: ""
 ---
 
 Welcome to the #21 edition of Rust in Blockchain,
-the hypest newsletter about the hypest tech.
+the chillest newsletter about the chillest tech.
 [Previous: #20](/newsletters/old-fashioned-chill/).
 
 It's a great time to be a Rust programmer.
@@ -48,9 +48,7 @@ are [on the website][ribsite].
 Thanks to contributors:
 [apruden2008][contributor-ap],
 [Max Wegman][contributor-mw],
-
-_TODO_
-
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -76,7 +74,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 Umbral is a scheme for [proxy re-encryption][pre],
 by which the owner of a ciphertext, Alice,
 can designate a third party (the proxy),
-to reencrypt that ciphertext to be decoded by Bob,
+to re-encrypt that ciphertext to be decoded by Bob,
 without ever revealing the plaintext to the proxy.
 
 Described in [a 2018 paper][ump],

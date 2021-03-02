@@ -20,10 +20,10 @@ and everywhere else.
 This month the [Rust Foundation] was announced,
 and major tech companies including Microsoft, Google, Amazon, and Facebook
 have hired prominent Rust compiler developers.
-Kraken, the popular cryptocurrency exchange,
+Kraken, a major cryptocurrency exchange,
 posted [a blog about how much they love Rust][krblog],
 then immediately posted a bazillion job openings,
-which we have added to the existing bazillaion job openings
+which we have added to the other job openings
 in the "careers" section below,
 and the [job board] on the website.
 
@@ -31,7 +31,7 @@ and the [job board] on the website.
 [krblog]: https://blog.kraken.com/post/7964/oxidizing-kraken/
 [job board]: https://rustinblockchain.org/job-board/
 
-And if you don't want a typical full-time job,
+For those that would rather be paid to do your own thing,
 you can try to get a grant instead:
 this month [NEAR announced a grants program][ngrant],
 and [so did Secret Network][sgrant].
@@ -54,9 +54,8 @@ in this newsletter,
 but we have noticed this month that a number
 of Rust blockchains are creeping up the market cap rankings,
 with Polkadot, Solana, The Graph,
-and NEAR all seeming to make a lot of progress,
-both technical and economic,
-lately.
+and NEAR all seeming to make a lot of progress lately,
+both technical and economic.
 
 In RiB news,
 RiB can now accept donations in NEAR at [@rib.near],
@@ -96,6 +95,23 @@ by submitting a PR to the [#22 draft](https://github.com/rust-in-blockchain/Rust
 ## Project Spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+[rust-umbral](https://github.com/nucypher/rust-umbral).
+
+Umbral is a scheme for [proxy re-encryption][pre],
+by which the owner of a ciphertext, Alice,
+can designate a third party (the proxy),
+to reencrypt that ciphertext to be decoded by Bob,
+without ever revealing the plaintext to the proxy.
+
+Described in [a 2018 paper][ump],
+and [blog post][umbp],
+Umbral is developed by the [NuCypher] project.
+
+[pre]: https://en.wikipedia.org/wiki/Proxy_re-encryption
+[ump]: https://github.com/nucypher/umbral-doc/blob/master/umbral-doc.pdf
+[umbp]: https://blog.nucypher.com/unveiling-umbral/
+[NuCypher]: https://www.nucypher.com/
 
 &nbsp;
 

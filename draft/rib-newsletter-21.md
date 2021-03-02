@@ -62,6 +62,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [OptSmart: A Space Efficient Optimistic Concurrent Execution of Smart Contracts](https://arxiv.org/abs/2102.04875)
 - [FPPW: A Fair and Privacy Preserving Watchtower For Bitcoin](https://eprint.iacr.org/2021/117)
 - [MAKE: a Matrix Action Key Exchange](https://eprint.iacr.org/2021/116)
+- [GearBox: An Efficient UC Sharded Ledger Leveraging the Safety-Liveness Dichotomy] (https://eprint.iacr.org/2021/211)
 
 
 #### Projects

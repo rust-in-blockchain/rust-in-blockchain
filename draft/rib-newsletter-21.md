@@ -63,6 +63,7 @@ are [on the website][ribsite].
 
 Thanks to contributors:
 [apruden2008][contributor-ap],
+[Ernest Kissiedu][contributor-ek],
 [Max Wegman][contributor-mw],
 [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
@@ -74,6 +75,7 @@ please contribute to the next issue
 by submitting a PR to the [#22 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributor-ap]: https://github.com/apruden2008
+[contributor-ek]: https://github.com/ernestkissiedu
 [contributor-mw]: https://github.com/mastermaxy
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer

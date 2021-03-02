@@ -123,7 +123,8 @@ Umbral is developed by the [NuCypher] project.
 - [Group Signatures with User-Controlled and Sequential Linkability](https://eprint.iacr.org/2021/181)
 - [FPPW: A Fair and Privacy Preserving Watchtower For Bitcoin](https://eprint.iacr.org/2021/117)
 - [MAKE: a Matrix Action Key Exchange](https://eprint.iacr.org/2021/116)
-- [GearBox: An Efficient UC Sharded Ledger Leveraging the Safety-Liveness Dichotomy] (https://eprint.iacr.org/2021/211)
+- [GearBox: An Efficient UC Sharded Ledger Leveraging the Safety-Liveness Dichotomy](https://eprint.iacr.org/2021/211).
+  From the [Concordium](https://github.com/Concordium) project.
 
 #### Projects
 

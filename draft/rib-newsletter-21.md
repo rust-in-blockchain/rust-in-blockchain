@@ -17,6 +17,7 @@ the hypest newsletter about the hypest tech.
 ## Thanks
 
 Thanks to contributors:
+[apruden2008][contributor-ap],
 
 _TODO_
 
@@ -28,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#22 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[contributor-ap]: https://github.com/apruden2008
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 

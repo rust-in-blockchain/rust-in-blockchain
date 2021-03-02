@@ -1,8 +1,8 @@
 ---
-title: "RiB Newsletter #21 - Rust explosion"
+title: "RiB Newsletter #21 - More Rust and blockchains"
 description: "#21 - February 2021"
 date: 2021-03-02
-slug: "/rust-explosion"
+slug: "/more-rust-and-blockchains"
 categories:
   - "newsletters"
 summary: "It's still a great time to be a Rust programmer.

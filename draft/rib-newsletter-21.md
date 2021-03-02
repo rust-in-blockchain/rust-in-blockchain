@@ -14,9 +14,6 @@ the chillest newsletter about the chillest tech.
 
 It's still a great time to be a Rust programmer.
 
-Rust adoption is exploding &mdash;
-in the blockchain industry
-and everywhere else.
 This month the [Rust Foundation] was announced,
 and major tech companies including Microsoft, Google, Amazon, and Facebook
 have hired prominent Rust compiler developers.

@@ -36,7 +36,7 @@ Hey, [Kraken loves Rust][kr].
 And RiB can now accept donations in NEAR at [@rib.near],
 the account for which was donated to us by
 Peter from the NEAR team. RiB also accepts donations
-in BTC, EHT, and CKB, the addresses for which
+in BTC, ETH, and CKB, the addresses for which
 are [on the website][ribsite].
 
 [@rib.near]: https://explorer.near.org/accounts/rib.near

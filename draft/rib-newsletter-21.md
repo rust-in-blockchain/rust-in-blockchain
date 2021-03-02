@@ -12,10 +12,63 @@ Welcome to the #21 edition of Rust in Blockchain,
 the hypest newsletter about the hypest tech.
 [Previous: #20](/newsletters/old-fashioned-chill/).
 
+It's a great time to be a Rust programmer.
 
-Donation (24.99981 NEAR) from Peter
+Rust adoption is exploding &mdash;
+in the blockchain industry
+and everywhere else.
+This month the [Rust Foundation] was announced,
+and major tech companies including Microsoft, Google, Amazon, and Facebook
+have hired prominent Rust compiler developers.
+
+Rust programmers are in great demand.
+Check out our "careers" section this month,
+and the extended [job board] on the website.
+Kraken, the popular cryptocurrency exchange,
+posted [a blog about how much they love Rust][krblog],
+then immediately posted a bazillion job openings.
+
+[Rust Foundation]: https://foundation.rust-lang.org/posts/2021-02-08-hello-world/
+[krblog]: https://blog.kraken.com/post/7964/oxidizing-kraken/
+[job board]: https://rustinblockchain.org/job-board/
+
+And if you don't want a typical full-time job,
+you can try to get a grant instead:
+this month [NEAR announced a grants program][ngrant],
+and [so did Secret Network][sgrant].
+Polkadot [also has one][pgrant],
+and [so does Nervos][nvgrant],
+and [so does Solana][sogrant],
+and [so does Zcash][zgrant].
+
+[ngrant]: https://near.org/blog/announcing-near-grants-pilot-program/
+[sgrant]: https://scrt.network/blog/announcing-secret-network-grant-program
+[pgrant]: https://github.com/w3f/General-Grants-Program
+[nvgrant]: https://www.nervos.org/developer/grants/
+[sogrant]: https://solana.com/grants
+[zgrant]: https://www.zfnd.org/grants/
+
+Rust blockchains are thriving.
+
+We don't generally discuss token valuations
+in this newsletter,
+but we have noticed this month that a number
+of Rust blockchains are creeping up the market cap rankings,
+with Polkadot, Solana, The Graph,
+and NEAR all seeming to make a lot of progress,
+both technical and economic,
+lately.
+
+In RiB news,
+RiB can now accept donations in NEAR at [@rib.near],
+the account for which was kindly donated to us by
+Peter from the NEAR team.
+
+[@rib.near]: https://explorer.near.org/accounts/rib.near
 
 &nbsp;
+
+
 
 ## Thanks
 
@@ -441,6 +494,9 @@ Matter Labs | Berlin/Kiev or Remote
 - [Senior Software Engineer](https://www.notion.so/Senior-Software-Engineer-162f87f441214eb39619f83bdd9b3073)
 - [Protocol Security Engineer](https://www.notion.so/Protocol-Security-Engineer-Blockchain-444a7d5f558c412da70c3300815a620a)
 - [Tech Team Lead (Rust)](https://www.notion.so/Tech-Team-Lead-Rust-e336a6285c60426f9f95700b2da1beac)
+
+Nucypher | Remote
+- [Rust Software Engineer](https://news.ycombinator.com/item?id=26049890)
 
 Parity Technologies | Berlin or Remote 
 - [Blockchain Node Developer](https://grnh.se/a070a3c83us)

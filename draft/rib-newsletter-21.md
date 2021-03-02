@@ -5,7 +5,10 @@ date: 2021-03-02
 slug: "/rust-explosion"
 categories:
   - "newsletters"
-summary: "It's still a great time to be a Rust programmer."
+summary: "It's still a great time to be a Rust programmer.
+This month the Rust Foundation was announced,
+Kraken declared their love for Rust,
+and more Rust blockchains launched grant programs."
 ---
 
 Welcome to the #21 edition of Rust in Blockchain,

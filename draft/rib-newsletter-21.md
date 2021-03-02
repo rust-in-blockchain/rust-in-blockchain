@@ -80,6 +80,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+* Blog: [The Future of Zero Knowledge with Aleo](https://aleo.org/post/the-future-of-zero-knowledge-with-aleo)
+* PR: [Upgrade to the Constraint System for Marlin](https://github.com/AleoHQ/snarkVM/pull/66) by [@howardwu](https://github.com/howardwu)
+* PR: [Add 'leo clone' command and add integration test with Aleo Package Manager](https://github.com/AleoHQ/leo/pull/686) by [@damirka](https://github.com/damirka)
+* PR: [Update POSW Implementation](https://github.com/AleoHQ/snarkOS/pull/630) by [@raychu86](https://github.com/raychu86)
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 #### [COMIT](https://github.com/comit-network)
@@ -119,6 +124,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 &nbsp;
 
 ## Careers
+
+Aleo | San Francisco, USA or Remote
+* [Senior Protocol Engineer](https://aleo.org/jobs/senior-protocol-engineer)
+* [Senior Compiler Engineer](https://aleo.org/jobs/senior-compiler-engineer)
+* [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)
+* [Interface Designer](https://aleo.org/jobs/interface-designer)
 
 More jobs can be found at [Job Board][page-jobboard].
 

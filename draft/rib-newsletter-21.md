@@ -56,8 +56,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
-- [Serving up zero-knowledge proofs](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)
+- [Oxidizing Kraken](https://blog.kraken.com/post/7964/oxidizing-kraken/)
 - [Confessions of a smart contract paper reviewer](https://blog.trailofbits.com/2021/02/05/confessions-of-a-smart-contract-paper-reviewer/)
+- [Serving up zero-knowledge proofs](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)
 
 #### Podcasts
 

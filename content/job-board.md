@@ -13,8 +13,10 @@ pager: false
 
 Aleo | San Francisco, US; Remote
 - [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)
-- [Backend Developer](https://aleo.org/jobs/backend-developer)
-- [Senior Front-End Developer](https://aleo.org/jobs/senior-front-end-developer)
+- [Senior Protocol Engineer](https://aleo.org/jobs/senior-protocol-engineer)
+- [Senior Compiler Engineer](https://aleo.org/jobs/senior-compiler-engineer)
+- [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)
+- [Interface Designer](https://aleo.org/jobs/interface-designer)
 
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
@@ -48,13 +50,25 @@ Findora | Beijing, China; Menlo Park, CA
 - [Senior Systems Engineer](https://jobs.lever.co/findora/e89e2e02-622c-41da-a14d-c12d854a25b5)
 
 Kraken | Remote
-- [Backend Engineer - Rust](https://jobs.lever.co/kraken/4019a818-4a7b-46ef-9225-c53c7a7f238c)
-- [Senior Backend Engineer - Rust](https://jobs.lever.co/kraken/4c864c8f-bde6-443d-b521-dd90df0e9105)
-- [Backend Engineer - Crypto/Payments](https://jobs.lever.co/kraken/39031c44-2060-467d-8991-79f23deacbb8)
-- [Backend Engineer, Data Processing – Rust](https://jobs.lever.co/kraken/246f7fd2-000a-4f61-8f53-b1cc783d51cb)
+- [Backend Engineer - Crypto Payments](https://jobs.lever.co/kraken/39031c44-2060-467d-8991-79f23deacbb8)
+- [Backend Engineer - Fiat Payments](https://jobs.lever.co/kraken/bd3d0185-eb56-441e-8ceb-5757711dae8c)
+- [Backend Engineer - Staking & DeFi](https://jobs.lever.co/kraken/37dbb8c2-b60c-42bd-a98f-0a3fc8657381)
+- [Software Engineer - Trading Technology (Rust)](https://jobs.lever.co/kraken/4485f672-dc5f-4e49-a10b-2b0399e28a8d)
+- [Backend Engineer - Rust - Core Backend](https://jobs.lever.co/kraken/4019a818-4a7b-46ef-9225-c53c7a7f238c)
+- [Backend Engineer, Kraken Futures - Rust](https://jobs.lever.co/kraken/fe1e07f4-6d7c-4f65-9a8f-27cf3b3fd2b1)
+- [Banking Engineer - Rust](https://jobs.lever.co/kraken/2863623f-13c9-4f50-992d-7c25736a60f9)
+- [Site Reliability Engineer - Rust - Core Backend](https://jobs.lever.co/kraken/1c6b290f-e430-430d-9b40-a258d07686b0)
+- [Rust QA Software Engineer](https://jobs.lever.co/kraken/d2c89216-6a99-4351-84ba-95bc9000a767)
+- [Rust API SDET](https://jobs.lever.co/kraken/5ec9958a-529c-4bae-89b3-0d1a104cbd81)
 
 Massa | Remote
 - [Full remote Rust developer, long-term contract (French CDI)](https://massa.network/#jobs)
+
+Matter Labs | Berlin/Kiev or Remote
+- [Junior Software Engineer](https://www.notion.so/Junior-Software-Engineer-2d062b60daf941f792ebac1958244f52)
+- [Senior Software Engineer](https://www.notion.so/Senior-Software-Engineer-162f87f441214eb39619f83bdd9b3073)
+- [Protocol Security Engineer](https://www.notion.so/Protocol-Security-Engineer-Blockchain-444a7d5f558c412da70c3300815a620a)
+- [Tech Team Lead (Rust)](https://www.notion.so/Tech-Team-Lead-Rust-e336a6285c60426f9f95700b2da1beac)
 
 Moonbeam | Boston, MA USA; Madrid, Spain; Remote
 - [Senior Blockchain Engineer](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
@@ -95,3 +109,7 @@ Trail of Bits | Remote
 
 Zama | Paris, Partial remote authorized
 - [Senior Engineer - Rust](https://www.welcometothejungle.com/en/companies/zama/jobs/senior-engineer-rust_paris)
+
+Zcash | Remote
+- [Core Engineer](https://www.zfnd.org/blog/opening-core-engineer/)
+- [Cryptography Engineer](https://www.zfnd.org/blog/open-position-cryptography-engineer/)

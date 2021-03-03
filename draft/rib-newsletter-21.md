@@ -18,6 +18,7 @@ the hypest newsletter about the hypest tech.
 
 Thanks to contributors:
 [apruden2008][contributor-ap],
+[Max Wegman][contributor-mw],
 
 _TODO_
 
@@ -30,6 +31,7 @@ please contribute to the next issue
 by submitting a PR to the [#22 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributor-ap]: https://github.com/apruden2008
+[contributor-mw]: https://github.com/mastermaxy
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 
@@ -46,6 +48,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 ## Interesting Things
 
 #### News
+
+- [Leading Defi projects, wallets and exchanges invest to bring Solidity to zkSync](https://medium.com/matter-labs/leading-defi-projects-and-exchanges-invest-to-bring-solidity-to-zksync-9a3df978f824)
+- [Rust Foundation](https://foundation.rust-lang.org/posts/2021-02-08-hello-world/)
 
 #### Blog Posts
 
@@ -68,13 +73,34 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Teleport Transactions](https://github.com/bitcoin-teleport/teleport-transactions)
+  is software aiming to improve the privacy of Bitcoin.
+- [Compound Chain](https://github.com/compound-finance/compound-chain).
+  An interest-bearing stablecoin bridge between all DeFi chains.
 - [europa](https://github.com/patractlabs/europa).
   A sandbox to run and debug smart contracts for FRAME Contracts pallet and also a sandbox framework for Substrate runtime.
 - [ethabi](https://github.com/rust-ethereum/ethabi). Encode and decode smart contract invocations.
+- [Hodor](https://github.com/matter-labs/hodor). Open source implementation of zkSTARKs in pure Rust.
 
 &nbsp;
 
-## Most Active in January
+## Most Active in February
+
+[Solana](https://github.com/solana-labs/solana):
+350 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
+21 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+50 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[Parity](https://github.com/paritytech):
+263 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6]),
+138 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+88 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5])
+
+[Diem](https://www.diem.com):
+195 merged PRs ([1][diem-merged-prs-1]),
+38 closed issues ([1][diem-closed_issues-1]), 
+39 open issues ([1][diem-open_issues-1])
+
 
 &nbsp;
 
@@ -176,6 +202,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [holochain-open_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2021-02-01..2021-02-28
 [holochain-open_issues-2]: https://github.com/holochain/elemental-chat/issues?q=is%3Aissue+is%3Aopen+created%3A2021-02-01..2021-02-28
 
+- News:
+  - [Elemental Chat is live!](https://medium.com/holochain/elemental-chat-is-live-68281f04450)
+  - [Testing, Testing, Testing (and some goodies for developers)](https://medium.com/holochain/testing-testing-testing-and-some-goodies-for-developers-6de56a186b5c)
+- Blog: [Is Holochain a Safe Haven for Dangerous Extremists or a Beacon of Hope for Accountability?](https://medium.com/holochain/is-holochain-a-safe-haven-for-dangerous-extremists-or-a-beacon-of-hope-for-accountability-fcbb8f5d38c6)
 - PR: [hApp Bundles pt 3: Documentation, finishing touches, et al.](https://github.com/holochain/holochain/pull/651) by [@maackle](https://github.com/maackle)
 - PR: [Allows a hc to reliably call while another hc is running the same setup](https://github.com/holochain/holochain/pull/642) by [@freesig](https://github.com/freesig)
 - PR: [Improve compatibility of holochain types with Zome WASM, unify Timestamp type](https://github.com/holochain/holochain/pull/617) by [@pjkundert](https://github.com/pjkundert)
@@ -203,6 +233,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-02-01..2021-02-28
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2021-02-01..2021-02-28
 
+- News: [Lighthouse Update #34](https://lighthouse.sigmaprime.io/update-34.html)
 - PR: [Auto-coerce to ping response to ipv4 when possible](https://github.com/sigp/discv5/pull/63) by [@paulhauner](https://github.com/paulhauner)
 - PR: [Add mitigation for ipv6 loop](https://github.com/sigp/discv5/pull/62) by [@paulhauner](https://github.com/paulhauner)
 - PR: [Add a `disconnect_node` public method](https://github.com/sigp/discv5/pull/59) by [@pawanjay176](https://github.com/pawanjay176)
@@ -238,6 +269,20 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [near-open_issues-3]: https://github.com/near/near-evm/issues?q=is%3Aissue+is%3Aopen+created%3A2021-02-01..2021-02-28
 [near-open_issues-4]: https://github.com/near/near-sdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-02-01..2021-02-28
 
+- News:
+  - [NEAR Recap: ETHDenver 2021](https://near.org/blog/ethdenver2021-recap/)
+  - [Flux’s Prediction Market Could Be The Key To Decentralized Insurance Markets](https://near.org/blog/prediction-market-and-insurance-with-flux/)
+  - [Meet the Startups in OWC’s Batch II: Accelerating Web 3.0 Adoption](https://near.org/blog/owcbatch2/)
+  - [Building New Worlds for Artists with NFTs: Paras + NEAR](https://near.org/blog/building-new-worlds-for-artists-with-nfts-paras-near/)
+  - [Announcing the NEAR Foundation’s $1 Million NEAR Grants Pilot Program](https://near.org/blog/announcing-near-grants-pilot-program/)
+- Blog:
+  - [Berry Club: A Fun, Creative Example of a DeFi Yield Farming App on NEAR Blockchain](https://near.org/blog/funberryclub/)
+  - [Berry Club Part II: How Does The Berry Club Yield Farming App Work?](https://near.org/blog/berry-club-part-ii/)
+- Videos: [Fungible Token Standards (NEARly wrapped up)](https://www.youtube.com/watch?v=MQWkK3j6CPM)
+- Videos: NEAR Live Contract Review
+  - [Episode 14: NEAR.fm](https://www.youtube.com/watch?v=1i-HnhwoNWg)
+  - [Episode 13: wNEAR - fungible token](https://www.youtube.com/watch?v=mfInOvCqLr8)
+  - [Episode 12: Flux AMM](https://www.youtube.com/watch?v=MGfqwilXVuA)
 - PR: [rewrite graph struct to be 200 times faster](https://github.com/near/nearcore/pull/3882) by [@pmnoxx](https://github.com/pmnoxx)
 - PR: [refactor(jsonrpc): Structured errors for `GetChunk` ViewClient handler and backward compatible response from JSON RPC](https://github.com/near/nearcore/pull/3861) by [@khorolets](https://github.com/khorolets)
 
@@ -254,6 +299,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [nervos-closed_issues-1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-02-01..2021-02-28
 [nervos-open_issues-1]: https://github.com/nervosnetwork/capsule/issues?q=is%3Aissue+is%3Aopen+created%3A2021-02-01..2021-02-28
 
+- News:
+  - [Nervos Looks to Empower a Shift to DeFi with $5M Grant for Blockchain and Fintech Entrepreneurs](https://medium.com/nervosnetwork/nervos-looks-to-empower-a-shift-to-defi-with-5m-grant-for-blockchain-and-fintech-entrepreneurs-2c9bfd049a52)
+  - [Nervos Quarterly Letter: A Look Back at Q4 2020](https://medium.com/nervosnetwork/nervos-quarterly-letter-a-look-back-at-q4-2020-7fe00f4c8c34)
+  - [GliaDex: A Demonstration of a Universal Application at Work on Nervos](https://medium.com/nervosnetwork/gliadex-a-demonstration-of-a-universal-application-at-work-on-nervos-5ad36ceb49ff)
+  - [Nervos Community Update: December 2020/January 2021](https://medium.com/nervosnetwork/nervos-community-update-december-2020-january-2021-63c5aec5de42)
+- Blog:
+  - [How Nervos is Tackling the State Explosion Problem Facing Smart Contract Blockchains](https://medium.com/nervosnetwork/how-nervos-is-tackling-the-state-explosion-problem-facing-smart-contract-blockchains-a9acc4c5708e)
 - PR: [feat: customize chain spec for dev chains and update few preset params](https://github.com/nervosnetwork/ckb/pull/2503) by [@yangby-cryptape](https://github.com/yangby-cryptape)
 - PR: [Integrate dynamic loading functions from C library](https://github.com/nervosnetwork/ckb-std/pull/12) by [@XuJiandong](https://github.com/XuJiandong)
 
@@ -329,6 +381,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2021-02-01..2021-02-28
 [zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2021-02-01..2021-02-28
 
+- News:
+  - [New Release 4.3.0](https://electriccoin.co/blog/new-release-4-3-0/)
+  - [Network Upgrade Pipeline 2.0](https://electriccoin.co/blog/network-upgrade-pipeline-2-0/)
 - PR: [Refactor `connection.rs` to make `fail_with` errors impossible](https://github.com/ZcashFoundation/zebra/pull/1721) by [@yaahc](https://github.com/yaahc)
 - PR: [Multi-proof prover](https://github.com/zcash/halo2/pull/143) by [@therealyingtong](https://github.com/therealyingtong)
 - PR: [Hash verification key into transcript](https://github.com/zcash/halo2/pull/173) by [@therealyingtong](https://github.com/therealyingtong)
@@ -343,10 +398,42 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 ## Careers
 
 Aleo | San Francisco, USA or Remote
-* [Senior Protocol Engineer](https://aleo.org/jobs/senior-protocol-engineer)
-* [Senior Compiler Engineer](https://aleo.org/jobs/senior-compiler-engineer)
-* [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)
-* [Interface Designer](https://aleo.org/jobs/interface-designer)
+- [Senior Protocol Engineer](https://aleo.org/jobs/senior-protocol-engineer)
+- [Senior Compiler Engineer](https://aleo.org/jobs/senior-compiler-engineer)
+- [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)
+- [Interface Designer](https://aleo.org/jobs/interface-designer)
+
+Kraken | Remote
+- [Backend Engineer - Crypto Payments](https://jobs.lever.co/kraken/39031c44-2060-467d-8991-79f23deacbb8)
+- [Backend Engineer - Fiat Payments](https://jobs.lever.co/kraken/bd3d0185-eb56-441e-8ceb-5757711dae8c)
+- [Backend Engineer - Staking & DeFi](https://jobs.lever.co/kraken/37dbb8c2-b60c-42bd-a98f-0a3fc8657381)
+- [Software Engineer - Trading Technology (Rust)](https://jobs.lever.co/kraken/4485f672-dc5f-4e49-a10b-2b0399e28a8d)
+- [Backend Engineer - Rust - Core Backend](https://jobs.lever.co/kraken/4019a818-4a7b-46ef-9225-c53c7a7f238c)
+- [Backend Engineer, Kraken Futures - Rust](https://jobs.lever.co/kraken/fe1e07f4-6d7c-4f65-9a8f-27cf3b3fd2b1)
+- [Banking Engineer - Rust](https://jobs.lever.co/kraken/2863623f-13c9-4f50-992d-7c25736a60f9)
+- [Site Reliability Engineer - Rust - Core Backend](https://jobs.lever.co/kraken/1c6b290f-e430-430d-9b40-a258d07686b0)
+- [Rust QA Software Engineer](https://jobs.lever.co/kraken/d2c89216-6a99-4351-84ba-95bc9000a767)
+- [Rust API SDET](https://jobs.lever.co/kraken/5ec9958a-529c-4bae-89b3-0d1a104cbd81)
+
+Matter Labs | Berlin/Kiev or Remote
+- [Junior Software Engineer](https://www.notion.so/Junior-Software-Engineer-2d062b60daf941f792ebac1958244f52)
+- [Senior Software Engineer](https://www.notion.so/Senior-Software-Engineer-162f87f441214eb39619f83bdd9b3073)
+- [Protocol Security Engineer](https://www.notion.so/Protocol-Security-Engineer-Blockchain-444a7d5f558c412da70c3300815a620a)
+- [Tech Team Lead (Rust)](https://www.notion.so/Tech-Team-Lead-Rust-e336a6285c60426f9f95700b2da1beac)
+
+Parity Technologies | Berlin or Remote 
+- [Blockchain Node Developer](https://grnh.se/a070a3c83us)
+- [Rust Performance Engineer](https://grnh.se/122d55873us)
+- [Core Developer - Runtime](https://grnh.se/87f802f93us)
+- [Solution Engineer](https://grnh.se/d7fe278f3us)
+- [Rust Developer - Tools](https://grnh.se/e1cc2c0c3us)
+- [P2P Network Engineer](https://grnh.se/4e54162d3us)
+- [Rust/Core Developer](https://grnh.se/0efc64513us)
+
+Zcash | Remote
+- [Core Engineer](https://www.zfnd.org/blog/opening-core-engineer/)
+- [Cryptography Engineer](https://www.zfnd.org/blog/open-position-cryptography-engineer/)
+
 
 More jobs can be found at [Job Board][page-jobboard].
 

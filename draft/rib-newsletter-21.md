@@ -408,7 +408,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 Mar 15 - Apr 11 | Online
 
-- [Chainlink Hackathon Spring 2021](https://chain.link/hackathon)
+[Chainlink Hackathon Spring 2021](https://chain.link/hackathon)
 
 May 20 | Online
 

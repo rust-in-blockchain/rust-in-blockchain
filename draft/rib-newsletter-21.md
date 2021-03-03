@@ -12,6 +12,9 @@ Welcome to the #21 edition of Rust in Blockchain,
 the hypest newsletter about the hypest tech.
 [Previous: #20](/newsletters/old-fashioned-chill/).
 
+
+Donation (24.99981 NEAR) from Peter
+
 &nbsp;
 
 ## Thanks
@@ -44,7 +47,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 &nbsp;
 
-
 ## Interesting Things
 
 #### News
@@ -57,19 +59,26 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Serving up zero-knowledge proofs](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)
 - [Confessions of a smart contract paper reviewer](https://blog.trailofbits.com/2021/02/05/confessions-of-a-smart-contract-paper-reviewer/)
 
+#### Podcasts
+
+- [Arkworks SNARK libraries with Pratyush Mishra](https://www.zeroknowledge.fm/169)
+- [Dan Guido - What the hell are the blockchain people doing & why isn't it a dumpster fire?](https://www.youtube.com/watch?v=wT-AmR7wtI8)
+
 #### Papers
 
-- [Efficient State Management in Distributed Ledgers](https://eprint.iacr.org/2021/183)
 - [Smart Contracts for Incentivized Outsourcing of Computation](https://eprint.iacr.org/2021/174)
-- [Peer-to-Peer Content Delivery via Blockchain](https://arxiv.org/abs/2102.04685)
-- [A Security Framework for Distributed Ledgers](https://eprint.iacr.org/2021/145)
-- [IPDL: A Simple Framework for Formally Verifying Distributed Cryptographic Protocols](https://eprint.iacr.org/2021/147)
-- [Group Signatures with User-Controlled and Sequential Linkability](https://eprint.iacr.org/2021/181)
+- [Smart Contract Security: a Practitioners' Perspective](https://paperswithcode.com/paper/smart-contract-security-a-practitioners)
+- [SigVM: Toward Fully Autonomous Smart Contracts](https://arxiv.org/pdf/2102.10784.pdf)
 - [smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption](https://eprint.iacr.org/2021/133)
 - [OptSmart: A Space Efficient Optimistic Concurrent Execution of Smart Contracts](https://arxiv.org/abs/2102.04875)
+- [Efficient State Management in Distributed Ledgers](https://eprint.iacr.org/2021/183)
+- [Peer-to-Peer Content Delivery via Blockchain](https://arxiv.org/abs/2102.04685)
+- [A Security Framework for Distributed Ledgers](https://eprint.iacr.org/2021/145)
+- [Verification Dilemmas, Law, and the Promise of Zero-Knowledge Proofs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3781082)
+- [IPDL: A Simple Framework for Formally Verifying Distributed Cryptographic Protocols](https://eprint.iacr.org/2021/147)
+- [Group Signatures with User-Controlled and Sequential Linkability](https://eprint.iacr.org/2021/181)
 - [FPPW: A Fair and Privacy Preserving Watchtower For Bitcoin](https://eprint.iacr.org/2021/117)
 - [MAKE: a Matrix Action Key Exchange](https://eprint.iacr.org/2021/116)
-
 
 #### Projects
 
@@ -345,6 +354,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [secret_network-closed_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-02-01..2021-02-28
 [secret_network-open_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2021-02-01..2021-02-28
 
+- News:
+  - [Announcing the Secret Binance Smart Chain Bridge!](https://scrt.network/blog/announcing-secret-binance-smart-chain-bridge)
+  - [SecretSwap is LIVE on Mainnet!](https://scrt.network/blog/secretswap-is-live-on-mainnet)
+  - [Announcing the Secret Network Grant Program](https://scrt.network/blog/announcing-secret-network-grant-program)
 - PR: [fix typo in app.go](https://github.com/enigmampc/SecretNetwork/pull/728) by [@vitocchi](https://github.com/vitocchi)
 - PR: [added support for debug-print in secret contracts.](https://github.com/enigmampc/SecretNetwork/pull/717) by [@reuvenpo](https://github.com/reuvenpo)
 

@@ -405,6 +405,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Events
 
+Mar 15 - Apr 11 | Online
+
+- [Chainlink Hackathon Spring 2021](https://chain.link/hackathon)
+
+May 20 | Online
+
+[Polkadot Decoded](https://decoded.polkadot.network/).
+[Submit your proposal](https://decoded.polkadot.network/2021submission) by February 28th. 
 
 &nbsp;
 

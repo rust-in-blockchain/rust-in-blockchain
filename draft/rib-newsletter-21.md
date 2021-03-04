@@ -12,7 +12,7 @@ Welcome to the #21 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #20](/newsletters/old-fashioned-chill/).
 
-It's a great time to be a Rust programmer.
+It's still a great time to be a Rust programmer.
 
 Rust adoption is exploding &mdash;
 in the blockchain industry

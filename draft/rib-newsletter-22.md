@@ -10,7 +10,7 @@ summary: ""
 
 Welcome to the #22 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
-[Previous: #21](/newsletters/_TODO_/).
+[Previous: #21](/newsletters/more-rust-and-blockchains/).
 
 &nbsp;
 

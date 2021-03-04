@@ -2,7 +2,7 @@
 title: "RiB Newsletter #21"
 description: "#21 - Feb 2021"
 date: 2021-03-02
-slug: "/"
+slug: "/rust-explosion"
 categories:
   - "newsletters"
 summary: ""

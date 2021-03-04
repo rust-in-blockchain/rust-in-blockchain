@@ -1,6 +1,6 @@
 ---
-title: "RiB Newsletter #21"
-description: "#21 - Feb 2021"
+title: "RiB Newsletter #21 - Rust explosion"
+description: "#21 - February 2021"
 date: 2021-03-02
 slug: "/rust-explosion"
 categories:

@@ -13,9 +13,8 @@ the chillest newsletter about the chillest tech.
 [Previous: #20](/newsletters/old-fashioned-chill/).
 
 It's a great time to be a Rust programmer.
-Opportunities are everywhere.
 
-This month [NEAR announced a grants program][ngrant],
+Anyway, this month [NEAR announced a grants program][ngrant],
 and [so did Secret Network][sgrant].
 Many other Rust blockchains have grant programs:
 Polkadot [has one][pgrant],
@@ -30,10 +29,14 @@ and [so does Zcash][zgrant].
 [sogrant]: https://solana.com/grants
 [zgrant]: https://www.zfnd.org/grants/
 
-RiB can now accept donations in NEAR at [@rib.near],
+Hey, [Kraken loves Rust][kr].
+
+[kr]: https://blog.kraken.com/post/7964/oxidizing-kraken/
+
+And RiB can now accept donations in NEAR at [@rib.near],
 the account for which was donated to us by
 Peter from the NEAR team. RiB also accepts donations
-in BTC, EHT, and CKB, the addresses for which
+in BTC, ETH, and CKB, the addresses for which
 are [on the website][ribsite].
 
 [@rib.near]: https://explorer.near.org/accounts/rib.near

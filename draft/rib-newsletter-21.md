@@ -74,7 +74,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 Umbral is a scheme for [proxy re-encryption][pre],
 by which the owner of a ciphertext, Alice,
 can designate a third party (the proxy),
-to reencrypt that ciphertext to be decoded by Bob,
+to re-encrypt that ciphertext to be decoded by Bob,
 without ever revealing the plaintext to the proxy.
 
 Described in [a 2018 paper][ump],

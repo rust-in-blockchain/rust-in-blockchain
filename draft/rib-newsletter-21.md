@@ -5,7 +5,10 @@ date: 2021-03-02
 slug: "/rust-explosion"
 categories:
   - "newsletters"
-summary: ""
+summary: "It's still a great time to be a Rust programmer.
+This month the Rust Foundation was announced,
+Kraken declared their love for Rust,
+and more Rust blockchains launched grant programs."
 ---
 
 Welcome to the #21 edition of Rust in Blockchain,
@@ -14,9 +17,6 @@ the chillest newsletter about the chillest tech.
 
 It's still a great time to be a Rust programmer.
 
-Rust adoption is exploding &mdash;
-in the blockchain industry
-and everywhere else.
 This month the [Rust Foundation] was announced,
 and major tech companies including Microsoft, Google, Amazon, and Facebook
 have hired prominent Rust compiler developers.

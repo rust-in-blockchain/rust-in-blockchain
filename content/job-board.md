@@ -21,6 +21,10 @@ Aleo | San Francisco, US; Remote
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
 
+Chainflip | Berlin, On Site & Remote 
+- [Full Stack DeFi Engineer](https://angel.co/company/chainflip/jobs/1122890-full-stack-defi-engineer)
+- [Rust / C++ Backend Engineer](https://angel.co/company/chainflip/jobs/1162345-rust-c-backend-engineer)
+
 Chainlink | Remote
 - [Blockchain Tools Engineer - Entry Level](https://careers.smartcontract.com/o/blockchain-tools-engineer-entry-level)
 

@@ -17,6 +17,7 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[NiklasHusten][contributor-nh]
 
 _TODO_
 
@@ -28,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#23 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[contributor-nh]: https://github.com/NiklasHusten
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 
@@ -114,6 +116,10 @@ Company name | Location A, B, Remote
 - [Job 2](https://job.two)
 
 -->
+
+Chainflip | Berlin, On Site & Remote 
+- [Full Stack DeFi Engineer](https://angel.co/company/chainflip/jobs/1122890-full-stack-defi-engineer)
+- [Rust / C++ Backend Engineer](https://angel.co/company/chainflip/jobs/1162345-rust-c-backend-engineer)
 
 
 More jobs can be found at [Job Board][page-jobboard].

@@ -116,6 +116,9 @@ Company name | Location A, B, Remote
 - [Job 2](https://job.two)
 
 -->
+Parity | Berlin & Remote
+- [Blockchain Node Developer (Rust)](https://grnh.se/a070a3c83us)
+- [Rust Performance Engineer](https://grnh.se/122d55873us)
 
 Chainflip | Berlin, On Site & Remote 
 - [Full Stack DeFi Engineer](https://angel.co/company/chainflip/jobs/1122890-full-stack-defi-engineer)

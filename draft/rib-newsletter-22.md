@@ -17,6 +17,7 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[Max Wegman][contributor-mw],
 [NiklasHusten][contributor-nh]
 
 _TODO_
@@ -29,6 +30,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#23 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[contributor-mw]: https://github.com/mastermaxy
 [contributor-nh]: https://github.com/NiklasHusten
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer

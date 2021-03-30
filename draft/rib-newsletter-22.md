@@ -97,8 +97,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Holochain](https://github.com/holochain/)
 
-- News:
-  - Dev Pulse: [92: Dev Tools in the Works](https://blog.holochain.org/dev-tools-in-the-works/),
+- News: [Dev Pulse 92 Dev Tools in the Works](https://blog.holochain.org/dev-tools-in-the-works/)
 - Blog:
   - [How rrDHT Works: A Tech Deep Dive](https://blog.holochain.org/how-rrdht-works-a-tech-deep-dive/)
   - [Decentralized Next-level Collaboration Apps with Syn](https://blog.holochain.org/decentralized-next-level-collaboration-apps-with-syn/)  

@@ -9,6 +9,13 @@ Guidelines when looking for content:
 - Look for PRs and issues with many comments
 - Sorting by most comments can help find important PRs
 
+Note:
+for the purposes of generating GitHub metrics,
+repo information also must be duplicated
+in [ribbot/src/rib-config.toml][config].
+
+[config]: https://github.com/rust-in-blockchain/ribbot/blob/master/src/rib-config.toml
+
 ## Aleo
 
 Media:
@@ -26,36 +33,6 @@ repos = [
 "AleoHQ/aleo",
 "AleoHQ/snarkOS",
 "AleoHQ/leo",
-]
-```
-
-## Rust Bitcoin
-
-GitHub:
-
-- https://github.com/rust-bitcoin
-
-```toml
-repos = [
-"rust-bitcoin/rust-bitcoin",
-"rust-bitcoin/rust-lightning",
-"rust-bitcoin/rust-miniscript",
-"rust-bitcoin/rust-bitcoincore-rpc",
-]
-```
-
-## Rust Ethereum
-
-GitHub:
-
-- https://github.com/rust-ethereum
-
-```toml
-repos = [
-"rust-ethereum/ethabi",
-"rust-ethereum/enr",
-"rust-ethereum/devp2p",
-"rust-ethereum/dnsdisc",
 ]
 ```
 
@@ -104,6 +81,21 @@ repos = [
 
 ```
 
+## Concordium
+
+GitHub:
+
+- https://github.com/Concordium
+
+``` toml
+repos = [
+"Concordium/concordium-node",
+"Concordium/concordium-base",
+"Concordium/concordium-contracts-common",
+"Concordium/concordium-rust-smart-contracts",
+]
+```
+
 ## Conflux Network
 
 Media:
@@ -138,6 +130,24 @@ repos = [
 "crypto-com/thaler-sample-wallet",
 "crypto-com/sample-thaler-java-example",
 "crypto-com/sample-thaler-ios-example",
+]
+```
+
+## Diem
+
+Media:
+
+- https://www.diem.com/
+
+GitHub:
+
+- https://github.com/diem 
+
+``` toml
+repos = [
+"diem/diem",
+"diem/rosetta-proxy",
+"diem/bcs",
 ]
 ```
 
@@ -198,20 +208,11 @@ GitHub:
 
 ``` toml
 repos = [
-"golemfactory/gwasm-runner",
-"golemfactory/golem",
-"golemfactory/mandelbrot",
-"golemfactory/sp-wasm",
-"golemfactory/gudot",
-"golemfactory/g-flite",
-"golemfactory/golem-client",
-"golemfactory/gMorph",
-"golemfactory/hello-gwasm-runner",
 "golemfactory/yagna",
 "golemfactory/ya-client",
-"golemfactory/gwasm-rust-api",
 ]
 ```
+
 ## Grin
 
 Media:
@@ -267,24 +268,6 @@ GitHub:
 ``` toml
 repos = [
 "interledger-rs/interledger-rs",
-]
-```
-
-## Diem
-
-Media:
-
-- https://www.diem.com/
-
-GitHub:
-
-- https://github.com/diem 
-
-``` toml
-repos = [
-"diem/diem",
-"diem/rosetta-proxy",
-"diem/bcs",
 ]
 ```
 
@@ -412,6 +395,36 @@ repos = [
 "paritytech/parity-bitcoin",
 "paritytech/cumulus",
 "paritytech/ink",
+]
+```
+
+## Rust Bitcoin
+
+GitHub:
+
+- https://github.com/rust-bitcoin
+
+```toml
+repos = [
+"rust-bitcoin/rust-bitcoin",
+"rust-bitcoin/rust-lightning",
+"rust-bitcoin/rust-miniscript",
+"rust-bitcoin/rust-bitcoincore-rpc",
+]
+```
+
+## Rust Ethereum
+
+GitHub:
+
+- https://github.com/rust-ethereum
+
+```toml
+repos = [
+"rust-ethereum/ethabi",
+"rust-ethereum/enr",
+"rust-ethereum/devp2p",
+"rust-ethereum/dnsdisc",
 ]
 ```
 

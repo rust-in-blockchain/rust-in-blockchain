@@ -71,15 +71,29 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Project Updates
 
-#### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-
-#### [Rust Ethereum](https://github.com/rust-ethereum)
+<!-- NB: This list needs to be kept in sync with rib-bible.md / rib-config.toml -->
 
 #### [Aleo](https://github.com/AleoHQ)
 
+#### [CodeChain](https://github.com/CodeChain-io)
+
 #### [COMIT](https://github.com/comit-network)
 
+#### [Concordium](https://github.com/Concordium)
+
+#### [Conflux](https://github.com/Conflux-Chain)
+
+#### [Crypto.com Chain](https://github.com/crypto-com)
+
+#### [Diem](https://github.com/diem)
+
+#### [Elrond](https://github.com/ElrondNetwork)
+
 #### [Fluence](https://github.com/fluencelabs)
+
+#### [Golem](https://github.com/golemfactory)
+
+#### [Grin](https://github.com/mimblewimble/grin)
 
 #### [Holochain](https://github.com/holochain/)
 
@@ -91,9 +105,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Diem](https://www.diem.com)
 
-#### [Lighthouse](https://lighthouse.sigmaprime.io/)
+#### [Interledger](https://github.com/interledger-rs)
 
-#### [MobileCoin](https://www.mobilecoin.com/)
+#### [Lighthouse](https://github.com/sigp/lighthouse)
+
+#### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
@@ -102,18 +118,23 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   - [Berry Cards: a DeFi NFT Marketplace for Pixel Art](https://near.org/blog/berry-cards/)
   - [Octopus builds on NEAR](https://near.org/blog/octopus-network-partners-with-near/)
 
-
 #### [Nervos](https://github.com/nervosnetwork)
 
 - News: [Nervos Unveils 2021 Roadmap at Town Hall](https://medium.com/nervosnetwork/nervos-unveils-2021-roadmap-at-town-hall-e9f02b957096)
 
+#### [Oasis](https://github.com/oasislabs)
+
 #### [Parity](https://github.com/paritytech)
+
+#### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
+#### [Rust Ethereum](https://github.com/rust-ethereum)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 #### [Solana](https://github.com/solana-labs/solana)
 
-#### [Zcash](https://z.cash/)
+#### [Zcash](https://github.com/zcash)
 
 - News:
   - [NU5 Proposed Features](https://electriccoin.co/blog/nu5-proposed-features/)
@@ -142,11 +163,9 @@ May 1-2 | Online
 ## Careers
 
 <!--
-
 Company name | Location A, B, Remote
 - [Job 1](https://job.one)
 - [Job 2](https://job.two)
-
 -->
 
 Chainflip | Berlin, Remote 

@@ -152,6 +152,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Solana](https://github.com/solana-labs/solana)
 
+#### [Spacemesh](https://github.com/spacemeshos)
+
 #### [Zcash](https://github.com/zcash)
 
 - News:
@@ -162,6 +164,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   [3-19](https://www.zcashcommunity.com/2021/03/21/zcash-developers-update-3-19-2021/),
   [3-12](https://www.zcashcommunity.com/2021/03/12/zcash-developers-update-3-12-2021/),
   [3-5](https://www.zcashcommunity.com/2021/03/05/zcash-developers-update-3-5-2021/)
+
+#### [zkSync](https://github.com/matter-labs/zksync)
+
 
 &nbsp;
 

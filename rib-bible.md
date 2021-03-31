@@ -468,6 +468,19 @@ repos = [
 ]
 ```
 
+## Spacemesh
+
+GitHub:
+
+- https://github.com/spacemeshos
+
+``` toml
+repos = [
+"https://github.com/spacemeshos/go-spacemesh",
+"https://github.com/spacemeshos/svm",
+]
+```
+
 ## Zcash
 
 Media:
@@ -490,5 +503,22 @@ repos = [
 "ZcashFoundation/zebra",
 "zcash/halo2",
 "zcash/librustzcash",
+]
+```
+
+## zkSync
+
+Media:
+
+- https://medium.com/matter-labs
+- https://twitter.com/zksync
+
+GitHub:
+
+- https://github.com/matter-labs/zksync
+
+``` toml
+repos = [
+"https://github.com/matter-labs/zksync",
 ]
 ```

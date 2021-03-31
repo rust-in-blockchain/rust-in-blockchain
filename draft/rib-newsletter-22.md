@@ -47,10 +47,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-#### News
-
-
-
 #### Blog Posts
 
 - [Further adventures with Substrate and Ink](https://brson.github.io/2021/03/09/further-adventures-with-substrate-and-ink)
@@ -58,12 +54,18 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
-- Revised [Zexe: Enabling Decentralized Private Computation](https://eprint.iacr.org/2018/962).
-
+- [ESCORT: Ethereum Smart COntRacTs Vulnerability Detection using Deep Neural Network and Transfer Learning](https://arxiv.org/abs/2103.12607)
+- [Non-interactive half-aggregation of EdDSA and variants of Schnorr signatures](https://eprint.iacr.org/2021/350)
+- [Multiparty Computation with Covert Security and Public Verifiability](https://eprint.iacr.org/2021/366)
+- [Latus Incentive Scheme: Enabling Decentralization in Blockchains based on Recursive SNARKs](https://eprint.iacr.org/2021/399)
+- [Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT](https://arxiv.org/abs/2103.09425)
+- Revised [Zexe: Enabling Decentralized Private Computation](https://eprint.iacr.org/2018/962)
 
 
 #### Projects
 
+- [GhostCell](http://plv.mpi-sws.org/rustbelt/ghostcell/).
+  Its paper: [GhostCell: Separating Permissions from Data in Rust](http://plv.mpi-sws.org/rustbelt/ghostcell/paper.pdf)
 - [Kamu Data](https://github.com/kamu-data/kamu-cli).
   Tool for decentralized exchange and transformation of semi-structured data.
 - [clvm-rs](https://github.com/Chia-Network/clvm_rs).
@@ -98,7 +100,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Diem](https://github.com/diem)
 
 #### [Elrond](https://github.com/ElrondNetwork)
-
 
 #### [Fluence](https://github.com/fluencelabs)
 

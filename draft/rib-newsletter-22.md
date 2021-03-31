@@ -93,6 +93,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Concordium](https://github.com/Concordium)
 
+- News [Concordium Annouce their Contribution to the Rust Ecosystem; The DevX Initiative] (https://medium.com/concordium/the-devx-initiative-by-concordium-f0e2550f8bc3) 
+
 #### [Conflux](https://github.com/Conflux-Chain)
 
 #### [Crypto.com Chain](https://github.com/crypto-com)
@@ -110,6 +112,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Holochain](https://github.com/holochain/)
 
 - News: [Dev Pulse 92 Dev Tools in the Works](https://blog.holochain.org/dev-tools-in-the-works/)
+        
 - Blog:
   - [How rrDHT Works: A Tech Deep Dive](https://blog.holochain.org/how-rrdht-works-a-tech-deep-dive/)
   - [Decentralized Next-level Collaboration Apps with Syn](https://blog.holochain.org/decentralized-next-level-collaboration-apps-with-syn/)  

@@ -17,11 +17,10 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[Ernest Kissiedu][contributor-ek],
 [Max Wegman][contributor-mw],
-[NiklasHusten][contributor-nh]
-
-_TODO_
-
+[NiklasHusten][contributor-nh],
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -30,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#23 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[contributor-ek]: https://github.com/ernestkissiedu
 [contributor-mw]: https://github.com/mastermaxy
 [contributor-nh]: https://github.com/NiklasHusten
 [contributorba]: https://github.com/brson
@@ -93,7 +93,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Concordium](https://github.com/Concordium)
 
-- News [Concordium Annouce their Contribution to the Rust Ecosystem; The DevX Initiative] (https://medium.com/concordium/the-devx-initiative-by-concordium-f0e2550f8bc3) 
+- News: [Concordium Annouce their Contribution to the Rust Ecosystem; The DevX Initiative](https://medium.com/concordium/the-devx-initiative-by-concordium-f0e2550f8bc3) 
 
 #### [Conflux](https://github.com/Conflux-Chain)
 
@@ -112,7 +112,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Holochain](https://github.com/holochain/)
 
 - News: [Dev Pulse 92 Dev Tools in the Works](https://blog.holochain.org/dev-tools-in-the-works/)
-        
 - Blog:
   - [How rrDHT Works: A Tech Deep Dive](https://blog.holochain.org/how-rrdht-works-a-tech-deep-dive/)
   - [Decentralized Next-level Collaboration Apps with Syn](https://blog.holochain.org/decentralized-next-level-collaboration-apps-with-syn/)  
@@ -175,6 +174,10 @@ May 1-2 | Online
 [Event Sample](https://event.sample)
 
 -->
+
+May 20 | Online
+
+[Polkadot Decoded](https://decoded.polkadot.network/).
 
 
 &nbsp;

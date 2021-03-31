@@ -476,8 +476,8 @@ GitHub:
 
 ``` toml
 repos = [
-"https://github.com/spacemeshos/go-spacemesh",
-"https://github.com/spacemeshos/svm",
+"spacemeshos/go-spacemesh",
+"spacemeshos/svm",
 ]
 ```
 
@@ -519,6 +519,6 @@ GitHub:
 
 ``` toml
 repos = [
-"https://github.com/matter-labs/zksync",
+"matter-labs/zksync",
 ]
 ```

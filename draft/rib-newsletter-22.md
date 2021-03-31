@@ -49,12 +49,18 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+
+
 #### Blog Posts
 
-- [Further adventures with Substrate and Ink](https://brson.github.io/2021/03/09/further-adventures-with-substrate-and-ink).
-
+- [Further adventures with Substrate and Ink](https://brson.github.io/2021/03/09/further-adventures-with-substrate-and-ink)
+- [The Most Important Scarce Resource is Legitimacy](https://vitalik.ca/general/2021/03/23/legitimacy.html)
 
 #### Papers
+
+- Revised [Zexe: Enabling Decentralized Private Computation](https://eprint.iacr.org/2018/962).
+
+
 
 #### Projects
 
@@ -75,6 +81,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+- Blog:
+  - [zkCloud: Decentralized Private Computing](https://www.aleo.org/post/zkcloud)
+  - [Zero Knowledge Primitives by Aleo](https://www.aleo.org/post/zero-knowledge-primitives-by-aleo)
+
 #### [CodeChain](https://github.com/CodeChain-io)
 
 #### [COMIT](https://github.com/comit-network)
@@ -88,6 +98,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Diem](https://github.com/diem)
 
 #### [Elrond](https://github.com/ElrondNetwork)
+
 
 #### [Fluence](https://github.com/fluencelabs)
 
@@ -108,6 +119,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
+- News: [New Eth2 Lighthouse release](https://twitter.com/sigp_io/status/1376780503764754435)
+- Blog: [Who’s who in eth2: Paul Hauner from Sigma Prime](https://bisontrails.co/eth2/paul-hauner/)
+
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
@@ -125,6 +139,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Parity](https://github.com/paritytech)
 
+- Blog: [Polkadot Bridges - Connecting the Polkadot Ecosystem with External Networks](https://polkadot.network/polkadot-bridges-connecting-the-polkadot-ecosystem-with-external-networks/)
+  
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)

@@ -12,11 +12,14 @@ Welcome to the #22 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #21](/newsletters/more-rust-and-blockchains/).
 
-Another month,
-another blockchain.
+There are many blockchains written in Rust now,
+and quite a few blockchains that run Rust smart contracts.
+It's hard to keep up, but we try.
+In this month's newsletter we note 21 of them,
+but there are more than that.
 
-This month we are changing the format of the "Project Updates"
-section to reduce the manual work of building the newsletter.
+To reduce the manual work of keeping up with so many projects,
+we are changing the format of the "Project Updates" section.
 
 Going forward, we will include the GitHub stats for all Rust blockchains
 that demonstrate significant development activity,
@@ -68,7 +71,7 @@ by submitting a PR to the [#23 draft](https://github.com/rust-in-blockchain/Rust
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
-[noir].
+[Noir].
 
 Noir is a language and compiler for building zero-knowledge proofs.
 It is designed to work with multiple proof-generating backends,
@@ -81,7 +84,7 @@ As a generalized language with intent to support multiple proof systems,
 this seems like a promising project to learn about zero knowledge proofs,
 independent of specific blockchains.
 
-[noir]: https://github.com/noir-lang/noir
+[Noir]: https://github.com/noir-lang/noir
 [noirdocs]: https://noir-lang.github.io/book/index.html
 [barretenberg]: https://github.com/AztecProtocol/barretenberg
 [aztec]: https://github.com/AztecProtocol

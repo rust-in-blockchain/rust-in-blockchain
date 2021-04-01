@@ -42,6 +42,24 @@ by submitting a PR to the [#23 draft](https://github.com/rust-in-blockchain/Rust
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[noir].
+
+Noir is a language and compiler for building zero-knowledge proofs.
+It is designed to work with multiple proof-generating backends,
+the first of which is for [barretenberg],
+as used by the [Aztec Network][aztec].
+
+It [has some preliminary documentation][noirdocs] that is possible to follow for someone without expertise in zero knowledge proofs.
+
+As a generalized language with intent to support multiple proof systems,
+this seems like a promising project to learn about zero knowledge proofs,
+independent of specific blockchains.
+
+[noir]: https://github.com/noir-lang/noir
+[noirdocs]: https://noir-lang.github.io/book/index.html
+[barretenberg]: https://github.com/AztecProtocol/barretenberg
+[aztec]: https://github.com/AztecProtocol
+
 &nbsp;
 
 
@@ -65,6 +83,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Projects
 
 - [GhostCell](http://plv.mpi-sws.org/rustbelt/ghostcell/).
+  Statically checked access to mutably-aliased data.
   Its paper: [GhostCell: Separating Permissions from Data in Rust](http://plv.mpi-sws.org/rustbelt/ghostcell/paper.pdf)
 - [Kamu Data](https://github.com/kamu-data/kamu-cli).
   Tool for decentralized exchange and transformation of semi-structured data.

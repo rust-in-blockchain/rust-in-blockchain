@@ -1,8 +1,8 @@
 ---
-title: "RiB Newsletter #22"
+title: "RiB Newsletter #22 - A few tweaks"
 description: "#22 - March 2021"
 date: 2021-03-31
-slug: "/"
+slug: "/a-few-tweaks"
 categories:
   - "newsletters"
 summary: ""

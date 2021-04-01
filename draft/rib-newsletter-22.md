@@ -43,7 +43,7 @@ that demonstrate significant development activity,
 but will not source news, blogs, and PRs for most projects,
 unless those items come from interested contributors.
 
-Pull requests to add project updates are still very welcome.
+Pull requests to add project updates are very welcome.
 Next month's draft is always posted immediately
 after the previous month,
 and all a contributor needs to do is fill in a line of markdown

@@ -12,6 +12,40 @@ Welcome to the #22 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #21](/newsletters/more-rust-and-blockchains/).
 
+
+
+This month we are changing the format of the "Project Updates"
+section to both reduce the manual work of generating the newsletter,
+while also including more Rust blockchains.
+This section is the most time consuming to maintain,
+and possibly the least useful to readers.
+
+Every month we cover many Rust blockchains,
+or blockchains that can run Rust smart contracts.
+This month there are 21 of them listed.
+GitHub stats for those projects are collected automatically
+by [our bot][bot],
+but blog posts and other content must be sourced manually,
+either through contributions,
+or by the newsletter editors.
+
+It requires too much effort.
+
+From this month, we will include the GitHub stats for all Rust blockchains
+that demonstrate significant GitHub activity,
+but will not source news, blogs, and PRs for most projects,
+unless those items come from interested contributors.
+
+Pull requests to add project updates are very welcome.
+Next month's draft is always posted immediately
+after the previous month,
+and all a contributor needs to do is fill in a line of markdown
+in their project's section,
+then submit a PR.
+
+[bot]: https://github.com/rust-in-blockchain/ribbot/blob/master/src/rib-config.toml
+
+
 &nbsp;
 
 ## Thanks

@@ -5,7 +5,11 @@ date: 2021-03-31
 slug: "/a-few-tweaks"
 categories:
   - "newsletters"
-summary: ""
+summary: "There are many blockchains written in Rust now,
+and quite a few blockchains that run Rust smart contracts.
+It's hard to keep up, but we try.
+In this month's newsletter we note 21 of them,
+but there are more than that."
 ---
 
 Welcome to the #22 edition of Rust in Blockchain,

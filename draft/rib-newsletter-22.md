@@ -50,6 +50,9 @@ and all a contributor needs to do is fill in a line of markdown
 in their favorite project's section,
 then submit a PR.
 
+The end result may actually be that this section is actually more useful,
+as there are far fewer low quality links to e.g. project pull requests.
+Either way, let us know what you think of the change in the [Telegram group][ribtg].
 
 &nbsp;
 

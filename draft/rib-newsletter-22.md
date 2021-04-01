@@ -12,11 +12,14 @@ Welcome to the #22 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #21](/newsletters/more-rust-and-blockchains/).
 
-Another month,
-another blockchain.
+There are many blockchains written in Rust now,
+and quite a few blockchains that run Rust smart contracts.
+It's hard to keep up, but we try.
+In this month's newsletter we note 21 of them,
+but that are more than that.
 
-This month we are changing the format of the "Project Updates"
-section to reduce the manual work of building the newsletter.
+To reduce the manual work of keeping up with so many projects,
+we are changing the format of the "Project Updates" section.
 
 Going forward, we will include the GitHub stats for all Rust blockchains
 that demonstrate significant development activity,

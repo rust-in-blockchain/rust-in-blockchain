@@ -218,7 +218,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   - [New Eth2 Lighthouse release](https://twitter.com/sigp_io/status/1376780503764754435)
   - [Lighthouse produced its first #Eth1 & #Eth2 merge transaction](https://twitter.com/sigp_io/status/1374979655782989824)
 - Blog: [Who’s who in eth2: Paul Hauner from Sigma Prime](https://bisontrails.co/eth2/paul-hauner/)
-- PR: [Update stable to v1.2.0](https://github.com/sigp/lighthouse/pull/2253) by [@michaelsproul](https://github.com/michaelsproul)
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 

@@ -16,7 +16,7 @@ Another month,
 another blockchain.
 
 This month we are changing the format of the "Project Updates"
-section to reduce the manual work of generating the newsletter.
+section to reduce the manual work of building the newsletter.
 The change will also also result in including more Rust blockchains.
 
 <!--

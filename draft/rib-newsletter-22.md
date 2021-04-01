@@ -140,9 +140,6 @@ independent of specific blockchains.
 [comit-open_issues-1]: https://github.com/comit-network/comit-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 [comit-open_issues-2]: https://github.com/comit-network/xmr-btc-swap/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 
-- PR: [Monero rpc installer for windows](https://github.com/comit-network/xmr-btc-swap/pull/253) by [@rishflab](https://github.com/rishflab)
-- PR: [Add asb to release including ARM build](https://github.com/comit-network/xmr-btc-swap/pull/311) by [@da-kami](https://github.com/da-kami)
-
 #### [Concordium](https://github.com/Concordium)
 
 9 merged PRs ([1][concordium-merged-prs-1], [2][concordium-merged-prs-2], [3][concordium-merged-prs-3]),
@@ -153,8 +150,6 @@ independent of specific blockchains.
 [concordium-merged-prs-3]: https://github.com/Concordium/concordium-rust-smart-contracts/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-03-01..2021-03-31
 
 - News: [Concordium Annouce their Contribution to the Rust Ecosystem; The DevX Initiative](https://medium.com/concordium/the-devx-initiative-by-concordium-f0e2550f8bc3)
-- PR: [CB-1203: Contract and receive names](https://github.com/Concordium/concordium-contracts-common/pull/14) by [@Bargsteen](https://github.com/Bargsteen)
-- PR: [CB-1203: Ergonomic send](https://github.com/Concordium/concordium-rust-smart-contracts/pull/25) by [@Bargsteen](https://github.com/Bargsteen)
 
 #### [Conflux](https://github.com/Conflux-Chain)
 
@@ -165,9 +160,6 @@ independent of specific blockchains.
 [conflux-closed_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-03-01..2021-03-31
 [conflux-open_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 
-- PR: [Fix mining author](https://github.com/Conflux-Chain/conflux-rust/pull/2087) by [@peilun-conflux](https://github.com/peilun-conflux)
-- PR: [Create StateTrait for the new state implementation.](https://github.com/Conflux-Chain/conflux-rust/pull/2095) by [@yangzhe1990](https://github.com/yangzhe1990)
-
 #### [Diem](https://github.com/diem)
 189 merged PRs ([1][diem-merged-prs-1]), 12 closed issues ([1][diem-closed_issues-1]), 
 19 open issues ([1][diem-open_issues-1])
@@ -175,9 +167,6 @@ independent of specific blockchains.
 [diem-merged-prs-1]: https://github.com/diem/diem/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-03-01..2021-03-31
 [diem-closed_issues-1]: https://github.com/diem/diem/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-03-01..2021-03-31
 [diem-open_issues-1]: https://github.com/diem/diem/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
-
-- PR: [[types] add script function as a new txn payload](https://github.com/diem/diem/pull/7580) by [@mengxu-fb](https://github.com/mengxu-fb)
-- PR: [initial off-chain api spec](https://github.com/diem/diem/pull/8059) by [@davidiw](https://github.com/davidiw)
 
 #### [Elrond](https://github.com/ElrondNetwork)
 
@@ -187,9 +176,6 @@ independent of specific blockchains.
 [elrond-merged-prs-1]: https://github.com/ElrondNetwork/sc-delegation-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-03-01..2021-03-31
 [elrond-merged-prs-2]: https://github.com/ElrondNetwork/elrond-wasm-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-03-01..2021-03-31
 [elrond-closed_issues-1]: https://github.com/ElrondNetwork/elrond-wasm-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-03-01..2021-03-31
-
-- PR: [Erc1155 marketplace](https://github.com/ElrondNetwork/elrond-wasm-rs/pull/131) by [@dorin-iancu](https://github.com/dorin-iancu)
-- PR: [egld-esdt-swap contract, ESDT issue/mint](https://github.com/ElrondNetwork/elrond-wasm-rs/pull/160) by [@andrei-marinica](https://github.com/andrei-marinica)
 
 #### [Fluence](https://github.com/fluencelabs)
 
@@ -201,9 +187,6 @@ independent of specific blockchains.
 [fluence-merged-prs-3]: https://github.com/fluencelabs/aquamarine/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-03-01..2021-03-31
 [fluence-merged-prs-4]: https://github.com/fluencelabs/rust-sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-03-01..2021-03-31
 
-- PR: [Basic validator for variables](https://github.com/fluencelabs/aquamarine/pull/76) by [@michaelvoronov](https://github.com/michaelvoronov)
-- PR: [use hash for blueprint ids](https://github.com/fluencelabs/fluence/pull/1048) by [@DieMyst](https://github.com/DieMyst)
-
 #### [Golem](https://github.com/golemfactory)
 
 64 merged PRs ([1][golem-merged-prs-1], [2][golem-merged-prs-2]), 33 closed issues ([1][golem-closed_issues-1]), 
@@ -214,9 +197,6 @@ independent of specific blockchains.
 [golem-closed_issues-1]: https://github.com/golemfactory/yagna/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-03-01..2021-03-31
 [golem-open_issues-1]: https://github.com/golemfactory/yagna/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 
-- PR: [upgrade erc20](https://github.com/golemfactory/yagna/pull/1157) by [@maaktweluit](https://github.com/maaktweluit)
-- PR: [we have a new yacn server](https://github.com/golemfactory/yagna/pull/1121) by [@etam](https://github.com/etam)
-
 #### [Grin](https://github.com/mimblewimble/grin)
 
 30 merged PRs ([1][grin-merged-prs-1]), 8 closed issues ([1][grin-closed_issues-1]), 
@@ -225,9 +205,6 @@ independent of specific blockchains.
 [grin-merged-prs-1]: https://github.com/mimblewimble/grin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-03-01..2021-03-31
 [grin-closed_issues-1]: https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-03-01..2021-03-31
 [grin-open_issues-1]: https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
-
-- PR: [enhance comment describing how a pow is hashed](https://github.com/mimblewimble/grin/pull/3623) by [@bladedoyle](https://github.com/bladedoyle)
-- PR: [Defork croaring](https://github.com/mimblewimble/grin/pull/3596) by [@trevyn](https://github.com/trevyn)
 
 #### [Holochain](https://github.com/holochain/)
 
@@ -245,19 +222,6 @@ independent of specific blockchains.
 - Blog:
   - [How rrDHT Works: A Tech Deep Dive](https://blog.holochain.org/how-rrdht-works-a-tech-deep-dive/)
   - [Decentralized Next-level Collaboration Apps with Syn](https://blog.holochain.org/decentralized-next-level-collaboration-apps-with-syn/)  
-- PR: [[B-03964] Arc length targeting](https://github.com/holochain/holochain/pull/666) by [@freesig](https://github.com/freesig)
-- PR: [MDNS crate](https://github.com/holochain/holochain/pull/663) by [@ddd-mtl](https://github.com/ddd-mtl)
-
-#### [Interledger](https://github.com/interledger-rs)
-
-6 merged PRs ([1][interledger-merged-prs-1]), 3 closed issues ([1][interledger-closed_issues-1]), 
-2 open issues ([1][interledger-open_issues-1])
-
-[interledger-merged-prs-1]: https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-03-01..2021-03-31
-[interledger-closed_issues-1]: https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-03-01..2021-03-31
-[interledger-open_issues-1]: https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
-
-- PR: [Bytes 05 upgrade](https://github.com/interledger-rs/interledger-rs/pull/690) by [@koivunej](https://github.com/koivunej)
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
@@ -269,7 +233,9 @@ independent of specific blockchains.
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 [lighthouse-open_issues-2]: https://github.com/sigp/discv5/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 
-- News: [New Eth2 Lighthouse release](https://twitter.com/sigp_io/status/1376780503764754435)
+- News:
+  - [New Eth2 Lighthouse release](https://twitter.com/sigp_io/status/1376780503764754435)
+  - [Lighthouse produced its first #Eth1 & #Eth2 merge transaction](https://twitter.com/sigp_io/status/1374979655782989824)
 - Blog: [Who’s who in eth2: Paul Hauner from Sigma Prime](https://bisontrails.co/eth2/paul-hauner/)
 - PR: [Update stable to v1.2.0](https://github.com/sigp/lighthouse/pull/2253) by [@michaelsproul](https://github.com/michaelsproul)
 
@@ -307,7 +273,6 @@ independent of specific blockchains.
   - [Octopus builds on NEAR](https://near.org/blog/octopus-network-partners-with-near/)
 - PR: [feat(contract-standards): Adding near-contract-standards library and more tools](https://github.com/near/near-sdk-rs/pull/275) by [@ilblackdragon](https://github.com/ilblackdragon)
 - PR: [refactor(jsonrpc): Add structured errors to query method in ViewClient and RPC](https://github.com/near/nearcore/pull/3944) by [@khorolets](https://github.com/khorolets)
-- PR: [feat(chain): Epoch Sync / GC Headers skeleton](https://github.com/near/nearcore/pull/4023) by [@Kouprin](https://github.com/Kouprin)
 
 #### [Nervos](https://github.com/nervosnetwork)
 
@@ -323,16 +288,6 @@ independent of specific blockchains.
 - News: [Nervos Unveils 2021 Roadmap at Town Hall](https://medium.com/nervosnetwork/nervos-unveils-2021-roadmap-at-town-hall-e9f02b957096)
 - PR: [feat: metricize network traffic](https://github.com/nervosnetwork/ckb/pull/2509) by [@keroro520](https://github.com/keroro520)
 - PR: [B extension](https://github.com/nervosnetwork/ckb-vm/pull/108) by [@mohanson](https://github.com/mohanson)
-
-#### [Oasis](https://github.com/oasislabs)
-
-1 merged PRs ([1][oasis-merged-prs-1]),
-0 closed issues, 1 open issues ([1][oasis-open_issues-1])
-
-[oasis-merged-prs-1]: https://github.com/oasislabs/oasis-ethwasi-runtime/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-03-01..2021-03-31
-[oasis-open_issues-1]: https://github.com/oasisprotocol/deoxysii-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
-
-- PR: [Update to oasis-core 21.0.1](https://github.com/oasislabs/oasis-ethwasi-runtime/pull/1021) by [@ptrus](https://github.com/ptrus)
 
 #### [Parity](https://github.com/paritytech)
 
@@ -360,7 +315,6 @@ independent of specific blockchains.
 - Blog: [Polkadot Bridges - Connecting the Polkadot Ecosystem with External Networks](https://polkadot.network/polkadot-bridges-connecting-the-polkadot-ecosystem-with-external-networks/)
 - PR: [Storage chains: indexing, renewals and reference counting](https://github.com/paritytech/substrate/pull/8265) by [@arkpar](https://github.com/arkpar)
 - PR: [Decouple Staking and Election - Part 2.1: Unleash Multi Phase](https://github.com/paritytech/substrate/pull/8113) by [@kianenigma](https://github.com/kianenigma)
-- PR: [Implement `fungible::*` for Balances](https://github.com/paritytech/substrate/pull/8454) by [@gavofyork](https://github.com/gavofyork)
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
@@ -378,9 +332,6 @@ independent of specific blockchains.
 [rust_bitcoin-open_issues-3]: https://github.com/rust-bitcoin/rust-miniscript/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 [rust_bitcoin-open_issues-4]: https://github.com/rust-bitcoin/rust-bitcoincore-rpc/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 
-- PR: [MPP on the router side](https://github.com/rust-bitcoin/rust-lightning/pull/646) by [@naumenkogs](https://github.com/naumenkogs)
-- PR: [Process monitor update events in block_[dis]connected asynchronously](https://github.com/rust-bitcoin/rust-lightning/pull/808) by [@TheBlueMatt](https://github.com/TheBlueMatt)
-
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
 8 merged PRs ([1][rust-ethereum-merged-prs-1]), 4 closed issues ([1][rust-ethereum-closed_issues-1]), 
@@ -390,9 +341,6 @@ independent of specific blockchains.
 [rust-ethereum-closed_issues-1]: https://github.com/rust-ethereum/ethabi/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-03-01..2021-03-31
 [rust-ethereum-open_issues-1]: https://github.com/rust-ethereum/ethabi/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 
-- PR: [Release v14.0.0](https://github.com/rust-ethereum/ethabi/pull/219) by [@vkgnosis](https://github.com/vkgnosis)
-- PR: [Re-export ethereum-types](https://github.com/rust-ethereum/ethabi/pull/218) by [@vkgnosis](https://github.com/vkgnosis)
-
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 5 merged PRs ([1][secret_network-merged-prs-1]), 0 closed issues, 
@@ -400,9 +348,6 @@ independent of specific blockchains.
 
 [secret_network-merged-prs-1]: https://github.com/enigmampc/SecretNetwork/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-03-01..2021-03-31
 [secret_network-open_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
-
-- PR: [Update install_cli.md](https://github.com/enigmampc/SecretNetwork/pull/733) by [@Steven-Chang](https://github.com/Steven-Chang)
-- PR: [SSD Update](https://github.com/enigmampc/SecretNetwork/pull/731) by [@moonstash](https://github.com/moonstash)
 
 #### [Solana](https://github.com/solana-labs/solana)
 
@@ -428,10 +373,6 @@ independent of specific blockchains.
 [spacemesh-closed_issues-1]: https://github.com/spacemeshos/go-spacemesh/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-03-01..2021-03-31
 [spacemesh-open_issues-1]: https://github.com/spacemeshos/go-spacemesh/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 
-- PR: [Plugging-in rocksdb](https://github.com/spacemeshos/svm/pull/225) by [@YaronWittenstein](https://github.com/YaronWittenstein)
-- PR: [WIP: Adding the `verify` stage](https://github.com/spacemeshos/svm/pull/223) by [@YaronWittenstein](https://github.com/YaronWittenstein)
-- PR: [Refactoring the Runtime component](https://github.com/spacemeshos/svm/pull/224) by [@YaronWittenstein](https://github.com/YaronWittenstein)
-
 #### [Zcash](https://github.com/zcash)
 
 102 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 40 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]), 
@@ -446,28 +387,6 @@ independent of specific blockchains.
 [zcash-open_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 [zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
 [zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
-
-- News:
-  - [NU5 Proposed Features](https://electriccoin.co/blog/nu5-proposed-features/)
-  - [https://electriccoin.co/blog/ecc-transparency-report-for-q3-2020/](https://electriccoin.co/blog/ecc-transparency-report-for-q3-2020/)
-  - [The Zcash Foundation has Finished an Audit of FROST](https://www.zfnd.org/blog/frost-audit/)
-  - Zcash Developers Update [3-26](https://www.zcashcommunity.com/2021/03/27/zcash-developers-update-3-26-2021/),
-  [3-19](https://www.zcashcommunity.com/2021/03/21/zcash-developers-update-3-19-2021/),
-  [3-12](https://www.zcashcommunity.com/2021/03/12/zcash-developers-update-3-12-2021/),
-  [3-5](https://www.zcashcommunity.com/2021/03/05/zcash-developers-update-3-5-2021/)
-- PR: [V5 transaction rfc](https://github.com/ZcashFoundation/zebra/pull/1886) by [@oxarbitrage](https://github.com/oxarbitrage)
-- PR: [Refactor Sapling data and use it in V4](https://github.com/ZcashFoundation/zebra/pull/1946) by [@oxarbitrage](https://github.com/oxarbitrage)
-
-#### [zkSync](https://github.com/matter-labs/zksync)
-
-1 merged PRs ([1][zksync-merged-prs-1]), 3 closed issues ([1][zksync-closed_issues-1]), 
-8 open issues ([1][zksync-open_issues-1])
-
-[zksync-merged-prs-1]: https://github.com/matter-labs/zksync/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-03-01..2021-03-31
-[zksync-closed_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-03-01..2021-03-31
-[zksync-open_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2021-03-01..2021-03-31
-
-- PR: [a fix in the batch fee check](https://github.com/matter-labs/zksync/pull/290) by [@lukasz-glen](https://github.com/lukasz-glen)
 
 
 &nbsp;

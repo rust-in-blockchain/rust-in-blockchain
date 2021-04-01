@@ -1,16 +1,16 @@
 ---
-title: "RiB Newsletter #22"
-description: "#22 - March 2021"
-date: 2021-03-31
+title: "RiB Newsletter #23"
+description: "#23 - April 2021"
+date: 2021-05-05
 slug: "/"
 categories:
   - "newsletters"
 summary: ""
 ---
 
-Welcome to the #22 edition of Rust in Blockchain,
+Welcome to the #23 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
-[Previous: #21](/newsletters/more-rust-and-blockchains/).
+[Previous: #22](/newsletters/_TODO_/).
 
 &nbsp;
 
@@ -26,7 +26,7 @@ RiB needs help to keep up with Rust blockchain projects.
 If you follow a particular project, or otherwise find information 
 that is beneficial to the Rust & blockchain community, 
 please contribute to the next issue
-by submitting a PR to the [#23 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+by submitting a PR to the [#24 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
@@ -57,7 +57,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 &nbsp;
 
-## Most Active in March
+## Most Active in April
 
 &nbsp;
 
@@ -156,7 +156,7 @@ More jobs can be found at [Job Board][page-jobboard].
 &nbsp;
 
 Want to be included in the next issue? Feel free to submit a PR to the
-[#23 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+[#24 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 

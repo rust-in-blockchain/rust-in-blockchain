@@ -16,7 +16,7 @@ There are many blockchains written in Rust now,
 and quite a few blockchains that run Rust smart contracts.
 It's hard to keep up, but we try.
 In this month's newsletter we note 21 of them,
-but that are more than that.
+but there are more than that.
 
 To reduce the manual work of keeping up with so many projects,
 we are changing the format of the "Project Updates" section.

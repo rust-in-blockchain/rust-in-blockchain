@@ -17,42 +17,26 @@ another blockchain.
 
 This month we are changing the format of the "Project Updates"
 section to reduce the manual work of building the newsletter.
-The change will also also result in including more Rust blockchains.
 
-<!--
-
-The project updates section is the most time consuming to maintain,
-and possibly the least useful to readers.
-Every month we cover many Rust blockchains,
-or blockchains that can run Rust smart contracts.
-This month there are 21 of them listed.
-GitHub stats for those projects are collected automatically
-by [our bot][bot],
-but blog posts and other content must be sourced manually,
-either through contributions,
-or by the newsletter editors.
-
-[bot]: https://github.com/rust-in-blockchain/ribbot/blob/master/src/rib-config.toml
-
-It requires too much effort.
-
--->
-
-From this month, we will include the GitHub stats for all Rust blockchains
+Going forward, we will include the GitHub stats for all Rust blockchains
 that demonstrate significant development activity,
-but will not source news, blogs, and PRs for most projects,
-unless those items come from interested contributors.
+but will not source news, blogs, and pull request links for most projects,
+unless those items have been submitted to the newsletter via pull request,
+instructions for which [are on the website][ribcontrib].
 
-Pull requests to add project updates are very welcome.
+[ribcontrib]: https://rustinblockchain.org/contributing/
+
+Pull requests to add project updates and other interesting links are very welcome.
 Next month's draft is always posted immediately
 after the previous month,
 and all a contributor needs to do is fill in a line of markdown
 in their favorite project's section,
 then submit a PR.
 
-The end result may actually be that this section is actually more useful,
+The end result may actually be that this section is more useful than in the past,
 as there are far fewer low quality links to e.g. project pull requests.
-Either way, let us know what you think of the change in the [Telegram group][ribtg].
+Have a look at the difference this month,
+and let us know what you think of the change in the [Telegram group][ribtg].
 
 &nbsp;
 

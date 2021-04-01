@@ -71,7 +71,7 @@ by submitting a PR to the [#23 draft](https://github.com/rust-in-blockchain/Rust
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
-[noir].
+[Noir].
 
 Noir is a language and compiler for building zero-knowledge proofs.
 It is designed to work with multiple proof-generating backends,
@@ -84,7 +84,7 @@ As a generalized language with intent to support multiple proof systems,
 this seems like a promising project to learn about zero knowledge proofs,
 independent of specific blockchains.
 
-[noir]: https://github.com/noir-lang/noir
+[Noir]: https://github.com/noir-lang/noir
 [noirdocs]: https://noir-lang.github.io/book/index.html
 [barretenberg]: https://github.com/AztecProtocol/barretenberg
 [aztec]: https://github.com/AztecProtocol

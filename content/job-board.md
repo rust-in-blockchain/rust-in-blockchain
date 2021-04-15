@@ -105,7 +105,7 @@ Soramitsu | Remote
 - [Senior Rust Developer](https://soramitsu.freshteam.com/jobs/ifK-X2sHqXp6/rust-developer-senior-remote)
 
 Subspace Labs | Remote
-- [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624?lever-origin=applied&lever-source%5B%5D=Rust%20in%20Blockchain)
+- [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
 
 The Graph | Remote
 - [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer)

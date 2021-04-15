@@ -18,6 +18,7 @@ the chillest newsletter about the chillest tech.
 
 Thanks to contributors:
 [J Wagstaff][contributorjw],
+[Tony Arcieri][contributorta],
 
 _TODO_
 
@@ -30,6 +31,7 @@ please contribute to the next issue
 by submitting a PR to the [#24 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributorjw]: https://github.com/rg3l3dr
+[contributorta]: https://github.com/tarcieri
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 

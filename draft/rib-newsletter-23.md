@@ -17,6 +17,7 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[J Wagstaff][contributorjw],
 
 _TODO_
 
@@ -28,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#24 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[contributorjw]: https://github.com/rg3l3dr
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 
@@ -147,7 +149,8 @@ Company name | Location A, B, Remote
 - [Job 2](https://job.two)
 -->
 
-
+Subspace Labs | Remote
+- [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624?lever-origin=applied&lever-source%5B%5D=Rust%20in%20Blockchain)
 
 More jobs can be found at [Job Board][page-jobboard].
 

@@ -54,6 +54,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [cosmos-sdk-rs: an implementation of the Cosmos SDK in Rust](https://forum.cosmos.network/t/ann-cosmos-sdk-for-rust-v0-1-initial-release/4647)
 
 &nbsp;
 

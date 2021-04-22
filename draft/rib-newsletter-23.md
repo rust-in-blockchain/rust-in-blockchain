@@ -42,6 +42,12 @@ by submitting a PR to the [#24 draft](https://github.com/rust-in-blockchain/Rust
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[TezEdge](https://github.com/tezedge).
+
+TezEdge, a Rust node project on Tezos, is seeking community feedback on their project.
+
+Current Rust developer tools include: TezEdge Node Explorer, which increases the inner visibility of the node. This is achieved through a real-time visualization of all the data flowing through the node's various components, including the network, storage and RPC layers, as well as logs. More details regarding the project [here](https://medium.com/tezedge/the-tezedge-node-a-preview-of-whats-coming-up-ad353bc537c5).
+
 &nbsp;
 
 

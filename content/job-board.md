@@ -10,6 +10,8 @@ pager: false
 
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
+ElevenYellow | Remote
+- [Rust Engineer] (https://cryptocurrencyjobs.co/engineering/elevenyellow-rust-developer/)
 
 Aleo | San Francisco, US; Remote
 - [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)

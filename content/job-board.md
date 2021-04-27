@@ -10,8 +10,6 @@ pager: false
 
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
-ElevenYellow | Remote
-- [Rust Engineer] (https://cryptocurrencyjobs.co/engineering/elevenyellow-rust-developer/)
 
 Aleo | San Francisco, US; Remote
 - [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)
@@ -46,6 +44,9 @@ DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
 - [Software Engineer, Distributed Systems](https://grnh.se/1f702d2e2us)
 - [Software Engineer, Front-End](https://grnh.se/b8daa0ed2us)
 - [Software Engineer, SDK](https://grnh.se/92e1344b2us)
+
+ElevenYellow | Remote
+- [Rust Engineer] (https://cryptocurrencyjobs.co/engineering/elevenyellow-rust-developer/)
 
 Equilibrium | Remote
 - [Senior Software Engineer Rust/Go](https://www.notion.so/Hiring-Senior-Software-Engineer-Rust-Go-e6c94ccc261f426c80a483c7fc642412)

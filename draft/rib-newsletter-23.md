@@ -71,6 +71,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 <!-- NB: This list needs to be kept in sync with rib-bible.md / rib-config.toml -->
 
 #### [Aleo](https://github.com/AleoHQ)
+  54 merged PRs ([1][aleo-merged-prs-1], [2][aleo-merged-prs-2]), 24 closed issues ([1][aleo-closed_issues-1]), 
+  23 open issues ([1][aleo-open_issues-1])
 
 #### [CodeChain](https://github.com/CodeChain-io)
 

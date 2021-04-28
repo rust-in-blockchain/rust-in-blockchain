@@ -51,7 +51,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 
 #### Blog Posts
-
+- Aleo Fundraise
 
 #### Papers
 

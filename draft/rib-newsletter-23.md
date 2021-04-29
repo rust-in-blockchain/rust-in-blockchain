@@ -49,9 +49,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [a16z Leads $28M Funding Round for Data Privacy Platform Aleo](https://www.coindesk.com/a16z-leads-funding-round-aleo-data-privacy-platform)
 
 #### Blog Posts
 
+- [Discover Aleo](https://www.aleo.org/post/discover-aleo)
 
 #### Papers
 
@@ -151,6 +153,12 @@ Company name | Location A, B, Remote
 - [Job 1](https://job.one)
 - [Job 2](https://job.two)
 -->
+
+Aleo | San Francisco, Remote
+- [Senior Protocol Engineer](https://www.aleo.org/jobs/senior-protocol-engineer)
+- [Senior Compiler Engineer](https://www.aleo.org/jobs/senior-compiler-engineer)
+- [Full Stack Developer](https://www.aleo.org/jobs/full-stack-developer)
+- [Interface Designer](https://www.aleo.org/jobs/interface-designer)
 
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)

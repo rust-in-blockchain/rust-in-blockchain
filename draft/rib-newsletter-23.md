@@ -49,11 +49,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
-- [a16z Leads $28M Funding Round for Data Privacy Platform Aleo](https://www.coindesk.com/a16z-leads-funding-round-aleo-data-privacy-platform)
 
 #### Blog Posts
 
-- [Discover Aleo](https://www.aleo.org/post/discover-aleo)
 
 #### Papers
 
@@ -73,6 +71,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 <!-- NB: This list needs to be kept in sync with rib-bible.md / rib-config.toml -->
 
 #### [Aleo](https://github.com/AleoHQ)
+
+- News: [a16z Leads $28M Funding Round for Data Privacy Platform Aleo](https://www.coindesk.com/a16z-leads-funding-round-aleo-data-privacy-platform)
+- Blog: [Discover Aleo](https://www.aleo.org/post/discover-aleo)
 
 #### [CodeChain](https://github.com/CodeChain-io)
 

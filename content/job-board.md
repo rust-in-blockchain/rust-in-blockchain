@@ -45,6 +45,9 @@ DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
 - [Software Engineer, Front-End](https://grnh.se/b8daa0ed2us)
 - [Software Engineer, SDK](https://grnh.se/92e1344b2us)
 
+ElevenYellow | Remote
+- [Rust Engineer](https://cryptocurrencyjobs.co/engineering/elevenyellow-rust-developer/)
+
 Equilibrium | Remote
 - [Senior Software Engineer Rust/Go](https://www.notion.so/Hiring-Senior-Software-Engineer-Rust-Go-e6c94ccc261f426c80a483c7fc642412)
 
@@ -52,6 +55,12 @@ Findora | Beijing, China; Menlo Park, CA
 - [Cryptography Engineer](https://jobs.lever.co/findora/082d76ed-3371-4374-b5f5-25be99df2bdb)
 - [Director of Engineering](https://jobs.lever.co/findora/d1981ece-fb53-4b41-96d9-346b1974a7d8)
 - [Senior Systems Engineer](https://jobs.lever.co/findora/e89e2e02-622c-41da-a14d-c12d854a25b5)
+
+Fuel Labs | Remote
+- [Senior Software Engineer [Rust]](https://jobs.lever.co/fuellabs/13b01903-490a-4497-b778-35434f4188cf)
+
+Jet Protocol | Remote
+- [Rust Blockchain Engineer](https://docs.google.com/document/d/1GXuk2LPxoYxIdQGwsL9IZ34B7WjlgkdJBgY7QBgBIn0)
 
 Kraken | Remote
 - [Backend Engineer - Crypto Payments](https://jobs.lever.co/kraken/39031c44-2060-467d-8991-79f23deacbb8)

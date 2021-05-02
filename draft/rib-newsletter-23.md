@@ -17,8 +17,12 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[Anthony DiPrinzio][contributorad],
 [J Wagstaff][contributorjw],
+[John Adler][contributorja],
+[olesiah][contributorol],
 [Tony Arcieri][contributorta],
+[Wil Barnes][contributorwb],
 
 _TODO_
 
@@ -30,8 +34,12 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#24 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[contributorad]: https://github.com/adiprinzio
 [contributorjw]: https://github.com/rg3l3dr
+[contributorja]: https://github.com/adlerjohn
+[contributorol]: https://github.com/olesiah
 [contributorta]: https://github.com/tarcieri
+[contributorwb]: https://github.com/wilbarnes
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 
@@ -162,8 +170,14 @@ Aleo | San Francisco, Remote
 - [Full Stack Developer](https://www.aleo.org/jobs/full-stack-developer)
 - [Interface Designer](https://www.aleo.org/jobs/interface-designer)
 
+ElevenYellow | Remote
+- [Rust Engineer](https://cryptocurrencyjobs.co/engineering/elevenyellow-rust-developer/)
+
 Fuel Labs | Remote
 - [Senior Software Engineer [Rust]](https://jobs.lever.co/fuellabs/13b01903-490a-4497-b778-35434f4188cf)
+
+Jet Protocol | Remote
+- [Rust Blockchain Engineer](https://docs.google.com/document/d/1GXuk2LPxoYxIdQGwsL9IZ34B7WjlgkdJBgY7QBgBIn0)
 
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)

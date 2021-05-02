@@ -152,6 +152,9 @@ Company name | Location A, B, Remote
 - [Job 2](https://job.two)
 -->
 
+Fuel Labs | Remote
+- [Senior Software Engineer [Rust]](https://jobs.lever.co/fuellabs/13b01903-490a-4497-b778-35434f4188cf)
+
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
 

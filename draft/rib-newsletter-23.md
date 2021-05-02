@@ -72,6 +72,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+- News: [a16z Leads $28M Funding Round for Data Privacy Platform Aleo](https://www.coindesk.com/a16z-leads-funding-round-aleo-data-privacy-platform)
+- Blog: [Discover Aleo](https://www.aleo.org/post/discover-aleo)
+
 #### [CodeChain](https://github.com/CodeChain-io)
 
 #### [COMIT](https://github.com/comit-network)
@@ -151,6 +154,13 @@ Company name | Location A, B, Remote
 - [Job 1](https://job.one)
 - [Job 2](https://job.two)
 -->
+
+
+Aleo | San Francisco, Remote
+- [Senior Protocol Engineer](https://www.aleo.org/jobs/senior-protocol-engineer)
+- [Senior Compiler Engineer](https://www.aleo.org/jobs/senior-compiler-engineer)
+- [Full Stack Developer](https://www.aleo.org/jobs/full-stack-developer)
+- [Interface Designer](https://www.aleo.org/jobs/interface-designer)
 
 Fuel Labs | Remote
 - [Senior Software Engineer [Rust]](https://jobs.lever.co/fuellabs/13b01903-490a-4497-b778-35434f4188cf)

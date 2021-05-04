@@ -72,6 +72,21 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Most Active in April
 
+[Parity](https://github.com/paritytech):
+273 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6]),
+101 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+70 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5], [6][parity-open_issues-6])
+
+[Solana](https://github.com/solana-labs/solana):
+300 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
+35 closed issues ([1][solana-closed_issues-1],[2][solana-closed_issues-2]), 
+50 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[Diem](https://github.com/diem):
+144 merged PRs ([1][diem-merged-prs-1]),
+21 closed issues ([1][diem-closed_issues-1]), 
+14 open issues ([1][diem-open_issues-1])
+
 &nbsp;
 
 ## Project Updates
@@ -107,8 +122,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Concordium](https://github.com/Concordium)
 
-58 merged PRs ([1][concordium-merged-prs-1], [2][concordium-merged-prs-2], [3][concordium-merged-prs-3],
-[4][concordium-merged-prs-4]), 2 closed issues ([1][concordium-closed_issues-1], [2][concordium-closed_issues-2]), 
+58 merged PRs ([1][concordium-merged-prs-1], [2][concordium-merged-prs-2], [3][concordium-merged-prs-3], [4][concordium-merged-prs-4]),
+2 closed issues ([1][concordium-closed_issues-1], [2][concordium-closed_issues-2]), 
 7 open issues ([1][concordium-open_issues-1], [2][concordium-open_issues-2], [3][concordium-open_issues-3])
 
 [concordium-merged-prs-1]: https://github.com/Concordium/concordium-node/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-04-01..2021-04-30
@@ -325,8 +340,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Solana](https://github.com/solana-labs/solana)
 
-300 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]), 35 closed issues ([1][solana-closed_issues-1],
-[2][solana-closed_issues-2]), 
+300 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
+35 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
 50 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
 
 [solana-merged-prs-1]: https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-04-01..2021-04-30
@@ -386,6 +401,10 @@ May 1-2 | Online
 
 -->
 
+May 15 - June 7 | Online
+
+[Solana Season Hackathon](https://solana.com/solanaszn)
+
 May 20 | Online
 
 [Polkadot Decoded](https://decoded.polkadot.network/).
@@ -432,5 +451,4 @@ Want to be included in the next issue? Feel free to submit a PR to the
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 
 [ribtg]: https://t.me/rustinblockchain
-
 

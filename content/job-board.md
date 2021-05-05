@@ -37,6 +37,9 @@ Compound | Remote
 Diem | Remote
 - [Developer Advocate](https://www.diem.com/en-us/job-board/?gh_jid=4465800002)
 
+cLabs (Celo) | San Francisco, Berlin, or Remote
+- [Senior Rust Smart Contract Engineer](https://jobs.lever.co/clabs/46bf6e13-ef54-4a5c-9287-2c0557ad9db4)
+
 Dock | Remote
 - [Rust & DevOps](https://www.cryptojobsdaily.com/job/dock-blockchain-developer-rust-devops/)
 

@@ -100,7 +100,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
-- [Coindesk: How Zero Knowledge Proofs Provide Privacy on the Blockchain](https://www.coindesk.com/video/how-zero-knowledge-proofs-provide-privacy-on-the-blockchain)
+- [How Zero Knowledge Proofs Provide Privacy on the Blockchain](https://www.coindesk.com/video/how-zero-knowledge-proofs-provide-privacy-on-the-blockchain)
+- [Signal Adds a Payments Feature — With a Privacy-Focused Cryptocurrency](https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/)
 
 #### Blog Posts
 
@@ -113,12 +114,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [A Tractable Probabilistic Approach to Analyze Sybil Attacks in Sharding-Based Blockchain Protocols](https://arxiv.org/abs/2104.07215)
+- [Capability-based access control for multi-tenant systems using OAuth 2.0 and Verifiable Credentials](https://arxiv.org/abs/2104.11515)
 - [Ethereum Name Service: the Good, the Bad, and the Ugly](https://cs.paperswithcode.com/paper/ethereum-name-service-the-good-the-bad-and)
 - [ethSTARK Documentation](https://eprint.iacr.org/2021/582)
 - [Forward-secure Multi-user Aggregate Signatures with Constant Complexities using Recursive zk-SNARKs](https://eprint.iacr.org/2021/567.pdf)
 - [Post-Quantum Cryptography: Current state and quantum mitigation](https://www.enisa.europa.eu/publications/post-quantum-cryptography-current-state-and-quantum-mitigation)
 - [RandChain: Practical Scalable Decentralized Randomness Attested by Blockchain](https://eprint.iacr.org/2021/450)
 - [SnarkPack: Practical SNARK Aggregation](https://eprint.iacr.org/2021/529.pdf)
+- [SCEW: Programmable BFT-Consensus with Smart Contracts for Client-Centric P2P Web Applications](https://dl.acm.org/doi/abs/10.1145/3447865.3457965)
 
 #### Projects
 
@@ -290,6 +294,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [interledger-closed_issues-1]: https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
 [interledger-open_issues-1]: https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 
+#### [IOTA](https://github.com/iotaledger)
+
+47 merged PRs ([1][iota-merged-prs-1]),
+22 closed issues ([1][iota-closed_issues-1]), 
+4 open issues ([1][iota-open_issues-1])
+
+[iota-merged-prs-1]: https://github.com/iotaledger/iota.rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-04-01..2021-04-30
+[iota-closed_issues-1]: https://github.com/iotaledger/iota.rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
+[iota-open_issues-1]: https://github.com/iotaledger/iota.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
+
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
 3 merged PRs ([1][lighthouse-merged-prs-1]),
@@ -430,6 +444,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [TezEdge](https://github.com/tezedge)
 
+12 merged PRs ([1][tezedge-merged-prs-1]),
+0 closed issues, 
+0 open issues
+
+[tezedge-merged-prs-1]: https://github.com/tezedge/tezedge/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-04-01..2021-04-30
+
 - Blog: [The TezEdge node: a preview of what's coming up](https://medium.com/tezedge/the-tezedge-node-a-preview-of-whats-coming-up-ad353bc537c5)
 
 #### [Zcash](https://github.com/zcash)
@@ -480,7 +500,7 @@ May 15 - June 7 | Online
 
 May 20 | Online
 
-[Polkadot Decoded](https://decoded.polkadot.network/).
+[Polkadot Decoded](https://decoded.polkadot.network/)
 
 May 24-27 | Online
 

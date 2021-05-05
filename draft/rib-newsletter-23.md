@@ -17,7 +17,7 @@ After hearing again [about TezEdge][teb],
 an implementation of Tezos in Rust,
 we are struck anew by the number of blockchains
 that either have alternative implementations in Rust,
-or that have rewritting their official implementations in Rust.
+or that have rewritten their official implementations in Rust.
 
 [teb]: https://medium.com/tezedge/the-tezedge-node-a-preview-of-whats-coming-up-ad353bc537c5
 
@@ -50,8 +50,24 @@ Let us count them:
   By the Zcash Foundation.
 
 So IOTA, Golem, and Zcash are rewriting in Rust,
-or have finishing rewriting in Rust.
+or have finished rewriting in Rust.
 Bitcoin, Ethereum, and Tezos have alternative implementations in Rust.
+This must indicate something about Rust.
+Have other blockchains rewritten in Rust,
+or rewritten in languages that are not Rust?
+
+We read through some project news updates this month,
+and there's a lot about NFTs.
+Not technical descriptions of NFTs,
+just marketing junk.
+Everybody get on the bandwagon.
+Last year it was defi,
+this year NFTs.
+
+Yawn.
+
+We've been doing this newsletter for almost two years.
+It's challenging to find new inspiration each month.
 
 &nbsp;
 

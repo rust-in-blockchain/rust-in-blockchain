@@ -408,6 +408,9 @@ Aleo | San Francisco, Remote
 - [Full Stack Developer](https://www.aleo.org/jobs/full-stack-developer)
 - [Interface Designer](https://www.aleo.org/jobs/interface-designer)
 
+cLabs (Celo) | San Francisco, Berlin, or Remote
+- [Senior Rust Smart Contract Engineer](https://jobs.lever.co/clabs/46bf6e13-ef54-4a5c-9287-2c0557ad9db4)
+
 ElevenYellow | Remote
 - [Rust Engineer](https://cryptocurrencyjobs.co/engineering/elevenyellow-rust-developer/)
 

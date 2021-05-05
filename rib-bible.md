@@ -188,7 +188,7 @@ GitHub:
 repos = [
 "fluencelabs/fluence",
 "fluencelabs/fce",
-"fluencelabs/aquamarine",
+"fluencelabs/air",
 "fluencelabs/rust-sdk",
 ]
 ```

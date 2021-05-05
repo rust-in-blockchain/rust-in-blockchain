@@ -58,15 +58,22 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### News
 
 
-#### Blog Posts
+#### Posts
 
+- [Advice to a new programmer trying to get into rust blockchain programming](https://twitter.com/NewbieBrian/status/1386787136997888002)
 
 #### Papers
 
+- [Post-Quantum Cryptography: Current state and quantum mitigation](https://www.enisa.europa.eu/publications/post-quantum-cryptography-current-state-and-quantum-mitigation)
 
 #### Projects
 
-- [cosmos-sdk-rs: an implementation of the Cosmos SDK in Rust](https://forum.cosmos.network/t/ann-cosmos-sdk-for-rust-v0-1-initial-release/4647)
+- [Bit.Country](https://github.com/bit-country/Bit-Country-Blockchain).
+  A blockchain network based on Substrate.
+- [cosmos-sdk-rs](https://forum.cosmos.network/t/ann-cosmos-sdk-for-rust-v0-1-initial-release/4647).
+  An implementation of the Cosmos SDK in Rust
+- [Chamomile](https://github.com/cypherlink/chamomile).
+  A p2p library.
 
 &nbsp;
 

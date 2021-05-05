@@ -12,6 +12,47 @@ Welcome to the #23 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #22](/newsletters/_TODO_/).
 
+This month we're rewriting things in Rust.
+After hearing again [about TezEdge][teb],
+an implementation of Tezos in Rust,
+we are struck anew by the number of blockchains
+that either have alternative implementations in Rust,
+or that have rewritting their official implementations in Rust.
+
+[teb]: https://medium.com/tezedge/the-tezedge-node-a-preview-of-whats-coming-up-ad353bc537c5
+
+Let us count them:
+
+- [Iota.rs](https://github.com/iotaledger/iota.rs).
+  IOTA in Rust.
+  Official client beta.
+- [OpenEthereum](https://github.com/openethereum/openethereum).
+  Ethereum in Rust.
+  While Geth is often considered the "official" client,
+  Ethereum purposefully has multiple implementations.
+  Originally developed by Parity.
+- [parity-bitcoin](https://github.com/paritytech/parity-bitcoin).
+  Bitcoin in Rust.
+  Includes support for Bitcoin Cash.
+- [rust-bitcoin](https://github.com/rust-bitcoin).
+  Bitcoin libraries in Rust.
+  Not a full node.
+- [rust-ethereum](https://github.com/rust-ethereum).
+  Ethereum libraries in Rust.
+  Includes a client, but it's not clear if it is a full node.
+- [TezEdge](https://github.com/tezedge/tezedge).
+  Tezos in Rust.
+- [Yagna](https://github.com/golemfactory/yagna).
+  Golem in Rust.
+  Official client.
+- [Zebra](https://github.com/ZcashFoundation/zebra).
+  Zcash in Rust.
+  By the Zcash Foundation.
+
+So IOTA, Golem, and Zcash are rewriting in Rust,
+or have finishing rewriting in Rust.
+Bitcoin, Ethereum, and Tezos have alternative implementations in Rust.
+
 &nbsp;
 
 ## Thanks
@@ -87,6 +128,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   An implementation of the Cosmos SDK in Rust
 - [Chamomile](https://github.com/cypherlink/chamomile).
   A p2p library.
+- [TDN](https://github.com/cypherlink/TDN).
+  A p2p application framework.
 - [Winterfell](https://github.com/novifinancial/winterfell)
   An experimental project for building a distributed STARK prover.
 
@@ -384,6 +427,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [spacemesh-closed_issues-1]: https://github.com/spacemeshos/go-spacemesh/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
 [spacemesh-open_issues-1]: https://github.com/spacemeshos/go-spacemesh/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 [spacemesh-open_issues-2]: https://github.com/spacemeshos/svm/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
+
+#### [TezEdge](https://github.com/tezedge)
+
+- Blog: [The TezEdge node: a preview of what's coming up](https://medium.com/tezedge/the-tezedge-node-a-preview-of-whats-coming-up-ad353bc537c5)
 
 #### [Zcash](https://github.com/zcash)
 

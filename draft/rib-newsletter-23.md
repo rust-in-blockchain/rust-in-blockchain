@@ -247,6 +247,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [interledger-closed_issues-1]: https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
 [interledger-open_issues-1]: https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 
+#### [IOTA](https://github.com/iotaledger)
+
+47 merged PRs ([1][iota-merged-prs-1]),
+22 closed issues ([1][iota-closed_issues-1]), 
+4 open issues ([1][iota-open_issues-1])
+
+[iota-merged-prs-1]: https://github.com/iotaledger/iota.rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-04-01..2021-04-30
+[iota-closed_issues-1]: https://github.com/iotaledger/iota.rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
+[iota-open_issues-1]: https://github.com/iotaledger/iota.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
+
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
 3 merged PRs ([1][lighthouse-merged-prs-1]),
@@ -384,6 +394,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [spacemesh-closed_issues-1]: https://github.com/spacemeshos/go-spacemesh/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
 [spacemesh-open_issues-1]: https://github.com/spacemeshos/go-spacemesh/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 [spacemesh-open_issues-2]: https://github.com/spacemeshos/svm/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
+
+#### [TezEdge](https://github.com/tezedge)
+
+12 merged PRs ([1][tezedge-merged-prs-1]),
+0 closed issues, 
+0 open issues
+
+[tezedge-merged-prs-1]: https://github.com/tezedge/tezedge/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-04-01..2021-04-30
 
 #### [Zcash](https://github.com/zcash)
 

@@ -493,6 +493,18 @@ repos = [
 ]
 ```
 
+## TezEdge
+
+GitHub:
+
+- https://github.com/tezedge
+
+``` toml
+repos = [
+"tezedge/tezedge",
+]
+```
+
 ## Zcash
 
 Media:

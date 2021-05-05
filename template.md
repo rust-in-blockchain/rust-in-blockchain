@@ -89,9 +89,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Holochain](https://github.com/holochain/)
 
-#### [Diem](https://www.diem.com)
-
 #### [Interledger](https://github.com/interledger-rs)
+
+#### [IOTA](https://github.com/iotaledger)
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
@@ -114,6 +114,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Solana](https://github.com/solana-labs/solana)
 
 #### [Spacemesh](https://github.com/spacemeshos)
+
+#### [TezEdge](https://github.com/tezedge)
 
 #### [Zcash](https://github.com/zcash)
 

@@ -451,7 +451,7 @@ May 15 - June 7 | Online
 
 May 20 | Online
 
-[Polkadot Decoded](https://decoded.polkadot.network/).
+[Polkadot Decoded](https://decoded.polkadot.network/)
 
 May 24-27 | Online
 

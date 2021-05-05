@@ -271,6 +271,18 @@ repos = [
 ]
 ```
 
+## Iota
+
+GitHub:
+
+- https://github.com/iotaledger
+
+``` toml
+repos = [
+"iotaledger/iota.rs",
+]
+```
+
 ## Lighthouse
 
 Media:

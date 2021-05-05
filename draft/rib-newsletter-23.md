@@ -18,14 +18,14 @@ the chillest newsletter about the chillest tech.
 
 Thanks to contributors:
 [Anthony DiPrinzio][contributorad],
+[A Pruden][contributorap],
 [J Wagstaff][contributorjw],
+[James Prestwich][contributorjp],
 [John Adler][contributorja],
 [olesiah][contributorol],
 [Tony Arcieri][contributorta],
 [Wil Barnes][contributorwb],
-
-_TODO_
-
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -35,7 +35,9 @@ please contribute to the next issue
 by submitting a PR to the [#24 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributorad]: https://github.com/adiprinzio
+[contributorap]: https://github.com/apruden2008
 [contributorjw]: https://github.com/rg3l3dr
+[contributorjp]: https://github.com/prestwich
 [contributorja]: https://github.com/adlerjohn
 [contributorol]: https://github.com/olesiah
 [contributorta]: https://github.com/tarcieri
@@ -57,6 +59,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [Coindesk: How Zero Knowledge Proofs Provide Privacy on the Blockchain](https://www.coindesk.com/video/how-zero-knowledge-proofs-provide-privacy-on-the-blockchain)
+
+#### Blog Posts
+
+- [Decrypting Cryptography: Hash Functions](https://medium.com/zeroknowledge/decrypting-cryptography-hash-functions-5291d9139b9e)
 - [Signal Adds a Payments Feature—With a Privacy-Focused Cryptocurrency](https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/)
 
 #### Posts
@@ -65,8 +72,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [Ethereum Name Service: the Good, the Bad, and the Ugly](https://cs.paperswithcode.com/paper/ethereum-name-service-the-good-the-bad-and)
 - [ethSTARK Documentation](https://eprint.iacr.org/2021/582)
+- [Forward-secure Multi-user Aggregate Signatures with Constant Complexities using Recursive zk-SNARKs](https://eprint.iacr.org/2021/567.pdf)
 - [Post-Quantum Cryptography: Current state and quantum mitigation](https://www.enisa.europa.eu/publications/post-quantum-cryptography-current-state-and-quantum-mitigation)
+- [RandChain: Practical Scalable Decentralized Randomness Attested by Blockchain](https://eprint.iacr.org/2021/450)
+- [SnarkPack: Practical SNARK Aggregation](https://eprint.iacr.org/2021/529.pdf)
 
 #### Projects
 

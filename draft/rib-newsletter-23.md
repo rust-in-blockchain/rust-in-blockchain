@@ -18,6 +18,7 @@ the chillest newsletter about the chillest tech.
 
 Thanks to contributors:
 [Anthony DiPrinzio][contributorad],
+[A Pruden][contributorap],
 [J Wagstaff][contributorjw],
 [James Prestwich][contributorjp],
 [John Adler][contributorja],
@@ -34,6 +35,7 @@ please contribute to the next issue
 by submitting a PR to the [#24 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributorad]: https://github.com/adiprinzio
+[contributorap]: https://github.com/apruden2008
 [contributorjw]: https://github.com/rg3l3dr
 [contributorjp]: https://github.com/prestwich
 [contributorja]: https://github.com/adlerjohn
@@ -57,6 +59,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [Coindesk: How Zero Knowledge Proofs Provide Privacy on the Blockchain](https://www.coindesk.com/video/how-zero-knowledge-proofs-provide-privacy-on-the-blockchain)
+
+#### Blog Posts
+- [Decrypting Cryptography: Hash Functions](https://medium.com/zeroknowledge/decrypting-cryptography-hash-functions-5291d9139b9e)
 - [Signal Adds a Payments Feature—With a Privacy-Focused Cryptocurrency](https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/)
 
 #### Posts
@@ -448,6 +454,9 @@ Aleo | San Francisco, Remote
 - [Senior Compiler Engineer](https://www.aleo.org/jobs/senior-compiler-engineer)
 - [Full Stack Developer](https://www.aleo.org/jobs/full-stack-developer)
 - [Interface Designer](https://www.aleo.org/jobs/interface-designer)
+
+cLabs (Celo) | San Francisco, Berlin, or Remote
+- [Senior Rust Smart Contract Engineer](https://jobs.lever.co/clabs/46bf6e13-ef54-4a5c-9287-2c0557ad9db4)
 
 ElevenYellow | Remote
 - [Rust Engineer](https://cryptocurrencyjobs.co/engineering/elevenyellow-rust-developer/)

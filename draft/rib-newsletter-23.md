@@ -57,6 +57,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [Signal Adds a Payments Feature—With a Privacy-Focused Cryptocurrency](https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/)
 
 #### Posts
 
@@ -64,6 +65,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [ethSTARK Documentation](https://eprint.iacr.org/2021/582)
 - [Post-Quantum Cryptography: Current state and quantum mitigation](https://www.enisa.europa.eu/publications/post-quantum-cryptography-current-state-and-quantum-mitigation)
 
 #### Projects
@@ -74,6 +76,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   An implementation of the Cosmos SDK in Rust
 - [Chamomile](https://github.com/cypherlink/chamomile).
   A p2p library.
+- [Winterfell](https://github.com/novifinancial/winterfell)
+  An experimental project for building a distributed STARK prover.
 
 &nbsp;
 
@@ -408,6 +412,10 @@ May 1-2 | Online
 
 -->
 
+May 10-13 | Online
+
+[International Conference on Practice and Theory of Public-Key Cryptography](https://pkc.iacr.org/2021/)
+
 May 15 - June 7 | Online
 
 [Solana Season Hackathon](https://solana.com/solanaszn)
@@ -416,6 +424,9 @@ May 20 | Online
 
 [Polkadot Decoded](https://decoded.polkadot.network/).
 
+May 24-27 | Online
+
+[42nd IEEE Symposium on Security and Privacy](https://www.ieee-security.org/TC/SP2021/index.html)
 
 &nbsp;
 

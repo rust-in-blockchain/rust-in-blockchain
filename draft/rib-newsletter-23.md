@@ -58,21 +58,51 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 ## Interesting Things
 
 #### News
+
 - [Coindesk: How Zero Knowledge Proofs Provide Privacy on the Blockchain](https://www.coindesk.com/video/how-zero-knowledge-proofs-provide-privacy-on-the-blockchain)
 
 #### Blog Posts
 - [Decrypting Cryptography: Hash Functions](https://medium.com/zeroknowledge/decrypting-cryptography-hash-functions-5291d9139b9e)
+- [Signal Adds a Payments Feature—With a Privacy-Focused Cryptocurrency](https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/)
+
+#### Posts
+
+- [Advice to a new programmer trying to get into rust blockchain programming](https://twitter.com/NewbieBrian/status/1386787136997888002)
 
 #### Papers
 
+- [ethSTARK Documentation](https://eprint.iacr.org/2021/582)
+- [Post-Quantum Cryptography: Current state and quantum mitigation](https://www.enisa.europa.eu/publications/post-quantum-cryptography-current-state-and-quantum-mitigation)
 
 #### Projects
 
-- [cosmos-sdk-rs: an implementation of the Cosmos SDK in Rust](https://forum.cosmos.network/t/ann-cosmos-sdk-for-rust-v0-1-initial-release/4647)
+- [Bit.Country](https://github.com/bit-country/Bit-Country-Blockchain).
+  A blockchain network based on Substrate.
+- [cosmos-sdk-rs](https://forum.cosmos.network/t/ann-cosmos-sdk-for-rust-v0-1-initial-release/4647).
+  An implementation of the Cosmos SDK in Rust
+- [Chamomile](https://github.com/cypherlink/chamomile).
+  A p2p library.
+- [Winterfell](https://github.com/novifinancial/winterfell)
+  An experimental project for building a distributed STARK prover.
 
 &nbsp;
 
 ## Most Active in April
+
+[Parity](https://github.com/paritytech):
+273 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6]),
+101 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+70 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5], [6][parity-open_issues-6])
+
+[Solana](https://github.com/solana-labs/solana):
+300 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
+35 closed issues ([1][solana-closed_issues-1],[2][solana-closed_issues-2]), 
+50 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[Diem](https://github.com/diem):
+144 merged PRs ([1][diem-merged-prs-1]),
+21 closed issues ([1][diem-closed_issues-1]), 
+14 open issues ([1][diem-open_issues-1])
 
 &nbsp;
 
@@ -109,8 +139,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Concordium](https://github.com/Concordium)
 
-58 merged PRs ([1][concordium-merged-prs-1], [2][concordium-merged-prs-2], [3][concordium-merged-prs-3],
-[4][concordium-merged-prs-4]), 2 closed issues ([1][concordium-closed_issues-1], [2][concordium-closed_issues-2]), 
+58 merged PRs ([1][concordium-merged-prs-1], [2][concordium-merged-prs-2], [3][concordium-merged-prs-3], [4][concordium-merged-prs-4]),
+2 closed issues ([1][concordium-closed_issues-1], [2][concordium-closed_issues-2]), 
 7 open issues ([1][concordium-open_issues-1], [2][concordium-open_issues-2], [3][concordium-open_issues-3])
 
 [concordium-merged-prs-1]: https://github.com/Concordium/concordium-node/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-04-01..2021-04-30
@@ -327,8 +357,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Solana](https://github.com/solana-labs/solana)
 
-300 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]), 35 closed issues ([1][solana-closed_issues-1],
-[2][solana-closed_issues-2]), 
+300 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
+35 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
 50 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
 
 [solana-merged-prs-1]: https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-04-01..2021-04-30
@@ -388,10 +418,21 @@ May 1-2 | Online
 
 -->
 
+May 10-13 | Online
+
+[International Conference on Practice and Theory of Public-Key Cryptography](https://pkc.iacr.org/2021/)
+
+May 15 - June 7 | Online
+
+[Solana Season Hackathon](https://solana.com/solanaszn)
+
 May 20 | Online
 
 [Polkadot Decoded](https://decoded.polkadot.network/).
 
+May 24-27 | Online
+
+[42nd IEEE Symposium on Security and Privacy](https://www.ieee-security.org/TC/SP2021/index.html)
 
 &nbsp;
 
@@ -409,6 +450,9 @@ Aleo | San Francisco, Remote
 - [Senior Compiler Engineer](https://www.aleo.org/jobs/senior-compiler-engineer)
 - [Full Stack Developer](https://www.aleo.org/jobs/full-stack-developer)
 - [Interface Designer](https://www.aleo.org/jobs/interface-designer)
+
+cLabs (Celo) | San Francisco, Berlin, or Remote
+- [Senior Rust Smart Contract Engineer](https://jobs.lever.co/clabs/46bf6e13-ef54-4a5c-9287-2c0557ad9db4)
 
 ElevenYellow | Remote
 - [Rust Engineer](https://cryptocurrencyjobs.co/engineering/elevenyellow-rust-developer/)
@@ -434,5 +478,4 @@ Want to be included in the next issue? Feel free to submit a PR to the
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 
 [ribtg]: https://t.me/rustinblockchain
-
 

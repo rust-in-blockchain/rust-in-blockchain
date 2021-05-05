@@ -24,10 +24,10 @@ via our website, email and RSS subscriptions, as well as RiB's social media.
 
 ## RiB Traffic Numbers
 
-The average monthly numbers as of December 2020 are:
-- **49,220** impressions  
-- **5,000** unique visitors
-- **654** email subscribers
+The average monthly numbers as of April 2021 are:
+- **89,800** impressions  
+- **10,500** unique visitors
+- **756** email subscribers
 
 ## Packages
 

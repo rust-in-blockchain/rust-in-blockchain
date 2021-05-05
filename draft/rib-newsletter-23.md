@@ -72,12 +72,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [A Tractable Probabilistic Approach to Analyze Sybil Attacks in Sharding-Based Blockchain Protocols](https://arxiv.org/abs/2104.07215)
+- [Capability-based access control for multi-tenant systems using OAuth 2.0 and Verifiable Credentials](https://arxiv.org/abs/2104.11515)
 - [Ethereum Name Service: the Good, the Bad, and the Ugly](https://cs.paperswithcode.com/paper/ethereum-name-service-the-good-the-bad-and)
 - [ethSTARK Documentation](https://eprint.iacr.org/2021/582)
 - [Forward-secure Multi-user Aggregate Signatures with Constant Complexities using Recursive zk-SNARKs](https://eprint.iacr.org/2021/567.pdf)
 - [Post-Quantum Cryptography: Current state and quantum mitigation](https://www.enisa.europa.eu/publications/post-quantum-cryptography-current-state-and-quantum-mitigation)
 - [RandChain: Practical Scalable Decentralized Randomness Attested by Blockchain](https://eprint.iacr.org/2021/450)
 - [SnarkPack: Practical SNARK Aggregation](https://eprint.iacr.org/2021/529.pdf)
+- [SCEW: Programmable BFT-Consensus with Smart Contracts for Client-Centric P2P Web Applications](https://dl.acm.org/doi/abs/10.1145/3447865.3457965)
 
 #### Projects
 

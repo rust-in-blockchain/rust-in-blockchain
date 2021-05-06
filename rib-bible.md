@@ -83,6 +83,12 @@ repos = [
 
 ## Concordium
 
+Media:
+
+- https://twitter.com/concordiumnet
+- https://medium.com/concordium
+- https://www.reddit.com/r/Concordium_Official/
+
 GitHub:
 
 - https://github.com/Concordium

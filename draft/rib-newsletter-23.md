@@ -17,7 +17,7 @@ After hearing again [about TezEdge][teb],
 an implementation of Tezos in Rust,
 we are struck anew by the number of blockchains
 that either have alternative implementations in Rust,
-or that have rewritting their official implementations in Rust.
+or that have rewritten their official implementations in Rust.
 
 [teb]: https://medium.com/tezedge/the-tezedge-node-a-preview-of-whats-coming-up-ad353bc537c5
 
@@ -50,8 +50,24 @@ Let us count them:
   By the Zcash Foundation.
 
 So IOTA, Golem, and Zcash are rewriting in Rust,
-or have finishing rewriting in Rust.
+or have finished rewriting in Rust.
 Bitcoin, Ethereum, and Tezos have alternative implementations in Rust.
+This must indicate something about Rust.
+Have other blockchains rewritten in Rust,
+or rewritten in languages that are not Rust?
+
+We read through some project news updates this month,
+and there's a lot about NFTs.
+Not technical descriptions of NFTs,
+just marketing junk.
+Everybody get on the bandwagon.
+Last year it was defi,
+this year NFTs.
+
+Yawn.
+
+We've been doing this newsletter for almost two years.
+It's challenging to find new inspiration each month.
 
 &nbsp;
 
@@ -215,6 +231,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [conflux-closed_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
 [conflux-open_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 
+- Blog: [Understanding the Conflux Tree-Graph Consensus Algorithm](https://medium.com/conflux-network/understanding-the-conflux-tree-graph-consensus-algorithm-e1b57d5c3da9)
+
 #### [Diem](https://github.com/diem)
 
 144 merged PRs ([1][diem-merged-prs-1]),
@@ -250,6 +268,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [fluence-open_issues-2]: https://github.com/fluencelabs/fce/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 [fluence-open_issues-3]: https://github.com/fluencelabs/air/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 [fluence-open_issues-4]: https://github.com/fluencelabs/rust-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
+
+- Video: [Floating on Air and in Orbit](https://www.youtube.com/watch?v=AR8v5efuZEw&t=3643s)
 
 #### [Golem](https://github.com/golemfactory)
 
@@ -481,6 +501,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [zksync-closed_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
 [zksync-open_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
+
+- Blog: [zkPorter: a breakthrough in L2 scaling](https://medium.com/matter-labs/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf)
 
 
 &nbsp;

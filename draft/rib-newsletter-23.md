@@ -121,7 +121,6 @@ The [FAQ] contains some additional information.
 #### Blog Posts
 
 - [Decrypting Cryptography: Hash Functions](https://medium.com/zeroknowledge/decrypting-cryptography-hash-functions-5291d9139b9e)
-- [Signal Adds a Payments Feature—With a Privacy-Focused Cryptocurrency](https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/)
 
 #### Posts
 

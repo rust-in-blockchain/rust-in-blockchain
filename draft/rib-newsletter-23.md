@@ -66,9 +66,11 @@ Thanks to contributors:
 [J Wagstaff][contributorjw],
 [James Prestwich][contributorjp],
 [John Adler][contributorja],
+[KauriHero][contributorkh],
 [olesiah][contributorol],
 [Tony Arcieri][contributorta],
 [Wil Barnes][contributorwb],
+[vinnyson][contributorv],
 [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
@@ -83,9 +85,11 @@ by submitting a PR to the [#24 draft](https://github.com/rust-in-blockchain/Rust
 [contributorjw]: https://github.com/rg3l3dr
 [contributorjp]: https://github.com/prestwich
 [contributorja]: https://github.com/adlerjohn
+[contributorkh]: https://github.com/kauri-hero
 [contributorol]: https://github.com/olesiah
 [contributorta]: https://github.com/tarcieri
 [contributorwb]: https://github.com/wilbarnes
+[contributorv]: https://github.com/vinnyson
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 
@@ -96,7 +100,7 @@ by submitting a PR to the [#24 draft](https://github.com/rust-in-blockchain/Rust
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
-[MASQ](https://github.com/MASQ-Project/Node)
+[MASQ](https://github.com/MASQ-Project/Node).
 
 MASQ is a mesh overlay network, somewhat like TOR, but with cryptoeconomic incentives for participation.
 

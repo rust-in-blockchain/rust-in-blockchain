@@ -56,19 +56,6 @@ This must indicate something about Rust.
 Have other blockchains rewritten in Rust,
 or rewritten in languages that are not Rust?
 
-We read through some project news updates this month,
-and there's a lot about NFTs.
-Not technical descriptions of NFTs,
-just marketing junk.
-Everybody get on the bandwagon.
-Last year it was defi,
-this year NFTs.
-
-Yawn.
-
-We've been doing this newsletter for almost two years.
-It's challenging to find new inspiration each month.
-
 &nbsp;
 
 ## Thanks
@@ -109,22 +96,13 @@ by submitting a PR to the [#24 draft](https://github.com/rust-in-blockchain/Rust
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
-*(Comment to editors - I'm just proposing us as a potential spotlight project, and would be humbled to even get a short mention here - we are a community run project full of volunteers from across the world - true decentralizaton!)*
-
 [MASQ](https://github.com/MASQ-Project/Node)
 
-[MASQ](https://masq.ai) is a unique software that combines the benefits of VPN and Tor technology, to create a superior next-generation privacy software where users are rewarded for supporting an uncensored, global web.
-**Users gain privacy and anonymity online, while helping promote Internet Freedom**
+MASQ is a mesh overlay network, somewhat like TOR, but with cryptoeconomic incentives for participation.
 
-Rust was chosen for the codebase to leverage several key strengths of the programming langauge:
-  1. MASQ dev team wanted the code close to the processor & OS - not separated by a virtual machine like you get with java/Ruby/JavaScript. (therefore not dependant on the presence of any third-party software possibly not available to some of folks who want to run MASQ Node)
+The [FAQ] contains some additional information.
 
-  2. Rust was much safer than any of its competitors. Safer, by a considerable margin than Java. (With Java, for example, you can still have dereferencing crashes and thread races; but you can't in Rust.)
-
-  3. MASQ methodology was heavy on test-driven development, and Rust was written from the very beginning to be test-driveable, rather than having automated tests added as a new thing after it had already matured.
-
-A lot of documentation is available on the GitHub but there is also a [Knowledge Base](https://docs.masq.ao/knowledge) where there are more general concepts explained and an FAQ.
-
+[FAQ]: https://docs.masq.ai/knowledge/
 
 &nbsp;
 

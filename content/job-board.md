@@ -77,6 +77,9 @@ Kraken | Remote
 - [Rust QA Software Engineer](https://jobs.lever.co/kraken/d2c89216-6a99-4351-84ba-95bc9000a767)
 - [Rust API SDET](https://jobs.lever.co/kraken/5ec9958a-529c-4bae-89b3-0d1a104cbd81)
 
+MASQ Network | Remote
+- [Remote Rust/Core developer, MASQ Node Software](https://docs.masq.ai/developers/front-end-vuejs-developer)
+
 Massa | Remote
 - [Full remote Rust developer, long-term contract (French CDI)](https://massa.network/#jobs)
 

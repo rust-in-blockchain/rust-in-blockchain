@@ -1,8 +1,8 @@
 ---
-title: "RiB Newsletter #23"
+title: "RiB Newsletter #23 - Rewriting In Rust?"
 description: "#23 - April 2021"
 date: 2021-05-05
-slug: "/"
+slug: "/rewriting-in-rust"
 categories:
   - "newsletters"
 summary: ""
@@ -10,7 +10,7 @@ summary: ""
 
 Welcome to the #23 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
-[Previous: #22](/newsletters/_TODO_/).
+[Previous: #22](/newsletters/a-few-tweaks/).
 
 This month we're rewriting things in Rust.
 After hearing again [about TezEdge][teb],

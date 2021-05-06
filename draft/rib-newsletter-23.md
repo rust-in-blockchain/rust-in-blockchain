@@ -314,6 +314,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 
+- [Lighthouse Update #35](https://lighthouse.sigmaprime.io/update-35.html)
+- Blog: [Why You Should Switch to Lighthouse](https://lighthouse.sigmaprime.io/switch-to-lighthouse.html)
+
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 26 merged PRs ([1][mobilecoin-merged-prs-1]),
@@ -337,6 +340,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [near-open_issues-1]: https://github.com/near/nearcore/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 [near-open_issues-2]: https://github.com/near/core-contracts/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 [near-open_issues-3]: https://github.com/near/near-sdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
+
+- News: [The Rainbow Bridge Is Live](https://near.org/blog/the-rainbow-bridge-is-live/)
 
 #### [Nervos](https://github.com/nervosnetwork)
 

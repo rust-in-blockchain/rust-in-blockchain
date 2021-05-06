@@ -5,7 +5,10 @@ date: 2021-05-05
 slug: "/rewriting-in-rust"
 categories:
   - "newsletters"
-summary: ""
+summary: "This month we're rewriting things in Rust.
+We are struck anew by the number of blockchains
+that either have alternative implementations in Rust,
+or that have rewritten their official implementations in Rust."
 ---
 
 Welcome to the #23 edition of Rust in Blockchain,

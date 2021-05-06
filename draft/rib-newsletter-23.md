@@ -231,6 +231,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [conflux-closed_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
 [conflux-open_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 
+- Blog: [Understanding the Conflux Tree-Graph Consensus Algorithm](https://medium.com/conflux-network/understanding-the-conflux-tree-graph-consensus-algorithm-e1b57d5c3da9)
+
 #### [Diem](https://github.com/diem)
 
 144 merged PRs ([1][diem-merged-prs-1]),
@@ -266,6 +268,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [fluence-open_issues-2]: https://github.com/fluencelabs/fce/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 [fluence-open_issues-3]: https://github.com/fluencelabs/air/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 [fluence-open_issues-4]: https://github.com/fluencelabs/rust-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
+
+- Video: [Floating on Air and in Orbit](https://www.youtube.com/watch?v=AR8v5efuZEw&t=3643s)
 
 #### [Golem](https://github.com/golemfactory)
 
@@ -492,6 +496,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [zksync-closed_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
 [zksync-open_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
+
+- Blog: [zkPorter: a breakthrough in L2 scaling](https://medium.com/matter-labs/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf)
 
 
 &nbsp;

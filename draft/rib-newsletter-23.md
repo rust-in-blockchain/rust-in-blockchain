@@ -145,12 +145,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Bit.Country](https://github.com/bit-country/Bit-Country-Blockchain).
   A blockchain network based on Substrate.
 - [cosmos-sdk-rs](https://forum.cosmos.network/t/ann-cosmos-sdk-for-rust-v0-1-initial-release/4647).
-  An implementation of the Cosmos SDK in Rust
+  An implementation of the Cosmos SDK in Rust.
 - [Chamomile](https://github.com/cypherlink/chamomile).
   A p2p library.
 - [TDN](https://github.com/cypherlink/TDN).
   A p2p application framework.
-- [Winterfell](https://github.com/novifinancial/winterfell)
+- [Winterfell](https://github.com/novifinancial/winterfell).
   An experimental project for building a distributed STARK prover.
 
 &nbsp;
@@ -334,7 +334,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-04-01..2021-04-30
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2021-04-01..2021-04-30
 
-- [Lighthouse Update #35](https://lighthouse.sigmaprime.io/update-35.html)
+- News: [Lighthouse Update #35](https://lighthouse.sigmaprime.io/update-35.html)
 - Blog: [Why You Should Switch to Lighthouse](https://lighthouse.sigmaprime.io/switch-to-lighthouse.html)
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)

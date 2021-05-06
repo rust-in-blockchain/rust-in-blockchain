@@ -25,15 +25,17 @@ Let us count them:
 
 - [Iota.rs](https://github.com/iotaledger/iota.rs).
   IOTA in Rust.
-  Official client beta.
+  Official client alpha.
+  Originally in Typescript.
 - [OpenEthereum](https://github.com/openethereum/openethereum).
   Ethereum in Rust.
-  While Geth is often considered the "official" client,
-  Ethereum purposefully has multiple implementations.
   Originally developed by Parity.
+  While Geth, written in Go, is often considered the main client,
+  Ethereum strategically has multiple implementations.
 - [parity-bitcoin](https://github.com/paritytech/parity-bitcoin).
   Bitcoin in Rust.
   Includes support for Bitcoin Cash.
+  Official client is in C++.
 - [rust-bitcoin](https://github.com/rust-bitcoin).
   Bitcoin libraries in Rust.
   Not a full node.
@@ -42,19 +44,21 @@ Let us count them:
   Includes a client, but it's not clear if it is a full node.
 - [TezEdge](https://github.com/tezedge/tezedge).
   Tezos in Rust.
+  Official client is in OCaml.
 - [Yagna](https://github.com/golemfactory/yagna).
   Golem in Rust.
   Official client.
+  Original client is in Python.
 - [Zebra](https://github.com/ZcashFoundation/zebra).
   Zcash in Rust.
   By the Zcash Foundation.
+  Original client is a fork of Bitcoin, in C++.
 
 So IOTA, Golem, and Zcash are rewriting in Rust,
 or have finished rewriting in Rust.
 Bitcoin, Ethereum, and Tezos have alternative implementations in Rust.
-This must indicate something about Rust.
-Have other blockchains rewritten in Rust,
-or rewritten in languages that are not Rust?
+The rewrites are either from high level languages,
+or from C++.
 
 &nbsp;
 

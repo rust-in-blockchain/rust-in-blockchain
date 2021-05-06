@@ -57,8 +57,9 @@ Let us count them:
 So IOTA, Golem, and Zcash are rewriting in Rust,
 or have finished rewriting in Rust.
 Bitcoin, Ethereum, and Tezos have alternative implementations in Rust.
-The rewrites are either from high level languages,
-or from C++.
+The rewrites are from Typescript, Python, and C++.
+
+
 
 &nbsp;
 

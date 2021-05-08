@@ -65,6 +65,11 @@ Fuel Labs | Remote
 Jet Protocol | Remote
 - [Rust Blockchain Engineer](https://docs.google.com/document/d/1GXuk2LPxoYxIdQGwsL9IZ34B7WjlgkdJBgY7QBgBIn0)
 
+Kollider | Remote
+- [Junior Backend Engineer](https://kollider.homerun.co/junior-backend-engineer/en)
+- [Senior Backend Engineer](https://kollider.homerun.co/senior-backend-engineer/en)
+- [DevOps Engineer](https://kollider.homerun.co/devops-engineer/en)
+
 Kraken | Remote
 - [Backend Engineer - Crypto Payments](https://jobs.lever.co/kraken/39031c44-2060-467d-8991-79f23deacbb8)
 - [Backend Engineer - Fiat Payments](https://jobs.lever.co/kraken/bd3d0185-eb56-441e-8ceb-5757711dae8c)

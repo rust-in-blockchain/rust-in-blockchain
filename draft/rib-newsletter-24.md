@@ -17,6 +17,7 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[naternater][contributorna],
 
 _TODO_
 
@@ -28,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#25 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[contributorna]: https://github.com/naternater
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 
@@ -146,7 +148,10 @@ Company name | Location A, B, Remote
 - [Job 2](https://job.two)
 -->
 
-
+Kollider | Remote
+- [Junior Backend Engineer](https://kollider.homerun.co/junior-backend-engineer/en)
+- [Senior Backend Engineer](https://kollider.homerun.co/senior-backend-engineer/en)
+- [DevOps Engineer](https://kollider.homerun.co/devops-engineer/en)
 
 More jobs can be found at [Job Board][page-jobboard].
 

@@ -126,6 +126,9 @@ Soramitsu | Remote
 
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
+- [Blockchain Consensus Engineer](https://jobs.lever.co/subspacelabs/d5d62ccb-eaaf-43f4-83ad-11ebff2ce3a0?lever-origin=applied&lever-source%5B%5D=Rust%20in%20Blockchain)
+- [P2P Network Engineer](https://jobs.lever.co/subspacelabs/6b2c3833-0bbb-409e-9484-049679390756?lever-origin=applied&lever-source%5B%5D=Rust%20in%20Blockchain)
+- [EVM Execution Engineer](https://jobs.lever.co/subspacelabs/9d8f9b6d-4141-4782-923a-2872a06c723e?lever-origin=applied&lever-source%5B%5D=Rust%20in%20Blockchain)
 
 The Graph | Remote
 - [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer)

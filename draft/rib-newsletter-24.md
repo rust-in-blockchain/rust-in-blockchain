@@ -17,6 +17,7 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[Júlio Santos][contributorjs],
 [naternater][contributorna],
 
 _TODO_
@@ -29,6 +30,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#25 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[contributorjs]: https://github.com/juliosantos
 [contributorna]: https://github.com/naternater
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
@@ -147,6 +149,9 @@ Company name | Location A, B, Remote
 - [Job 1](https://job.one)
 - [Job 2](https://job.two)
 -->
+
+Fractal Protocol | Remote or Berlin
+- [Rust and Blockchain Engineer](https://gist.github.com/juliosantos/ba6d01ffab39b5c06ea459d88b1f735f)
 
 Kollider | Remote
 - [Junior Backend Engineer](https://kollider.homerun.co/junior-backend-engineer/en)

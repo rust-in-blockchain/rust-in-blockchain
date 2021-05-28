@@ -32,6 +32,7 @@ GitHub:
 repos = [
 "AleoHQ/aleo",
 "AleoHQ/snarkOS",
+"AleoHQ/snarkVM",
 "AleoHQ/leo",
 ]
 ```

@@ -42,6 +42,32 @@ by submitting a PR to the [#25 draft](https://github.com/rust-in-blockchain/Rust
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[TDN] (and [Chamomile]).
+
+Trusted Distributed Network is a framework for building distributed applications,
+with support for p2p communications, multiple cross-communicating blockchains,
+multiple layers of blockchains, and multiple account models.
+It is built on a new p2p library, Chamomile.
+
+TDN appears to be somewhat comparable to Substrate,
+and Chamomile to libp2p.
+
+Chamomile adds to the choices available to Rust developers
+for p2p networking, which already include [rust-libp2p], and [tentacle].
+
+These projects are authored by
+[@sunhauchuang]
+who also created
+[Awesome Rust Blockchain][arb]
+
+[TDN]: https://github.com/cypherlink/TDN
+[Chamomile]: https://github.com/cypherlink/chamomile
+[rust-libp2p]: https://github.com/libp2p/rust-libp2p
+[tentacle]: https://github.com/nervosnetwork/tentacle
+[arb]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
+[@sunhauchuang]: https://github.com/sunhuachuang
+
+
 &nbsp;
 
 

@@ -75,12 +75,21 @@ who also created
 
 #### News
 
-
+- [The Internet Computer’s Source Code Is Public](https://medium.com/dfinity/the-internet-computers-source-code-is-public-603a558cb6cc).
+  [GitHub: Dfinity/IC](https://github.com/dfinity/ic).
+  It also [Announces CHF 200 Million Program to Support the Internet Computer Developer Ecosystem](https://medium.com/dfinity/dfinity-announces-chf-200-million-program-to-support-the-internet-computer-developer-ecosystem-c65aa290548c)
+  
+  
 #### Blog Posts
 
 
 #### Papers
 
+- [Hours of Horus: Keyless Cryptocurrency Wallets](https://eprint.iacr.org/2021/715)
+- [OSHA: A General-purpose One-way Secure Hash Algorithm](https://eprint.iacr.org/2021/689)
+- [Differentially Oblivious Database Joins: Overcoming the Worst-Case Curse of Fully Oblivious Algorithms](https://eprint.iacr.org/2021/593)
+- [Internet Computer Consensus](https://eprint.iacr.org/2021/632.pdf)
+- [VerLoc: Verifiable Localization in Decentralized Systems](https://arxiv.org/abs/2105.11928)
 
 #### Projects
 
@@ -96,6 +105,8 @@ who also created
 <!-- NB: This list needs to be kept in sync with rib-bible.md / rib-config.toml -->
 
 #### [Aleo](https://github.com/AleoHQ)
+
+- Paper: [Leo: A Programming Language for Formally Verified, Zero-Knowledge Applications](https://eprint.iacr.org/2021/651)
 
 #### [CodeChain](https://github.com/CodeChain-io)
 
@@ -125,9 +136,13 @@ who also created
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
+- News: [Lighthouse Update #36](https://lighthouse.sigmaprime.io/update-36.html)
+
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
+
+- News: [Aurora launches on NEAR Protocol](https://near.org/blog/aurora-launches-near/)
 
 #### [Nervos](https://github.com/nervosnetwork)
 

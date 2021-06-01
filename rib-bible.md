@@ -37,29 +37,6 @@ repos = [
 ]
 ```
 
-## CodeChain
-
-Media:
-
-- https://medium.com/codechain
-- https://twitter.com/codechain_io
-- https://research.codechain.io
-
-GitHub:
-
-- https://github.com/CodeChain-io
-
-``` toml
-repos = [
-"CodeChain-io/codechain",
-"CodeChain-io/foundry",
-"CodeChain-io/foundry-rpc-js",
-"CodeChain-io/foundry-primitives-js",
-"CodeChain-io/foundry-keystore-js",
-"CodeChain-io/foundry-keystore-cli",
-"CodeChain-io/foundry-sandbox",
-]
-```
 
 ## COMIT
 

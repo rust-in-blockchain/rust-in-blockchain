@@ -182,7 +182,7 @@ who also created
 - [The Internet Computer’s Source Code Is Public](https://medium.com/dfinity/the-internet-computers-source-code-is-public-603a558cb6cc).
   [GitHub: Dfinity/IC](https://github.com/dfinity/ic).
   It also [Announces CHF 200 Million Program to Support the Internet Computer Developer Ecosystem](https://medium.com/dfinity/dfinity-announces-chf-200-million-program-to-support-the-internet-computer-developer-ecosystem-c65aa290548c)
-  
+- [Gnosis client development team Joins Erigon (formerly Turbo-Geth) to Release Next-Gen Ethereum Client](https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd)  
   
 #### Blog Posts
 
@@ -516,6 +516,8 @@ who also created
 [solana-closed_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-05-01..2021-05-31
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
+
+- Video: [Intro to the Solana Programming Model - Technical Workshop](https://www.youtube.com/watch?v=7Iitv5tMOMY)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 

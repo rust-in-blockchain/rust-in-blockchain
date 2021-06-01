@@ -24,8 +24,13 @@ It looks like we are well on our way to an internetwork of blockchains,
 so now is a good time to do a survey of bridges
 to Rust chains.
 
+Thise bridges mostly support moving fungible tokens today,
+and some plan to support NFTs;
+contrasting with general cross-chain communications
+protocols like [IBC] and [XCMP].
+
 While the details differ between bridges and chains,
-it seems that most of these bridges are their own distributed networks,
+it seems that many of these bridges are their own distributed networks,
 with similar behavior:
 
 - They operate a network of validators.
@@ -34,21 +39,27 @@ with similar behavior:
   pairs of cross-chain transactions.
 - The bridge network offers cryptoeconomic incentives for node operators.
 - Watchdog nodes may monitor the network for misbehavior.
-- These networks do not generally maintain their own blockchains though.
+- Some of these networks are themselves blockchains,
+  but many are not.
+
+For a more informed description of bridges see
+[this recent blog post from Patrick McCorry][bblog].
+
+[bblog]: https://stonecoldpat.medium.com/a-note-on-bridges-layer-2-protocols-b01f8fc22324
 
 Some of those in the Rust world include
 
-- [Secret Ethereum Bridge][seb]. Between Secret Network and Ethereum.
+- [Secret · Ethereum Bridge][seb]. Between Secret Network and Ethereum.
 
-  Bidirectional. Decentralized. Mainnet.
+  Mainnet.
 
   [Launch announcement](https://scrt.network/blog/secret-ethereum-bridge-december-2020/.
   [GitHub](https://github.com/enigmampc/EthereumBridge).
   [Web App](https://bridge.scrt.network/).
 
-- [Secret Monero Bridge][smb]. Between [Secret Network] and Monero.
+- [Secret · Monero Bridge][smb]. Between [Secret Network] and Monero.
 
-  Bidirectional. Decentralized. Testnet.
+  Testnet.
 
   This is particularly interesting because there are relatively few
   on/off-ramps for privacy-preserving Monero, and this is a bridge
@@ -57,32 +68,71 @@ Some of those in the Rust world include
   [GitHub](https://github.com/maxkoda-cpu/Secret-Monero-Bridge).
   [Web App](https://ipfs.io/ipfs/Qmdy9Ups2Ru3ycKAiCre9zomRbFqgts1eAcvG43E2CcQTt/).
 
-- [Secret Binance Smart Chain Bridge][sbb]. Betweer Secret Network and Binance Smart Chain.
+- [Secret · Binance Smart Chain Bridge][sbb]. Betweer Secret Network and Binance Smart Chain.
 
-  Bidirectional. Decentralized. Testnet.
+  Testnet.
 
   [Launch accountement](https://scrt.network/blog/secret-binance-smart-chain-bridge-is-live-on-testnet).
   [Web App](https://bsc.testnet.enigma.co/)
 
-- [Secret Plasm Bridge][spb]. Between Secret Network and [Plasm Network].
+- [Secret · Plasm Bridge][spb]. Between Secret Network and [Plasm Network].
 
   This one is a bit hard to understand,
   but will theoretically link Secret Network to the world of Polkadot parachains,
   and to to the world of [Cosmos]/[IBC]-based chains,
   as Plasm is a Substrate chain that is intended to connect to both.
 
-  Bidirectional. Decentralized. Not live.
+  Not live.
 
-- [Near Rainbow Bridge][nrb]. Between Near and Ethereum.
+- [Near · Rainbow Bridge][nrb]. Between Near and Ethereum.
 
-  Bidirectional. Decentralized. Mainnet.
+  Mainnet.
 
   [GitHub 1](https://github.com/aurora-is-near/rainbow-bridge).
   [GitHub 2](https://github.com/aurora-is-near/rainbow-bridge-client).
   [Web App]: https://ethereum.bridgetonear.org/
 
+- [Solana · Wormhole][swh]. Between Solana and Ethereum.
 
+  Mainnet.
 
+  [Website](https://solana.com/wormhole).
+  [Web App](https://www.wormholebridge.com/).
+
+- [Nervos · Force-Bridge][nfb]. Between Nervos CKB and Ethereum.
+
+  Testnet.
+
+  [GitHub 1](https://github.com/nervosnetwork/force-bridge-eth).
+  [GitHub 2](https://github.com/nervosnetwork/force-bridge).
+
+- [Polkadot · PolkaBTC][pi]. Between Polkadot and Bitcoin.
+
+  [Web App]: https://beta.polkabtc.io/
+
+- [Polkadot · Snowbridge][psb]. Between Polkadot and Ethereum.
+
+  Not live.
+
+- [Polkadot · Darwinia][pd]. Between Polkadot and Ethereum.
+
+  [GitHub](https://github.com/darwinia-network).
+
+- [Polkadot · ChainBridge][pcb]. Between Polkadot and Ethereum.
+
+- [Polkadot · Bifrost][pbf]. Between Polkadot and EOS.
+
+Polkadot's family of bridges is [described here][pbridges].
+
+[swh]: https://medium.com/solana-labs/wormhole-solana-ethereum-bridge-d5502e944acb
+[pbf]: https://github.com/bifrost-finance
+[pcb]: https://github.com/ChainSafe/ChainBridge
+[XCMP]: https://wiki.polkadot.network/docs/en/learn-crosschain
+[pd]: https://darwinia.network/
+[psb]: https://snowfork.substack.com/p/a-trustless-general-purpose-polkadot
+[pi]: https://polkadot.network/bitcoin-is-coming-to-polkadot/
+[pbridges]: https://polkadot.network/polkadot-bridges-connecting-the-polkadot-ecosystem-with-external-networks/
+[nfb]: https://medium.com/nervosnetwork/nervos-launches-force-bridge-to-connect-ethereum-dapps-users-with-ckb-24450df468f4
 [nrb]: https://near.org/bridge/
 [smb]: https://scrt.network/blog/secret-monero-bridge-is-live-on-testnet
 [seb]: https://scrt.network/blog/secret-ethereum-bridge-privacy/
@@ -440,6 +490,8 @@ who also created
 [nervos-open_issues-1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 [nervos-open_issues-2]: https://github.com/nervosnetwork/ckb-vm/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 [nervos-open_issues-3]: https://github.com/nervosnetwork/ckb-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
+
+- News: [Force Bridge demo is live](https://ckbweekly.substack.com/p/force-bridge-demo-is-now-live)
 
 #### [Parity](https://github.com/paritytech)
 

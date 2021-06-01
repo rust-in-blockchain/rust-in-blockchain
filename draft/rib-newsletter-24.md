@@ -16,10 +16,10 @@ This month we're interested in cross-chain bridges.
 With Ethereum at capacity recently,
 other blockchain projects are eyeing the window
 of opportunity between now and a functional Ethereum 2
-to syphon away some of that chain's activity.
+to siphon away some of that chain's activity.
 So there seems to be a rush to get bridges built
 between Ethereum and every other chain,
-not to mention between pairs of no-Ethereum chains.
+not to mention between pairs of non-Ethereum chains.
 It looks like we are well on our way to an internetwork of blockchains,
 so now is a good time to do a survey of bridges
 to Rust chains.
@@ -34,7 +34,7 @@ it seems that many of these bridges are their own distributed networks,
 with similar behavior:
 
 - They operate a network of validators.
-- They maintain custodial contracts on each bridge chained.
+- They maintain custodial contracts on each chain.
 - Multisig cryptography is used by the validators to agree on
   pairs of cross-chain transactions.
 - The bridge network offers cryptoeconomic incentives for node operators.
@@ -49,61 +49,31 @@ For a more informed description of bridges see
 
 Some of those in the Rust world include
 
-- [Secret · Ethereum Bridge][seb]. Between [Secret Network] and Ethereum.
+- [Secret · Ethereum Bridge][seb]. Between Secret Network and Ethereum.
   Mainnet.
-  [Launch announcement](https://scrt.network/blog/secret-ethereum-bridge-december-2020/).
-  [GitHub](https://github.com/enigmampc/EthereumBridge).
-  [Web App](https://bridge.scrt.network/).
-
 - [Secret · Monero Bridge][smb]. Between Secret Network and Monero.
   Testnet.
-  [GitHub](https://github.com/maxkoda-cpu/Secret-Monero-Bridge).
-  [Web App](https://ipfs.io/ipfs/Qmdy9Ups2Ru3ycKAiCre9zomRbFqgts1eAcvG43E2CcQTt/).
-
-  This is particularly interesting because there are relatively few
+  - This is particularly interesting because there are relatively few
   on/off-ramps for privacy-preserving Monero, and this is a bridge
   to another privacy chain.
-
-- [Secret · Binance Smart Chain Bridge][sbb]. Betweer Secret Network and Binance Smart Chain.
+- [Secret · Binance Smart Chain Bridge][sbb]. Between Secret Network and Binance Smart Chain.
   Testnet.
-  [Launch announcement](https://scrt.network/blog/secret-binance-smart-chain-bridge-is-live-on-testnet).
-  [Web App](https://bsc.testnet.enigma.co/).
-
 - [Secret · Plasm Bridge][spb]. Between Secret Network and [Plasm Network].
   Not live.
-
-  This one is a bit hard to understand,
-  but will theoretically link Secret Network to the world of Polkadot parachains,
+  - This one will link Secret Network to the world of Polkadot parachains,
   and to to the world of [Cosmos]/[IBC]-based chains,
   as Plasm is a Substrate chain that is intended to connect to both.
-
 - [Near · Rainbow Bridge][nrb]. Between Near and Ethereum.
   Mainnet.
-  [GitHub 1](https://github.com/aurora-is-near/rainbow-bridge).
-  [GitHub 2](https://github.com/aurora-is-near/rainbow-bridge-client).
-  [Web App](https://ethereum.bridgetonear.org/).
-
 - [Solana · Wormhole][swh]. Between Solana and Ethereum.
   Mainnet.
-  [Website](https://solana.com/wormhole).
-  [Web App](https://www.wormholebridge.com/).
-
 - [Nervos · Force-Bridge][nfb]. Between Nervos CKB and Ethereum.
   Testnet.
-  [GitHub 1](https://github.com/nervosnetwork/force-bridge-eth).
-  [GitHub 2](https://github.com/nervosnetwork/force-bridge).
-
 - [Polkadot · PolkaBTC][pi]. Between Polkadot and Bitcoin.
-  [Web App]: https://beta.polkabtc.io/
-
 - [Polkadot · Snowbridge][psb]. Between Polkadot and Ethereum.
   Not live.
-
 - [Polkadot · Darwinia][pd]. Between Polkadot and Ethereum.
-  [GitHub](https://github.com/darwinia-network).
-
 - [Polkadot · ChainBridge][pcb]. Between Polkadot and Ethereum.
-
 - [Polkadot · Bifrost][pbf]. Between Polkadot and EOS.
 
 Polkadot's family of bridges is [described here][pbridges].
@@ -123,30 +93,9 @@ Polkadot's family of bridges is [described here][pbridges].
 [seb2]: https://scrt.network/blog/secret-ethereum-bridge-december-2020/
 [sbb]: https://scrt.network/blog/announcing-secret-binance-smart-chain-bridge
 [spb]: https://scrt.network/blog/secret-plasm-bridge-cosmos-polkadot
-[Secret Network]: https://scrt.network/
 [Plasm Network]: https://plasmnet.io/
 [Cosmos]: https://cosmos.network/
 [IBC]: https://ibcprotocol.org/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -158,6 +107,7 @@ Thanks to contributors:
 [Júlio Santos][contributorjs],
 [Max Wegman][contributormw],
 [naternater][contributorna],
+Tor Bair,
 [Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 

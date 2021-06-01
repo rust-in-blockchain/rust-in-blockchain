@@ -360,9 +360,6 @@ who also created
 [rust-ethereum-closed_issues-1]: https://github.com/rust-ethereum/ethabi/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-05-01..2021-05-31
 [rust-ethereum-open_issues-1]: https://github.com/rust-ethereum/ethabi/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 
-- PR: [Bump dependencies](https://github.com/rust-ethereum/enr/pull/28) by [@vorot93](https://github.com/vorot93)
-- PR: [Implementation of Eq](https://github.com/rust-ethereum/enr/pull/29) by [@AgeManning](https://github.com/AgeManning)
-
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 10 merged PRs ([1][secret_network-merged-prs-1]),

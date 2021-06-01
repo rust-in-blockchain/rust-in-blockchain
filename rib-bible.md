@@ -194,8 +194,8 @@ GitHub:
 ```toml
 repos = [
 "fluencelabs/fluence",
-"fluencelabs/fce",
-"fluencelabs/air",
+"fluencelabs/marine",
+"fluencelabs/aquavm",
 "fluencelabs/rust-sdk",
 ]
 ```

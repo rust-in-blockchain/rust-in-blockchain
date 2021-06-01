@@ -37,7 +37,7 @@ with similar behavior:
 - They maintain custodial contracts on each chain.
 - Multisig cryptography is used by the validators to agree on
   pairs of cross-chain transactions.
-- The bridge network offers cryptoeconomic incentives for node operators.
+- The bridge network may offer cryptoeconomic incentives for node operators.
 - Watchdog nodes may monitor the network for misbehavior.
 - Some of these networks are themselves blockchains,
   but many are not.

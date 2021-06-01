@@ -12,6 +12,110 @@ Welcome to the #24 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #23](/newsletters/rewriting-in-rust/)
 
+This month we're interested in cross-chain bridges.
+With Ethereum at capacity recently,
+other blockchain projects are eyeing the window
+of opportunity between now and a functional Ethereum 2
+to syphon away some of that chain's activity.
+So there seems to be a rush to get bridges built
+between Ethereum and every other chain,
+not to mention between pairs of no-Ethereum chains.
+It looks like we are well on our way to an internetwork of blockchains,
+so now is a good time to do a survey of bridges
+to Rust chains.
+
+While the details differ between bridges and chains,
+it seems that most of these bridges are their own distributed networks,
+with similar behavior:
+
+- They operate a network of validators.
+- They maintain custodial contracts on each bridge chained.
+- Multisig cryptography is used by the validators to agree on
+  pairs of cross-chain transactions.
+- The bridge network offers cryptoeconomic incentives for node operators.
+- Watchdog nodes may monitor the network for misbehavior.
+- These networks do not generally maintain their own blockchains though.
+
+Some of those in the Rust world include
+
+- [Secret Ethereum Bridge][seb]. Between Secret Network and Ethereum.
+
+  Bidirectional. Decentralized. Mainnet.
+
+  [Launch announcement](https://scrt.network/blog/secret-ethereum-bridge-december-2020/.
+  [GitHub](https://github.com/enigmampc/EthereumBridge).
+  [Web App](https://bridge.scrt.network/).
+
+- [Secret Monero Bridge][smb]. Between [Secret Network] and Monero.
+
+  Bidirectional. Decentralized. Testnet.
+
+  This is particularly interesting because there are relatively few
+  on/off-ramps for privacy-preserving Monero, and this is a bridge
+  to another privacy chain.
+
+  [GitHub](https://github.com/maxkoda-cpu/Secret-Monero-Bridge).
+  [Web App](https://ipfs.io/ipfs/Qmdy9Ups2Ru3ycKAiCre9zomRbFqgts1eAcvG43E2CcQTt/).
+
+- [Secret Binance Smart Chain Bridge][sbb]. Betweer Secret Network and Binance Smart Chain.
+
+  Bidirectional. Decentralized. Testnet.
+
+  [Launch accountement](https://scrt.network/blog/secret-binance-smart-chain-bridge-is-live-on-testnet).
+  [Web App](https://bsc.testnet.enigma.co/)
+
+- [Secret Plasm Bridge][spb]. Between Secret Network and [Plasm Network].
+
+  This one is a bit hard to understand,
+  but will theoretically link Secret Network to the world of Polkadot parachains,
+  and to to the world of [Cosmos]/[IBC]-based chains,
+  as Plasm is a Substrate chain that is intended to connect to both.
+
+  Bidirectional. Decentralized. Not live.
+
+- [Near Rainbow Bridge][nrb]. Between Near and Ethereum.
+
+  Bidirectional. Decentralized. Mainnet.
+
+  [GitHub 1](https://github.com/aurora-is-near/rainbow-bridge).
+  [GitHub 2](https://github.com/aurora-is-near/rainbow-bridge-client).
+  [Web App]: https://ethereum.bridgetonear.org/
+
+
+
+[nrb]: https://near.org/bridge/
+[smb]: https://scrt.network/blog/secret-monero-bridge-is-live-on-testnet
+[seb]: https://scrt.network/blog/secret-ethereum-bridge-privacy/
+[seb2]: https://scrt.network/blog/secret-ethereum-bridge-december-2020/
+[sbb]: https://scrt.network/blog/announcing-secret-binance-smart-chain-bridge
+[spb]: https://scrt.network/blog/secret-plasm-bridge-cosmos-polkadot
+[Secret Network]: https://scrt.network/
+[Plasm Network]: https://plasmnet.io/
+[Cosmos]: https://cosmos.network/
+[IBC]: https://ibcprotocol.org/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &nbsp;
 
 ## Thanks
@@ -398,6 +502,7 @@ who also created
 [secret_network-open_issues-2]: https://github.com/enigmampc/secret-toolkit/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 
 - News: [Secret Monero Bridge is Live on Testnet!](https://scrt.network/blog/secret-monero-bridge-is-live-on-testnet)
+- News: [Secret Binance Smart Chain Bridge is Live on Testnet!](https://scrt.network/blog/secret-binance-smart-chain-bridge-is-live-on-testnet)
 
 #### [Solana](https://github.com/solana-labs/solana)
 

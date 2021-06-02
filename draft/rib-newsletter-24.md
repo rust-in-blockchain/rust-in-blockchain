@@ -412,6 +412,8 @@ who also created
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 
+- Video: [Intro to the Solana Programming Model - Technical Workshop](https://www.youtube.com/watch?v=7Iitv5tMOMY)
+
 #### [Spacemesh](https://github.com/spacemeshos)
 
 3 merged PRs ([1][spacemesh-merged-prs-1], [2][spacemesh-merged-prs-2]),

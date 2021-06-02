@@ -82,24 +82,30 @@ who also created
   
 #### Blog Posts
 
-
+- [zkSync 2.0: Hello Ethereum!](https://medium.com/matter-labs/zksync-2-0-hello-ethereum-ca48588de179)
 
 #### Papers
 
 - [Hours of Horus: Keyless Cryptocurrency Wallets](https://eprint.iacr.org/2021/715)
-- [OSHA: A General-purpose One-way Secure Hash Algorithm](https://eprint.iacr.org/2021/689)
-- [Differentially Oblivious Database Joins: Overcoming the Worst-Case Curse of Fully Oblivious Algorithms](https://eprint.iacr.org/2021/593)
+- [Hedging Against Sore Loser Attacks in Cross-Chain Transactions](https://arxiv.org/abs/2105.06322)
 - [Internet Computer Consensus](https://eprint.iacr.org/2021/632.pdf)
+- [SoK: Privacy-Preserving Computing in the Blockchain Era](https://eprint.iacr.org/2021/727)
 - [VerLoc: Verifiable Localization in Decentralized Systems](https://arxiv.org/abs/2105.11928)
+- [GoAT: File Geolocation via Anchor Timestamping](https://eprint.iacr.org/2021/697)
+- [Differentially Oblivious Database Joins: Overcoming the Worst-Case Curse of Fully Oblivious Algorithms](https://eprint.iacr.org/2021/593)
 - [Structured Leakage and Applications to Cryptographic Constant-Time and Cost](https://eprint.iacr.org/2021/650)
 - [Reasoning about modern datacenter infrastructures using partial histories](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-sun.pdf)
+- [OSHA: A General-purpose One-way Secure Hash Algorithm](https://eprint.iacr.org/2021/689)
+- [Forward-secure Multi-user Aggregate Signatures based on zk-SNARKs](https://eprint.iacr.org/2021/567)
+- [Hydra: Succinct Fully Pipelineable Interactive Arguments of Knowledge](https://eprint.iacr.org/2021/641)
+- [Stealth: A Highly Secured End-to-End Symmetric Communication Protocol](https://eprint.iacr.org/2021/622)
 
 #### Projects
 
-- [Polkadex](https://github.com/Polkadex-Substrate/Polkadex).
-  An Orderbook-based Decentralized Exchange using the Substrate Blockchain Framework.
 - [snarkVM](https://github.com/AleoHQ/snarkVM).
   A Virtual Machine for Zero-Knowledge Executions.
+- [Polkadex](https://github.com/Polkadex-Substrate/Polkadex).
+  An Orderbook-based Decentralized Exchange using the Substrate Blockchain Framework.
 
 &nbsp;
 
@@ -455,7 +461,17 @@ May 1-2 | Online
 
 -->
 
+Sep 26-28 | Arlington, VA, US
 
+[ACM Advances in Financial Technologies - AFT 2021](https://aft.acm.org/aft21/index.html)
+
+Oct 4-8 | Darmstadt, Germany
+
+[5th International Workshop on Cryptocurrencies and Blockchain Technology - CBT 2021](https://deic-web.uab.cat/conferences/dpm/cbt2021/)
+
+Oct 6–8 | Darmstadt, Germany
+
+[STM2021: The 17th International Workshop on Security and Trust Management](https://www.nics.uma.es/stm2021/)
 
 &nbsp;
 

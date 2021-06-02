@@ -148,7 +148,7 @@ for p2p networking, which already include [rust-libp2p], and [tentacle].
 These projects are authored by
 [@sunhauchuang]
 who also created
-[Awesome Rust Blockchain][arb]
+[Awesome Rust Blockchain][arb].
 
 [TDN]: https://github.com/cypherlink/TDN
 [Chamomile]: https://github.com/cypherlink/chamomile

@@ -95,12 +95,27 @@ who also created
 
 #### Projects
 
+- [Polkadex](https://github.com/Polkadex-Substrate/Polkadex).
+  An Orderbook-based Decentralized Exchange using the Substrate Blockchain Framework.
 
 &nbsp;
 
 ## Most Active in May
 
+[Solana](https://github.com/solana-labs/solana):
+421 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
+46 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+67 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
 
+[Parity](https://github.com/paritytech):
+275 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6]),
+96 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+78 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5])
+
+[Aleo](https://github.com/AleoHQ):
+100 merged PRs ([1][aleo-merged-prs-1], [2][aleo-merged-prs-2], [3][aleo-merged-prs-3], [4][aleo-merged-prs-4]),
+41 closed issues ([1][aleo-closed_issues-1], [2][aleo-closed_issues-2], [3][aleo-closed_issues-3]), 
+42 open issues ([1][aleo-open_issues-1], [2][aleo-open_issues-2], [3][aleo-open_issues-3], [4][aleo-open_issues-4])
 
 &nbsp;
 

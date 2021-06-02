@@ -1,8 +1,8 @@
 ---
-title: "RiB Newsletter #24"
+title: "RiB Newsletter #24 - Bridges"
 description: "#24 - May 2021"
 date: 2021-06-02
-slug: "/"
+slug: "/bridges"
 categories:
   - "newsletters"
 summary: ""

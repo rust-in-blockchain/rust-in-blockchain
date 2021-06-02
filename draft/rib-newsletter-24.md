@@ -12,16 +12,103 @@ Welcome to the #24 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #23](/newsletters/rewriting-in-rust/)
 
+This month we're interested in cross-chain bridges.
+With Ethereum at capacity recently,
+other blockchain projects are eyeing the window
+of opportunity between now and a functional Ethereum 2
+to siphon away some of that chain's activity.
+So there seems to be a rush to get bridges built
+between Ethereum and every other chain,
+not to mention between pairs of non-Ethereum chains.
+It looks like we are well on our way to an internetwork of blockchains,
+so now is a good time to do a survey of bridges
+to Rust chains.
+
+Thise bridges mostly support moving fungible tokens today,
+and some plan to support NFTs;
+contrasting with general cross-chain communications
+protocols like [IBC] and [XCMP].
+
+While the details differ between bridges and chains,
+it seems that many of these bridges are their own distributed networks,
+with similar behavior:
+
+- They operate a network of validators.
+- They maintain custodial contracts on each chain.
+- Multisig cryptography is used by the validators to agree on
+  pairs of cross-chain transactions.
+- The bridge network offers cryptoeconomic incentives for node operators.
+- Watchdog nodes may monitor the network for misbehavior.
+- Some of these networks are themselves blockchains,
+  but many are not.
+
+For a more informed description of bridges see
+[this recent blog post from Patrick McCorry][bblog].
+
+[bblog]: https://stonecoldpat.medium.com/a-note-on-bridges-layer-2-protocols-b01f8fc22324
+
+Some of those in the Rust world include
+
+- [Secret · Ethereum Bridge][seb]. Between Secret Network and Ethereum.
+  Mainnet.
+- [Secret · Monero Bridge][smb]. Between Secret Network and Monero.
+  Testnet.
+  - This is particularly interesting because there are relatively few
+  on/off-ramps for privacy-preserving Monero, and this is a bridge
+  to another privacy chain.
+- [Secret · Binance Smart Chain Bridge][sbb]. Between Secret Network and Binance Smart Chain.
+  Testnet.
+- [Secret · Plasm Bridge][spb]. Between Secret Network and [Plasm Network].
+  Not live.
+  - This one will link Secret Network to the world of Polkadot parachains,
+  and to to the world of [Cosmos]/[IBC]-based chains,
+  as Plasm is a Substrate chain that is intended to connect to both.
+- [Near · Rainbow Bridge][nrb]. Between Near and Ethereum.
+  Mainnet.
+- [Solana · Wormhole][swh]. Between Solana and Ethereum.
+  Mainnet.
+- [Nervos · Force-Bridge][nfb]. Between Nervos CKB and Ethereum.
+  Testnet.
+- [Polkadot · PolkaBTC][pi]. Between Polkadot and Bitcoin.
+- [Polkadot · Snowbridge][psb]. Between Polkadot and Ethereum.
+  Not live.
+- [Polkadot · Darwinia][pd]. Between Polkadot and Ethereum.
+- [Polkadot · ChainBridge][pcb]. Between Polkadot and Ethereum.
+- [Polkadot · Bifrost][pbf]. Between Polkadot and EOS.
+
+Polkadot's family of bridges is [described here][pbridges].
+
+[swh]: https://medium.com/solana-labs/wormhole-solana-ethereum-bridge-d5502e944acb
+[pbf]: https://github.com/bifrost-finance
+[pcb]: https://github.com/ChainSafe/ChainBridge
+[XCMP]: https://wiki.polkadot.network/docs/en/learn-crosschain
+[pd]: https://darwinia.network/
+[psb]: https://snowfork.substack.com/p/a-trustless-general-purpose-polkadot
+[pi]: https://polkadot.network/bitcoin-is-coming-to-polkadot/
+[pbridges]: https://polkadot.network/polkadot-bridges-connecting-the-polkadot-ecosystem-with-external-networks/
+[nfb]: https://medium.com/nervosnetwork/nervos-launches-force-bridge-to-connect-ethereum-dapps-users-with-ckb-24450df468f4
+[nrb]: https://near.org/bridge/
+[smb]: https://scrt.network/blog/secret-monero-bridge-is-live-on-testnet
+[seb]: https://scrt.network/blog/secret-ethereum-bridge-privacy/
+[seb2]: https://scrt.network/blog/secret-ethereum-bridge-december-2020/
+[sbb]: https://scrt.network/blog/announcing-secret-binance-smart-chain-bridge
+[spb]: https://scrt.network/blog/secret-plasm-bridge-cosmos-polkadot
+[Plasm Network]: https://plasmnet.io/
+[Cosmos]: https://cosmos.network/
+[IBC]: https://ibcprotocol.org/
+
+
+
 &nbsp;
 
 ## Thanks
 
 Thanks to contributors:
 [Júlio Santos][contributorjs],
+[Max Wegman][contributormw],
 [naternater][contributorna],
-
-_TODO_
-
+Tor Bair,
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -31,6 +118,7 @@ please contribute to the next issue
 by submitting a PR to the [#25 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributorjs]: https://github.com/juliosantos
+[contributormw]: https://github.com/mastermaxy
 [contributorna]: https://github.com/naternater
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
@@ -78,27 +166,55 @@ who also created
 - [The Internet Computer’s Source Code Is Public](https://medium.com/dfinity/the-internet-computers-source-code-is-public-603a558cb6cc).
   [GitHub: Dfinity/IC](https://github.com/dfinity/ic).
   It also [Announces CHF 200 Million Program to Support the Internet Computer Developer Ecosystem](https://medium.com/dfinity/dfinity-announces-chf-200-million-program-to-support-the-internet-computer-developer-ecosystem-c65aa290548c)
-  
+- [Gnosis client development team Joins Erigon (formerly Turbo-Geth) to Release Next-Gen Ethereum Client](https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd)  
   
 #### Blog Posts
+
 - [Power of Tau, or How I Learned to Stop Worrying and Love the Setup](https://medium.com/zeroknowledge/the-power-of-tau-or-how-i-learned-to-stop-worrying-and-love-the-setup-535a05bec15d)
+- [zkSync 2.0: Hello Ethereum!](https://medium.com/matter-labs/zksync-2-0-hello-ethereum-ca48588de179)
+
 
 #### Papers
 
 - [Hours of Horus: Keyless Cryptocurrency Wallets](https://eprint.iacr.org/2021/715)
-- [OSHA: A General-purpose One-way Secure Hash Algorithm](https://eprint.iacr.org/2021/689)
-- [Differentially Oblivious Database Joins: Overcoming the Worst-Case Curse of Fully Oblivious Algorithms](https://eprint.iacr.org/2021/593)
+- [Hedging Against Sore Loser Attacks in Cross-Chain Transactions](https://arxiv.org/abs/2105.06322)
 - [Internet Computer Consensus](https://eprint.iacr.org/2021/632.pdf)
+- [SoK: Privacy-Preserving Computing in the Blockchain Era](https://eprint.iacr.org/2021/727)
 - [VerLoc: Verifiable Localization in Decentralized Systems](https://arxiv.org/abs/2105.11928)
+- [GoAT: File Geolocation via Anchor Timestamping](https://eprint.iacr.org/2021/697)
+- [Differentially Oblivious Database Joins: Overcoming the Worst-Case Curse of Fully Oblivious Algorithms](https://eprint.iacr.org/2021/593)
 - [Structured Leakage and Applications to Cryptographic Constant-Time and Cost](https://eprint.iacr.org/2021/650)
 - [Reasoning about modern datacenter infrastructures using partial histories](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-sun.pdf)
+- [OSHA: A General-purpose One-way Secure Hash Algorithm](https://eprint.iacr.org/2021/689)
+- [Forward-secure Multi-user Aggregate Signatures based on zk-SNARKs](https://eprint.iacr.org/2021/567)
+- [Hydra: Succinct Fully Pipelineable Interactive Arguments of Knowledge](https://eprint.iacr.org/2021/641)
+- [Stealth: A Highly Secured End-to-End Symmetric Communication Protocol](https://eprint.iacr.org/2021/622)
 
 #### Projects
 
+- [snarkVM](https://github.com/AleoHQ/snarkVM).
+  A Virtual Machine for Zero-Knowledge Executions.
+- [Polkadex](https://github.com/Polkadex-Substrate/Polkadex).
+  An Orderbook-based Decentralized Exchange using the Substrate Blockchain Framework.
 
 &nbsp;
 
-## Most Active in March
+## Most Active in May
+
+[Solana](https://github.com/solana-labs/solana):
+421 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
+46 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+67 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[Parity](https://github.com/paritytech):
+275 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6]),
+96 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+78 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5])
+
+[Aleo](https://github.com/AleoHQ):
+100 merged PRs ([1][aleo-merged-prs-1], [2][aleo-merged-prs-2], [3][aleo-merged-prs-3], [4][aleo-merged-prs-4]),
+41 closed issues ([1][aleo-closed_issues-1], [2][aleo-closed_issues-2], [3][aleo-closed_issues-3]), 
+42 open issues ([1][aleo-open_issues-1], [2][aleo-open_issues-2], [3][aleo-open_issues-3], [4][aleo-open_issues-4])
 
 &nbsp;
 
@@ -311,6 +427,8 @@ who also created
 [nervos-open_issues-2]: https://github.com/nervosnetwork/ckb-vm/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 [nervos-open_issues-3]: https://github.com/nervosnetwork/ckb-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 
+- News: [Force Bridge demo is live](https://ckbweekly.substack.com/p/force-bridge-demo-is-now-live)
+
 #### [Parity](https://github.com/paritytech)
 
 275 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6]),
@@ -372,6 +490,7 @@ who also created
 [secret_network-open_issues-2]: https://github.com/enigmampc/secret-toolkit/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 
 - News: [Secret Monero Bridge is Live on Testnet!](https://scrt.network/blog/secret-monero-bridge-is-live-on-testnet)
+- News: [Secret Binance Smart Chain Bridge is Live on Testnet!](https://scrt.network/blog/secret-binance-smart-chain-bridge-is-live-on-testnet)
 
 #### [Solana](https://github.com/solana-labs/solana)
 
@@ -385,6 +504,8 @@ who also created
 [solana-closed_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-05-01..2021-05-31
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
+
+- Video: [Intro to the Solana Programming Model - Technical Workshop](https://www.youtube.com/watch?v=7Iitv5tMOMY)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 
@@ -435,7 +556,17 @@ May 1-2 | Online
 
 -->
 
+Sep 26-28 | Arlington, VA, US
 
+[ACM Advances in Financial Technologies - AFT 2021](https://aft.acm.org/aft21/index.html)
+
+Oct 4-8 | Darmstadt, Germany
+
+[5th International Workshop on Cryptocurrencies and Blockchain Technology - CBT 2021](https://deic-web.uab.cat/conferences/dpm/cbt2021/)
+
+Oct 6–8 | Darmstadt, Germany
+
+[STM2021: The 17th International Workshop on Security and Trust Management](https://www.nics.uma.es/stm2021/)
 
 &nbsp;
 
@@ -460,6 +591,12 @@ Kollider | Remote
 - [Junior Backend Engineer](https://kollider.homerun.co/junior-backend-engineer/en)
 - [Senior Backend Engineer](https://kollider.homerun.co/senior-backend-engineer/en)
 - [DevOps Engineer](https://kollider.homerun.co/devops-engineer/en)
+
+Parity Technologies | Berlin or Remote 
+- [Core Rust Developer - Cross-chain Messaging (Polkadot)](https://grnh.se/dafd8e973us)
+- [Core Rust Developer - Consensus (Polkadot)](https://grnh.se/470a1a623us)
+- [Solution Engineer - Substrate](https://grnh.se/d7fe278f3us)
+- [Rust/Core Developer - Open Application](https://grnh.se/0efc64513us)
 
 More jobs can be found at [Job Board][page-jobboard].
 

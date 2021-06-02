@@ -38,15 +38,15 @@ with similar behavior:
 
 Some of those in the Rust world include
 
-- [Secret Ethereum Bridge][seb]. Between Secret Network and Ethereum.
+- [Secret Ethereum Bridge][seb]. Between [Secret Network] and Ethereum.
 
   Bidirectional. Decentralized. Mainnet.
 
-  [Launch announcement](https://scrt.network/blog/secret-ethereum-bridge-december-2020/.
+  [Launch announcement](https://scrt.network/blog/secret-ethereum-bridge-december-2020/).
   [GitHub](https://github.com/enigmampc/EthereumBridge).
   [Web App](https://bridge.scrt.network/).
 
-- [Secret Monero Bridge][smb]. Between [Secret Network] and Monero.
+- [Secret Monero Bridge][smb]. Between Secret Network and Monero.
 
   Bidirectional. Decentralized. Testnet.
 
@@ -62,7 +62,7 @@ Some of those in the Rust world include
   Bidirectional. Decentralized. Testnet.
 
   [Launch accountement](https://scrt.network/blog/secret-binance-smart-chain-bridge-is-live-on-testnet).
-  [Web App](https://bsc.testnet.enigma.co/)
+  [Web App](https://bsc.testnet.enigma.co/).
 
 - [Secret Plasm Bridge][spb]. Between Secret Network and [Plasm Network].
 
@@ -79,7 +79,7 @@ Some of those in the Rust world include
 
   [GitHub 1](https://github.com/aurora-is-near/rainbow-bridge).
   [GitHub 2](https://github.com/aurora-is-near/rainbow-bridge-client).
-  [Web App]: https://ethereum.bridgetonear.org/
+  [Web App](https://ethereum.bridgetonear.org/).
 
 
 

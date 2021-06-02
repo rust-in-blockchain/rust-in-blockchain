@@ -104,6 +104,7 @@ Polkadot's family of bridges is [described here][pbridges].
 ## Thanks
 
 Thanks to contributors:
+[A Pruden][contributorap],
 [Júlio Santos][contributorjs],
 [Max Wegman][contributormw],
 [naternater][contributorna],
@@ -117,6 +118,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#25 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[contributorap]: https://github.com/apruden2008
 [contributorjs]: https://github.com/juliosantos
 [contributormw]: https://github.com/mastermaxy
 [contributorna]: https://github.com/naternater
@@ -171,7 +173,6 @@ who also created
 #### Blog Posts
 
 - [Power of Tau, or How I Learned to Stop Worrying and Love the Setup](https://medium.com/zeroknowledge/the-power-of-tau-or-how-i-learned-to-stop-worrying-and-love-the-setup-535a05bec15d)
-- [zkSync 2.0: Hello Ethereum!](https://medium.com/matter-labs/zksync-2-0-hello-ethereum-ca48588de179)
 
 
 #### Papers
@@ -542,6 +543,16 @@ who also created
 [zcash-open_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 [zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
 [zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
+
+#### [zkSync](https://github.com/matter-labs/zksync)
+
+0 merged PRs,
+0 closed issues, 
+1 open issues ([1][zksync-open_issues-1])
+
+[zksync-open_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2021-05-01..2021-05-31
+
+- News: [zkSync 2.0: Hello Ethereum!](https://medium.com/matter-labs/zksync-2-0-hello-ethereum-ca48588de179)
 
 
 &nbsp;

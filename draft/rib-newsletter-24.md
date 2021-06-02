@@ -18,10 +18,9 @@ the chillest newsletter about the chillest tech.
 
 Thanks to contributors:
 [Júlio Santos][contributorjs],
+[Max Wegman][contributormw],
 [naternater][contributorna],
-
-_TODO_
-
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -31,6 +30,7 @@ please contribute to the next issue
 by submitting a PR to the [#25 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [contributorjs]: https://github.com/juliosantos
+[contributormw]: https://github.com/mastermaxy
 [contributorna]: https://github.com/naternater
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
@@ -83,6 +83,7 @@ who also created
 #### Blog Posts
 
 
+
 #### Papers
 
 - [Hours of Horus: Keyless Cryptocurrency Wallets](https://eprint.iacr.org/2021/715)
@@ -97,6 +98,8 @@ who also created
 
 - [Polkadex](https://github.com/Polkadex-Substrate/Polkadex).
   An Orderbook-based Decentralized Exchange using the Substrate Blockchain Framework.
+- [snarkVM](https://github.com/AleoHQ/snarkVM).
+  A Virtual Machine for Zero-Knowledge Executions.
 
 &nbsp;
 
@@ -471,6 +474,12 @@ Kollider | Remote
 - [Junior Backend Engineer](https://kollider.homerun.co/junior-backend-engineer/en)
 - [Senior Backend Engineer](https://kollider.homerun.co/senior-backend-engineer/en)
 - [DevOps Engineer](https://kollider.homerun.co/devops-engineer/en)
+
+Parity Technologies | Berlin or Remote 
+- [Core Rust Developer - Cross-chain Messaging (Polkadot)](https://grnh.se/dafd8e973us)
+- [Core Rust Developer - Consensus (Polkadot)](https://grnh.se/470a1a623us)
+- [Solution Engineer - Substrate](https://grnh.se/d7fe278f3us)
+- [Rust/Core Developer - Open Application](https://grnh.se/0efc64513us)
 
 More jobs can be found at [Job Board][page-jobboard].
 

@@ -11,12 +11,11 @@ pager: false
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
 
-Aleo | San Francisco, US; Remote
-- [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)
-- [Senior Protocol Engineer](https://aleo.org/jobs/senior-protocol-engineer)
-- [Senior Compiler Engineer](https://aleo.org/jobs/senior-compiler-engineer)
-- [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)
-- [Interface Designer](https://aleo.org/jobs/interface-designer)
+Aleo | San Francisco, Remote
+- [Senior Protocol Engineer](https://www.aleo.org/jobs/senior-protocol-engineer)
+- [Senior Compiler Engineer](https://www.aleo.org/jobs/senior-compiler-engineer)
+- [Full Stack Developer](https://www.aleo.org/jobs/full-stack-developer)
+- [Interface Designer](https://www.aleo.org/jobs/interface-designer)
 
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)

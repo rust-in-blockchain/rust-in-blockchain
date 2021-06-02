@@ -170,7 +170,9 @@ who also created
   
 #### Blog Posts
 
+- [Power of Tau, or How I Learned to Stop Worrying and Love the Setup](https://medium.com/zeroknowledge/the-power-of-tau-or-how-i-learned-to-stop-worrying-and-love-the-setup-535a05bec15d)
 - [zkSync 2.0: Hello Ethereum!](https://medium.com/matter-labs/zksync-2-0-hello-ethereum-ca48588de179)
+
 
 #### Papers
 
@@ -575,6 +577,12 @@ Company name | Location A, B, Remote
 - [Job 1](https://job.one)
 - [Job 2](https://job.two)
 -->
+
+Aleo | San Francisco, Remote
+- [Senior Protocol Engineer](https://www.aleo.org/jobs/senior-protocol-engineer)
+- [Senior Compiler Engineer](https://www.aleo.org/jobs/senior-compiler-engineer)
+- [Full Stack Developer](https://www.aleo.org/jobs/full-stack-developer)
+- [Interface Designer](https://www.aleo.org/jobs/interface-designer)
 
 Fractal Protocol | Remote or Berlin
 - [Rust and Blockchain Engineer](https://gist.github.com/juliosantos/ba6d01ffab39b5c06ea459d88b1f735f)

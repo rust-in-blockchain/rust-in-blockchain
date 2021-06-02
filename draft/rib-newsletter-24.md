@@ -57,11 +57,11 @@ Some of those in the Rust world include
   [GitHub](https://github.com/maxkoda-cpu/Secret-Monero-Bridge).
   [Web App](https://ipfs.io/ipfs/Qmdy9Ups2Ru3ycKAiCre9zomRbFqgts1eAcvG43E2CcQTt/).
 
-- [Secret Binance Smart Chain Bridge][sbb]. Betweer Secret Network and Binance Smart Chain.
+- [Secret Binance Smart Chain Bridge][sbb]. Between Secret Network and Binance Smart Chain.
 
   Bidirectional. Decentralized. Testnet.
 
-  [Launch accountement](https://scrt.network/blog/secret-binance-smart-chain-bridge-is-live-on-testnet).
+  [Launch announcement](https://scrt.network/blog/secret-binance-smart-chain-bridge-is-live-on-testnet).
   [Web App](https://bsc.testnet.enigma.co/).
 
 - [Secret Plasm Bridge][spb]. Between Secret Network and [Plasm Network].

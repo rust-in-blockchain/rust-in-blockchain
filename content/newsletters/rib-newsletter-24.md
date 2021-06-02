@@ -5,7 +5,11 @@ date: 2021-06-02
 slug: "/bridges"
 categories:
   - "newsletters"
-summary: ""
+summary: "This month we're interested in cross-chain bridges.
+With Ethereum at capacity recently,
+other blockchain projects are eyeing the window
+of opportunity between now and a functional Ethereum 2
+to siphon away some of that chain's activity."
 ---
 
 Welcome to the #24 edition of Rust in Blockchain,
@@ -24,7 +28,7 @@ It looks like we are well on our way to an internetwork of blockchains,
 so now is a good time to do a survey of bridges
 to Rust chains.
 
-Thise bridges mostly support moving fungible tokens today,
+These bridges mostly support moving fungible tokens today,
 and some plan to support NFTs;
 contrasting with general cross-chain communications
 protocols like [IBC] and [XCMP].

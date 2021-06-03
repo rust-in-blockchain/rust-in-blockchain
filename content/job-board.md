@@ -47,6 +47,9 @@ DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
 - [Software Engineer, Front-End](https://grnh.se/b8daa0ed2us)
 - [Software Engineer, SDK](https://grnh.se/92e1344b2us)
 
+e^{i} Ventures | Remote
+- [Senior Rust Smart Contract Engineer](https://angel.co/l/2vmk7m)
+
 ElevenYellow | Remote
 - [Rust Engineer](https://cryptocurrencyjobs.co/engineering/elevenyellow-rust-developer/)
 

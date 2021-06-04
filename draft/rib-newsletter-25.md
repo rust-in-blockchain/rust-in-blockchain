@@ -17,6 +17,7 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[jkdipeppe]
 
 _TODO_
 
@@ -28,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#26 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[jkdipeppe]: https://github.com/jkdipeppe
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 
@@ -155,6 +157,8 @@ Company name | Location A, B, Remote
 - [Job 2](https://job.two)
 -->
 
+e^{i} Ventures | Remote
+- [Senior Rust Smart Contract Engineer](https://angel.co/l/2vmk7m)
 
 
 More jobs can be found at [Job Board][page-jobboard].

@@ -67,6 +67,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+#### [ChainSafe](https://github.com/ChainSafe)
+
 #### [CodeChain](https://github.com/CodeChain-io)
 
 #### [COMIT](https://github.com/comit-network)
@@ -134,9 +136,6 @@ May 1-2 | Online
 
 -->
 
-May 20 | Online
-
-[Polkadot Decoded](https://decoded.polkadot.network/).
 
 
 &nbsp;
@@ -144,9 +143,11 @@ May 20 | Online
 ## Careers
 
 <!--
+
 Company name | Location A, B, Remote
 - [Job 1](https://job.one)
 - [Job 2](https://job.two)
+
 -->
 
 

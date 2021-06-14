@@ -37,6 +37,22 @@ repos = [
 ]
 ```
 
+## ChainSafe
+
+Media:
+
+- https://medium.com/chainsafe-systems
+
+GitHub:
+
+- https://github.com/ChainSafe
+
+```toml
+repos = [
+"ChainSafe/forest"
+]
+```
+
 
 ## COMIT
 
@@ -176,6 +192,7 @@ repos = [
 "fluencelabs/rust-sdk",
 ]
 ```
+
 
 ## Golem
 

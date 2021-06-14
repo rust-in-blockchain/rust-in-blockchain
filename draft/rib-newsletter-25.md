@@ -69,6 +69,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+#### [ChainSafe](https://github.com/ChainSafe)
+
 #### [COMIT](https://github.com/comit-network)
 
 #### [Concordium](https://github.com/Concordium)

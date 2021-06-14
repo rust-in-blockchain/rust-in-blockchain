@@ -17,7 +17,8 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
-[jkdipeppe]
+[jkdipeppe],
+[Ken Carpenter],
 
 _TODO_
 
@@ -30,6 +31,7 @@ please contribute to the next issue
 by submitting a PR to the [#26 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [jkdipeppe]: https://github.com/jkdipeppe
+[Ken Carpenter]: https://github.com/FoundationKen
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 
@@ -162,6 +164,10 @@ Company name | Location A, B, Remote
 e^{i} Ventures | Remote
 - [Senior Rust Smart Contract Engineer](https://angel.co/l/2vmk7m)
 
+Foundation Devices | Boston, MA - San Diego, CA - Remote
+- [Embedded Rust Engineer](https://angel.co/company/foundationdevices/jobs/1436754-embedded-rust-engineer)
+- [Bitcoin Rust Engineer](https://angel.co/company/foundationdevices/jobs/1436755-bitcoin-rust-engineer)
+- [Tools/Test/Build Software Engineer (Rust)](https://angel.co/company/foundationdevices/jobs/1436756-tools-test-build-software-engineer)
 
 More jobs can be found at [Job Board][page-jobboard].
 

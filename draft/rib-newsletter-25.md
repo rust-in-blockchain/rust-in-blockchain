@@ -51,6 +51,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 
 #### Blog Posts
+- [Back into the Forest: ChainSafe's Filecoin Rust implementation project update](https://medium.com/chainsafe-systems/back-into-the-forest-983a4344ffe9)
+- [Realizing the Mina vision in Rust: ChainSafe's Mina Protocol Rust implementation announcement](https://medium.com/chainsafe-systems/realizing-the-mina-vision-in-rust-453f6f522205)
 
 
 #### Papers
@@ -156,9 +158,8 @@ Oct 6–8 | Darmstadt, Germany
 ## Careers
 
 <!--
-Company name | Location A, B, Remote
-- [Job 1](https://job.one)
-- [Job 2](https://job.two)
+ChainSafe | Remote
+- [Rust Developer](https://jobs.smartrecruiters.com/ChainSafeSystemsInc/743999739358248-rust-developer)
 -->
 
 e^{i} Ventures | Remote

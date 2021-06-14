@@ -17,6 +17,7 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[haochizzle],
 [jkdipeppe],
 [Ken Carpenter],
 
@@ -30,6 +31,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#26 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[haochizzle]: https://github.com/haochizzle
 [jkdipeppe]: https://github.com/jkdipeppe
 [Ken Carpenter]: https://github.com/FoundationKen
 [contributorba]: https://github.com/brson
@@ -51,8 +53,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 
 #### Blog Posts
-- [Back into the Forest: ChainSafe's Filecoin Rust implementation project update](https://medium.com/chainsafe-systems/back-into-the-forest-983a4344ffe9)
-- [Realizing the Mina vision in Rust: ChainSafe's Mina Protocol Rust implementation announcement](https://medium.com/chainsafe-systems/realizing-the-mina-vision-in-rust-453f6f522205)
 
 
 #### Papers
@@ -74,6 +74,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Aleo](https://github.com/AleoHQ)
 
 #### [ChainSafe](https://github.com/ChainSafe)
+
+- News:
+  - [Back into the Forest: ChainSafe's Filecoin Rust implementation project update](https://medium.com/chainsafe-systems/back-into-the-forest-983a4344ffe9)
+  - [Realizing the Mina vision in Rust: ChainSafe's Mina Protocol Rust implementation announcement](https://medium.com/chainsafe-systems/realizing-the-mina-vision-in-rust-453f6f522205)
 
 #### [COMIT](https://github.com/comit-network)
 
@@ -158,9 +162,13 @@ Oct 6–8 | Darmstadt, Germany
 ## Careers
 
 <!--
+Company name | Location A, B, Remote
+- [Job 1](https://job.one)
+- [Job 2](https://job.two)
+-->
+
 ChainSafe | Remote
 - [Rust Developer](https://jobs.smartrecruiters.com/ChainSafeSystemsInc/743999739358248-rust-developer)
--->
 
 e^{i} Ventures | Remote
 - [Senior Rust Smart Contract Engineer](https://angel.co/l/2vmk7m)

@@ -20,6 +20,7 @@ Thanks to contributors:
 [haochizzle],
 [jkdipeppe],
 [Ken Carpenter],
+[Manuel Mauro],
 
 _TODO_
 
@@ -34,6 +35,7 @@ by submitting a PR to the [#26 draft](https://github.com/rust-in-blockchain/Rust
 [haochizzle]: https://github.com/haochizzle
 [jkdipeppe]: https://github.com/jkdipeppe
 [Ken Carpenter]: https://github.com/FoundationKen
+[Manuel Mauro]: https://github.com/manuelmauro
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 
@@ -60,6 +62,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Rust `algonaut`](https://github.com/manuelmauro/algonaut).
+  A rusty SDK for Algorand. It is currently working in progress.
 
 &nbsp;
 

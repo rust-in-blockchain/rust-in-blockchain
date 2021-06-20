@@ -56,6 +56,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Polygon: L2 or not L2?](https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2)
 
 #### Papers
 

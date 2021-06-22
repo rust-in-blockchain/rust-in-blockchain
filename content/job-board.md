@@ -33,6 +33,9 @@ ChainSafe | Toronto, Remote
 Compound | Remote
 - [Rust Engineer](https://www.crypto-careers.com/jobs/39500671-rust-engineer-at-compound)
 
+Convexity DMCC | Dubai, On Site & Remote
+- [Smart Contract Engineer (Rust)](https://angel.co/company/convexity-dmcc/jobs/1453304-smart-contract-engineer-rust)
+
 Diem | Remote
 - [Developer Advocate](https://www.diem.com/en-us/job-board/?gh_jid=4465800002)
 

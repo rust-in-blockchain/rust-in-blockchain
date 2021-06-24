@@ -17,6 +17,7 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[convexitydmcc],
 [haochizzle],
 [jkdipeppe],
 [Ken Carpenter],
@@ -32,6 +33,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [#26 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[convexitydmcc]: https://github.com/convexitydmcc
 [haochizzle]: https://github.com/haochizzle
 [jkdipeppe]: https://github.com/jkdipeppe
 [Ken Carpenter]: https://github.com/FoundationKen
@@ -174,6 +176,9 @@ Company name | Location A, B, Remote
 
 ChainSafe | Remote
 - [Rust Developer](https://jobs.smartrecruiters.com/ChainSafeSystemsInc/743999739358248-rust-developer)
+
+Convexity DMCC | Dubai, On Site & Remote
+- [Smart Contract Engineer (Rust)](https://angel.co/company/convexity-dmcc/jobs/1453304-smart-contract-engineer-rust)
 
 e^{i} Ventures | Remote
 - [Senior Rust Smart Contract Engineer](https://angel.co/l/2vmk7m)

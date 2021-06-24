@@ -67,6 +67,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Rust `algonaut`](https://github.com/manuelmauro/algonaut).
   A rusty SDK for Algorand. It is currently working in progress.
+- [bip32.rs](https://github.com/iqlusioninc/crates/tree/main/bip32):
+  pure Rust, generic, `no_std`-friendly implementation of
+  BIP32 Hierarchical Deterministic Wallets and BIP39 mnemonics
 
 &nbsp;
 

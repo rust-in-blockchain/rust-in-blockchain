@@ -22,6 +22,7 @@ Thanks to contributors:
 [jkdipeppe],
 [Ken Carpenter],
 [Manuel Mauro],
+[Tony Arcieri],
 
 _TODO_
 
@@ -38,6 +39,7 @@ by submitting a PR to the [#26 draft](https://github.com/rust-in-blockchain/Rust
 [jkdipeppe]: https://github.com/jkdipeppe
 [Ken Carpenter]: https://github.com/FoundationKen
 [Manuel Mauro]: https://github.com/manuelmauro
+[Tony Arcieri]: https://github.com/tarcieri
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
 

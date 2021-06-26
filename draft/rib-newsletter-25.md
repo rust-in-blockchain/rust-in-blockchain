@@ -72,6 +72,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [bip32.rs](https://github.com/iqlusioninc/crates/tree/main/bip32):
   pure Rust, generic, `no_std`-friendly implementation of
   BIP32 Hierarchical Deterministic Wallets and BIP39 mnemonics
+- [Cupcake](https://github.com/facebookresearch/Cupcake).
+  A Rust library for lattice-based additive homomorphic encryption.
 
 &nbsp;
 

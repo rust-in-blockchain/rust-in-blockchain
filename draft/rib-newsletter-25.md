@@ -22,6 +22,7 @@ Thanks to contributors:
 [jkdipeppe],
 [Ken Carpenter],
 [Manuel Mauro],
+[Mikhail Zabaluev],
 [Tony Arcieri],
 
 _TODO_
@@ -39,6 +40,7 @@ by submitting a PR to the [#26 draft](https://github.com/rust-in-blockchain/Rust
 [jkdipeppe]: https://github.com/jkdipeppe
 [Ken Carpenter]: https://github.com/FoundationKen
 [Manuel Mauro]: https://github.com/manuelmauro
+[Mikhail Zabaluev]: https://github.com/mzabaluev
 [Tony Arcieri]: https://github.com/tarcieri
 [contributorba]: https://github.com/brson
 [contributoraz]: https://github.com/Aimeedeer
@@ -194,6 +196,13 @@ Foundation Devices | Boston, MA - San Diego, CA - Remote
 - [Embedded Rust Engineer](https://angel.co/company/foundationdevices/jobs/1436754-embedded-rust-engineer)
 - [Bitcoin Rust Engineer](https://angel.co/company/foundationdevices/jobs/1436755-bitcoin-rust-engineer)
 - [Tools/Test/Build Software Engineer (Rust)](https://angel.co/company/foundationdevices/jobs/1436756-tools-test-build-software-engineer)
+
+IO Global | Remote
+- [Software Engineer - Rust](https://apply.workable.com/io-global/j/40A7923138/)
+- [Software Engineering Lead - Rust](https://apply.workable.com/io-global/j/870698A849/)
+
+Oxygen | Dubai or Remote
+- [Rust Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
 
 More jobs can be found at [Job Board][page-jobboard].
 

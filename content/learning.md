@@ -49,7 +49,7 @@ is preferred, or comment on this page below.
 - [Lessons Learned from Teaching Over 500 Developers or: Why You Should Level Up](https://medium.com/@jimmysong/lessons-learned-from-teaching-over-500-developers-or-why-you-should-level-up-ad0e48bce067)
 - [Libra and Exonum: A Comparison of Rust-Based Blockchain Solutions](https://medium.com/meetbitfury/libra-and-exonum-a-comparison-of-rust-based-blockchain-solutions-6963a7f4a81d)
 - [An OS prototype where binaries are WASM, run in ring 0](https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are)
-- [Token Engineering Learning Program](https://www.tannrallard.tech/token-engineering-learning-program/)
+- [Token Engineering Learning Program](https://web.archive.org/web/20210123044822/https://www.tannrallard.tech/token-engineering-learning-program/)
 - [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/)
 
 ## Reports and Papers

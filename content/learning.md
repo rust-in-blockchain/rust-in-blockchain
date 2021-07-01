@@ -19,7 +19,7 @@ is preferred, or comment on this page below.
 - [Why Blockchain is Hard](https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c)
 - [What Is Web3?](https://avc.com/2019/06/video-of-the-week-what-is-web3/) 
 - [What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b)
-- [The Rise of Rust and Blockchain](https://domsteil.com/2019/08/08/rust-and-blockchain/)
+- [The Rise of Rust and Blockchain](https://domsteil.com/posts/rust)
 - [A blockchain dilemma: chain forks, catastrophic re-orgs, and insurance](https://medium.com/solana-labs/a-blockchain-dilemma-chain-forks-catastrophic-re-orgs-and-insurance-3b88a2fbd2ba)
 - [‘One Network, Many Chains’ – The Case for Blockchain Interoperability](https://www.coindesk.com/one-network-many-chains-the-case-for-blockchain-interoperability)
 - [Onboarding to Bitcoin Core](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)

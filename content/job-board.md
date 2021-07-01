@@ -75,6 +75,11 @@ Fractal Protocol | Remote or Berlin
 Fuel Labs | Remote
 - [Senior Software Engineer [Rust]](https://jobs.lever.co/fuellabs/13b01903-490a-4497-b778-35434f4188cf)
 
+IO Global | Remote
+
+- [Software Engineer - Rust](https://apply.workable.com/io-global/j/40A7923138/)
+- [Software Engineering Lead - Rust](https://apply.workable.com/io-global/j/870698A849/)
+
 Jet Protocol | Remote
 - [Rust Blockchain Engineer](https://docs.google.com/document/d/1GXuk2LPxoYxIdQGwsL9IZ34B7WjlgkdJBgY7QBgBIn0)
 

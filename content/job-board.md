@@ -110,6 +110,9 @@ Matter Labs | Berlin/Kiev or Remote
 Moonbeam | Boston, MA USA; Madrid, Spain; Remote
 - [Senior Blockchain Engineer](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
 
+Oxygen | Dubai or Remote
+- [Rust Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
+
 Parity Technologies | Berlin or Remote 
 - [Core Rust Developer - Cross-chain Messaging (Polkadot)](https://grnh.se/dafd8e973us)
 - [Core Rust Developer - Consensus (Polkadot)](https://grnh.se/470a1a623us)

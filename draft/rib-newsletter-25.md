@@ -1,11 +1,11 @@
 ---
-title: "RiB Newsletter #25"
+title: "RiB Newsletter #25 - _TODO_"
 description: "#25 - June 2021"
 date: 2021-07-07
-slug: "/"
+slug: "/_TODO_"
 categories:
   - "newsletters"
-summary: ""
+summary: "_TODO_"
 ---
 
 Welcome to the #25 edition of Rust in Blockchain,
@@ -25,9 +25,7 @@ Thanks to contributors:
 [Mikhail Zabaluev],
 [Thomas Lisankie],
 [Tony Arcieri],
-
-_TODO_
-
+[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 

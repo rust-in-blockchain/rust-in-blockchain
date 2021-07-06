@@ -1,11 +1,11 @@
 ---
-title: "RiB Newsletter #22"
+title: "RiB Newsletter #22 - _TODO_"
 description: "#22 - March 2021"
 date: 2021-03-31
-slug: "/"
+slug: "/_TODO_"
 categories:
   - "newsletters"
-summary: ""
+summary: "_TODO_"
 ---
 
 Welcome to the #22 edition of Rust in Blockchain,

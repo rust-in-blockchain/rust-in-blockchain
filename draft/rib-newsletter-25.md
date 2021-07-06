@@ -64,10 +64,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- All about [Zero-Knowledge Proofs](https://zkp.science/)
+- [On the optimization of PlonK](https://www.fluidex.io/en/blog/on-plonk/)
+- [Optimizing Pairing-Based Cryptography: Montgomery Arithmetic in Rust](https://research.nccgroup.com/2021/06/09/optimizing-pairing-based-cryptography-montgomery-arithmetic-in-rust/)
 - [Polygon: L2 or not L2?](https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2)
+
 
 #### Papers
 
+- [zkKYC: A solution concept for KYC without knowing your customer, leveraging self-sovereign identity and zero-knowledge proofs](https://eprint.iacr.org/2021/907)
 
 #### Projects
 
@@ -133,9 +138,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [chainsafe-closed_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
 [chainsafe-open_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
-- News:
-  - [Back into the Forest: ChainSafe's Filecoin Rust implementation project update](https://medium.com/chainsafe-systems/back-into-the-forest-983a4344ffe9)
-  - [Realizing the Mina vision in Rust: ChainSafe's Mina Protocol Rust implementation announcement](https://medium.com/chainsafe-systems/realizing-the-mina-vision-in-rust-453f6f522205)
+- [Back into the Forest: ChainSafe's Filecoin Rust implementation project update](https://medium.com/chainsafe-systems/back-into-the-forest-983a4344ffe9)
+- [Realizing the Mina vision in Rust: ChainSafe's Mina Protocol Rust implementation announcement](https://medium.com/chainsafe-systems/realizing-the-mina-vision-in-rust-453f6f522205)
 
 #### [COMIT](https://github.com/comit-network)
 
@@ -376,6 +380,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [secret_network-closed_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
 [secret_network-open_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
+- [Announcing the Secret Terra Bridge!](https://scrt.network/blog/announcing-secret-network-terra-bridge)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 296 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
@@ -448,6 +454,10 @@ May 1-2 | Online
 
 -->
 
+Sep 6-10 | Online
+
+[6th IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2021/index.html)
+
 Sep 14 | Online
 
 [RustConf 2021](https://rustconf.com/).
@@ -464,6 +474,14 @@ Oct 4-8 | Darmstadt, Germany
 Oct 6–8 | Darmstadt, Germany
 
 [STM2021: The 17th International Workshop on Security and Trust Management](https://www.nics.uma.es/stm2021/)
+
+Nov 18-19 | Online
+
+[Tokenomics 2021: 3rd International Conference on Blockchain Economics, Security and Protocols](https://sites.google.com/nyu.edu/tokenomics2021)
+
+Dec 3 | Seoul, Korea
+
+[ICISC: The 24th Annual International Conference on information Security and Cryptology](http://www.icisc.org/)
 
 &nbsp;
 

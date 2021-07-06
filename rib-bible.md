@@ -133,6 +133,28 @@ repos = [
 ]
 ```
 
+## Dfinity
+
+Media:
+
+- https://medium.com/dfinity
+
+GitHub:
+
+- https://github.com/dfinity
+
+```toml
+repos = [
+"dfinity/agent-rs",
+"dfinity/candid",
+"dfinity/cdk-rs",
+"dfinity/ic",
+"dfinity/ic-types",
+"dfinity/quill",
+"dfinity/vessel",
+]
+```
+
 ## Diem
 
 Media:

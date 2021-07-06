@@ -72,17 +72,23 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [A General Purpose Transpiler for Fully Homomorphic Encryption](https://arxiv.org/abs/2106.07893)
+- [Asynchronous Data Dissemination and its Applications](https://eprint.iacr.org/2021/777)
+- [HEX-BLOOM: An Alternative to the Merkle Tree](https://eprint.iacr.org/2021/773)
+- [VCProof: Constructing Shorter and Faster-to-Verify zkSNARKs with Vector Oracles](https://eprint.iacr.org/2021/710)
 - [zkKYC: A solution concept for KYC without knowing your customer, leveraging self-sovereign identity and zero-knowledge proofs](https://eprint.iacr.org/2021/907)
 
 #### Projects
 
-- [Rust `algonaut`](https://github.com/manuelmauro/algonaut).
-  A rusty SDK for Algorand. It is currently working in progress.
 - [bip32.rs](https://github.com/iqlusioninc/crates/tree/main/bip32):
   pure Rust, generic, `no_std`-friendly implementation of
   BIP32 Hierarchical Deterministic Wallets and BIP39 mnemonics
 - [Cupcake](https://github.com/facebookresearch/Cupcake).
   A Rust library for lattice-based additive homomorphic encryption.
+- [Rust `algonaut`](https://github.com/manuelmauro/algonaut).
+  A rusty SDK for Algorand. It is currently working in progress.
+- [Yatima](https://github.com/yatima-inc/yatima).
+  A programming language for the decentralized web.
 
 &nbsp;
 
@@ -167,6 +173,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [concordium-open_issues-2]: https://github.com/Concordium/concordium-base/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 [concordium-open_issues-3]: https://github.com/Concordium/concordium-rust-smart-contracts/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
+- [Concordium is live — First steps](https://medium.com/concordium/concordium-is-live-first-steps-edb128c0fb36)
+- [Code Assessment of the Concordium Blockchain](https://research.kudelskisecurity.com/2021/06/04/code-assessment-of-the-concordium-blockchain)
+
 #### [Conflux](https://github.com/Conflux-Chain)
 
 18 merged PRs ([1][conflux-merged-prs-1]),
@@ -176,6 +185,30 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [conflux-merged-prs-1]: https://github.com/Conflux-Chain/conflux-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
 [conflux-closed_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
 [conflux-open_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
+#### [Dfinity](https://github.com/dfinity)
+
+43 merged PRs ([1][dfinity-merged-prs-1], [2][dfinity-merged-prs-2], [3][dfinity-merged-prs-3], [4][dfinity-merged-prs-4], [5][dfinity-merged-prs-5]),
+11 closed issues ([1][dfinity-closed_issues-1], [2][dfinity-closed_issues-2], [3][dfinity-closed_issues-3], [4][dfinity-closed_issues-4], [5][dfinity-closed_issues-5]), 
+20 open issues ([1][dfinity-open_issues-1], [2][dfinity-open_issues-2], [3][dfinity-open_issues-3], [4][dfinity-open_issues-4])
+
+[dfinity-merged-prs-1]: https://github.com/dfinity/agent-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[dfinity-merged-prs-2]: https://github.com/dfinity/candid/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[dfinity-merged-prs-3]: https://github.com/dfinity/cdk-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[dfinity-merged-prs-4]: https://github.com/dfinity/quill/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[dfinity-merged-prs-5]: https://github.com/dfinity/vessel/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[dfinity-closed_issues-1]: https://github.com/dfinity/agent-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[dfinity-closed_issues-2]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[dfinity-closed_issues-3]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[dfinity-closed_issues-4]: https://github.com/dfinity/quill/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[dfinity-closed_issues-5]: https://github.com/dfinity/vessel/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[dfinity-open_issues-1]: https://github.com/dfinity/agent-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[dfinity-open_issues-2]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[dfinity-open_issues-3]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[dfinity-open_issues-4]: https://github.com/dfinity/quill/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
+- [Introducing the Internet Computer ‘Badlands’ Concept](https://medium.com/dfinity/introducing-the-internet-computer-badlands-concept-72e808482679)
+- [Motoko, a Programming Language Designed for the Internet Computer, Is Now Open Source](https://medium.com/dfinity/motoko-a-programming-language-designed-for-the-internet-computer-is-now-open-source-8d85da4db735)
 
 #### [Diem](https://github.com/diem)
 
@@ -344,6 +377,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [parity-open_issues-2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 [parity-open_issues-3]: https://github.com/paritytech/cumulus/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 [parity-open_issues-4]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
+- [Nominating and Validator Selection on Polkadot](https://medium.com/polkadot-network/nominating-and-validator-selection-on-polkadot-6c5c76cd6b9d)
+- [Kusama Parachain Auctions](https://medium.com/polkadot-network/kusama-parachain-auctions-2e1e02e301c0)
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 

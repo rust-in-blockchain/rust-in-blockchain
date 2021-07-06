@@ -336,6 +336,7 @@ GitHub:
 
 ``` toml
 repos	= [
+"mobilecoinfoundation/fog",
 "mobilecoinfoundation/mobilecoin",
 ]
 

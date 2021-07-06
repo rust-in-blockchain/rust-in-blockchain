@@ -312,11 +312,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
-9 merged PRs ([1][mobilecoin-merged-prs-1]),
+15 merged PRs ([1][mobilecoin-merged-prs-1], [2][mobilecoin-merged-prs-2]),
 3 closed issues ([1][mobilecoin-closed_issues-1]), 
 3 open issues ([1][mobilecoin-open_issues-1])
 
-[mobilecoin-merged-prs-1]: https://github.com/mobilecoinfoundation/mobilecoin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[mobilecoin-merged-prs-1]: https://github.com/mobilecoinfoundation/fog/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[mobilecoin-merged-prs-2]: https://github.com/mobilecoinfoundation/mobilecoin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
 [mobilecoin-closed_issues-1]: https://github.com/mobilecoinfoundation/mobilecoin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
 [mobilecoin-open_issues-1]: https://github.com/mobilecoinfoundation/mobilecoin/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
@@ -430,6 +431,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [solana-closed_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
+- [RenVM Integrates with Solana for Interoperability](https://medium.com/renproject/renvm-integrates-with-solana-for-interoperability-cee10832356a)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 

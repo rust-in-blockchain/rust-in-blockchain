@@ -83,6 +83,21 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Most Active in June
 
+[Parity](https://github.com/paritytech):
+328 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5]),
+129 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+128 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4])
+
+[Solana](https://github.com/solana-labs/solana):
+296 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
+23 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+51 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[Zcash](https://github.com/zcash):
+136 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]),
+44 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]), 
+88 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
+
 &nbsp;
 
 ## Project Updates
@@ -91,7 +106,32 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
+88 merged PRs ([1][aleo-merged-prs-1], [2][aleo-merged-prs-2], [3][aleo-merged-prs-3], [4][aleo-merged-prs-4]),
+57 closed issues ([1][aleo-closed_issues-1], [2][aleo-closed_issues-2], [3][aleo-closed_issues-3]), 
+33 open issues ([1][aleo-open_issues-1], [2][aleo-open_issues-2], [3][aleo-open_issues-3], [4][aleo-open_issues-4])
+
+[aleo-merged-prs-1]: https://github.com/AleoHQ/aleo/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[aleo-merged-prs-2]: https://github.com/AleoHQ/snarkOS/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[aleo-merged-prs-3]: https://github.com/AleoHQ/snarkVM/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[aleo-merged-prs-4]: https://github.com/AleoHQ/leo/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[aleo-closed_issues-1]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[aleo-closed_issues-2]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[aleo-closed_issues-3]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[aleo-open_issues-1]: https://github.com/AleoHQ/aleo/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[aleo-open_issues-2]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[aleo-open_issues-3]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[aleo-open_issues-4]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
+
 #### [ChainSafe](https://github.com/ChainSafe)
+
+21 merged PRs ([1][chainsafe-merged-prs-1]),
+32 closed issues ([1][chainsafe-closed_issues-1]), 
+19 open issues ([1][chainsafe-open_issues-1])
+
+[chainsafe-merged-prs-1]: https://github.com/ChainSafe/forest/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[chainsafe-closed_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[chainsafe-open_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 - News:
   - [Back into the Forest: ChainSafe's Filecoin Rust implementation project update](https://medium.com/chainsafe-systems/back-into-the-forest-983a4344ffe9)
@@ -99,56 +139,302 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [COMIT](https://github.com/comit-network)
 
+32 merged PRs ([1][comit-merged-prs-1]),
+8 closed issues ([1][comit-closed_issues-1]), 
+6 open issues ([1][comit-open_issues-1])
+
+[comit-merged-prs-1]: https://github.com/comit-network/xmr-btc-swap/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[comit-closed_issues-1]: https://github.com/comit-network/xmr-btc-swap/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[comit-open_issues-1]: https://github.com/comit-network/xmr-btc-swap/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
 #### [Concordium](https://github.com/Concordium)
+
+30 merged PRs ([1][concordium-merged-prs-1], [2][concordium-merged-prs-2], [3][concordium-merged-prs-3], [4][concordium-merged-prs-4]),
+6 closed issues ([1][concordium-closed_issues-1], [2][concordium-closed_issues-2]), 
+4 open issues ([1][concordium-open_issues-1], [2][concordium-open_issues-2], [3][concordium-open_issues-3])
+
+[concordium-merged-prs-1]: https://github.com/Concordium/concordium-node/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[concordium-merged-prs-2]: https://github.com/Concordium/concordium-base/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[concordium-merged-prs-3]: https://github.com/Concordium/concordium-contracts-common/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[concordium-merged-prs-4]: https://github.com/Concordium/concordium-rust-smart-contracts/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[concordium-closed_issues-1]: https://github.com/Concordium/concordium-node/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[concordium-closed_issues-2]: https://github.com/Concordium/concordium-base/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[concordium-open_issues-1]: https://github.com/Concordium/concordium-node/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[concordium-open_issues-2]: https://github.com/Concordium/concordium-base/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[concordium-open_issues-3]: https://github.com/Concordium/concordium-rust-smart-contracts/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 #### [Conflux](https://github.com/Conflux-Chain)
 
-#### [Crypto.com Chain](https://github.com/crypto-com)
+18 merged PRs ([1][conflux-merged-prs-1]),
+4 closed issues ([1][conflux-closed_issues-1]), 
+5 open issues ([1][conflux-open_issues-1])
+
+[conflux-merged-prs-1]: https://github.com/Conflux-Chain/conflux-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[conflux-closed_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[conflux-open_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 #### [Diem](https://github.com/diem)
 
+141 merged PRs ([1][diem-merged-prs-1]),
+22 closed issues ([1][diem-closed_issues-1]), 
+26 open issues ([1][diem-open_issues-1])
+
+[diem-merged-prs-1]: https://github.com/diem/diem/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[diem-closed_issues-1]: https://github.com/diem/diem/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[diem-open_issues-1]: https://github.com/diem/diem/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
 #### [Elrond](https://github.com/ElrondNetwork)
+
+22 merged PRs ([1][elrond-merged-prs-1], [2][elrond-merged-prs-2]),
+0 closed issues, 
+0 open issues
+
+[elrond-merged-prs-1]: https://github.com/ElrondNetwork/sc-delegation-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[elrond-merged-prs-2]: https://github.com/ElrondNetwork/elrond-wasm-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
 
 #### [Fluence](https://github.com/fluencelabs)
 
+48 merged PRs ([1][fluence-merged-prs-1], [2][fluence-merged-prs-2], [3][fluence-merged-prs-3], [4][fluence-merged-prs-4]),
+7 closed issues ([1][fluence-closed_issues-1], [2][fluence-closed_issues-2]), 
+8 open issues ([1][fluence-open_issues-1])
+
+[fluence-merged-prs-1]: https://github.com/fluencelabs/fluence/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[fluence-merged-prs-2]: https://github.com/fluencelabs/marine/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[fluence-merged-prs-3]: https://github.com/fluencelabs/aquavm/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[fluence-merged-prs-4]: https://github.com/fluencelabs/marine-rs-sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[fluence-closed_issues-1]: https://github.com/fluencelabs/fluence/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[fluence-closed_issues-2]: https://github.com/fluencelabs/marine/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[fluence-open_issues-1]: https://github.com/fluencelabs/fluence/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
 #### [Golem](https://github.com/golemfactory)
+
+26 merged PRs ([1][golem-merged-prs-1]),
+42 closed issues ([1][golem-closed_issues-1], [2][golem-closed_issues-2]), 
+28 open issues ([1][golem-open_issues-1])
+
+[golem-merged-prs-1]: https://github.com/golemfactory/yagna/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[golem-closed_issues-1]: https://github.com/golemfactory/yagna/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[golem-closed_issues-2]: https://github.com/golemfactory/ya-client/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[golem-open_issues-1]: https://github.com/golemfactory/yagna/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 #### [Grin](https://github.com/mimblewimble/grin)
 
+1 merged PRs ([1][grin-merged-prs-1]),
+1 closed issues ([1][grin-closed_issues-1]), 
+1 open issues ([1][grin-open_issues-1])
+
+[grin-merged-prs-1]: https://github.com/mimblewimble/grin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[grin-closed_issues-1]: https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[grin-open_issues-1]: https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
 #### [Holochain](https://github.com/holochain/)
+
+63 merged PRs ([1][holochain-merged-prs-1], [2][holochain-merged-prs-2], [3][holochain-merged-prs-3], [4][holochain-merged-prs-4]),
+3 closed issues ([1][holochain-closed_issues-1], [2][holochain-closed_issues-2]), 
+4 open issues ([1][holochain-open_issues-1])
+
+[holochain-merged-prs-1]: https://github.com/holochain/holochain/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[holochain-merged-prs-2]: https://github.com/holochain/elemental-chat/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[holochain-merged-prs-3]: https://github.com/holochain/holochain-wasmer/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[holochain-merged-prs-4]: https://github.com/holochain/lair/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[holochain-closed_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[holochain-closed_issues-2]: https://github.com/holochain/holochain-wasmer/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[holochain-open_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 #### [Interledger](https://github.com/interledger-rs)
 
+3 merged PRs ([1][interledger-merged-prs-1]),
+1 closed issues ([1][interledger-closed_issues-1]), 
+0 open issues
+
+[interledger-merged-prs-1]: https://github.com/interledger-rs/interledger-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[interledger-closed_issues-1]: https://github.com/interledger-rs/interledger-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+
 #### [IOTA](https://github.com/iotaledger)
+
+8 merged PRs ([1][iota-merged-prs-1]),
+2 closed issues ([1][iota-closed_issues-1]), 
+2 open issues ([1][iota-open_issues-1])
+
+[iota-merged-prs-1]: https://github.com/iotaledger/iota.rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[iota-closed_issues-1]: https://github.com/iotaledger/iota.rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[iota-open_issues-1]: https://github.com/iotaledger/iota.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
+9 merged PRs ([1][lighthouse-merged-prs-1], [2][lighthouse-merged-prs-2]),
+23 closed issues ([1][lighthouse-closed_issues-1], [2][lighthouse-closed_issues-2]), 
+7 open issues ([1][lighthouse-open_issues-1], [2][lighthouse-open_issues-2])
+
+[lighthouse-merged-prs-1]: https://github.com/sigp/lighthouse/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[lighthouse-merged-prs-2]: https://github.com/sigp/discv5/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[lighthouse-closed_issues-2]: https://github.com/sigp/discv5/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[lighthouse-open_issues-2]: https://github.com/sigp/discv5/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
+
+9 merged PRs ([1][mobilecoin-merged-prs-1]),
+3 closed issues ([1][mobilecoin-closed_issues-1]), 
+3 open issues ([1][mobilecoin-open_issues-1])
+
+[mobilecoin-merged-prs-1]: https://github.com/mobilecoinfoundation/mobilecoin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[mobilecoin-closed_issues-1]: https://github.com/mobilecoinfoundation/mobilecoin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[mobilecoin-open_issues-1]: https://github.com/mobilecoinfoundation/mobilecoin/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
+53 merged PRs ([1][near-merged-prs-1], [2][near-merged-prs-2], [3][near-merged-prs-3]),
+72 closed issues ([1][near-closed_issues-1], [2][near-closed_issues-2], [3][near-closed_issues-3]), 
+14 open issues ([1][near-open_issues-1], [2][near-open_issues-2])
+
+[near-merged-prs-1]: https://github.com/near/nearcore/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[near-merged-prs-2]: https://github.com/near/core-contracts/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[near-merged-prs-3]: https://github.com/near/near-sdk-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[near-closed_issues-1]: https://github.com/near/nearcore/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[near-closed_issues-2]: https://github.com/near/borsh/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[near-closed_issues-3]: https://github.com/near/near-sdk-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[near-open_issues-1]: https://github.com/near/nearcore/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[near-open_issues-2]: https://github.com/near/near-sdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
 #### [Nervos](https://github.com/nervosnetwork)
+
+50 merged PRs ([1][nervos-merged-prs-1], [2][nervos-merged-prs-2], [3][nervos-merged-prs-3]),
+6 closed issues ([1][nervos-closed_issues-1], [2][nervos-closed_issues-2], [3][nervos-closed_issues-3]), 
+1 open issues ([1][nervos-open_issues-1])
+
+[nervos-merged-prs-1]: https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[nervos-merged-prs-2]: https://github.com/nervosnetwork/ckb-vm/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[nervos-merged-prs-3]: https://github.com/nervosnetwork/ckb-cli/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[nervos-closed_issues-1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[nervos-closed_issues-2]: https://github.com/nervosnetwork/ckb-vm/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[nervos-closed_issues-3]: https://github.com/nervosnetwork/capsule/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[nervos-open_issues-1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 #### [Oasis](https://github.com/oasislabs)
 
+0 merged PRs, 0 closed issues, 
+1 open issues ([1][oasis-open_issues-1])
+
+[oasis-open_issues-1]: https://github.com/oasislabs/oasis-ethwasi-runtime/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
+
 #### [Parity](https://github.com/paritytech)
   
+328 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5]),
+129 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+128 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4])
+
+[parity-merged-prs-1]: https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[parity-merged-prs-2]: https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[parity-merged-prs-3]: https://github.com/paritytech/cargo-contract/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[parity-merged-prs-4]: https://github.com/paritytech/cumulus/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[parity-merged-prs-5]: https://github.com/paritytech/ink/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[parity-closed_issues-1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[parity-closed_issues-2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[parity-closed_issues-3]: https://github.com/paritytech/wasmi/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[parity-closed_issues-4]: https://github.com/paritytech/cumulus/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[parity-closed_issues-5]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[parity-open_issues-1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[parity-open_issues-2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[parity-open_issues-3]: https://github.com/paritytech/cumulus/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[parity-open_issues-4]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
+31 merged PRs ([1][rust_bitcoin-merged-prs-1], [2][rust_bitcoin-merged-prs-2]),
+15 closed issues ([1][rust_bitcoin-closed_issues-1], [2][rust_bitcoin-closed_issues-2], [3][rust_bitcoin-closed_issues-3]), 
+16 open issues ([1][rust_bitcoin-open_issues-1], [2][rust_bitcoin-open_issues-2], [3][rust_bitcoin-open_issues-3])
+
+[rust_bitcoin-merged-prs-1]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[rust_bitcoin-merged-prs-2]: https://github.com/rust-bitcoin/rust-lightning/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[rust_bitcoin-closed_issues-1]: https://github.com/rust-bitcoin/rust-bitcoin/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[rust_bitcoin-closed_issues-2]: https://github.com/rust-bitcoin/rust-lightning/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[rust_bitcoin-closed_issues-3]: https://github.com/rust-bitcoin/rust-miniscript/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[rust_bitcoin-open_issues-1]: https://github.com/rust-bitcoin/rust-bitcoin/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[rust_bitcoin-open_issues-2]: https://github.com/rust-bitcoin/rust-lightning/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[rust_bitcoin-open_issues-3]: https://github.com/rust-bitcoin/rust-bitcoincore-rpc/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
+1 merged PRs ([1][rust_ethereum-merged-prs-1]),
+1 closed issues ([1][rust_ethereum-closed_issues-1]), 
+1 open issues ([1][rust_ethereum-open_issues-1])
+
+[rust_ethereum-merged-prs-1]: https://github.com/rust-ethereum/ethabi/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[rust_ethereum-closed_issues-1]: https://github.com/rust-ethereum/ethabi/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[rust_ethereum-open_issues-1]: https://github.com/rust-ethereum/ethabi/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
+
+2 merged PRs ([1][secret_network-merged-prs-1]),
+1 closed issues ([1][secret_network-closed_issues-1]), 
+3 open issues ([1][secret_network-open_issues-1])
+
+[secret_network-merged-prs-1]: https://github.com/enigmampc/SecretNetwork/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[secret_network-closed_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[secret_network-open_issues-1]: https://github.com/enigmampc/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 #### [Solana](https://github.com/solana-labs/solana)
 
+296 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
+23 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+51 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[solana-merged-prs-1]: https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[solana-merged-prs-2]: https://github.com/solana-labs/solana-program-library/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[solana-closed_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[solana-closed_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
 #### [Spacemesh](https://github.com/spacemeshos)
+
+6 merged PRs ([1][spacemesh-merged-prs-1], [2][spacemesh-merged-prs-2]),
+35 closed issues ([1][spacemesh-closed_issues-1], [2][spacemesh-closed_issues-2]), 
+27 open issues ([1][spacemesh-open_issues-1], [2][spacemesh-open_issues-2])
+
+[spacemesh-merged-prs-1]: https://github.com/spacemeshos/go-spacemesh/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[spacemesh-merged-prs-2]: https://github.com/spacemeshos/svm/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[spacemesh-closed_issues-1]: https://github.com/spacemeshos/go-spacemesh/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[spacemesh-closed_issues-2]: https://github.com/spacemeshos/svm/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[spacemesh-open_issues-1]: https://github.com/spacemeshos/go-spacemesh/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[spacemesh-open_issues-2]: https://github.com/spacemeshos/svm/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 #### [TezEdge](https://github.com/tezedge)
 
+43 merged PRs ([1][tezedge-merged-prs-1]),
+0 closed issues, 
+1 open issues ([1][tezedge-open_issues-1])
+
+[tezedge-merged-prs-1]: https://github.com/tezedge/tezedge/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[tezedge-open_issues-1]: https://github.com/tezedge/tezedge/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+
 #### [Zcash](https://github.com/zcash)
+
+136 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]),
+44 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]), 
+88 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
+
+[zcash-merged-prs-1]: https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[zcash-merged-prs-2]: https://github.com/zcash/halo2/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[zcash-merged-prs-3]: https://github.com/zcash/librustzcash/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-06-01..2021-06-30
+[zcash-closed_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[zcash-closed_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[zcash-closed_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[zcash-open_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
+[zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 
+0 merged PRs,
+3 closed issues ([1][zksync-closed_issues-1]), 
+3 open issues ([1][zksync-open_issues-1])
+
+[zksync-closed_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-06-01..2021-06-30
+[zksync-open_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2021-06-01..2021-06-30
 
 &nbsp;
 
@@ -162,6 +448,10 @@ May 1-2 | Online
 
 -->
 
+Sep 14 | Online
+
+[RustConf 2021](https://rustconf.com/).
+[Submit your talk](https://cfp.rustconf.com/events/rustconf-2021) before Jul 11.
 
 Sep 26-28 | Arlington, VA, US
 

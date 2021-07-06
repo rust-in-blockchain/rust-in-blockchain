@@ -189,7 +189,7 @@ repos = [
 "fluencelabs/fluence",
 "fluencelabs/marine",
 "fluencelabs/aquavm",
-"fluencelabs/rust-sdk",
+"fluencelabs/marine-rs-sdk",
 ]
 ```
 

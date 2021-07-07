@@ -1,16 +1,16 @@
 ---
-title: "RiB Newsletter #22 - _TODO_"
-description: "#22 - March 2021"
-date: 2021-03-31
+title: "RiB Newsletter #26 - _TODO_"
+description: "#26 - July 2021"
+date: 2021-08-04
 slug: "/_TODO_"
 categories:
   - "newsletters"
 summary: "_TODO_"
 ---
 
-Welcome to the #22 edition of Rust in Blockchain,
+Welcome to the #26 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
-[Previous: #21](/newsletters/more-rust-and-blockchains/).
+[Previous: #25](/newsletters/hello-summer/).
 
 &nbsp;
 

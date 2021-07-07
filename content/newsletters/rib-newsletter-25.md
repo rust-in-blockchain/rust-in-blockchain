@@ -5,10 +5,7 @@ date: 2021-07-07
 slug: "/hello-summer"
 categories:
   - "newsletters"
-summary: "Welcome to the #25 edition of Rust in Blockchain,
-the chillest newsletter about the chillest tech.
-Each month we like to shine a light on a notable Rust blockchain project. 
-This month that project is bip32.rs."
+summary: Hello, Summer!
 ---
 
 Welcome to the #25 edition of Rust in Blockchain,

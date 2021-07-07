@@ -28,7 +28,8 @@ Thanks to contributors:
 [Mikhail Zabaluev],
 [Thomas Lisankie],
 [Tony Arcieri],
-[Brian Anderson][contributorba], and [Aimee Zhu][contributoraz].
+[Brian Anderson],
+and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -45,8 +46,8 @@ by submitting a PR to the [#26 draft](https://github.com/rust-in-blockchain/Rust
 [Mikhail Zabaluev]: https://github.com/mzabaluev
 [Thomas Lisankie]: https://github.com/TomLisankie
 [Tony Arcieri]: https://github.com/tarcieri
-[contributorba]: https://github.com/brson
-[contributoraz]: https://github.com/Aimeedeer
+[Brian Anderson]: https://github.com/brson
+[Aimee Zhu]: https://github.com/Aimeedeer
 
 &nbsp;
 

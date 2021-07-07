@@ -12,6 +12,9 @@ Welcome to the #25 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #24](/newsletters/bridges/).
 
+
+
+
 &nbsp;
 
 ## Thanks
@@ -63,6 +66,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - All about [Zero-Knowledge Proofs](https://zkp.science/)
+- [First impressions of Rust programming on Solana](https://brson.github.io/2021/06/08/rust-on-solana)
+- [Interoperability Deep Dive: XCMP vs IBC vs Optics](https://alexeizamyatin.medium.com/interoperability-deep-dive-xcmp-vs-ibc-vs-optics-e365c72180cb)
 - [On the optimization of PlonK](https://www.fluidex.io/en/blog/on-plonk/)
 - [Optimizing Pairing-Based Cryptography: Montgomery Arithmetic in Rust](https://research.nccgroup.com/2021/06/09/optimizing-pairing-based-cryptography-montgomery-arithmetic-in-rust/)
 - [Polygon: L2 or not L2?](https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2)
@@ -72,6 +77,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [A General Purpose Transpiler for Fully Homomorphic Encryption](https://arxiv.org/abs/2106.07893)
 - [Asynchronous Data Dissemination and its Applications](https://eprint.iacr.org/2021/777)
+- [DIV: Resolving the Dynamic Issues of Zero-knowledge Set Membership Proof in the Blockchain](https://dl.acm.org/doi/pdf/10.1145/3448016.3457248)
 - [HEX-BLOOM: An Alternative to the Merkle Tree](https://eprint.iacr.org/2021/773)
 - [VCProof: Constructing Shorter and Faster-to-Verify zkSNARKs with Vector Oracles](https://eprint.iacr.org/2021/710)
 - [zkKYC: A solution concept for KYC without knowing your customer, leveraging self-sovereign identity and zero-knowledge proofs](https://eprint.iacr.org/2021/907)
@@ -80,7 +86,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [bip32.rs](https://github.com/iqlusioninc/crates/tree/main/bip32):
   pure Rust, generic, `no_std`-friendly implementation of
-  BIP32 Hierarchical Deterministic Wallets and BIP39 mnemonics
+  BIP32 Hierarchical Deterministic Wallets and BIP39 mnemonics.
 - [Cupcake](https://github.com/facebookresearch/Cupcake).
   A Rust library for lattice-based additive homomorphic encryption.
 - [Rust `algonaut`](https://github.com/manuelmauro/algonaut).

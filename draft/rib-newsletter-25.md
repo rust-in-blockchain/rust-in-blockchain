@@ -57,7 +57,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [bip32.rs](https://github.com/iqlusioninc/crates/tree/main/bip32).
 
 This is a pure Rust, generic, `no_std`-friendly implementation of
-[BIP32] Hierarchical Deterministic Wallets and BIP39 mnemonics
+[BIP32] hierarchical deterministic wallets and BIP39 mnemonics.
 
 [BIP32]: https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki
 

@@ -12,18 +12,6 @@ Welcome to the #25 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #24](/newsletters/bridges/).
 
-This month, either than DeFi or NFT,
-people move attention to security and privacy.
-There are more papers about zero-knowledge are published
-and more events are planned.
-
-From the Project updates,
-we see projects start to cross chains and integrate into other products.
-There are a few discussions about cross-chain protocols in
-the RiB telegram group,
-and we expect to see more developers would share their hacking experience
-as new projects grow.
-
 
 &nbsp;
 
@@ -101,6 +89,8 @@ This is a pure Rust, generic, `no_std`-friendly implementation of
 
 - [Cupcake](https://github.com/facebookresearch/Cupcake).
   A Rust library for lattice-based additive homomorphic encryption.
+- [Oramfs](https://github.com/kudelskisecurity/oramfs).
+  ORAM filesystem written in Rust.
 - [Rust `algonaut`](https://github.com/manuelmauro/algonaut).
   A rusty SDK for Algorand. It is currently working in progress.
 - [Yatima](https://github.com/yatima-inc/yatima).

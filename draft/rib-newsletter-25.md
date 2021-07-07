@@ -1,11 +1,14 @@
 ---
-title: "RiB Newsletter #25 - _TODO_"
+title: "RiB Newsletter #25 - Hello, Summer"
 description: "#25 - June 2021"
 date: 2021-07-07
-slug: "/_TODO_"
+slug: "/hello-summer"
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #25 edition of Rust in Blockchain,
+the chillest newsletter about the chillest tech.
+Each month we like to shine a light on a notable Rust blockchain project. 
+This month that project is bip32.rs."
 ---
 
 Welcome to the #25 edition of Rust in Blockchain,

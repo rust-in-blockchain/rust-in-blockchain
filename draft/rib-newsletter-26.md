@@ -152,6 +152,11 @@ Company name | Location A, B, Remote
 
 -->
 
+Parity Technologies | Berlin or Remote 
+- [Core Rust Developer - Cross-chain Messaging (Polkadot)](https://grnh.se/dafd8e973us)
+- [Core Rust Developer - Consensus (Polkadot)](https://grnh.se/470a1a623us)
+- [Rust Developer - Tools](https://grnh.se/e1cc2c0c3us)
+- [Rust/Core Developer - Open Application to our 10+ open Rust engineering positions](https://grnh.se/0efc64513us)
 
 
 More jobs can be found at [Job Board][page-jobboard].

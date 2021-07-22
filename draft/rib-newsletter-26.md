@@ -46,7 +46,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 ## Interesting Things
 
 #### News
-
+Concordium announces the launch of its Free and Open Developer Grants [Program](https://markets.businessinsider.com/news/stocks/concordium-announces-developers-open-grants-programme-1030625795). Check out the details and apply at this [repository](https://github.com/Concordium/Concordium-Free-Open-Grants-Program). The Concordium Grant program has a specific mandate that recipients code must be open-sourced, and tooling developed must benefit both the Blockchain and Rustlang open source ecosystems.
 
 #### Blog Posts
 

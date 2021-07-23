@@ -49,11 +49,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 
 #### Blog Posts
-**ChainSafe**
-* [Polkadot Index Network Token (PINT) community update #1 ](https://medium.com/chainsafe-systems/pint-community-update-1-2366f6cdcfc6)
-* [Polkadot Index Network Token (PINT) community update #2 ](https://medium.com/chainsafe-systems/pint-community-update-2-b337ece3f031)
-* [Forest Growth: An update from the Filecoin Rust implementation team](https://medium.com/chainsafe-systems/forest-growth-d26998a3da61)
-* [Rising Tides: How the Mina Protocol can benefit Web 3.0 - An examination of Mina’s lightweight non-consensus full nodes and Rust x Wasm](https://medium.com/chainsafe-systems/mina-wasm-benefits-for-web-3-0-3d25991c3b75)
+
 
 #### Papers
 
@@ -74,6 +70,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Aleo](https://github.com/AleoHQ)
 
 #### [ChainSafe](https://github.com/ChainSafe)
+
+- [Polkadot Index Network Token (PINT) community update #1 ](https://medium.com/chainsafe-systems/pint-community-update-1-2366f6cdcfc6)
+- [Polkadot Index Network Token (PINT) community update #2 ](https://medium.com/chainsafe-systems/pint-community-update-2-b337ece3f031)
+- [Forest Growth: An update from the Filecoin Rust implementation team](https://medium.com/chainsafe-systems/forest-growth-d26998a3da61)
+- [Rising Tides: How the Mina Protocol can benefit Web 3.0 - An examination of Mina’s lightweight non-consensus full nodes and Rust x Wasm](https://medium.com/chainsafe-systems/mina-wasm-benefits-for-web-3-0-3d25991c3b75)
 
 #### [CodeChain](https://github.com/CodeChain-io)
 
@@ -156,10 +157,10 @@ Company name | Location A, B, Remote
 - [Job 1](https://job.one)
 - [Job 2](https://job.two)
 
+-->
+
 ChainSafe | Remote
 - [Rust Developer](https://jobs.smartrecruiters.com/ChainSafeSystemsInc/743999739358248-rust-developer)
-
--->
 
 Parity Technologies | Berlin or Remote 
 - [Core Rust Developer - Cross-chain Messaging (Polkadot)](https://grnh.se/dafd8e973us)

@@ -17,7 +17,10 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[Ernest Kissiedu],
+[haochizzle],
 [Max Wegman],
+
 
 _TODO_
 
@@ -29,6 +32,8 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Ernest Kissiedu]: https://github.com/ernestkissiedu
+[haochizzle]: https://github.com/haochizzle
 [Max Wegman]: https://github.com/mastermaxy
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer

@@ -52,6 +52,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [Gnosis client development team Joins Erigon (formerly Turbo-Geth) to Release Next-Gen Ethereum Client](https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd).
+  Gnosis deprecates OpenEthereum.
 
 #### Blog Posts
 
@@ -61,6 +63,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Nova](https://github.com/microsoft/Nova). Recursive SNARKs without trusted setup.
 
 &nbsp;
 
@@ -132,6 +135,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Solana](https://github.com/solana-labs/solana)
 
+- [ok so what the fuck is the deal with solana anyway](https://2501babe.github.io/posts/solana101.html)
+
 #### [Spacemesh](https://github.com/spacemeshos)
 
 #### [TezEdge](https://github.com/tezedge)
@@ -184,7 +189,7 @@ More jobs can be found at [Job Board][page-jobboard].
 &nbsp;
 
 Want to be included in the next issue? Feel free to submit a PR to the
-[#23 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+[#27 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 

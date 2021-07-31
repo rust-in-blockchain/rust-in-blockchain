@@ -17,6 +17,9 @@ Aleo | San Francisco, Remote
 - [Full Stack Developer](https://www.aleo.org/jobs/full-stack-developer)
 - [Interface Designer](https://www.aleo.org/jobs/interface-designer)
 
+`arkworks` | Remote
+- [Co-maintainer](https://form.jotform.com/212026632139145)
+
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
 

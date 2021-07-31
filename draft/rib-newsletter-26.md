@@ -20,6 +20,7 @@ Thanks to contributors:
 [Ernest Kissiedu],
 [haochizzle],
 [Max Wegman],
+[Pratyush Mishra],
 
 
 _TODO_
@@ -35,6 +36,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [Ernest Kissiedu]: https://github.com/ernestkissiedu
 [haochizzle]: https://github.com/haochizzle
 [Max Wegman]: https://github.com/mastermaxy
+[Pratyush Mishra]: https://github.com/Pratyush
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -158,6 +160,46 @@ May 1-2 | Online
 
 -->
 
+Jul 30 - Aug 20 | Online
+
+[HackFS](https://fs.ethglobal.com/)
+
+Aug 5 | Online
+
+[DeFi Conference 2021](https://deficonference.floor.bz/)
+
+Aug 5-7 | Online
+
+[Smart Contract Summit #1](https://www.smartcontractsummit.io/)
+
+Sep 6-10 | Online
+
+[6th IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2021/index.html)
+
+Sep 14 | Online
+
+[RustConf 2021](https://rustconf.com/).
+[Submit your talk](https://cfp.rustconf.com/events/rustconf-2021) before Jul 11.
+
+Sep 26-28 | Arlington, VA, US
+
+[ACM Advances in Financial Technologies - AFT 2021](https://aft.acm.org/aft21/index.html)
+
+Oct 4-8 | Darmstadt, Germany
+
+[5th International Workshop on Cryptocurrencies and Blockchain Technology - CBT 2021](https://deic-web.uab.cat/conferences/dpm/cbt2021/)
+
+Oct 6–8 | Darmstadt, Germany
+
+[STM2021: The 17th International Workshop on Security and Trust Management](https://www.nics.uma.es/stm2021/)
+
+Nov 18-19 | Online
+
+[Tokenomics 2021: 3rd International Conference on Blockchain Economics, Security and Protocols](https://sites.google.com/nyu.edu/tokenomics2021)
+
+Dec 3 | Seoul, Korea
+
+[ICISC: The 24th Annual International Conference on information Security and Cryptology](http://www.icisc.org/)
 
 
 &nbsp;

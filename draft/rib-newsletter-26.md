@@ -214,6 +214,9 @@ Company name | Location A, B, Remote
 
 -->
 
+`arkworks` | Remote
+- [Co-maintainer](https://form.jotform.com/212026632139145)
+
 ChainSafe | Remote
 - [Rust Developer](https://jobs.smartrecruiters.com/ChainSafeSystemsInc/743999739358248-rust-developer)
 

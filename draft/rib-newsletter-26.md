@@ -20,8 +20,8 @@ Thanks to contributors:
 [Ernest Kissiedu],
 [haochizzle],
 [Max Wegman],
+[Pranay Mohan],
 [Pratyush Mishra],
-
 
 _TODO_
 
@@ -36,6 +36,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [Ernest Kissiedu]: https://github.com/ernestkissiedu
 [haochizzle]: https://github.com/haochizzle
 [Max Wegman]: https://github.com/mastermaxy
+[Pranay Mohan]: https://github.com/pranaymohan
 [Pratyush Mishra]: https://github.com/Pratyush
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer

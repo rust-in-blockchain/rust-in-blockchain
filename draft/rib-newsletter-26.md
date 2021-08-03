@@ -220,6 +220,9 @@ Company name | Location A, B, Remote
 ChainSafe | Remote
 - [Rust Developer](https://jobs.smartrecruiters.com/ChainSafeSystemsInc/743999739358248-rust-developer)
 
+cLabs / Celo | Remote
+- [Senior Rust Engineer](https://jobs.lever.co/clabs/46bf6e13-ef54-4a5c-9287-2c0557ad9db4)
+
 Parity Technologies | Berlin or Remote 
 - [Core Rust Developer - Cross-chain Messaging (Polkadot)](https://grnh.se/dafd8e973us)
 - [Core Rust Developer - Consensus (Polkadot)](https://grnh.se/470a1a623us)

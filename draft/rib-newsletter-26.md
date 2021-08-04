@@ -70,7 +70,23 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 &nbsp;
 
-## Most Active in March
+## Most Active in July
+
+[Solana](https://github.com/solana-labs/solana):
+345 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
+29 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+65 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[Parity](https://github.com/paritytech):
+257 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6]),
+139 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+81 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5])
+
+[NEAR](https://github.com/nearprotocol/nearcore):
+132 merged PRs ([1][near-merged-prs-1], [2][near-merged-prs-2], [3][near-merged-prs-3]),
+141 closed issues ([1][near-closed_issues-1], [2][near-closed_issues-2], [3][near-closed_issues-3], [4][near-closed_issues-4]), 
+57 open issues ([1][near-open_issues-1], [2][near-open_issues-2], [3][near-open_issues-3])
+
 
 &nbsp;
 
@@ -96,13 +112,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [ChainSafe](https://github.com/ChainSafe)
 
-- [Polkadot Index Network Token (PINT) community update #1 ](https://medium.com/chainsafe-systems/pint-community-update-1-2366f6cdcfc6)
-- [Polkadot Index Network Token (PINT) community update #2 ](https://medium.com/chainsafe-systems/pint-community-update-2-b337ece3f031)
-- [Forest Growth: An update from the Filecoin Rust implementation team](https://medium.com/chainsafe-systems/forest-growth-d26998a3da61)
-- [Rising Tides: How the Mina Protocol can benefit Web 3.0 - An examination of Mina’s lightweight non-consensus full nodes and Rust x Wasm](https://medium.com/chainsafe-systems/mina-wasm-benefits-for-web-3-0-3d25991c3b75)
-
-#### [ChainSafe](https://github.com/ChainSafe)
-
 10 merged PRs ([1][chainsafe-merged-prs-1]),
 11 closed issues ([1][chainsafe-closed_issues-1]), 
 3 open issues ([1][chainsafe-open_issues-1])
@@ -110,6 +119,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [chainsafe-merged-prs-1]: https://github.com/ChainSafe/forest/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-07-01..2021-07-31
 [chainsafe-closed_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-07-01..2021-07-31
 [chainsafe-open_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
+
+- [Polkadot Index Network Token (PINT) community update #1 ](https://medium.com/chainsafe-systems/pint-community-update-1-2366f6cdcfc6)
+- [Polkadot Index Network Token (PINT) community update #2 ](https://medium.com/chainsafe-systems/pint-community-update-2-b337ece3f031)
+- [Forest Growth: An update from the Filecoin Rust implementation team](https://medium.com/chainsafe-systems/forest-growth-d26998a3da61)
+- [Rising Tides: How the Mina Protocol can benefit Web 3.0 - An examination of Mina’s lightweight non-consensus full nodes and Rust x Wasm](https://medium.com/chainsafe-systems/mina-wasm-benefits-for-web-3-0-3d25991c3b75)
+
 
 #### [CodeChain](https://github.com/CodeChain-io)
 

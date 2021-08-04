@@ -65,6 +65,7 @@ project. This month that project is…
 #### Blog Posts
 
 - [Awesome Unstable Rust Features](https://lazy.codes/posts/awesome-unstable-rust-features/)
+- [Demystifying recursive zero-knowledge proofs](https://anoma.network/blog/demystifying-recursive-zkp/)
 
 #### Papers
 

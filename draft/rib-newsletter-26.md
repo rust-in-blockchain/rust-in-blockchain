@@ -96,6 +96,10 @@ who also created the popular [jsonrpc] crate.
   The paper: [Anoma: Undefining Money](https://anoma.network/papers/vision-paper.pdf).
 - [Nova](https://github.com/microsoft/Nova).
   Recursive SNARKs without trusted setup.
+- [Winterfell](https://github.com/novifinancial/winterfell).
+  A STARK prover and verifier for arbitrary computations.
+- [The LibraBFT Simulator](https://github.com/novifinancial/librabft_simulator).
+  Discrete-Event Simulation for BFT Consensus Protocols.
 - [jsonrpsee](https://github.com/paritytech/jsonrpsee).
   JSON-RPC library designed for async/await in Rust.
   Designed to be the successor to ParityTech's JSONRPC crate.

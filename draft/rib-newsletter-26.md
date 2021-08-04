@@ -87,6 +87,9 @@ project. This month that project is…
   The paper: [Anoma: Undefining Money](https://anoma.network/papers/vision-paper.pdf).
 - [Nova](https://github.com/microsoft/Nova).
   Recursive SNARKs without trusted setup.
+- [jsonrpsee](https://github.com/paritytech/jsonrpsee).
+  JSON-RPC library designed for async/await in Rust.
+  Designed to be the successor to ParityTech's JSONRPC crate.
 
 &nbsp;
 

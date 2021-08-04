@@ -471,7 +471,7 @@ Nov 18-19 | Online
 
 [Tokenomics 2021: 3rd International Conference on Blockchain Economics, Security and Protocols](https://sites.google.com/nyu.edu/tokenomics2021)
 
-Dec 3 | Seoul, Korea
+Dec 1-3 | Seoul, Korea
 
 [ICISC: The 24th Annual International Conference on information Security and Cryptology](http://www.icisc.org/)
 

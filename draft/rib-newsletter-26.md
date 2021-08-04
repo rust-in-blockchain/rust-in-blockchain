@@ -64,6 +64,7 @@ project. This month that project is…
 
 #### Blog Posts
 
+- [Awesome Unstable Rust Features](https://lazy.codes/posts/awesome-unstable-rust-features/)
 
 #### Papers
 

@@ -2,10 +2,12 @@
 title: "RiB Newsletter #26 - _TODO_"
 description: "#26 - July 2021"
 date: 2021-08-04
-slug: "/_TODO_"
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "
+Welcome to the #26 edition of Rust in Blockchain!
+This month we spotlight project
+`jsonrpsee`, an async implementation of [JSON-RPC],
 ---
 
 Welcome to the #26 edition of Rust in Blockchain,

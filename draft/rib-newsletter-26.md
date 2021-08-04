@@ -64,11 +64,18 @@ project. This month that project is…
 
 #### Blog Posts
 
-- [Awesome Unstable Rust Features](https://lazy.codes/posts/awesome-unstable-rust-features/)
+- [2021 Altcoin Node Sync Tests](https://blog.lopp.net/2021-altcoin-node-sync-tests/)
 - [Demystifying recursive zero-knowledge proofs](https://anoma.network/blog/demystifying-recursive-zkp/)
+- [Awesome Unstable Rust Features](https://lazy.codes/posts/awesome-unstable-rust-features/)
 
 #### Papers
 
+- [Kadcast-NG: A Structured Broadcast Protocol for Blockchain Networks](https://eprint.iacr.org/2021/996)
+- [AToM: Active Topology Monitoring for the Bitcoin Peer-to-Peer Network](https://arxiv.org/abs/2107.12912)
+- [Stochastic Modelling of Blockchain Consensus](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865040)
+- [Proof-of-Stake Mining Games with Perfect Randomness](https://dl.acm.org/doi/10.1145/3465456.3467636)
+- [Darlin: A proof carrying data scheme based on Marlin](https://eprint.iacr.org/2021/930)
+- [Layer 2 Blockchain Scaling: a Survey](https://arxiv.org/abs/2107.10881v1)
 
 #### Projects
 

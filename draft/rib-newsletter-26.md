@@ -46,7 +46,10 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 ## Project Spotlight
 
-Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+Each month we like to shine a light on a notable Rust blockchain
+project. This month that project is…
+
+
 
 &nbsp;
 
@@ -55,7 +58,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
-- [Gnosis client development team Joins Erigon (formerly Turbo-Geth) to Release Next-Gen Ethereum Client](https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd).
+- [Gnosis client development team Joins Erigon (formerly Turbo-Geth) to Release Next-Gen Ethereum
+  Client](https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd).
   Gnosis deprecates OpenEthereum.
 
 #### Blog Posts
@@ -66,7 +70,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
-- [Nova](https://github.com/microsoft/Nova). Recursive SNARKs without trusted setup.
+- [Anoma](https://github.com/anoma/anoma).
+  Implementation of the Anoma protocol in Rust.
+  Anoma is a sovereign, proof-of-stake blockchain protocol
+  that enables private, asset-agnostic cash and private bartering among
+  any number of parties.
+  The paper: [Anoma: Undefining Money](https://anoma.network/papers/vision-paper.pdf).
+- [Nova](https://github.com/microsoft/Nova).
+  Recursive SNARKs without trusted setup.
 
 &nbsp;
 
@@ -186,6 +197,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [dfinity-open_issues-3]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
 [dfinity-open_issues-4]: https://github.com/dfinity/quill/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
 
+- [Introducing the Motoko Playground, an Online Development Environment for the Internet Computer](https://medium.com/dfinity/introducing-the-motoko-playground-an-online-development-environment-for-the-internet-computer-efb4cd09ea8b)
+
 #### [Diem](https://github.com/diem)
 
 128 merged PRs ([1][diem-merged-prs-1]),
@@ -266,6 +279,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
 [lighthouse-open_issues-2]: https://github.com/sigp/beacon-fuzz/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
 
+- [Lighthouse Update #37](https://lighthouse.sigmaprime.io/update-37.html)
+
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 17 merged PRs ([1][mobilecoin-merged-prs-1], [2][mobilecoin-merged-prs-2]),
@@ -309,6 +324,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [nervos-open_issues-3]: https://github.com/nervosnetwork/capsule/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
 [nervos-open_issues-4]: https://github.com/nervosnetwork/ckb-std/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
 
+- [Nervos Network Kicks Off Major Protocol Upgrade](https://www.nervos.org/blog/nervos-network-kicks-off-major-protocol-upgrade/)
+
 #### [Parity](https://github.com/paritytech)
 
 257 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6]),
@@ -331,7 +348,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [parity-open_issues-3]: https://github.com/paritytech/cargo-contract/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
 [parity-open_issues-4]: https://github.com/paritytech/cumulus/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
 [parity-open_issues-5]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
-  
+
+- [Research Update: The Case for Candle Auctions](https://polkadot.network/research-update-the-case-for-candle-auctions/)
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 34 merged PRs ([1][rust_bitcoin-merged-prs-1], [2][rust_bitcoin-merged-prs-2], [3][rust_bitcoin-merged-prs-3], [4][rust_bitcoin-merged-prs-4]),
@@ -421,6 +440,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [zcash-closed_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-07-01..2021-07-31
 [zcash-open_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
 [zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2021-07-01..2021-07-31
+
+- [Should Zcash switch from Proof of Work to Proof of Stake?](https://electriccoin.co/blog/should-zcash-switch-from-proof-of-work-to-proof-of-stake/)
 
 &nbsp;
 

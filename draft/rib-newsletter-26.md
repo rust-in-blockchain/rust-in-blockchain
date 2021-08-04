@@ -99,6 +99,7 @@ who also created the popular [jsonrpc] crate.
 - [jsonrpsee](https://github.com/paritytech/jsonrpsee).
   JSON-RPC library designed for async/await in Rust.
   Designed to be the successor to ParityTech's JSONRPC crate.
+- [Rust Cryptography Interest Group (RCIG): Awesome Rust Cryptography](https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo/blob/main/Awesome_Rust_Cryptography.md)
 
 &nbsp;
 

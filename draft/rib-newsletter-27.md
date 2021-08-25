@@ -17,6 +17,8 @@ the chillest newsletter about the chillest tech.
 
 Thanks to contributors:
 
+[etovika],
+
 _TODO_
 
 Thank you for your help!
@@ -27,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[etovika]: https://github.com/etovika
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -149,6 +152,10 @@ Company name | Location A, B, Remote
 
 -->
 
+
+Dash Core Group | Remote
+- [Database Engineer](http://jobs.dash.org/apply/fDSbW6F7PM/Database-Engineer-Rust)
+- [Senior Database Engineer](http://jobs.dash.org/apply/yg93YShb9i/Senior-Database-Engineer-Rust)
 
 
 More jobs can be found at [Job Board][page-jobboard].

@@ -157,6 +157,8 @@ Dash Core Group | Remote
 - [Database Engineer](http://jobs.dash.org/apply/fDSbW6F7PM/Database-Engineer-Rust)
 - [Senior Database Engineer](http://jobs.dash.org/apply/yg93YShb9i/Senior-Database-Engineer-Rust)
 
+DEX Labs | Remote
+- [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb-rust-engineer)
 
 More jobs can be found at [Job Board][page-jobboard].
 

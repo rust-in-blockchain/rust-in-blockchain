@@ -17,6 +17,7 @@ the chillest newsletter about the chillest tech.
 
 Thanks to contributors:
 
+[apalepu23],
 [etovika],
 
 _TODO_
@@ -29,6 +30,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[apalepu23]: https://github.com/apalepu23
 [etovika]: https://github.com/etovika
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer

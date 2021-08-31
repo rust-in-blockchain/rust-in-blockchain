@@ -75,6 +75,8 @@ It includes examples of Paxos and other simple algorithms.
   Crypto-Space](https://medium.com/chainsafe-systems/bridges-in-crypto-space-12e158f5fd1e)
 - [Mitigating Miner Extractable Value (MEV) with Gnosis
   Safe](https://blog.gnosis.pm/gnosis-safe-mev-how-to-mitigate-it-347e13535e34)
+- [Demystifying recursive zero knowledge proofs][https://anoma.network/blog/demystifying-recursive-zkp/].
+  From the [anoma](https://github.com/anoma) network.
 
 #### Papers
 

@@ -46,7 +46,7 @@ draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draf
 Each month we like to shine a light on a notable Rust blockchain
 project. This month that project is…
 
-[stateright](https://github.com/stateright/stateright).
+[Stateright](https://github.com/stateright/stateright).
 
 Stateright is a model checker for implementing distributed systems in Rust.
 Unlike traditional model checkers like TLA+, Stateright is a Rust DSL,

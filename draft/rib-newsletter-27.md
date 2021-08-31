@@ -61,6 +61,7 @@ It includes examples of Paxos and other simple algorithms.
 
 #### News
 
+- Video: [Rust Cryptography Interest Group sync up call #4](https://youtu.be/uSqXIPWr4-4)
 
 #### Blog Posts
 
@@ -219,6 +220,8 @@ It includes examples of Paxos and other simple algorithms.
 
 [elrond-merged-prs-1]: https://github.com/ElrondNetwork/elrond-wasm-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-08-01..2021-08-31
 [elrond-merged-prs-2]: https://github.com/ElrondNetwork/sc-dns-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-08-01..2021-08-31
+
+- [Smart contracts for a decentralized exchange in Rust](https://github.com/ElrondNetwork/sc-dex-rs)
 
 #### [Fluence](https://github.com/fluencelabs)
 

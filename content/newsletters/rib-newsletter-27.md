@@ -5,7 +5,9 @@ date: 2021-09-01
 categories:
   - "newsletters"
 summary: "Welcome to the #27 edition of Rust in Blockchain.
-It was a slow month, with few project updates, and few new projects."
+It was a slow month, with few project updates, and few new projects.
+This month we spotlight project `Stateright`,
+a model checker for implementing distributed systems in Rust."
 ---
 
 Welcome to the #27 edition of Rust in Blockchain,

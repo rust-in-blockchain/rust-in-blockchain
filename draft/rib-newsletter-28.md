@@ -1,15 +1,15 @@
 ---
-title: "RiB Newsletter #22 - _TODO_"
-description: "#22 - March 2021"
-date: 2021-03-31
+title: "RiB Newsletter #28"
+description: "#28 - September 2021"
+date: 2021-10-06
 categories:
   - "newsletters"
 summary: "_TODO_"
 ---
 
-Welcome to the #22 edition of Rust in Blockchain,
+Welcome to the #28 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
-[Previous: #21](/newsletters/rib-newsletter-21/).
+[Previous: #27](/newsletters/rib-newsletter-27/).
 
 &nbsp;
 
@@ -44,19 +44,17 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
-
 #### Blog Posts
-
 
 #### Papers
 
-
 #### Projects
 
+#### Videos
 
 &nbsp;
 
-## Most Active in March
+## Most Active in September
 
 &nbsp;
 
@@ -154,7 +152,7 @@ More jobs can be found at [Job Board][page-jobboard].
 &nbsp;
 
 Want to be included in the next issue? Feel free to submit a PR to the
-[#23 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+[#29 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 

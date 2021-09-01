@@ -22,9 +22,8 @@ Thanks to contributors:
 
 [apalepu23],
 [etovika],
-
-_TODO_
-
+[Brian Anderson],
+[Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.  If you
@@ -93,6 +92,7 @@ It includes examples of Paxos and other simple algorithms.
 
 #### Projects
 
+- [mina-vrf-rs](https://github.com/zkvalidator/mina-vrf-rs)
 - [YUL compiler](https://github.com/matter-labs/compiler-yul)
 
 &nbsp;

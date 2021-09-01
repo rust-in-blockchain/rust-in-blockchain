@@ -14,10 +14,9 @@ Welcome to the #27 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #26](/newsletters/rib-newsletter-26/).
 
-&nbsp;
-
 It was a slow month, with few project updates, and few new projects.
 
+&nbsp;
 
 ## Thanks
 

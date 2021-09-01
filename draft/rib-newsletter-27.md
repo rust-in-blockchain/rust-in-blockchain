@@ -92,8 +92,13 @@ It includes examples of Paxos and other simple algorithms.
 
 #### Projects
 
-- [mina-vrf-rs](https://github.com/zkvalidator/mina-vrf-rs)
-- [YUL compiler](https://github.com/matter-labs/compiler-yul)
+- [Dylint](https://github.com/trailofbits/dylint).
+  A tool for running Rust lints from dynamic libraries.
+- [mina-vrf-rs](https://github.com/zkvalidator/mina-vrf-rs).
+  The Mina consensus algorithm uses a VRF to determine whether a block
+  producer is eligible to produce a block at a specific slot.
+- [YUL compiler](https://github.com/matter-labs/compiler-yul).
+  The compiler from YUL intermediate language to zkEVM bytecode.
 
 #### Video
 

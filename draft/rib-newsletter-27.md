@@ -24,11 +24,11 @@ _TODO_
 
 Thank you for your help!
 
-RiB needs help to keep up with Rust blockchain projects. 
-If you follow a particular project, or otherwise find information 
-that is beneficial to the Rust & blockchain community, 
-please contribute to the next issue
-by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+RiB needs help to keep up with Rust blockchain projects.  If you
+follow a particular project, or otherwise find information that is
+beneficial to the Rust & blockchain community, please contribute to
+the next issue by submitting a PR to the [next
+draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [apalepu23]: https://github.com/apalepu23
 [etovika]: https://github.com/etovika
@@ -40,7 +40,8 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 ## Project Spotlight
 
-Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+Each month we like to shine a light on a notable Rust blockchain
+project. This month that project is…
 
 &nbsp;
 
@@ -52,12 +53,32 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
-- [Overview of the Rust cryptography ecosystem](https://kerkour.com/blog/rust-cryptography-ecosystem/)
-- [Bridges in Crypto-Space](https://medium.com/chainsafe-systems/bridges-in-crypto-space-12e158f5fd1e)
-- [Mitigating Miner Extractable Value (MEV) with Gnosis Safe](https://blog.gnosis.pm/gnosis-safe-mev-how-to-mitigate-it-347e13535e34)
+- [Plookup — An Algorithm Widely Used in
+  zkEVM](https://medium.com/@sin7y/plookup-an-algorithm-widely-used-in-zkevm-a88177777ca9)
+- [Exploring Popular zkEVM Solutions: AppliedZKP, Matter Labs, Hermez,
+  and
+  Sin7Y](https://medium.com/@sin7y/exploring-popular-zkevm-solutions-appliedzkp-matter-labs-hermez-and-sin7y-d17deb1f8808)
+- [Overview of the Rust cryptography
+  ecosystem](https://kerkour.com/blog/rust-cryptography-ecosystem/)
+- [Bridges in
+  Crypto-Space](https://medium.com/chainsafe-systems/bridges-in-crypto-space-12e158f5fd1e)
+- [Mitigating Miner Extractable Value (MEV) with Gnosis
+  Safe](https://blog.gnosis.pm/gnosis-safe-mev-how-to-mitigate-it-347e13535e34)
 
 #### Papers
 
+- [Aggregating hash-based signatures using
+  STARKs](https://eprint.iacr.org/2021/1048)
+- [One-time Traceable Ring
+  Signatures](https://eprint.iacr.org/2021/1054)
+- [Aurora: a probabilistic algorithm for distributed ledgers enabling
+  trustless synchronization and transaction inclusion
+  verification](https://arxiv.org/abs/2108.08272)
+- [Sharding-Based Proof-of-Stake Blockchain Protocols: Security
+  Analysis](https://arxiv.org/abs/2108.05835)
+- [Zero-Knowledge Middleboxes](https://eprint.iacr.org/2021/1022)
+- [The Limits of Code
+  Deference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889630)
 
 #### Projects
 

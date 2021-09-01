@@ -13,6 +13,9 @@ the chillest newsletter about the chillest tech.
 
 &nbsp;
 
+It was a slow month, with few project updates, and few new projects.
+
+
 ## Thanks
 
 Thanks to contributors:
@@ -42,6 +45,14 @@ draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draf
 
 Each month we like to shine a light on a notable Rust blockchain
 project. This month that project is…
+
+[stateright](https://github.com/stateright/stateright).
+
+Stateright is a model checker for implementing distributed systems in Rust.
+Unlike traditional model checkers like TLA+, Stateright is a Rust DSL,
+and is able to check the Rust production implementation of a system.
+It includes examples of Paxos and other simple algorithms.
+
 
 &nbsp;
 

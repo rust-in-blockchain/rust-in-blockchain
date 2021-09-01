@@ -102,7 +102,7 @@ It includes examples of Paxos and other simple algorithms.
 - [YUL compiler](https://github.com/matter-labs/compiler-yul).
   The compiler from YUL intermediate language to zkEVM bytecode.
 
-#### Video
+#### Videos
 
 - [Rust Cryptography Interest Group sync up call
   #4](https://youtu.be/uSqXIPWr4-4)

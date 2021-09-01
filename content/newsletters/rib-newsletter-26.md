@@ -499,8 +499,7 @@ Sep 6-10 | Online
 
 Sep 14 | Online
 
-[RustConf 2021](https://rustconf.com/).
-[Submit your talk](https://cfp.rustconf.com/events/rustconf-2021) before Jul 11.
+[RustConf 2021](https://rustconf.com/)
 
 Sep 26-28 | Arlington, VA, US
 

@@ -1,10 +1,11 @@
 ---
 title: "RiB Newsletter #27"
-description: "#22 - August 2021"
+description: "#27 - August 2021"
 date: 2021-09-01
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #27 edition of Rust in Blockchain.
+It was a slow month, with few project updates, and few new projects."
 ---
 
 Welcome to the #27 edition of Rust in Blockchain,

@@ -58,10 +58,6 @@ It includes examples of Paxos and other simple algorithms.
 
 ## Interesting Things
 
-#### News
-
-- Video: [Rust Cryptography Interest Group sync up call #4](https://youtu.be/uSqXIPWr4-4)
-
 #### Blog Posts
 
 - [Plookup — An Algorithm Widely Used in
@@ -97,6 +93,13 @@ It includes examples of Paxos and other simple algorithms.
 
 - [mina-vrf-rs](https://github.com/zkvalidator/mina-vrf-rs)
 - [YUL compiler](https://github.com/matter-labs/compiler-yul)
+
+#### Video
+
+- [Rust Cryptography Interest Group sync up call
+  #4](https://youtu.be/uSqXIPWr4-4)
+- [How does PLONK
+  work?](https://www.cryptologie.net/article/529/how-does-the-general-purpose-zero-knowledge-proof-system-plonk-work/)
 
 &nbsp;
 

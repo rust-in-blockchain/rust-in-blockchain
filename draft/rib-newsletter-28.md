@@ -16,8 +16,8 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
-
-_TODO_
+[Antonio Yang],
+[Tony Arcieri],
 
 Thank you for your help!
 
@@ -27,6 +27,8 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Antonio Yang]: https://github.com/yanganto
+[Tony Arcieri]: https://github.com/tarcieri
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -43,6 +45,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 ## Interesting Things
 
 #### News
+
 - [`crypto-bigint` v0.2.6](https://twitter.com/RustCryptoOrg/status/1435640493694758915)
   adds support for natively encoding/decoding `UInt` types using Ethereum's Recursive Length Prefix (RLP) encoding.
 
@@ -52,7 +55,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [SewUp](https://github.com/second-state/SewUp).
+  A library to help you build your Ethereum webassembly contract with
+  Rust and just like develop in a common backend.
+
+
 #### Videos
+
 
 &nbsp;
 

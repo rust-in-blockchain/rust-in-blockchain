@@ -43,6 +43,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 ## Interesting Things
 
 #### News
+- [`crypto-bigint` v0.2.6](https://twitter.com/RustCryptoOrg/status/1435640493694758915)
+  adds support for natively encoding/decoding `UInt` types using Ethereum's Recursive Length Prefix (RLP) encoding.
 
 #### Blog Posts
 

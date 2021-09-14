@@ -142,6 +142,9 @@ Protocol Labs | Remote
 - [Sr. Software Engineer, libp2p](https://jobs.lever.co/protocol/8c03a123-4890-4265-96e1-0427bd7ec193)
 - [Sr. Software Engineer, Filecoin](https://jobs.lever.co/protocol/3490e571-4d47-487e-a47f-b02f08668290)
 
+PsyOptions Inc. | Remote
+- [Rust Solana Program Engineer](https://jobs.solana.com/companies/psyoptions/jobs/5215445-rust-engineer)
+
 [Revault](mailto:darosior@protonmail.com) | Portugal or Remote
 - Build a [Bitcoin vault architecture](https://github.com/re-vault/practical-revault/blob/master/revault.pdf)
 

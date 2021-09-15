@@ -18,6 +18,7 @@ the chillest newsletter about the chillest tech.
 Thanks to contributors:
 [Antonio Yang],
 [Shamil],
+[Tommy Johnson],
 [Tony Arcieri],
 
 Thank you for your help!
@@ -30,6 +31,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 [Antonio Yang]: https://github.com/yanganto
 [Shamil]: https://github.com/shamilsan
+[Tommy Johnson]: https://github.com/tomjohn1028
 [Tony Arcieri]: https://github.com/tarcieri
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
@@ -156,6 +158,8 @@ Company name | Location A, B, Remote
 
 -->
 
+PsyOptions Inc. | Remote
+- [Rust Solana Program Engineer](https://jobs.solana.com/companies/psyoptions/jobs/5215445-rust-engineer)
 
 
 More jobs can be found at [Job Board][page-jobboard].

@@ -162,6 +162,13 @@ PsyOptions Inc. | Remote
 - [Rust Solana Program Engineer](https://jobs.solana.com/companies/psyoptions/jobs/5215445-rust-engineer)
 
 
+Parity Technologies | Berlin or Remote 
+- [Rust Core Developer - Substrate SDK](https://grnh.se/6d0a8fa13us)
+- [Rust Core Developer - Parachain Engineering (Polkadot)](https://grnh.se/e72723563us)
+- [Rust Core Developer - Parachain Protocol (Polkadot R&D)](https://grnh.se/1c4a41f43us)
+- [Rust/Core Developer - Open Application to our 10+ open Rust engineering positions](https://grnh.se/0efc64513us)
+
+
 More jobs can be found at [Job Board][page-jobboard].
 
 [page-jobboard]: https://rustinblockchain.org/job-board/

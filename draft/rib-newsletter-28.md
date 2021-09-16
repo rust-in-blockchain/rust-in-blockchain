@@ -17,6 +17,7 @@ the chillest newsletter about the chillest tech.
 
 Thanks to contributors:
 [Antonio Yang],
+[Max Wegman],
 [Shamil],
 [Tommy Johnson],
 [Tony Arcieri],
@@ -30,6 +31,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [Antonio Yang]: https://github.com/yanganto
+[Max Wegman]: https://github.com/mastermaxy
 [Shamil]: https://github.com/shamilsan
 [Tommy Johnson]: https://github.com/tomjohn1028
 [Tony Arcieri]: https://github.com/tarcieri

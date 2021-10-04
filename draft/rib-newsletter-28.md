@@ -64,7 +64,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [SewUp](https://github.com/second-state/SewUp).
   A library to help you build your Ethereum webassembly contract with
   Rust and just like develop in a common backend.
-
+- Dfinity's [NNS front-end Dapp](https://github.com/dfinity/nns-dapp).
+  The Dapp of the Internet Computer's Network Nervous System.
+  
 
 #### Videos
 
@@ -90,6 +92,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Conflux](https://github.com/Conflux-Chain)
 
 #### [Dfinity](https://github.com/dfinity)
+
+- [The DFINITY Canister Smart Contract SDK Is Now Open Source](https://medium.com/dfinity/the-dfinity-canister-smart-contract-sdk-is-now-open-source-54b2e5e797ad)
+- [The Internet Computer’s NNS Front-End Dapp Is Now Open Source](https://medium.com/dfinity/the-internet-computers-nns-front-end-dapp-is-now-open-source-3925edc21c49)
+- [The Internet Computer Community Adopts Threshold ECDSA Signatures Motion Proposal](https://medium.com/dfinity/the-internet-computer-community-approves-threshold-ecdsa-signatures-motion-proposal-65a0a3463492)
 
 #### [Diem](https://github.com/diem)
 

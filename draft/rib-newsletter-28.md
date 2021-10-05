@@ -368,6 +368,19 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Solana](https://github.com/solana-labs/solana)
 
+291 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]), 
+25 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+64 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[solana-merged-prs-1]: https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-09-01..2021-09-30
+[solana-merged-prs-2]: https://github.com/solana-labs/solana-program-library/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-09-01..2021-09-30
+[solana-closed_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-09-01..2021-09-30
+[solana-closed_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-09-01..2021-09-30
+[solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2021-09-01..2021-09-30
+[solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2021-09-01..2021-09-30
+
+- [9-14 Network Outage Initial Overview](https://solana.com/news/9-14-network-outage-initial-overview)
+
 #### [Spacemesh](https://github.com/spacemeshos)
 
 14 merged PRs ([1][spacemesh-merged-prs-1]), 

@@ -25,7 +25,7 @@ so let's do a tiny survey of fun Substrate networks.
   on its own merits, independent of Diem; and this sharing of tech between
   Rust blockchain projects is always encouraging to see.
 
-- [Subspace] &mdash; This is one of the new proof of capicity chains, ala [Chia].
+- [Subspace] &mdash; This is one of the new proof of capacity chains, ala [Chia].
   In their whitepaper they claim to solve what they call _the farmers dilemma_,
   by which PoC "farmers" are misincentivised to discard the actual
   state of the chain and instead spend that space farming for rewards.
@@ -38,9 +38,9 @@ so let's do a tiny survey of fun Substrate networks.
   Work" consensus algorithm.
   
 With the diversity of capabilities on display in the Polkadot ecosystem,
-their big bet on turning Polkadot into a highly-general blockchain construction
+their big bet on turning Polkadot into a highly general blockchain construction
 framework in Substrate looks like it is resulting in a flourishing ecosystem,
-despite the complexity of the endeavour.
+despite the complexity of the endeavor.
 
 [Crust Network]: https://crust.network/
 [Subspace]: https://www.subspace.network/
@@ -152,7 +152,7 @@ building permissionless distributed systems.
 #### Projects
 
 - [SewUp](https://github.com/second-state/SewUp).
-  A library to help you build your Ethereum webassembly contract with
+  A library to help you build your Ethereum WebAssembly contract with
   Rust and just like develop in a common backend.
 
 &nbsp;

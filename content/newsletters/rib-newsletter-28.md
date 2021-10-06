@@ -86,7 +86,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
-[Arti] and [OpenMLS].
+Two different projects: [Arti] and [OpenMLS].
 
 These two projects are unrelated, but we're fans of both and have wanted to spotlight them for a while.
 While not blockchain projects, they are both interesting and potentially important cryptographic projects.

@@ -429,7 +429,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [TezEdge](https://github.com/tezedge)
 
 17 merged PRs ([1][tezedge-merged-prs-1]), 
-0 closed issues (), 
+0 closed issues, 
 2 open issues ([1][tezedge-open_issues-1])
 
 [tezedge-merged-prs-1]: https://github.com/tezedge/tezedge/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-09-01..2021-09-30

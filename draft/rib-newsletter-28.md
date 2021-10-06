@@ -15,19 +15,20 @@ It's been a while since we've taken a look at Polkadot / Substrate,
 but their ambitious plan to create an ecosystem of interoperating
 blockchains (called "parachains" in Polkadot) is moving faster every month.
 A few interesting Substrate projects have come to our attention lately,
-so let's do a tiny survey of fun Substrate networks and/or Polkadot parachains.
+so let's do a tiny survey of fun Substrate networks.
 
-- [Pontem] &mdash; From the lack of news, one might forget about [Diem],
-  Facebooks nascent cryptocurrency network, but it is still in active development,
+- [Pontem] &mdash; From the lack of news, one might occasionally forget about [Diem],
+  Facebook's nascent blockchain network, but it is still in active development,
   along with its VM and language, [Move].
   [Pontem] is not Diem, but is a network running the Move VM,
   built on Substrate. It seems that the Move VM and language has some momentum
-  on its own merits, independent of Diem.
+  on its own merits, independent of Diem; and this sharing of tech between
+  Rust blockchain projects is always encouraging to see.
 
 - [Subspace] &mdash; This is one of the new proof of capicity chains, ala [Chia].
   In their whitepaper they claim to solve what they call _the farmers dilemma_,
   by which PoC "farmers" are misincentivised to discard the actual
-  state of the chain to spend that space farming for rewards.
+  state of the chain and instead spend that space farming for rewards.
   To this end, Subspace consensus is based on proofs of replicated storage
   of the chain state itself.
 
@@ -38,7 +39,7 @@ so let's do a tiny survey of fun Substrate networks and/or Polkadot parachains.
   
 With the diversity of capabilities on display in the Polkadot ecosystem,
 their big bet on turning Polkadot into a highly-general blockchain construction
-framework in SUbstrate, looks like it is resulting in a flourishing ecosystem,
+framework in Substrate looks like it is resulting in a flourishing ecosystem,
 despite the complexity of the endeavour.
 
 [Crust Network]: https://crust.network/

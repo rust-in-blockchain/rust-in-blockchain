@@ -4,11 +4,16 @@ description: "#28 - September 2021"
 date: 2021-10-06
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #28 edition of Rust in Blockchain, the
+monthly newsletter about Rust, distributed systems, cryptography, and
+other industry topics. 
+This month, we spotlight two cryptographic projects and examine a few
+substrate blockchains."
 ---
 
-Welcome to the #28 edition of Rust in Blockchain,
-the monthly newsletter about Rust, distributed systems, cryptography, and other industry topics.
+Welcome to the #28 edition of Rust in Blockchain, the monthly
+newsletter about Rust, distributed systems, cryptography, and other
+industry topics.
 [Previous: #27](/newsletters/rib-newsletter-27/).
 
 It's been a while since we've taken a look at Polkadot / Substrate,

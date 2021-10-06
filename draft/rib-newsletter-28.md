@@ -393,7 +393,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 2 merged PRs ([1][secret_network-merged-prs-1]), 
-0 closed issues (), 
+0 closed issues, 
 4 open issues ([1][secret_network-open_issues-1])
 
 [secret_network-merged-prs-1]: https://github.com/enigmampc/SecretNetwork/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-09-01..2021-09-30

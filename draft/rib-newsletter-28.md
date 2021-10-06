@@ -11,9 +11,6 @@ Welcome to the #28 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #27](/newsletters/rib-newsletter-27/).
 
-
-
-
 It's been a while since we've taken a look at Polkadot / Substrate,
 but their ambitious plan to create an ecosystem of interoperating
 blockchains (called "parachains" in Polkadot) is moving faster every month.
@@ -23,8 +20,9 @@ so let's do a tiny survey of fun Substrate networks and/or Polkadot parachains.
 - [Pontem] &mdash; From the lack of news, one might forget about [Diem],
   Facebooks nascent cryptocurrency network, but it is still in active development,
   along with its VM and language, [Move].
-  [Pontem] though is a network running the Move VM,
-  but built on Substrate.
+  [Pontem] is not Diem, but is a network running the Move VM,
+  built on Substrate. It seems that the Move VM and language has some momentum
+  on its own merits, independent of Diem.
 
 - [Subspace] &mdash; This is one of the new proof of capicity chains, ala [Chia].
   In their whitepaper they claim to solve what they call _the farmers dilemma_,
@@ -33,11 +31,17 @@ so let's do a tiny survey of fun Substrate networks and/or Polkadot parachains.
   To this end, Subspace consensus is based on proofs of replicated storage
   of the chain state itself.
 
+- [Crust Network] &mdash; A distributed and encrypted IPFS pinning service that
+  relies on Trusted Execution Environments to verify that userspace is
+  performing its calculation and storage duties under their "Meaningful Proof of
+  Work" consensus algorithm.
+  
 With the diversity of capabilities on display in the Polkadot ecosystem,
 their big bet on turning Polkadot into a highly-general blockchain construction
 framework in SUbstrate, looks like it is resulting in a flourishing ecosystem,
 despite the complexity of the endeavour.
 
+[Crust Network]: https://crust.network/
 [Subspace]: https://www.subspace.network/
 [Chia]: https://www.chia.net/
 [Pontem]: https://pontem.network/

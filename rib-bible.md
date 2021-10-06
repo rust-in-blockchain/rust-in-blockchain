@@ -36,6 +36,26 @@ repos = [
 "AleoHQ/leo",
 ]
 ```
+## Anoma
+
+Media:
+
+- https://anoma.network
+- https://twitter.com/anomanetwork
+
+
+GitHub:
+
+- https://github.com/anoma
+
+```toml
+repos = [
+"anoma/anoma",
+"anoma/ferveo",
+"anoma/masp",
+"anoma/plonkup-hash",
+]
+```
 
 ## ChainSafe
 

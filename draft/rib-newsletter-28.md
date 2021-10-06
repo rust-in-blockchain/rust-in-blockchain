@@ -21,7 +21,8 @@ Thanks to contributors:
 [Shamil],
 [Tommy Johnson],
 [Tony Arcieri],
-
+[Brian Anderson],
+[Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -54,8 +55,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [`crypto-bigint` v0.2.6](https://twitter.com/RustCryptoOrg/status/1435640493694758915)
   adds support for natively encoding/decoding `UInt` types using Ethereum's Recursive Length Prefix (RLP) encoding.
+- [Bitcoin Core 22.0 released](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2021-September/000104.html).
 
 #### Blog Posts
+
+- [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
 
 #### Papers
 
@@ -66,14 +70,25 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   Rust and just like develop in a common backend.
 - Dfinity's [NNS front-end Dapp](https://github.com/dfinity/nns-dapp).
   The Dapp of the Internet Computer's Network Nervous System.
-  
-
-#### Videos
-
 
 &nbsp;
 
 ## Most Active in September
+
+[Parity](https://github.com/paritytech):
+321 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6]), 
+112 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+85 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5])
+
+[Solana](https://github.com/solana-labs/solana):
+291 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]), 
+25 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+64 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[Diem](https://github.com/diem):
+161 merged PRs ([1][diem-merged-prs-1]), 
+19 closed issues ([1][diem-closed_issues-1]), 
+21 open issues ([1][diem-open_issues-1])
 
 &nbsp;
 
@@ -96,6 +111,20 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [aleo-open_issues-2]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2021-09-01..2021-09-30
 [aleo-open_issues-3]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2021-09-01..2021-09-30
 
+#### [Anoma](https://github.com/anoma)
+
+36 merged PRs ([1][anoma-merged-prs-1], [2][anoma-merged-prs-2], [3][anoma-merged-prs-3]), 
+22 closed issues ([1][anoma-closed_issues-1], [2][anoma-closed_issues-2]), 
+39 open issues ([1][anoma-open_issues-1])
+
+[anoma-merged-prs-1]: https://github.com/anoma/anoma/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-09-01..2021-09-30
+[anoma-merged-prs-2]: https://github.com/anoma/ferveo/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-09-01..2021-09-30
+[anoma-merged-prs-3]: https://github.com/anoma/masp/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-09-01..2021-09-30
+[anoma-closed_issues-1]: https://github.com/anoma/anoma/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-09-01..2021-09-30
+[anoma-closed_issues-2]: https://github.com/anoma/ferveo/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-09-01..2021-09-30
+[anoma-open_issues-1]: https://github.com/anoma/anoma/issues?q=is%3Aissue+is%3Aopen+created%3A2021-09-01..2021-09-30
+
+- [Heterogeneous Paxos and Multi-Chain Atomic Commits](https://anoma.network/blog/heterogeneous-paxos-and-multi-chain-atomic-commits)
 
 #### [ChainSafe](https://github.com/ChainSafe)
 
@@ -106,6 +135,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [chainsafe-merged-prs-1]: https://github.com/ChainSafe/forest/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-09-01..2021-09-30
 [chainsafe-closed_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-09-01..2021-09-30
 [chainsafe-open_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2021-09-01..2021-09-30
+
+- [NodeWatch: The open source node explorer for Ethereum Consensus (Eth2)](https://medium.com/chainsafe-systems/nodewatch-the-open-source-node-explorer-for-ethereum-consensus-eth2-e00057525cd7)
 
 #### [COMIT](https://github.com/comit-network)
 
@@ -133,6 +164,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [concordium-open_issues-1]: https://github.com/Concordium/concordium-node/issues?q=is%3Aissue+is%3Aopen+created%3A2021-09-01..2021-09-30
 [concordium-open_issues-2]: https://github.com/Concordium/concordium-base/issues?q=is%3Aissue+is%3Aopen+created%3A2021-09-01..2021-09-30
 [concordium-open_issues-3]: https://github.com/Concordium/concordium-rust-smart-contracts/issues?q=is%3Aissue+is%3Aopen+created%3A2021-09-01..2021-09-30
+
+- [Protocol Update 2 - Alpha Centauri 2.0 - Transaction Memos](https://proposals.concordium.software/updates/P2.html)
 
 #### [Conflux](https://github.com/Conflux-Chain)
 
@@ -430,7 +463,37 @@ May 1-2 | Online
 
 -->
 
+Oct 18-24 | Lisbon
 
+[lisbonblockchainweek](https://lisbonblockchainweek.com/)
+
+Oct 22-24 | Fintech House Lisbon
+
+[Ethereum hackathon: ETHLisbon](https://www.ethlisbon.org/)
+
+Oct 26 | Online
+
+[ZK Hack](https://www.zkhack.dev/)
+
+Oct 26-27 | Lisbon
+
+[NEARCON Alpha](https://nearcon.org/)
+
+Nov 15-19 | Online
+
+[ACM CCS 2021](https://www.sigsac.org/ccs/CCS2021/)
+
+Nov 18-19 | Online
+
+[Tokenomics 2021: 3rd International Conference on Blockchain Economics, Security and Protocols](https://sites.google.com/nyu.edu/tokenomics2021)
+
+Dec 1-3 | Seoul, Korea
+
+[ICISC: The 24th Annual International Conference on information Security and Cryptology](http://www.icisc.org/)
+
+Dec 14-15 | Online
+
+[18th IMA International Conference on Cryptography and Coding](https://ima.org.uk/16366/online-event-18th-ima-international-conference-on-cryptography-and-coding/)
 
 &nbsp;
 
@@ -447,12 +510,14 @@ Company name | Location A, B, Remote
 PsyOptions Inc. | Remote
 - [Rust Solana Program Engineer](https://jobs.solana.com/companies/psyoptions/jobs/5215445-rust-engineer)
 
-
 Parity Technologies | Berlin or Remote 
 - [Rust Core Developer - Substrate SDK](https://grnh.se/6d0a8fa13us)
 - [Rust Core Developer - Parachain Engineering (Polkadot)](https://grnh.se/e72723563us)
 - [Rust Core Developer - Parachain Protocol (Polkadot R&D)](https://grnh.se/1c4a41f43us)
 - [Rust/Core Developer - Open Application to our 10+ open Rust engineering positions](https://grnh.se/0efc64513us)
+
+Spacemesh | Remote
+- [Rust Developer](https://spacemesh.io/careers/rust-developer/)
 
 Zcash Foundation | Remote
 - [CI/CD & DevOps Engineer](https://cryptojobslist.com/jobs/ci-cd-devops-engineer-at-zcash-foundation-remote-anywhere-in-the-world)

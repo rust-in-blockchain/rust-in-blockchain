@@ -11,6 +11,16 @@ Welcome to the #28 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #27](/newsletters/rib-newsletter-27/).
 
+
+
+
+
+
+
+- https://www.subspace.network/
+- https://pontem.network/
+
+
 &nbsp;
 
 ## Thanks
@@ -46,6 +56,41 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[Arti] and [OpenMLS].
+
+These two projects are unrelated, but we're fans of both and have wanted to spotlight them for a while.
+While not blockchain projects, they are both interesting and potentially important cryptographic libraries.
+
+Arti is an official rewrite of [Tor] in Rust, first [announced in July][jly].
+Tor is a critical piece of distributed infrastructure,
+but it has historically been difficult to use for application specific purposes.
+If we could all just embed Tor in our applications,
+we could trivially add its unique security properties to our networks.
+This project promises to make that possible,
+especially for Rust applications.
+As important as Tor is, it needs more developers,
+and this could be a great project to contribute to.
+
+OpenMLS is a Rust implementation of the [Messaging Layer Security protocol][mls],
+an in-progress standard being developed by the IETF MLS Working Group.
+This protocol is intended to solve a still-common problem in secure messaging:
+that while it is now possible to have strong end-to-end encryption for two-party conversations,
+there are few good solutions for end-to-end encrypted group communication.
+From the draft abstract,
+MLS specifies "a key establishment protocol that provides efficient asynchronous
+group key establishment with forward secrecy and post-compromise security for
+groups in size ranging from two to thousands".
+
+Both of these projects could become important advantages for Rust developers
+building permissionless distributed systems.
+
+[Arti]: https://gitlab.torproject.org/tpo/core/arti
+[Tor]: https://www.torproject.org/
+[jly]: https://blog.torproject.org/announcing-arti
+[OpenMLS]: https://github.com/openmls/openmls
+[mls]: https://datatracker.ietf.org/doc/html/draft-ietf-mls-protocol
+
+
 &nbsp;
 
 
@@ -56,7 +101,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [`crypto-bigint` v0.2.6](https://twitter.com/RustCryptoOrg/status/1435640493694758915)
   adds support for natively encoding/decoding `UInt` types using Ethereum's Recursive Length Prefix (RLP) encoding.
 - [Bitcoin Core 22.0 released](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2021-September/000104.html).
-- [Altair Mainnet Announcement](https://blog.ethereum.org/2021/10/05/altair-announcement/).
+- [Ethereum Altair Mainnet Announcement](https://blog.ethereum.org/2021/10/05/altair-announcement/).
   "The Altair beacon chain upgrade is ready to be activated on the
   Ethereum mainnet. The upgrade will go live at epoch 74240 (Oct 27,
   2021, 10:56:23am UTC)."

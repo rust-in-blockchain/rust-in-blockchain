@@ -465,7 +465,7 @@ May 1-2 | Online
 
 Oct 18-24 | Lisbon
 
-[lisbonblockchainweek](https://lisbonblockchainweek.com/)
+[Lisbon Blockchain Week](https://lisbonblockchainweek.com/)
 
 Oct 22-24 | Fintech House Lisbon
 

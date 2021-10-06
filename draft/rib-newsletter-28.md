@@ -147,8 +147,6 @@ building permissionless distributed systems.
 - [SewUp](https://github.com/second-state/SewUp).
   A library to help you build your Ethereum webassembly contract with
   Rust and just like develop in a common backend.
-- Dfinity's [NNS front-end Dapp](https://github.com/dfinity/nns-dapp).
-  The Dapp of the Internet Computer's Network Nervous System.
 
 &nbsp;
 

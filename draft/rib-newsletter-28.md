@@ -89,7 +89,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [Arti] and [OpenMLS].
 
 These two projects are unrelated, but we're fans of both and have wanted to spotlight them for a while.
-While not blockchain projects, they are both interesting and potentially important cryptographic libraries.
+While not blockchain projects, they are both interesting and potentially important cryptographic projects.
 
 Arti is an official rewrite of [Tor] in Rust, first [announced in July][jly].
 Tor is a critical piece of distributed infrastructure,

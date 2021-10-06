@@ -16,7 +16,7 @@ the chillest newsletter about the chillest tech.
 
 
 
-
+- acala
 - https://www.subspace.network/
 - https://pontem.network/
 
@@ -101,10 +101,8 @@ building permissionless distributed systems.
 - [`crypto-bigint` v0.2.6](https://twitter.com/RustCryptoOrg/status/1435640493694758915)
   adds support for natively encoding/decoding `UInt` types using Ethereum's Recursive Length Prefix (RLP) encoding.
 - [Bitcoin Core 22.0 released](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2021-September/000104.html).
-- [Ethereum Altair Mainnet Announcement](https://blog.ethereum.org/2021/10/05/altair-announcement/).
-  "The Altair beacon chain upgrade is ready to be activated on the
-  Ethereum mainnet. The upgrade will go live at epoch 74240 (Oct 27,
-  2021, 10:56:23am UTC)."
+- [Ethereum 2.0 Altair Mainnet Announcement](https://blog.ethereum.org/2021/10/05/altair-announcement/).
+  The Ethereum 2.0 upgrade will go live at epoch 74240, on October 27.
 
 #### Blog Posts
 

@@ -128,6 +128,7 @@ building permissionless distributed systems.
 
 #### News
 
+- [GitHub Advisory Database now supports Rust](https://github.blog/2021-09-23-github-advisory-database-now-supports-rust/)
 - [`crypto-bigint` v0.2.6](https://twitter.com/RustCryptoOrg/status/1435640493694758915)
   adds support for natively encoding/decoding `UInt` types using Ethereum's Recursive Length Prefix (RLP) encoding.
 - [Bitcoin Core 22.0 released](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2021-September/000104.html).
@@ -362,6 +363,9 @@ building permissionless distributed systems.
 [iota-merged-prs-1]: https://github.com/iotaledger/iota.rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-09-01..2021-09-30
 [iota-closed_issues-1]: https://github.com/iotaledger/iota.rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-09-01..2021-09-30
 [iota-open_issues-1]: https://github.com/iotaledger/iota.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-09-01..2021-09-30
+
+- [IOTA 2.0: Details on Current Status and Next Steps](https://blog.iota.org/iota-2-0-details-on-current-status-and-outlook/).
+  IOTA 2.0 is written in Rust.
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 

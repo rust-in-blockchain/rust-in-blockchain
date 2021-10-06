@@ -56,12 +56,24 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [`crypto-bigint` v0.2.6](https://twitter.com/RustCryptoOrg/status/1435640493694758915)
   adds support for natively encoding/decoding `UInt` types using Ethereum's Recursive Length Prefix (RLP) encoding.
 - [Bitcoin Core 22.0 released](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2021-September/000104.html).
+- [Altair Mainnet Announcement](https://blog.ethereum.org/2021/10/05/altair-announcement/).
+  "The Altair beacon chain upgrade is ready to be activated on the
+  Ethereum mainnet. The upgrade will go live at epoch 74240 (Oct 27,
+  2021, 10:56:23am UTC)."
 
 #### Blog Posts
 
 - [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
+- [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)
+- [Summarizing 12 months of reading papers (2021)](https://alastairreid.github.io/a-year-of-papers-2021/)
 
 #### Papers
+
+- [On the security of ECDSA with additive key derivation and presignatures](https://eprint.iacr.org/2021/1330)
+- [Blockchain-based Privacy-preserving Fair Data Trading Protocol](https://eprint.iacr.org/2021/1321)
+- [Efficient Perfectly Secure Computation with Optimal Resilience](https://eprint.iacr.org/2021/1206)
+- [fflonk: a Fast-Fourier inspired verifier efficient version of PlonK](https://eprint.iacr.org/2021/1167)
+- [Bandersnatch: a fast elliptic curve built over the BLS12-381 scalar field](https://eprint.iacr.org/2021/1152)
 
 #### Projects
 
@@ -289,6 +301,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-09-01..2021-09-30
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2021-09-01..2021-09-30
 
+- New release: [Birdperson](https://github.com/sigp/lighthouse/releases/tag/v2.0.0)
+
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 136 merged PRs ([1][mobilecoin-merged-prs-1], [2][mobilecoin-merged-prs-2]), 
@@ -494,6 +508,10 @@ Dec 1-3 | Seoul, Korea
 Dec 14-15 | Online
 
 [18th IMA International Conference on Cryptography and Coding](https://ima.org.uk/16366/online-event-18th-ima-international-conference-on-cryptography-and-coding/)
+
+Feb 14-18, 2022 | Canada
+
+[Financial Cryptography and Data Security 2022](http://fc22.ifca.ai/index.html)
 
 &nbsp;
 

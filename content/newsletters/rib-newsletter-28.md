@@ -8,7 +8,7 @@ summary: "_TODO_"
 ---
 
 Welcome to the #28 edition of Rust in Blockchain,
-the chillest newsletter about the chillest tech.
+the monthly newsletter about Rust, distributed systems, cryptography, and other industry topics.
 [Previous: #27](/newsletters/rib-newsletter-27/).
 
 It's been a while since we've taken a look at Polkadot / Substrate,

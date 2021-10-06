@@ -14,11 +14,35 @@ the chillest newsletter about the chillest tech.
 
 
 
+It's been a while since we've taken a look at Polkadot / Substrate,
+but their ambitious plan to create an ecosystem of interoperating
+blockchains (called "parachains" in Polkadot) is moving faster every month.
+A few interesting Substrate projects have come to our attention lately,
+so let's do a tiny survey of fun Substrate networks and/or Polkadot parachains.
 
+- [Pontem] &mdash; From the lack of news, one might forget about [Diem],
+  Facebooks nascent cryptocurrency network, but it is still in active development,
+  along with its VM and language, [Move].
+  [Pontem] though is a network running the Move VM,
+  but built on Substrate.
 
-- acala
-- https://www.subspace.network/
-- https://pontem.network/
+- [Subspace] &mdash; This is one of the new proof of capicity chains, ala [Chia].
+  In their whitepaper they claim to solve what they call _the farmers dilemma_,
+  by which PoC "farmers" are misincentivised to discard the actual
+  state of the chain to spend that space farming for rewards.
+  To this end, Subspace consensus is based on proofs of replicated storage
+  of the chain state itself.
+
+With the diversity of capabilities on display in the Polkadot ecosystem,
+their big bet on turning Polkadot into a highly-general blockchain construction
+framework in SUbstrate, looks like it is resulting in a flourishing ecosystem,
+despite the complexity of the endeavour.
+
+[Subspace]: https://www.subspace.network/
+[Chia]: https://www.chia.net/
+[Pontem]: https://pontem.network/
+[Diem]: https://www.diem.com/
+[Move]: https://developers.diem.com/docs/move/move-overview
 
 
 &nbsp;

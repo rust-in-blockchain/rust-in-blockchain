@@ -28,3 +28,5 @@ If you like us, please consider sending donation to us:
   - ckb1qyqf7j4282wh0rhzcdjsnzuqas6tjgar2yjq8mtfd2
 - NEAR
   - @rib.near
+- Zcash
+  - t1dvAmgCUWpFW4LccbE4MXag4Y6SBr4k5vD

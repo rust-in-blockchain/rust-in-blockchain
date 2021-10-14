@@ -20,6 +20,9 @@ Aleo | San Francisco, Remote
 `arkworks` | Remote
 - [Co-maintainer](https://form.jotform.com/212026632139145)
 
+Aurora | Remote
+- [Blockchain/Bridge Engineer](https://docs.google.com/document/d/1xXMEeQffOv2rfPT4jpipwkjo4osmfyAp4eEl51j3dt4/edit?usp=sharing)
+
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
 

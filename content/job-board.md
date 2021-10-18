@@ -128,7 +128,10 @@ Matter Labs | Berlin/Kiev or Remote
 - [Tech Team Lead (Rust)](https://www.notion.so/Tech-Team-Lead-Rust-e336a6285c60426f9f95700b2da1beac)
 
 Moonbeam | Boston, MA USA; Madrid, Spain; Remote
-- [Senior Blockchain Engineer](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
+- [Senior Blockchain Engineer, Contract Runtime](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
+
+NEAR | Remote
+- [Low-Level Developer, Contract Runtime](https://docs.google.com/document/d/18HEwef-HDPZ2FPYfaHWpsd-kSF8E4zNpeQVulqhfFSk/edit?usp=sharing)
 
 Oxygen | Dubai or Remote
 - [Rust Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)

@@ -16,6 +16,8 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[Awa Sun Yin],
+[bbyleggo123]
 
 _TODO_
 
@@ -27,6 +29,8 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Awa Sun Yin]: https://github.com/awasunyin
+[bbyleggo123]: https://github.com/bbyleggo123
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -147,6 +151,18 @@ Company name | Location A, B, Remote
 
 -->
 
+Anoma | Berlin, Remote
+- [Senior Rust Engineer](https://heliax.dev/jobs/senior-rust-engineer/)
+- [Rust P2P Networking Engineer](https://heliax.dev/jobs/rust-p2p-networking-engineer)
+- [Technical Engineering Manager](https://heliax.dev/jobs/technical-engineering-manager/)
+- [Zero-Knowledge Cryptographer & Protocol Developer](https://heliax.dev/jobs/zero-knowledge-cryptographer-protocol-developer/)
+- [Distributed Systems Research Engineer](https://heliax.dev/jobs/distributed-systems-research-engineer/)
+
+Aurora | Remote
+- [Blockchain/Bridge Engineer](https://docs.google.com/document/d/1xXMEeQffOv2rfPT4jpipwkjo4osmfyAp4eEl51j3dt4/edit?usp=sharing)
+
+NEAR | Remote
+- [Low-Level Developer, Contract Runtime](https://docs.google.com/document/d/18HEwef-HDPZ2FPYfaHWpsd-kSF8E4zNpeQVulqhfFSk/edit?usp=sharing)
 
 
 More jobs can be found at [Job Board][page-jobboard].

@@ -17,6 +17,13 @@ Aleo | San Francisco, Remote
 - [Full Stack Developer](https://www.aleo.org/jobs/full-stack-developer)
 - [Interface Designer](https://www.aleo.org/jobs/interface-designer)
 
+Anoma | Berlin, Remote
+- [Senior Rust Engineer](https://heliax.dev/jobs/senior-rust-engineer/)
+- [Rust P2P Networking Engineer](https://heliax.dev/jobs/rust-p2p-networking-engineer)
+- [Technical Engineering Manager](https://heliax.dev/jobs/technical-engineering-manager/)
+- [Zero-Knowledge Cryptographer & Protocol Developer](https://heliax.dev/jobs/zero-knowledge-cryptographer-protocol-developer/)
+- [Distributed Systems Research Engineer](https://heliax.dev/jobs/distributed-systems-research-engineer/)
+
 `arkworks` | Remote
 - [Co-maintainer](https://form.jotform.com/212026632139145)
 

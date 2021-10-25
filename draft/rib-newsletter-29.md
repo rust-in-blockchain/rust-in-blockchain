@@ -16,8 +16,12 @@ the chillest newsletter about the chillest tech.
 ## Thanks
 
 Thanks to contributors:
+[Adam Dossa],
 [Awa Sun Yin],
-[bbyleggo123]
+[bbyleggo123],
+[Dan Shields],
+[KΞlchΞ⟠],
+[Squirrel],
 
 _TODO_
 
@@ -29,8 +33,12 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Adam Dossa]: https://github.com/adamdossa
 [Awa Sun Yin]: https://github.com/awasunyin
 [bbyleggo123]: https://github.com/bbyleggo123
+[Dan Shields]: https://github.com/NukeManDan
+[KΞlchΞ⟠]: https://github.com/kelcheone
+[Squirrel]: https://github.com/gilescope
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

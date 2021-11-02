@@ -405,6 +405,7 @@ repos = [
 "nervosnetwork/ckb-cli",
 "nervosnetwork/capsule",
 "nervosnetwork/ckb-std",
+"nervosnetwork/force-bridge-eth",
 ]
 ```
 ## Oasis

@@ -59,6 +59,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/)
 
 #### Papers
 
@@ -295,7 +296,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 77 merged PRs ([1][nervos-merged-prs-1], [2][nervos-merged-prs-2], [3][nervos-merged-prs-3], [4][nervos-merged-prs-4]), 
 4 closed issues ([1][nervos-closed_issues-1], [2][nervos-closed_issues-2], [3][nervos-closed_issues-3]), 
-2 open issues ([1][nervos-open_issues-1])
+3 open issues ([1][nervos-open_issues-1], [2][nervos-open_issues-2])
 
 [nervos-merged-prs-1]: https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-10-01..2021-10-31
 [nervos-merged-prs-2]: https://github.com/nervosnetwork/ckb-vm/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-10-01..2021-10-31
@@ -305,6 +306,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [nervos-closed_issues-2]: https://github.com/nervosnetwork/ckb-vm/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-10-01..2021-10-31
 [nervos-closed_issues-3]: https://github.com/nervosnetwork/ckb-cli/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-10-01..2021-10-31
 [nervos-open_issues-1]: https://github.com/nervosnetwork/ckb-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
+[nervos-open_issues-2]: https://github.com/nervosnetwork/force-bridge-eth/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
+
+- [Force Bridge Now Live on Mainnet](https://www.nervos.org/blog/force-bridge-mainnet/)
 
 #### [Parity](https://github.com/paritytech)
 

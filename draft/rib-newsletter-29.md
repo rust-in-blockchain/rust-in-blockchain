@@ -66,6 +66,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Shade Protocol](https://github.com/securesecrets/shade)
+  is an array of connected privacy-preserving dApps built on Secret Network.
 
 &nbsp;
 
@@ -369,6 +371,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [secret_network-merged-prs-2]: https://github.com/scrtlabs/secret-toolkit/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-10-01..2021-10-31
 [secret_network-open_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 
+- [Secret Feature: Shade Protocol & Silk](https://scrt.network/blog/shade-protocol-silk-privacy-preserving-stablecoin)
+- [Altermail is LIVE on Mainnet!](https://scrt.network/blog/altermail-live-on-mainnet)
+- [Secret Feature: SiennaSwap Launches on Mainnet!](https://scrt.network/blog/secret-feature-sienna-siennaswap-live)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 275 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]), 
@@ -428,6 +434,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [zksync-closed_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-10-01..2021-10-31
 [zksync-open_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 
+- [UniSync: a port of Uniswap V2 on the zkEVM](https://medium.com/matter-labs/unisync-a-port-of-uniswap-v2-on-the-zkevm-b12954748504)
 
 &nbsp;
 

@@ -69,7 +69,8 @@ GitHub:
 
 ```toml
 repos = [
-"ChainSafe/forest"
+"ChainSafe/forest",
+"ChainSafe/filecoindot",
 ]
 ```
 
@@ -494,13 +495,13 @@ Media:
 
 GitHub:
 
-- https://github.com/enigmampc
+- https://github.com/scrtlabs
 
 ``` toml
 repos = [
-"enigmampc/SecretNetwork",
-"enigmampc/secret-toolkit",
-"enigmampc/SafeTrace",
+"scrtlabs/SecretNetwork",
+"scrtlabs/secret-toolkit",
+"scrtlabs/SafeTrace",
 ]
 ```
 

@@ -33,10 +33,9 @@ notable developments:
   network. Some of the Kusama parachains, notably [Moonriver], are already up
   and running and attracting EVM-compatible dapps like Sushi.
 - Solana has turned into a bit of a juggernaut, with huge financial backing, and
-  TVL only behind Ethereum and Binance Smart Chain. Itt has been attracting
-  dapps and protocols that were previously EVM-only, like [Lido] and [RenVM],
-  and Solana is not an EVM chain. But it also has a strong stable of its own
-  Solana-native dapps.
+  TVL only behind Ethereum and Binance Smart Chain. It has been attracting dapps
+  and protocols that were previously EVM-only, like [Lido] and [RenVM]; but it
+  also has a strong stable of its own Solana-native dapps.
 
 [nevm]: https://docs.nervos.org/docs/essays/polyjuice
 [fb]: https://www.nervos.org/blog/force-bridge-mainnet/
@@ -104,7 +103,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [mina-rs].
 
-[Mina] is a new blockchain protocol that uses zero-knowledge proofs to validate
+[Mina] is a new blockchain network that uses zero-knowledge proofs to validate
 the state of the chain without access to a full blockchain, but instead only a
 tiny (~22k) proof. This should enable even mobile devices to participate in the
 network as full validators, requiring less trust than today's situation where
@@ -121,9 +120,10 @@ suggests we'll be able to embed a full node directly in the browser.
 [Mina]: https://minaprotocol.com/
 [ChainSafe]: https://chainsafe.io/
 
-Some recent blog posts about Mina / mina-rs:
+Some recent information about Mina / mina-rs:
 
 - [Rising Tides: How the Mina Protocol can benefit Web 3.0](https://medium.com/chainsafe-systems/mina-wasm-benefits-for-web-3-0-3d25991c3b75)
+- [Mina: Decentralized Cryptocurrency at Scale (whitepaper)](https://docs.minaprotocol.com/static/pdf/technicalWhitepaper.pdf)
 - [22kB-Sized Blockchain &mdash; A Technical Reference](https://minaprotocol.com/blog/22kb-sized-blockchain-a-technical-reference)
 - [Mina Product Priorities & Mina Foundation Mission](https://minaprotocol.com/blog/mina-protocol-product-priorities-mina-foundation-mission)
 
@@ -147,7 +147,6 @@ Some recent blog posts about Mina / mina-rs:
 - [Encryption to the Future: A Paradigm for Sending Secret Messages to Future (Anonymous) Committees](https://eprint.iacr.org/2021/1423)
 - [On the security of ECDSA with additive key derivation and presignatures](https://eprint.iacr.org/2021/1330)
 - [How to Prove Schnorr Assuming Schnorr: Security of Multi- and Threshold Signatures](https://eprint.iacr.org/2021/1375)
-- [Zero-knowledge Proofs in Embedded systems](https://eprint.iacr.org/2021/1382)
 
 #### Projects
 

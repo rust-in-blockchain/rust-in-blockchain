@@ -502,7 +502,7 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
 2 merged PRs ([1][rust_ethereum-merged-prs-1]), 
-0 closed issues (), 
+0 closed issues, 
 1 open issues ([1][rust_ethereum-open_issues-1])
 
 [rust_ethereum-merged-prs-1]: https://github.com/rust-ethereum/ethabi/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-10-01..2021-10-31

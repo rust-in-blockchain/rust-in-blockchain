@@ -11,6 +11,11 @@ Welcome to the #29 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #28](/newsletters/rib-newsletter-28/).
 
+This month we've added a new "Security Advisories" section, summarizing all the
+Rust security advisories of the month from [RustSec], and [GitHub Advisories].
+Seeing them all in one place is revealing: lots of security-relevant bugs in crates
+used in, or created by, the blockchain industry.
+
 &nbsp;
 
 ## Thanks
@@ -95,6 +100,53 @@ Some recent blog posts about Mina / mina-rs:
   is an array of connected privacy-preserving dApps built on Secret Network.
 
 &nbsp;
+
+## Security Advisories
+
+Monthly security advisories, from [RustSec], and [GitHub Advisories].
+
+[RustSec]: https://rustsec.org/advisories/
+[GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
+
+- [RUSTSEC-2021-0120: Unsoundness in abomonation](https://rustsec.org/advisories/RUSTSEC-2021-0120.html).
+  abomonation transmutes &T to and from &[u8] without sufficient constraints.
+- **[RUSTSEC-2021-0121: Unsoundness in crypto2](https://rustsec.org/advisories/RUSTSEC-2021-0121.html).**
+  Non-aligned u32 read in Chacha20 encryption and decryption.
+- [CVE-2021-20319: coreos installer improperly verifies GPG signature when decompressing gzipped artifact](https://github.com/advisories/GHSA-3r3g-g73x-g593).
+  coreos-installer fails to correctly verify GPG signatures when decompressing
+  gzip-compressed artifacts. This allows bypass of signature verification in
+  cases where coreos-installer decompresses a downloaded OS image, allowing an
+  attacker who can modify the OS image to compromise a newly-installed system.
+- **[CVE-2020-26281: Async-h1 request smuggling possible with long unread bodies](https://github.com/advisories/GHSA-4vr9-8cjf-vf9c).**
+  This vulnerability affects any webserver that uses async-h1 behind a reverse proxy, including all such Tide applications.
+- **[CVE-2021-41138: Validity check missing in Frontier](https://github.com/advisories/GHSA-vj62-g63v-f8mf).**
+  In the newly introduced signed Frontier-specific extrinsic for
+  pallet-ethereum, a large part of transaction validation logic was only called
+  in transaction pool validation, but not in block execution. Malicious
+  validators can take advantage of this to put invalid transactions into a
+  block.
+- [CVE-2021-41149: Improper sanitization of target names](https://github.com/advisories/GHSA-x3r5-q6mj-m485).
+  The tough library, prior to 0.12.0, does not properly sanitize target names
+  when caching a repository, or when saving specific targets to an output
+  directory. When targets are cached or saved, files could be overwritten with
+  arbitrary content anywhere on the system.
+- [CVE-2021-41150: Improper sanitization of delegated role names](https://github.com/advisories/GHSA-r56q-vv3c-6g9c).
+  The tough library, prior to 0.12.0, does not properly sanitize delegated role
+  names when caching a repository, or when loading a repository from the
+  filesystem. When the repository is cached or loaded, files ending with the
+  .json extension could be overwritten with role metadata anywhere on the
+  system.
+- **[CVE-2021-41153: Specification non-compliance in JUMPI](https://github.com/advisories/GHSA-pvh2-pj76-4m96).**
+  In evm crate < 0.31.0, JUMPI opcode's condition is checked after the
+  destination validity check. However, according to Geth and OpenEthereum, the
+  condition check should happen before the destination validity check.
+- **[GHSA-v935-pqmr-g8v9: Unexpected panics in num-bigint](https://github.com/advisories/GHSA-v935-pqmr-g8v9).**
+  Two scenarios were reported where BigInt and BigUint multiplication may unexpectedly panic.
+
+
+&nbsp;
+
+
 
 ## Most Active in October
 

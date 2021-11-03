@@ -132,15 +132,13 @@ Some recent blog posts about Mina / mina-rs:
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
 - [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/)
 - [FROST: Flexible Round-Optimized Schnorr Threshold Signatures](https://blog.coinbase.com/frost-flexible-round-optimized-schnorr-threshold-signatures-b2e950164ee1)
 - [Sharding](https://adlrocha.substack.com/p/adlrocha-sharding)
 - [Counter-Strike: Threshold Attack](https://medium.com/velasblockchain/counter-strike-threshold-attack-87f3b456b1e0)
+- [A Guide to AppliedZKP zkEVM Circuit Code](https://medium.com/@sin7y/sin7y-tech-review-12-a-guide-to-appliedzkp-zkevm-circuit-code-3e0691056b48)
 
 #### Papers
 

@@ -56,6 +56,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 &nbsp;
 
+## Security Advisories
+
+
+&nbsp;
+
 ## Most Active in March
 
 &nbsp;

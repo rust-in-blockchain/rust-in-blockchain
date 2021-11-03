@@ -14,6 +14,12 @@ the chillest newsletter about the chillest tech.
 _TODO_
 - Zcash donation
 
+This month we've added a "Security Advisories" section, summarizing all the Rust
+security advisories of the month from [RustSec], and [GitHub Advisories]. Seeing
+them all in one place is revealing: lots of security-relevant bugs in crates
+used in, or created by, the blockchain industry.
+
+
 &nbsp;
 
 ## Thanks
@@ -52,6 +58,31 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[mina-rs].
+
+[Mina] is a new blockchain protocol that uses zero-knowledge proofs to validate
+the state of the chain without access to a full blockchain, but instead only a
+tiny (~22k) proof. This should enable even mobile devices to participate in the
+network as full validators, requiring less trust than today's situation where
+most clients are connecting to other peoples' full nodes hosted in the cloud.
+They are calling this style of chain a "succinct blockchain", and have caught
+the attention of a number of other projects, forming partnerships to bring the
+idea to other chains.
+
+[mina-rs] is an implementation of Mina in Rust, developed by [ChainSafe]. It is
+developed not only with mobile environments in mind, but WASM too, which
+suggests we'll be able to embed a full node directly in the browser.
+
+[mina-rs]: https://github.com/ChainSafe/mina-rs
+[Mina]: https://minaprotocol.com/
+[ChainSafe]: https://chainsafe.io/
+
+Some recent blog posts about Mina / mina-rs:
+
+- [Rising Tides: How the Mina Protocol can benefit Web 3.0](https://medium.com/chainsafe-systems/mina-wasm-benefits-for-web-3-0-3d25991c3b75)
+- [22kB-Sized Blockchain &mdash; A Technical Reference](https://minaprotocol.com/blog/22kb-sized-blockchain-a-technical-reference)
+- [Mina Product Priorities & Mina Foundation Mission](https://minaprotocol.com/blog/mina-protocol-product-priorities-mina-foundation-mission)
+
 &nbsp;
 
 
@@ -81,6 +112,53 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   is an array of connected privacy-preserving dApps built on Secret Network.
 
 &nbsp;
+
+## Security Advisories
+
+Monthly security advisories, from [RustSec], and [GitHub Advisories].
+
+[RustSec]: https://rustsec.org/advisories/
+[GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
+
+- [RUSTSEC-2021-0120: Unsoundness in abomonation](https://rustsec.org/advisories/RUSTSEC-2021-0120.html).
+  abomonation transmutes &T to and from &[u8] without sufficient constraints.
+- **[RUSTSEC-2021-0121: Unsoundness in crypto2](https://rustsec.org/advisories/RUSTSEC-2021-0121.html).**
+  Non-aligned u32 read in Chacha20 encryption and decryption.
+- [CVE-2021-20319: coreos installer improperly verifies GPG signature when decompressing gzipped artifact](https://github.com/advisories/GHSA-3r3g-g73x-g593).
+  coreos-installer fails to correctly verify GPG signatures when decompressing
+  gzip-compressed artifacts. This allows bypass of signature verification in
+  cases where coreos-installer decompresses a downloaded OS image, allowing an
+  attacker who can modify the OS image to compromise a newly-installed system.
+- **[CVE-2020-26281: Async-h1 request smuggling possible with long unread bodies](https://github.com/advisories/GHSA-4vr9-8cjf-vf9c).**
+  This vulnerability affects any webserver that uses async-h1 behind a reverse proxy, including all such Tide applications.
+- **[CVE-2021-41138: Validity check missing in Frontier](https://github.com/advisories/GHSA-vj62-g63v-f8mf).**
+  In the newly introduced signed Frontier-specific extrinsic for
+  pallet-ethereum, a large part of transaction validation logic was only called
+  in transaction pool validation, but not in block execution. Malicious
+  validators can take advantage of this to put invalid transactions into a
+  block.
+- [CVE-2021-41149: Improper sanitization of target names](https://github.com/advisories/GHSA-x3r5-q6mj-m485).
+  The tough library, prior to 0.12.0, does not properly sanitize target names
+  when caching a repository, or when saving specific targets to an output
+  directory. When targets are cached or saved, files could be overwritten with
+  arbitrary content anywhere on the system.
+- [CVE-2021-41150: Improper sanitization of delegated role names](https://github.com/advisories/GHSA-r56q-vv3c-6g9c).
+  The tough library, prior to 0.12.0, does not properly sanitize delegated role
+  names when caching a repository, or when loading a repository from the
+  filesystem. When the repository is cached or loaded, files ending with the
+  .json extension could be overwritten with role metadata anywhere on the
+  system.
+- **[CVE-2021-41153: Specification non-compliance in JUMPI](https://github.com/advisories/GHSA-pvh2-pj76-4m96).**
+  In evm crate < 0.31.0, JUMPI opcode's condition is checked after the
+  destination validity check. However, according to Geth and OpenEthereum, the
+  condition check should happen before the destination validity check.
+- **[GHSA-v935-pqmr-g8v9: Unexpected panics in num-bigint](https://github.com/advisories/GHSA-v935-pqmr-g8v9).**
+  Two scenarios were reported where BigInt and BigUint multiplication may unexpectedly panic.
+
+
+&nbsp;
+
+
 
 ## Most Active in October
 

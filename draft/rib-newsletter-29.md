@@ -532,6 +532,7 @@ Monthly security advisories, from [RustSec], and [GitHub Advisories].
 [zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 
 - [Public Report – Zcash NU5 Cryptography Review](https://research.nccgroup.com/2021/11/02/public-report-zcash-nu5-cryptography-review/)
+- [Zebra 1.0.0-beta.0 release](https://mailchi.mp/zfnd.org/zebra-beta-release-is-here).
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 

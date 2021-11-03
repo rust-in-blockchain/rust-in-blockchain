@@ -7,8 +7,9 @@ categories:
 summary: "_TODO_"
 ---
 
-Welcome to the #29 edition of Rust in Blockchain,
-the chillest newsletter about the chillest tech.
+Welcome to the #29 edition of Rust in Blockchain, the monthly
+newsletter about Rust, distributed systems, cryptography, and other
+industry topics.
 [Previous: #28](/newsletters/rib-newsletter-28/).
 
 With [total value locked (TVL)][tvl] measurements going up, up, up across the
@@ -55,6 +56,15 @@ Advisories]. Seeing them all in one place is revealing: lots of
 security-relevant bugs in crates used in, or created by, the blockchain
 industry.
 
+This month, [upon prompting][zcp], we added a Zcash donation address, and
+immediately received 3 donations. Thanks to the Zcash twitter community! RiB
+donations are 100% earmarked for supporting developers through event
+sponsorships, etc. The donation addresses can be found on the sidebar of
+[the website][ribweb].
+
+[zcp]: https://twitter.com/rust_blockchain/status/1448396267172900868
+[ribweb]: https://rustinblockchain.org/
+
 &nbsp;
 
 ## Thanks
@@ -66,9 +76,8 @@ Thanks to contributors:
 [Dan Shields],
 [KΞlchΞ⟠],
 [Squirrel],
-
-_TODO_
-
+[Brian Anderson] and
+[Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -129,9 +138,17 @@ Some recent blog posts about Mina / mina-rs:
 #### Blog Posts
 
 - [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/)
+- [FROST: Flexible Round-Optimized Schnorr Threshold Signatures](https://blog.coinbase.com/frost-flexible-round-optimized-schnorr-threshold-signatures-b2e950164ee1)
+- [Sharding](https://adlrocha.substack.com/p/adlrocha-sharding)
+- [Counter-Strike: Threshold Attack](https://medium.com/velasblockchain/counter-strike-threshold-attack-87f3b456b1e0)
 
 #### Papers
 
+- [Plumo: An Ultralight Blockchain Client](https://eprint.iacr.org/2021/1361)
+- [Encryption to the Future: A Paradigm for Sending Secret Messages to Future (Anonymous) Committees](https://eprint.iacr.org/2021/1423)
+- [On the security of ECDSA with additive key derivation and presignatures](https://eprint.iacr.org/2021/1330)
+- [How to Prove Schnorr Assuming Schnorr: Security of Multi- and Threshold Signatures](https://eprint.iacr.org/2021/1375)
+- [Zero-knowledge Proofs in Embedded systems](https://eprint.iacr.org/2021/1382)
 
 #### Projects
 
@@ -189,6 +206,21 @@ Bold entries here are especially relevant to blockchain projects.
 
 
 ## Most Active in October
+
+[Parity](https://github.com/paritytech):
+291 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5]), 
+105 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+112 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5], [6][parity-open_issues-6])
+
+[Solana](https://github.com/solana-labs/solana):
+275 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]), 
+42 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+68 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[Diem](https://github.com/diem):
+183 merged PRs ([1][diem-merged-prs-1]), 
+14 closed issues ([1][diem-closed_issues-1]), 
+24 open issues ([1][diem-open_issues-1])
 
 &nbsp;
 
@@ -505,6 +537,8 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 
+- [Reflections on Solana's Sept 14 outage](https://jumpcrypto.com/reflections-on-the-sept-14-solana-outage/)
+
 #### [Spacemesh](https://github.com/spacemeshos)
 
 7 merged PRs ([1][spacemesh-merged-prs-1]), 
@@ -541,6 +575,8 @@ Bold entries here are especially relevant to blockchain projects.
 [zcash-open_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 [zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 [zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
+
+- [Public Report – Zcash NU5 Cryptography Review](https://research.nccgroup.com/2021/11/02/public-report-zcash-nu5-cryptography-review/)
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 
@@ -584,6 +620,10 @@ Dec 1-3 | Seoul, Korea
 Dec 14-15 | Online
 
 [18th IMA International Conference on Cryptography and Coding](https://ima.org.uk/16366/online-event-18th-ima-international-conference-on-cryptography-and-coding/)
+
+Jan 24-26, 2022 | Arrillaga Alumni Center, Stanford University
+
+[SBC'22: The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/)
 
 Feb 14-18, 2022 | Canada
 

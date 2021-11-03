@@ -84,12 +84,15 @@ Some recent blog posts about Mina / mina-rs:
 
 #### Blog Posts
 
+- [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/)
 
 #### Papers
 
 
 #### Projects
 
+- [Shade Protocol](https://github.com/securesecrets/shade)
+  is an array of connected privacy-preserving dApps built on Secret Network.
 
 &nbsp;
 
@@ -320,7 +323,7 @@ Some recent blog posts about Mina / mina-rs:
 
 77 merged PRs ([1][nervos-merged-prs-1], [2][nervos-merged-prs-2], [3][nervos-merged-prs-3], [4][nervos-merged-prs-4]), 
 4 closed issues ([1][nervos-closed_issues-1], [2][nervos-closed_issues-2], [3][nervos-closed_issues-3]), 
-2 open issues ([1][nervos-open_issues-1])
+3 open issues ([1][nervos-open_issues-1], [2][nervos-open_issues-2])
 
 [nervos-merged-prs-1]: https://github.com/nervosnetwork/ckb/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-10-01..2021-10-31
 [nervos-merged-prs-2]: https://github.com/nervosnetwork/ckb-vm/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-10-01..2021-10-31
@@ -330,6 +333,9 @@ Some recent blog posts about Mina / mina-rs:
 [nervos-closed_issues-2]: https://github.com/nervosnetwork/ckb-vm/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-10-01..2021-10-31
 [nervos-closed_issues-3]: https://github.com/nervosnetwork/ckb-cli/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-10-01..2021-10-31
 [nervos-open_issues-1]: https://github.com/nervosnetwork/ckb-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
+[nervos-open_issues-2]: https://github.com/nervosnetwork/force-bridge-eth/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
+
+- [Force Bridge Now Live on Mainnet](https://www.nervos.org/blog/force-bridge-mainnet/)
 
 #### [Parity](https://github.com/paritytech)
 
@@ -390,6 +396,10 @@ Some recent blog posts about Mina / mina-rs:
 [secret_network-merged-prs-2]: https://github.com/scrtlabs/secret-toolkit/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-10-01..2021-10-31
 [secret_network-open_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 
+- [Secret Feature: Shade Protocol & Silk](https://scrt.network/blog/shade-protocol-silk-privacy-preserving-stablecoin)
+- [Altermail is LIVE on Mainnet!](https://scrt.network/blog/altermail-live-on-mainnet)
+- [Secret Feature: SiennaSwap Launches on Mainnet!](https://scrt.network/blog/secret-feature-sienna-siennaswap-live)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 275 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]), 
@@ -449,6 +459,7 @@ Some recent blog posts about Mina / mina-rs:
 [zksync-closed_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-10-01..2021-10-31
 [zksync-open_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 
+- [UniSync: a port of Uniswap V2 on the zkEVM](https://medium.com/matter-labs/unisync-a-port-of-uniswap-v2-on-the-zkevm-b12954748504)
 
 &nbsp;
 

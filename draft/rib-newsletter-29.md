@@ -7,8 +7,9 @@ categories:
 summary: "_TODO_"
 ---
 
-Welcome to the #29 edition of Rust in Blockchain,
-the chillest newsletter about the chillest tech.
+Welcome to the #29 edition of Rust in Blockchain, the monthly
+newsletter about Rust, distributed systems, cryptography, and other
+industry topics.
 [Previous: #28](/newsletters/rib-newsletter-28/).
 
 _TODO_
@@ -31,9 +32,8 @@ Thanks to contributors:
 [Dan Shields],
 [KΞlchΞ⟠],
 [Squirrel],
-
-_TODO_
-
+[Brian Anderson] and
+[Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -161,6 +161,21 @@ Monthly security advisories, from [RustSec], and [GitHub Advisories].
 
 
 ## Most Active in October
+
+[Parity](https://github.com/paritytech):
+291 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5]), 
+105 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+112 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5], [6][parity-open_issues-6])
+
+[Solana](https://github.com/solana-labs/solana):
+275 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]), 
+42 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+68 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[Diem](https://github.com/diem):
+183 merged PRs ([1][diem-merged-prs-1]), 
+14 closed issues ([1][diem-closed_issues-1]), 
+24 open issues ([1][diem-open_issues-1])
 
 &nbsp;
 
@@ -559,7 +574,7 @@ Dec 14-15 | Online
 
 [18th IMA International Conference on Cryptography and Coding](https://ima.org.uk/16366/online-event-18th-ima-international-conference-on-cryptography-and-coding/)
 
-Jan 24-26 | Arrillaga Alumni Center, Stanford University
+Jan 24-26, 2022 | Arrillaga Alumni Center, Stanford University
 
 [SBC'22: The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/)
 

@@ -11,6 +11,9 @@ Welcome to the #29 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #28](/newsletters/rib-newsletter-28/).
 
+_TODO_
+- Zcash donation
+
 &nbsp;
 
 ## Thanks
@@ -60,9 +63,17 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/)
+- [FROST: Flexible Round-Optimized Schnorr Threshold Signatures](https://blog.coinbase.com/frost-flexible-round-optimized-schnorr-threshold-signatures-b2e950164ee1)
+- [Sharding](https://adlrocha.substack.com/p/adlrocha-sharding)
+- [Counter-Strike: Threshold Attack](https://medium.com/velasblockchain/counter-strike-threshold-attack-87f3b456b1e0)
 
 #### Papers
 
+- [Plumo: An Ultralight Blockchain Client](https://eprint.iacr.org/2021/1361)
+- [Encryption to the Future: A Paradigm for Sending Secret Messages to Future (Anonymous) Committees](https://eprint.iacr.org/2021/1423)
+- [On the security of ECDSA with additive key derivation and presignatures](https://eprint.iacr.org/2021/1330)
+- [How to Prove Schnorr Assuming Schnorr: Security of Multi- and Threshold Signatures](https://eprint.iacr.org/2021/1375)
+- [Zero-knowledge Proofs in Embedded systems](https://eprint.iacr.org/2021/1382)
 
 #### Projects
 
@@ -425,6 +436,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 [zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 
+- [Public Report – Zcash NU5 Cryptography Review](https://research.nccgroup.com/2021/11/02/public-report-zcash-nu5-cryptography-review/)
+
 #### [zkSync](https://github.com/matter-labs/zksync)
 
 0 merged PRs, 
@@ -467,6 +480,10 @@ Dec 1-3 | Seoul, Korea
 Dec 14-15 | Online
 
 [18th IMA International Conference on Cryptography and Coding](https://ima.org.uk/16366/online-event-18th-ima-international-conference-on-cryptography-and-coding/)
+
+Jan 24-26 | Arrillaga Alumni Center, Stanford University
+
+[SBC'22: The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/)
 
 Feb 14-18, 2022 | Canada
 

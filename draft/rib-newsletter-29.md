@@ -134,6 +134,7 @@ Some recent blog posts about Mina / mina-rs:
 
 #### Blog Posts
 
+- [Rudra: Finding Memory Safety Bugs in Rust at the Ecosystem Scale](https://www.micahlerner.com/2021/10/31/rudra-finding-memory-safety-bugs-in-rust-at-the-ecosystem-scale.html)
 - [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/)
 - [FROST: Flexible Round-Optimized Schnorr Threshold Signatures](https://blog.coinbase.com/frost-flexible-round-optimized-schnorr-threshold-signatures-b2e950164ee1)
 - [Sharding](https://adlrocha.substack.com/p/adlrocha-sharding)

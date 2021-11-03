@@ -49,6 +49,31 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[mina-rs].
+
+[Mina] is a new blockchain protocol that uses zero-knowledge proofs to validate
+the state of the chain without access to a full blockchain, but instead only a
+tiny (~22k) proof. This should enable even mobile devices to participate in the
+network as full validators, requiring less trust than today's situation where
+most clients are connecting to other peoples' full nodes hosted in the cloud.
+They are calling this style of chain a "succinct blockchain", and have caught
+the attention of a number of other projects, forming partnerships to bring the
+idea to other chains.
+
+[mina-rs] is an implementation of Mina in Rust, developed by [ChainSafe]. It is
+developed not only with mobile environments in mind, but WASM too, which
+suggests we'll be able to embed a full node directly in the browser.
+
+[mina-rs]: https://github.com/ChainSafe/mina-rs
+[Mina]: https://minaprotocol.com/
+[ChainSafe]: https://chainsafe.io/
+
+Some recent blog posts about Mina / mina-rs:
+
+- [Rising Tides: How the Mina Protocol can benefit Web 3.0](https://medium.com/chainsafe-systems/mina-wasm-benefits-for-web-3-0-3d25991c3b75)
+- [22kB-Sized Blockchain &mdash; A Technical Reference](https://minaprotocol.com/blog/22kb-sized-blockchain-a-technical-reference)
+- [Mina Product Priorities & Mina Foundation Mission](https://minaprotocol.com/blog/mina-protocol-product-priorities-mina-foundation-mission)
+
 &nbsp;
 
 

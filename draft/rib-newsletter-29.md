@@ -12,14 +12,58 @@ newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #28](/newsletters/rib-newsletter-28/).
 
-_TODO_
-- Zcash donation
+With [total value locked (TVL)][tvl] measurements going up, up, up across the
+blockchain world, Ethereum extremely congested, and liquidity providers fleeing
+to blockchains with high yields and low fees, there are huge efforts on many
+chains to get dapps out fast and attract market share. In the Rust world some
+notable developments:
 
-This month we've added a "Security Advisories" section, summarizing all the Rust
-security advisories of the month from [RustSec], and [GitHub Advisories]. Seeing
-them all in one place is revealing: lots of security-relevant bugs in crates
-used in, or created by, the blockchain industry.
+- NEAR [launched an $800 million ecosystem fund][nf] and has been quietly
+  climbing up the DeFi TVL charts.
+- Secret Network can now bridge to multiple chains and its [SecretSwap] has enough
+  liquidity that it will soon be a viable route for discreetely moving assets
+  between the burgeoning multi-chain ecosystem.
+- The Internet Computer (previously DFINITY) has been cranking out [blog posts][dfb],
+  both about technical matters and partnerships. They are running a developer
+  grants program.
+- Nervos has [launched their Force Bridge][fb] to connect to Ethereum, and is
+  working to add [EVM compatibility][nevm].
+- Polkadot has been running a high-profile [auction for parachain slots][ps] on
+  its canary network, Kusama, and will soon begin auctions for the main Polkadot
+  network. Some of the Kusama parachains, notably [Moonriver], are already up
+  and running and attracting EVM-compatible dapps like Sushi.
+- Solana has turned into a bit of a juggernaut, with huge financial backing, and
+  TVL only behind Ethereum and Binance Smart Chain. Itt has been attracting
+  dapps and protocols that were previously EVM-only, like [Lido] and [RenVM],
+  and Solana is not an EVM chain. But it also has a strong stable of its own
+  Solana-native dapps.
 
+[nevm]: https://docs.nervos.org/docs/essays/polyjuice
+[fb]: https://www.nervos.org/blog/force-bridge-mainnet/
+[SecretSwap]: https://www.secretswap.io/
+[sbr]: https://bridge.scrt.network/
+[tvl]: https://coinmarketcap.com/alexandria/glossary/total-value-locked-tvl
+[Lido]: https://lido.fi/
+[RenVM]: https://renproject.io/
+[Moonriver]: https://moonbeam.network/networks/moonriver/
+[ps]: https://polkadot.network/blog/kusama-batch-2-auctions-report/
+[dfb]: https://medium.com/dfinity-network-blog
+[nf]: https://near.org/blog/near-announces-800-million-in-funding-initiatives-to-support-ecosystem-growth/
+
+In RiB news, this month we've added a "Security Advisories" section, summarizing
+all the Rust security advisories of the month from [RustSec], and [GitHub
+Advisories]. Seeing them all in one place is revealing: lots of
+security-relevant bugs in crates used in, or created by, the blockchain
+industry.
+
+This month, [upon prompting][zcp], we added a Zcash donation address, and
+immediately received 3 donations. Thanks to the Zcash twitter community! RiB
+donations are 100% earmarked for supporting developers through event
+sponsorships, etc. The donation addresses can be found on the sidebar of
+[the website][ribweb].
+
+[zcp]: https://twitter.com/rust_blockchain/status/1448396267172900868
+[ribweb]: https://rustinblockchain.org/
 
 &nbsp;
 
@@ -116,6 +160,7 @@ Some recent blog posts about Mina / mina-rs:
 ## Security Advisories
 
 Monthly security advisories, from [RustSec], and [GitHub Advisories].
+Bold entries here are especially relevant to blockchain projects.
 
 [RustSec]: https://rustsec.org/advisories/
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust

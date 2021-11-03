@@ -492,6 +492,8 @@ Monthly security advisories, from [RustSec], and [GitHub Advisories].
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2021-10-01..2021-10-31
 
+- [Reflections on Solana's Sept 14 outage](https://jumpcrypto.com/reflections-on-the-sept-14-solana-outage/)
+
 #### [Spacemesh](https://github.com/spacemeshos)
 
 7 merged PRs ([1][spacemesh-merged-prs-1]), 

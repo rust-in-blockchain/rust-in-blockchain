@@ -11,9 +11,9 @@ Welcome to the #29 edition of Rust in Blockchain,
 the chillest newsletter about the chillest tech.
 [Previous: #28](/newsletters/rib-newsletter-28/).
 
-This month we've added a new "Security Advisories" section, summarizing all the
-Rust security advisories of the month from [RustSec], and [GitHub Advisories].
-Seeing them all in one place is revealing: lots of security-relevant bugs in crates
+This month we've added a "Security Advisories" section, summarizing all the Rust
+security advisories of the month from [RustSec], and [GitHub Advisories]. Seeing
+them all in one place is revealing: lots of security-relevant bugs in crates
 used in, or created by, the blockchain industry.
 
 &nbsp;

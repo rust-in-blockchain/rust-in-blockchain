@@ -24,7 +24,7 @@ notable developments:
 - NEAR [launched an $800 million ecosystem fund][nf] and has been quietly
   climbing up the DeFi TVL charts.
 - Secret Network can now bridge to multiple chains and its [SecretSwap] has enough
-  liquidity that it will soon be a viable route for discreetely moving assets
+  liquidity that it will soon be a viable route for discreetly moving assets
   between the burgeoning multi-chain ecosystem.
 - The Internet Computer (previously DFINITY) has been cranking out [blog posts][dfb],
   both about technical matters and partnerships. They are running a developer

@@ -1,10 +1,13 @@
 ---
-title: "RiB Newsletter #29 - _TODO_"
+title: "RiB Newsletter #29"
 description: "#29 - October 2021"
 date: 2021-11-03
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #29 edition of Rust in Blockchain.  This
+month we’ve added a “Security Advisories” section, summarizing all the
+Rust security advisories of the month from RustSec, and GitHub
+Advisories."
 ---
 
 Welcome to the #29 edition of Rust in Blockchain, the monthly

@@ -10,6 +10,8 @@ pager: false
 
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
+Hubble | London, Remote
+- [Software engineer](https://hubble.markets/careers)
 
 Aleo | San Francisco, Remote
 - [Senior Protocol Engineer](https://www.aleo.org/jobs/senior-protocol-engineer)

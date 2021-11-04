@@ -10,7 +10,7 @@ pager: false
 
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
-Hubble (Solana) | London, Remote
+Hubble (Solana, DeFi) | London, Remote
 - [Software engineer](https://hubble.markets/careers)
 
 Aleo | San Francisco, Remote

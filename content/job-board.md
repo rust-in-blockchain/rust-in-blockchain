@@ -10,9 +10,6 @@ pager: false
 
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
-Hubble (Solana, DeFi) | London, Remote
-- [Software engineer](https://hubble.markets/careers)
-
 Aleo | San Francisco, Remote
 - [Senior Protocol Engineer](https://www.aleo.org/jobs/senior-protocol-engineer)
 - [Senior Compiler Engineer](https://www.aleo.org/jobs/senior-compiler-engineer)
@@ -99,6 +96,9 @@ Fractal Protocol | Remote or Berlin
 
 Fuel Labs | Remote
 - [Senior Software Engineer [Rust]](https://jobs.lever.co/fuellabs/13b01903-490a-4497-b778-35434f4188cf)
+
+Hubble (Solana, DeFi) | London, Remote
+- [Software engineer](https://hubble.markets/careers)
 
 IO Global | Remote
 - [Software Engineer - Rust](https://apply.workable.com/io-global/j/40A7923138/)

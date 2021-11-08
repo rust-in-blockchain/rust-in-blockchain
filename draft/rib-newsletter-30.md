@@ -17,6 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[y2kappa],
 
 _TODO_
 
@@ -28,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[y2kappa]: https://github.com/y2kappa
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -153,6 +155,9 @@ Company name | Location A, B, Remote
 
 -->
 
+
+Hubble (Solana, DeFi) | London, Remote
+- [Software engineer](https://hubble.markets/careers)
 
 
 More jobs can be found at [Job Board][page-jobboard].

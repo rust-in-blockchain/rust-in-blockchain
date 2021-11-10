@@ -82,6 +82,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Conflux](https://github.com/Conflux-Chain)
 
+#### [DarkFi](https://dark.fi)
+
 #### [Dfinity](https://github.com/dfinity)
 
 #### [Diem](https://github.com/diem)

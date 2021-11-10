@@ -154,6 +154,23 @@ repos = [
 ]
 ```
 
+## DarkFi
+
+Media:
+
+- https://dark.fi/
+- https://twitter.com/DarkFiSquad/
+
+GitHub:
+
+- https://github.com/darkrenaissance/darkfi
+
+```toml
+repos = [
+"darkrenaissance/darkfi",
+]
+```
+
 ## Dfinity
 
 Media:

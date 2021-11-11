@@ -90,6 +90,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Elrond](https://github.com/ElrondNetwork)
 
+#### [Findora](https://github.com/FindoraNetwork)
+
 #### [Fluence](https://github.com/fluencelabs)
 
 #### [Golem](https://github.com/golemfactory)

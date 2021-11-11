@@ -12,12 +12,16 @@ newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #29](/newsletters/rib-newsletter-29/).
 
+TODO:
+- donation rustinblockchain.bit
+
 &nbsp;
 
 ## Thanks
 
 Thanks to contributors:
 [Amir Taaki],
+Michael Ward,
 [y2kappa],
 
 _TODO_
@@ -50,14 +54,19 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### News
 
 
-#### Blog Posts
+#### Blog Posts and Discussions
 
+- [Top 10 DeFi Security Best Practices](https://blog.chain.link/defi-security-best-practices/)
+- [What dApps are built on Rust?](https://www.reddit.com/r/rust/comments/qpkyi2/what_dapps_are_built_on_rust/)
 
 #### Papers
 
 
 #### Projects
 
+- [brainwallet](https://github.com/FrankBuss/brainwallet). Rust command line program for Bitcoin brainwallet.
+- [das-contracts](https://github.com/DeAccountSystems/das-contracts).
+  DAS is a decentralized account system that provides a globally unique naming system.
 
 &nbsp;
 
@@ -94,6 +103,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Elrond](https://github.com/ElrondNetwork)
 
+#### [Findora](https://github.com/FindoraNetwork)
+
 #### [Fluence](https://github.com/fluencelabs)
 
 #### [Golem](https://github.com/golemfactory)
@@ -115,7 +126,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Nervos](https://github.com/nervosnetwork)
 
 #### [Parity](https://github.com/paritytech)
-  
+
+
+- [Research Update: Utility Token Design](https://medium.com/polkadot-network/research-update-utility-token-design-d49b7a0c10b3)
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
@@ -163,6 +177,8 @@ Company name | Location A, B, Remote
 Hubble (Solana, DeFi) | London, Remote
 - [Software engineer](https://hubble.markets/careers)
 
+Worldcoin | Berlin, San Francisco
+- [Rust Engineer](https://boards.greenhouse.io/worldcoinorg/jobs/4021152004)
 
 More jobs can be found at [Job Board][page-jobboard].
 

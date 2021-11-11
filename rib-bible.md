@@ -232,6 +232,25 @@ repos = [
 ]
 
 ```
+## Findora
+
+Media:
+
+- https://findora.org
+- https://twitter.com/findoraofficial
+
+GitHub:
+
+- https://github.com/FindoraNetwork
+
+```toml
+repos = [
+"FindoraNetwork/platform",
+"FindoraNetwork/zei",
+"FindoraNetwork/merk",
+"FindoraNetwork/storage",
+]
+```
 
 ## Fluence
 

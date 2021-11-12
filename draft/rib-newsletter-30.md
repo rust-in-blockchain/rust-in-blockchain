@@ -13,6 +13,7 @@ industry topics.
 [Previous: #29](/newsletters/rib-newsletter-29/).
 
 TODO:
+- donation from MASQ https://twitter.com/rust_blockchain/status/1457851144550502404?s=20
 - donation rustinblockchain.bit
 
 &nbsp;

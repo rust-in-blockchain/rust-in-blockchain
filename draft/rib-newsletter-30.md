@@ -114,6 +114,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Holochain](https://github.com/holochain/)
 
+- [Testing Sharding](https://blog.holochain.org/testing-sharding/)
+
 #### [Interledger](https://github.com/interledger-rs)
 
 #### [IOTA](https://github.com/iotaledger)

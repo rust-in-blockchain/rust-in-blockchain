@@ -58,6 +58,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [Polygon Announces Polygon Miden - A STARK-Based, Ethereum-Compatible Rollup](https://blog.polygon.technology/polygon-announces-polygon-miden-a-stark-based-ethereum-compatible-rollup/)
 
 #### Blog Posts and Discussions
 
@@ -77,6 +78,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A rust implementation of Aleph Protocol, which is an asynchronous
   and Byzantine fault tolerant consensus protocol aimed at ordering
   arbitrary messages (transactions).
+- [Polygon Miden](https://github.com/maticnetwork/miden).
+  A STARK-based virtual machine.
 
 &nbsp;
 

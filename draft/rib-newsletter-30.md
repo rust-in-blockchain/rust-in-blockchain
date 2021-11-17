@@ -22,6 +22,7 @@ TODO:
 
 Thanks to contributors:
 [Amir Taaki],
+[Justin],
 Michael Ward,
 [Radha],
 [y2kappa],
@@ -37,6 +38,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [Amir Taaki]: https://github.com/narodnik
+[Justin]: https://github.com/ImmaZoni
 [Radha]: https://github.com/DrW3RK
 [y2kappa]: https://github.com/y2kappa
 [Brian Anderson]: https://github.com/brson

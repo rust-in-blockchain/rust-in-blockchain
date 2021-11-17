@@ -124,6 +124,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Spacemesh](https://github.com/spacemeshos)
 
+#### [Subspace Labs](https://github.com/subspace)
+
 #### [TezEdge](https://github.com/tezedge)
 
 #### [Zcash](https://github.com/zcash)

@@ -1,5 +1,5 @@
 ---
-title: "RiB Newsletter #30 - _TODO_"
+title: "RiB Newsletter #3"
 description: "#30 - November 2021"
 date: 2021-12-01
 categories:
@@ -23,6 +23,7 @@ TODO:
 Thanks to contributors:
 [Amir Taaki],
 Michael Ward,
+[Radha],
 [y2kappa],
 
 _TODO_
@@ -36,6 +37,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [Amir Taaki]: https://github.com/narodnik
+[Radha]: https://github.com/DrW3RK
 [y2kappa]: https://github.com/y2kappa
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
@@ -65,9 +67,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
-- [brainwallet](https://github.com/FrankBuss/brainwallet). Rust command line program for Bitcoin brainwallet.
+- [brainwallet](https://github.com/FrankBuss/brainwallet). 
+  Rust command line program for Bitcoin brainwallet.
 - [das-contracts](https://github.com/DeAccountSystems/das-contracts).
   DAS is a decentralized account system that provides a globally unique naming system.
+- [AlephBFT](https://github.com/aleph-zero-foundation/AlephBFT).
+  A rust implementation of Aleph Protocol, which is an asynchronous
+  and Byzantine fault tolerant consensus protocol aimed at ordering
+  arbitrary messages (transactions).
 
 &nbsp;
 

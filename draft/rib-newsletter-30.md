@@ -21,6 +21,7 @@ TODO:
 ## Thanks
 
 Thanks to contributors:
+[Adam Szkoda],
 [Amir Taaki],
 [Justin],
 Michael Ward,
@@ -37,6 +38,8 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+
+[Adam Szkoda]: https://github.com/adaszko
 [Amir Taaki]: https://github.com/narodnik
 [Justin]: https://github.com/ImmaZoni
 [Radha]: https://github.com/DrW3RK

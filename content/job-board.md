@@ -48,9 +48,6 @@ cLabs / Celo | Remote
 Compound | Remote
 - [Rust Engineer](https://www.crypto-careers.com/jobs/39500671-rust-engineer-at-compound)
 
-Convexity DMCC | Dubai, On Site & Remote
-- [Smart Contract Engineer (Rust)](https://angel.co/company/convexity-dmcc/jobs/1453304-smart-contract-engineer-rust)
-
 Dash Core Group | Remote
 - [Database Engineer](http://jobs.dash.org/apply/fDSbW6F7PM/Database-Engineer-Rust)
 - [Senior Database Engineer](http://jobs.dash.org/apply/yg93YShb9i/Senior-Database-Engineer-Rust)
@@ -60,9 +57,6 @@ DEX Labs | Remote
 
 Diem | Remote
 - [Developer Advocate](https://www.diem.com/en-us/job-board/?gh_jid=4465800002)
-
-cLabs (Celo) | San Francisco, Berlin, or Remote
-- [Senior Rust Smart Contract Engineer](https://jobs.lever.co/clabs/46bf6e13-ef54-4a5c-9287-2c0557ad9db4)
 
 Dock | Remote
 - [Rust & DevOps](https://www.cryptojobsdaily.com/job/dock-blockchain-developer-rust-devops/)

@@ -121,8 +121,16 @@ Kraken | Remote
 MASQ Network | Remote
 - [Remote Rust/Core developer, MASQ Node Software](https://docs.masq.ai/developers/rust-core-developer)
 
-Massa | Remote
-- [Full remote Rust developer, long-term contract (French CDI)](https://massa.network/#jobs)
+Massa | Paris, Remote
+- [Lead blockchain Developer](https://massa.net/lead_blockchain_developer.html)
+- [Senior Blockchain Developer](https://massa.net/senior_blockchain_developer.html)
+- [Lead Blockchain Security Engineer](https://massa.net/lead_blockchain_security.html)
+- [Senior Blockchain Security Engineer](https://massa.net/senior_blockchain_security.html)
+- [Lead Blockchain Performance Engineer](https://massa.net/lead_blockchain_performance.html)
+- [Lead Blockchain Tools Engineer](https://massa.net/lead_blockchain_tools.html)
+- [Lead DApps Developer](https://massa.net/lead_dapps_developer.html)
+- [Lead Infrastructure Engineer](https://massa.net/lead_infrastructure_engineer.html)
+- [Lead Support Engineer](https://massa.net/lead_support_engineer.html)
 
 Matter Labs | Berlin/Kiev or Remote
 - [Junior Software Engineer](https://www.notion.so/Junior-Software-Engineer-2d062b60daf941f792ebac1958244f52)

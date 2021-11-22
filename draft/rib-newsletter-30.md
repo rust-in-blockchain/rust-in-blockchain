@@ -22,6 +22,7 @@ TODO:
 
 Thanks to contributors:
 [Adam Szkoda],
+[Adrien LF],
 [Amir Taaki],
 [Justin],
 Michael Ward,
@@ -40,6 +41,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 
 [Adam Szkoda]: https://github.com/adaszko
+[Adrien LF]: https://github.com/qdrn
 [Amir Taaki]: https://github.com/narodnik
 [Justin]: https://github.com/ImmaZoni
 [Radha]: https://github.com/DrW3RK
@@ -83,6 +85,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   arbitrary messages (transactions).
 - [Polygon Miden](https://github.com/maticnetwork/miden).
   A STARK-based virtual machine.
+- [ark-plonk](https://github.com/rust-zkp/ark-plonk).
+  A pure Rust PLONK implementation using arkworks as a backend.
 
 &nbsp;
 

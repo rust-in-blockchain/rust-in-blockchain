@@ -72,6 +72,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [A Performance Evaluation of Pairing-Based Broadcast Encryption Systems](https://eprint.iacr.org/2021/1526)
+- [Experimenting with Collaborative zk-SNARKs: Zero-Knowledge Proofs for Distributed Secrets](https://eprint.iacr.org/2021/1530)
+- [An Improved Range Proof with Base-3 Construction](https://eprint.iacr.org/2021/1524)
+- [On Cryptocurrency Wallet Design](https://eprint.iacr.org/2021/1522)
+
 
 #### Projects
 

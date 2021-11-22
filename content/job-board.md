@@ -123,7 +123,6 @@ MASQ Network | Remote
 
 Massa | Paris, Remote
 - [Lead blockchain Developer](https://massa.net/lead_blockchain_developer.html)
-- [Senior Blockchain Developer](https://massa.net/senior_blockchain_developer.html)
 - [Lead Blockchain Security Engineer](https://massa.net/lead_blockchain_security.html)
 - [Senior Blockchain Security Engineer](https://massa.net/senior_blockchain_security.html)
 - [Lead Blockchain Performance Engineer](https://massa.net/lead_blockchain_performance.html)

@@ -92,6 +92,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A STARK-based virtual machine.
 - [ark-plonk](https://github.com/rust-zkp/ark-plonk).
   A pure Rust PLONK implementation using arkworks as a backend.
+- [Scrypto](https://github.com/radixdlt/radixdlt-scrypto).
+  Language for building DeFi apps on Radix.
 
 &nbsp;
 
@@ -109,6 +111,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 <!-- NB: This list needs to be kept in sync with rib-bible.md / rib-config.toml -->
 
 #### [Aleo](https://github.com/AleoHQ)
+
+- [Incentivized Testnet Announcement](https://www.aleo.org/post/incentivized-testnet-announcement)
 
 #### [Anoma](https://github.com/anoma)
 

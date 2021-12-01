@@ -76,6 +76,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Experimenting with Collaborative zk-SNARKs: Zero-Knowledge Proofs for Distributed Secrets](https://eprint.iacr.org/2021/1530)
 - [An Improved Range Proof with Base-3 Construction](https://eprint.iacr.org/2021/1524)
 - [On Cryptocurrency Wallet Design](https://eprint.iacr.org/2021/1522)
+- [Public Report – Zendoo Proof Verifier Cryptography Review](https://research.nccgroup.com/2021/11/30/public-report-zendoo-proof-verifier-cryptography-review/)
+- [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://eprint.iacr.org/2021/1545)
+- [Information Dispersal with Provable Retrievability for Rollups](https://eprint.iacr.org/2021/1544)
+- [Post-Quantum Zero Knowledge, Revisited (or: How to do Quantum Rewinding Undetectably)](https://eprint.iacr.org/2021/1543)
+- [InterTrust: Towards an Efficient Blockchain Interoperability Architecture with Trusted Services](https://eprint.iacr.org/2021/1513)
 
 
 #### Projects
@@ -94,6 +99,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A pure Rust PLONK implementation using arkworks as a backend.
 - [Scrypto](https://github.com/radixdlt/radixdlt-scrypto).
   Language for building DeFi apps on Radix.
+- [Zeekoe](https://github.com/boltlabs-inc/zeekoe).
+  Zero-knowledge layer-2 payment channels.
 
 &nbsp;
 
@@ -115,6 +122,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Incentivized Testnet Announcement](https://www.aleo.org/post/incentivized-testnet-announcement)
 
 #### [Anoma](https://github.com/anoma)
+
+- [Announcing Feigenbaum: Anoma’s First Public Testnet](https://medium.com/anomanetwork/announcing-feigenbaum-anomas-first-public-testnet-21eaa64d193b)
 
 #### [ChainSafe](https://github.com/ChainSafe)
 
@@ -150,24 +159,38 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
+- [Lighthouse Update #38](https://lighthouse.sigmaprime.io/update-38.html)
+
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
+- [NEAR Launches Nightshade Sharding, Paving the Way for Mass Adoption](https://near.org/blog/near-launches-nightshade-sharding-paving-the-way-for-mass-adoption/)
+
 #### [Nervos](https://github.com/nervosnetwork)
+
+- [Godwoken Has Risen: Nervos Launches EVM-compatible Layer 2 Blockchain](https://www.nervos.org/blog/nervos-launches-godwoken-mainnet-beta)
 
 #### [Parity](https://github.com/paritytech)
 
-
 - [Research Update: Utility Token Design](https://medium.com/polkadot-network/research-update-utility-token-design-d49b7a0c10b3)
+- [Substrate Builders Program Milestone Update: November 2021](https://www.parity.io/blog/substrate-builders-program-milestone-update-november-2021)
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
+- Tweet thread: [Taproot upgrade](https://twitter.com/lnp_bp/status/1459819508999274499)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
+- [The Supernova Mainnet Upgrade is Complete!](https://scrt.network/blog/supernova-mainnet-upgrade-complete)
+
 #### [Solana](https://github.com/solana-labs/solana)
+
+- [Proof of History: How Solana brings time to crypto](https://solana.com/news/proof-of-history)
+- [Solana’s Energy Use Report: November 2021](https://solana.com/news/solana-energy-usage-report-november-2021)
+- [Solana Validator 101: Transaction Processing](https://jito-labs.medium.com/solana-validator-101-transaction-processing-90bcdc271143)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 
@@ -179,6 +202,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 
+- Twitter thread: [Highlights from our first reddit zkEVM AMA!](https://twitter.com/zksync/status/1449432199149735944)
 
 &nbsp;
 
@@ -193,6 +217,29 @@ Dec 1-2 | Online
 -->
 
 
+Dec 1-3 | Seoul, Korea
+
+[ICISC: The 24th Annual International Conference on information Security and Cryptology](http://www.icisc.org/)
+
+Dec 14-15 | Online
+
+[18th IMA International Conference on Cryptography and Coding](https://ima.org.uk/16366/online-event-18th-ima-international-conference-on-cryptography-and-coding/)
+
+Jan 24-26, 2022 | Arrillaga Alumni Center, Stanford University
+
+[SBC'22: The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/)
+
+Feb 14-18, 2022 | Canada
+
+[Financial Cryptography and Data Security 2022](http://fc22.ifca.ai/index.html)
+
+Apr 6-9 | Portland, OR
+
+[dystopia Fest: Summit & Hackathon](https://q1.dystopiafest.com/)
+
+Apr 16 - May 13th | Online
+
+[Scaling Ethereum](https://scaling.ethglobal.co/)
 
 &nbsp;
 
@@ -206,6 +253,10 @@ Company name | Location A, B, Remote
 
 -->
 
+Bolt Labs | US, Remote
+- [Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1pPcX7Pt)
+- [Senior Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/HytKoEmwY)
+- [Blockchain Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1l5QGguY)
 
 Hubble (Solana, DeFi) | London, Remote
 - [Software engineer](https://hubble.markets/careers)

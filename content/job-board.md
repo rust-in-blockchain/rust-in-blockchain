@@ -29,6 +29,11 @@ Anoma | Berlin, Remote
 Aurora | Remote
 - [Blockchain/Bridge Engineer](https://docs.google.com/document/d/1xXMEeQffOv2rfPT4jpipwkjo4osmfyAp4eEl51j3dt4/edit?usp=sharing)
 
+Bolt Labs | US, Remote
+- [Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1pPcX7Pt)
+- [Senior Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/HytKoEmwY)
+- [Blockchain Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1l5QGguY)
+
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
 

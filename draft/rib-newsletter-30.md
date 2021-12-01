@@ -12,9 +12,14 @@ newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #29](/newsletters/rib-newsletter-29/).
 
-TODO:
-- donation from MASQ https://twitter.com/rust_blockchain/status/1457851144550502404?s=20
-- donation rustinblockchain.bit
+This month RiB received donations of:
+
+- [A handsome chunk of ETH](https://twitter.com/rust_blockchain/status/1457851144550502404?s=20) from the [MASQ](https://github.com/MASQ-Project) project,
+  and [KauriHero](https://github.com/kauri-hero).
+- The [rustinblockchain.bit](https://rustinblockchain.bit.cc/) name on [DAS, the Decentralized Account System](https://da.systems/),
+  from [janewu](https://github.com/cryptoto).
+
+We are grateful.
 
 &nbsp;
 
@@ -97,8 +102,10 @@ A useful tool for those that create a lot of wallets.
 
 - [brainwallet](https://github.com/FrankBuss/brainwallet). 
   Rust command line program for Bitcoin brainwallet.
-- [das-contracts](https://github.com/DeAccountSystems/das-contracts).
-  DAS is a decentralized account system that provides a globally unique naming system.
+- [DAS, the Decentralized Account System](https://github.com/DeAccountSystems).
+  DAS is a multi-chain protocol for maintaining various types of identity information.
+  It stores its data on the [Nervos Network (CKB)](https://github.com/nervosnetwork),
+  but by using CKB's rent model and capability for verifying foreign-chain transactions it mostly lets users avoid direct interaction with the CKB chain.
 - [AlephBFT](https://github.com/aleph-zero-foundation/AlephBFT).
   A rust implementation of Aleph Protocol, which is an asynchronous
   and Byzantine fault tolerant consensus protocol aimed at ordering
@@ -111,6 +118,7 @@ A useful tool for those that create a lot of wallets.
   Language for building DeFi apps on Radix.
 - [Zeekoe](https://github.com/boltlabs-inc/zeekoe).
   Zero-knowledge layer-2 payment channels.
+
 
 &nbsp;
 

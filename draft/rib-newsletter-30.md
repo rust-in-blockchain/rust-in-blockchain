@@ -434,7 +434,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [rust_bitcoin-open_issues-3]: https://github.com/lightningdevkit/rust-lightning/issues?q=is%3Aissue+is%3Aopen+created%3A2021-11-01..2021-11-30
 [rust_bitcoin-open_issues-4]: https://github.com/lightningdevkit/ldk-c-bindings/issues?q=is%3Aissue+is%3Aopen+created%3A2021-11-01..2021-11-30
 
-- Tweet thread: [Taproot upgrade](https://twitter.com/lnp_bp/status/1459819508999274499)
+- Twitter thread: [Taproot upgrade](https://twitter.com/lnp_bp/status/1459819508999274499)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 

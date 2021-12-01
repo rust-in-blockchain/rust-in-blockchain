@@ -106,6 +106,26 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Security Advisories
 
+Monthly security advisories, from [RustSec], and [GitHub Advisories].
+Bold entries here are especially relevant to blockchain projects.
+
+[RustSec]: https://rustsec.org/advisories/
+[GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
+
+- **[RUSTSEC-2021-0122: Vulnerability in `flatbuffers`](https://rustsec.org/advisories/RUSTSEC-2021-0122.html).**
+  Generated code can read and write out of bounds in safe code.
+  This is a critical, network-exposed vulnerability, and users of this crate must take action.
+- [RUSTSEC-2021-0125: Panic on incorrect date input to `simple_asn1`](https://rustsec.org/advisories/RUSTSEC-2021-0125.html).
+- [RUSTSEC-2021-0123: Vulnerability in `fruity`](https://rustsec.org/advisories/RUSTSEC-2021-0123.html).
+  Converting `NSString` to a String Truncates at Null Bytes.
+- **[RUSTSEC-2021-0124: Vulnerability in `tokio`](https://rustsec.org/advisories/RUSTSEC-2021-0124.html).**
+  Data race when sending and receiving after closing a oneshot channel.
+- [RUSTSEC-2021-0126: Vulnerability in rust-embed](https://rustsec.org/advisories/RUSTSEC-2021-0126.html).
+  RustEmbed generated `get`method allows for directory traversal when reading files from disk.
+- [CVE-2021-3917: `coreos-installer` < 0.10.0 writes world-readable Ignition config to installed system](https://github.com/advisories/GHSA-862g-9h5m-m3qv).
+- [CVE-2021-43174: Memory exhaustion in `routinator`](https://github.com/advisories/GHSA-6mv9-qcx2-3hh3).
+- [CVE-2021-43790: Use after free in `lucet`](https://github.com/advisories/GHSA-hf79-8hjp-rrvq).
+
 
 &nbsp;
 

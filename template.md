@@ -59,6 +59,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Security Advisories
 
+Monthly security advisories, from [RustSec], and [GitHub Advisories].
+Bold entries here are especially relevant to blockchain projects.
+
+[RustSec]: https://rustsec.org/advisories/
+[GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
+
 
 &nbsp;
 

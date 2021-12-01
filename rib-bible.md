@@ -501,9 +501,11 @@ GitHub:
 ```toml
 repos = [
 "rust-bitcoin/rust-bitcoin",
-"rust-bitcoin/rust-lightning",
 "rust-bitcoin/rust-miniscript",
 "rust-bitcoin/rust-bitcoincore-rpc",
+"lightningdevkit/rust-lightning",
+"lightningdevkit/ldk-sample",
+"lightningdevkit/ldk-c-bindings",
 ]
 ```
 

@@ -56,6 +56,16 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[wagyu](https://github.com/AleoHQ/wagyu).
+
+`wagyu` is a command line cryptocurrency wallet generator,
+with support for Bitcoin, Ethereum, Monero, and Zcash.
+It can generate both standard and hierarchical deterministic (HD) wallets.
+It is from the [Aleo] project.
+A useful tool for those that create a lot of wallets.
+
+[Aleo]: https://github.com/AleoHQ
+
 &nbsp;
 
 

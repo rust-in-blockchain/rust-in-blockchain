@@ -100,12 +100,12 @@ A useful tool for those that create a lot of wallets.
 
 #### Projects
 
-- [brainwallet](https://github.com/FrankBuss/brainwallet). 
-  Rust command line program for Bitcoin brainwallet.
 - [DAS, the Decentralized Account System](https://github.com/DeAccountSystems).
   DAS is a multi-chain protocol for maintaining various types of identity information.
   It stores its data on the [Nervos Network (CKB)](https://github.com/nervosnetwork),
   but by using CKB's rent model and capability for verifying foreign-chain transactions it mostly lets users avoid direct interaction with the CKB chain.
+- [brainwallet](https://github.com/FrankBuss/brainwallet). 
+  Rust command line program for Bitcoin brainwallet.
 - [AlephBFT](https://github.com/aleph-zero-foundation/AlephBFT).
   A rust implementation of Aleph Protocol, which is an asynchronous
   and Byzantine fault tolerant consensus protocol aimed at ordering

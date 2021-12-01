@@ -1,5 +1,5 @@
 ---
-title: "RiB Newsletter #3"
+title: "RiB Newsletter #30"
 description: "#30 - November 2021"
 date: 2021-12-01
 categories:
@@ -110,6 +110,21 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 &nbsp;
 
 ## Most Active in November
+
+[Parity](https://github.com/paritytech):
+341 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5]), 
+148 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+122 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5])
+
+[NEAR](https://github.com/nearprotocol/nearcore):
+264 merged PRs ([1][near-merged-prs-1], [2][near-merged-prs-2], [3][near-merged-prs-3]), 
+56 closed issues ([1][near-closed_issues-1], [2][near-closed_issues-2], [3][near-closed_issues-3]), 
+86 open issues ([1][near-open_issues-1], [2][near-open_issues-2], [3][near-open_issues-3])
+
+[Solana](https://github.com/solana-labs/solana):
+222 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]), 
+36 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+45 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
 
 &nbsp;
 

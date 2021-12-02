@@ -33,9 +33,8 @@ Thanks to contributors:
 Michael Ward,
 [Radha],
 [y2kappa],
-
-_TODO_
-
+[Brian Anderson],
+[Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 

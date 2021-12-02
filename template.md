@@ -1,6 +1,6 @@
 ---
 title: "RiB Newsletter #29 - _TODO_"
-description: "#29 - October 2021"
+description: "October 2021"
 date: 2021-11-03
 categories:
   - "newsletters"
@@ -174,7 +174,7 @@ More jobs can be found at [Job Board][page-jobboard].
 &nbsp;
 
 Want to be included in the next issue? Feel free to submit a PR to the
-[#23 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+[next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 

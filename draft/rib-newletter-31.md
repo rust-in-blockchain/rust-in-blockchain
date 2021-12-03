@@ -56,11 +56,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Akula](https://github.com/akula-bft/akula).
+  Ethereum client written in Rust, based on [Erigon client architecture](https://github.com/ledgerwatch/interfaces).
 - [Foundry](https://github.com/gakonst/foundry/) is a blazing fast,
   portable and modular toolkit for Ethereum application development
   written in Rust.
 - [Pathfinde](https://github.com/eqlabs/pathfinder).
   A StarkNet full node written in Rust.
+- [orion](https://github.com/orion-rs/orion)
+  Usable, easy and safe pure-Rust crypto.
 
 &nbsp;
 

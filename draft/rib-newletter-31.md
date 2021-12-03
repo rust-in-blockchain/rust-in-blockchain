@@ -18,6 +18,8 @@ industry topics.
 
 Thanks to contributors:
 
+Dan Shield,
+
 _TODO_
 
 Thank you for your help!
@@ -54,6 +56,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Foundry](https://github.com/gakonst/foundry/) is a blazing fast,
+  portable and modular toolkit for Ethereum application development
+  written in Rust.
+  
 
 &nbsp;
 
@@ -174,7 +180,7 @@ More jobs can be found at [Job Board][page-jobboard].
 &nbsp;
 
 Want to be included in the next issue? Feel free to submit a PR to the
-[#32 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+[next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 

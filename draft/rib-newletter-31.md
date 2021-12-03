@@ -63,7 +63,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   written in Rust.
 - [Pathfinde](https://github.com/eqlabs/pathfinder).
   A StarkNet full node written in Rust.
-- [orion](https://github.com/orion-rs/orion)
+- [orion](https://github.com/orion-rs/orion).
   Usable, easy and safe pure-Rust crypto.
 
 &nbsp;

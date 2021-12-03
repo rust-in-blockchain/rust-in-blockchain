@@ -59,7 +59,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Foundry](https://github.com/gakonst/foundry/) is a blazing fast,
   portable and modular toolkit for Ethereum application development
   written in Rust.
-  
+- [Pathfinde](https://github.com/eqlabs/pathfinder).
+  A StarkNet full node written in Rust.
 
 &nbsp;
 
@@ -157,7 +158,9 @@ Dec 1-2 | Online
 
 -->
 
+Feb 5-6 | Online
 
+[FOSDEM 2022](https://fosdem.org/2022/)
 
 &nbsp;
 

@@ -18,7 +18,8 @@ industry topics.
 
 Thanks to contributors:
 
-Dan Shield,
+[Dan Shields],
+[Squirrel],
 
 _TODO_
 
@@ -30,6 +31,8 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Dan Shields]: Https://github.com/NukeManDan
+[Squirrel]: https://github.com/gilescope
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

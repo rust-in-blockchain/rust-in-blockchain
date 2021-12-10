@@ -64,10 +64,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Foundry](https://github.com/gakonst/foundry/) is a blazing fast,
   portable and modular toolkit for Ethereum application development
   written in Rust.
-- [Pathfinde](https://github.com/eqlabs/pathfinder).
-  A StarkNet full node written in Rust.
+- [interBTC](https://github.com/interlay/interbtc).
+  A trust-minimized bridge from Bitcoin to Polkadot.
 - [orion](https://github.com/orion-rs/orion).
   Usable, easy and safe pure-Rust crypto.
+- [Pathfinde](https://github.com/eqlabs/pathfinder).
+  A StarkNet full node written in Rust.
+
 
 &nbsp;
 

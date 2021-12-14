@@ -70,6 +70,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   Usable, easy and safe pure-Rust crypto.
 - [Pathfinde](https://github.com/eqlabs/pathfinder).
   A StarkNet full node written in Rust.
+- [Shade Protocol](https://github.com/securesecrets/shade)
+  is an array of connected privacy-preserving dApps built on Secret Network.
 
 
 &nbsp;
@@ -142,6 +144,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
+
+- [Shade Protocol Snapshots Completed](https://medium.com/@shadeprotocoldevs/shade-protocol-snapshots-completed-38e61ac58369)
 
 #### [Solana](https://github.com/solana-labs/solana)
 

@@ -135,6 +135,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
+- [NEAR Q4: Hackathons, Upgrades and Integrations](https://near.org/blog/near-q4-update-ecosystem-sharding-launch/)
+
 #### [Nervos](https://github.com/nervosnetwork)
 
 #### [Parity](https://github.com/paritytech)
@@ -188,7 +190,8 @@ Company name | Location A, B, Remote
 
 -->
 
-
+DEX Labs | Remote
+- [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb)
 
 More jobs can be found at [Job Board][page-jobboard].
 

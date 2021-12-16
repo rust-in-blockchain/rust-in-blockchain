@@ -193,7 +193,7 @@ Trail of Bits | Remote
 - [Application Security Engineer](https://jobs.lever.co/trailofbits/8b7f7fc1-efb0-4e89-b406-784c3a2d77e4)
 
 Web3 Foundation | Zug or Remote
-- [Technical Grants Lead](https://web3.bamboohr.com/jobs/view.php?id=99&source=other)
+- [Technical Grants Lead](https://web3.bamboohr.com/jobs/view.php?id=99)
 
 Zama | Paris, Partial remote authorized
 - [Senior Engineer - Rust](https://www.welcometothejungle.com/en/companies/zama/jobs/senior-engineer-rust_paris)

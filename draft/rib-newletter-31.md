@@ -19,6 +19,7 @@ industry topics.
 Thanks to contributors:
 
 [Dan Shields],
+[Marcin],
 [Squirrel],
 
 _TODO_
@@ -32,6 +33,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [Dan Shields]: Https://github.com/NukeManDan
+[Marcin]: https://github.com/mmagician
 [Squirrel]: https://github.com/gilescope
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
@@ -192,6 +194,9 @@ Company name | Location A, B, Remote
 
 DEX Labs | Remote
 - [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb)
+
+Web3 Foundation | Zug or Remote
+- [Technical Grants Lead](https://web3.bamboohr.com/jobs/view.php?id=99)
 
 More jobs can be found at [Job Board][page-jobboard].
 

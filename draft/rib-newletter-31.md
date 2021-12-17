@@ -195,6 +195,11 @@ Company name | Location A, B, Remote
 DEX Labs | Remote
 - [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb)
 
+Parity Technologies | Berlin, Lisbon, or Remote
+- [Rust Core Engineer - Solidity Compiler (Solang)](https://grnh.se/a5a5c0a33us)
+- [Rust Core Engineer - Smart Contract Platform](https://grnh.se/cb272e3b3us)
+- [Multiple other Rust / Blockchain Engineering positions](https://www.parity.io/jobs)
+
 Web3 Foundation | Zug or Remote
 - [Technical Grants Lead](https://web3.bamboohr.com/jobs/view.php?id=99)
 

@@ -20,6 +20,7 @@ Thanks to contributors:
 
 [Dan Shields],
 [Marcin],
+[Max Wegman],
 [Squirrel],
 
 _TODO_
@@ -34,6 +35,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 [Dan Shields]: Https://github.com/NukeManDan
 [Marcin]: https://github.com/mmagician
+[Max Wegman]: https://github.com/mastermaxy
 [Squirrel]: https://github.com/gilescope
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer

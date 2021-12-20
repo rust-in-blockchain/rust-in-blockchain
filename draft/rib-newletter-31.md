@@ -68,6 +68,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Foundry](https://github.com/gakonst/foundry/) is a blazing fast,
   portable and modular toolkit for Ethereum application development
   written in Rust.
+- [Gear](https://github.com/gear-tech/gear) 
+  is a Substrate-based smart-contract platform allowing anyone to run dApp in a few minutes. 
 - [interBTC](https://github.com/interlay/interbtc).
   A trust-minimized bridge from Bitcoin to Polkadot.
 - [orion](https://github.com/orion-rs/orion).

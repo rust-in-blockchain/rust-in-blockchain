@@ -57,6 +57,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Disclosing Shamir’s Secret Sharing vulnerabilities and announcing ZKDocs](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)
 
 #### Papers
 
@@ -141,6 +142,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
+- [NEAR MetaBUILD 2: Join the Hackathon and Build an App](https://near.org/blog/near-metabuild-2-join-the-hackathon-and-build-an-app/)
 - [NEAR Q4: Hackathons, Upgrades and Integrations](https://near.org/blog/near-q4-update-ecosystem-sharding-launch/)
 
 #### [Nervos](https://github.com/nervosnetwork)
@@ -180,9 +182,17 @@ Dec 1-2 | Online
 
 -->
 
-Feb 5-6 | Online
+Dec 22, 2021 - Feb 10, 2022 | Online
+
+[NEAR MetaBUILD Hackathon](https://metabuild.devpost.com/)
+
+Feb 5-6, 2022 | Online
 
 [FOSDEM 2022](https://fosdem.org/2022/)
+
+Apr 2022 | Amsterdam
+
+[Devconnect](https://devconnect.org/)
 
 &nbsp;
 

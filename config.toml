@@ -73,25 +73,18 @@ relativeURLs = true
     weight = -60
 
   [[menu.main]]
-    identifier = "sponsoring"
-    name = "Sponsoring"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/sponsoring"
-    weight = -50
-
-  [[menu.main]]
     identifier = "about"
     name = "About Us"
     pre = "<i class='fa fa-heart'></i>"
     url = "/about"
-    weight = -40
+    weight = -50
 
   [[menu.main]]
     identifier = "RSS"
     name = "RSS"
     pre = "<i class='fa fa-heart'></i>"
     url = "/index.xml"
-    weight = -30
+    weight = -40
 
 [Params.sidebar]
   home = "right" # Configure layout for home page

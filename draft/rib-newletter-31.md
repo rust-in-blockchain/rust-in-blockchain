@@ -58,9 +58,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Disclosing Shamir’s Secret Sharing vulnerabilities and announcing ZKDocs](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)
+- [A breakdown of different output types and their address formats](https://murch.one/2021/12/23/a-breakdown-of-different-output-types-and-their-address-formats/)
 
 #### Papers
 
+- [A zk-evm specification](https://ethresear.ch/t/a-zk-evm-specification/11549)
 
 #### Projects
 

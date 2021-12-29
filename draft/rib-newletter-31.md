@@ -19,6 +19,7 @@ industry topics.
 Thanks to contributors:
 
 [Dan Shields],
+[Harlan T Wood],
 [Marcin],
 [Max Wegman],
 [Squirrel],
@@ -34,6 +35,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [Dan Shields]: Https://github.com/NukeManDan
+[Harlan T Wood]: https://github.com/harlantwood
 [Marcin]: https://github.com/mmagician
 [Max Wegman]: https://github.com/mastermaxy
 [Squirrel]: https://github.com/gilescope

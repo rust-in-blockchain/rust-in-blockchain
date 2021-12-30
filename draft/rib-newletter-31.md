@@ -126,6 +126,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Elrond](https://github.com/ElrondNetwork)
 
+- [Meet Elrond Play, The Web IDE Smart Contracts Playground](https://elrond.com/blog/elrond-play-web-ide/)
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 #### [Fluence](https://github.com/fluencelabs)

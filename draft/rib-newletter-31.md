@@ -61,7 +61,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
-- [A breakdown of different output types and their address formats](https://murch.one/2021/12/23/a-breakdown-of-different-output-types-and-their-address-formats/)
+- [A breakdown of different Bitcoin output types and their address formats](https://murch.one/2021/12/23/a-breakdown-of-different-output-types-and-their-address-formats/)
 - [Disclosing Shamir’s Secret Sharing vulnerabilities and announcing ZKDocs](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)
 - [SlowMist: Our review of the blockchain security industry in 2021](https://slowmist.medium.com/our-review-of-the-blockchain-security-industry-in-2021-with-global-losses-exceeding-9-8-billion-60d93efbfca3)
 
@@ -80,8 +80,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Akula](https://github.com/akula-bft/akula).
   Ethereum client written in Rust, based on [Erigon client architecture](https://github.com/ledgerwatch/interfaces).
-- [arloader](https://github.com/CalebEverett/arloader).
-  Rust command line application and client for uploading files to Arweave.
 - [Foundry](https://github.com/gakonst/foundry/) is a blazing fast,
   portable and modular toolkit for Ethereum application development
   written in Rust.
@@ -93,7 +91,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A trust-minimized bridge from Bitcoin to Polkadot.
 - [orion](https://github.com/orion-rs/orion).
   Usable, easy and safe pure-Rust crypto.
-- [Pathfinde](https://github.com/eqlabs/pathfinder).
+- [Pathfinder](https://github.com/eqlabs/pathfinder).
   A StarkNet full node written in Rust.
 - [RealTPS](https://github.com/Aimeedeer/realtps)
   measures the current number of transactions per second committed by various blockchains.

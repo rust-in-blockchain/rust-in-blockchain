@@ -51,6 +51,15 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[arloader](https://github.com/CalebEverett/arloader).
+
+Arloader is a command line client for uploading files to [Arweave].
+Files published to Arweave are stored forever.
+The platform is commonly used for storing NFT information.
+Fees can be paid in either the Arweave native token or SOL.
+
+[Arweave]: https://www.arweave.org/
+
 &nbsp;
 
 

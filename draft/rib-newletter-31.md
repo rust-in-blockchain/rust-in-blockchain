@@ -61,8 +61,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
-- [Disclosing Shamir’s Secret Sharing vulnerabilities and announcing ZKDocs](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)
 - [A breakdown of different output types and their address formats](https://murch.one/2021/12/23/a-breakdown-of-different-output-types-and-their-address-formats/)
+- [Disclosing Shamir’s Secret Sharing vulnerabilities and announcing ZKDocs](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)
 - [SlowMist: Our review of the blockchain security industry in 2021](https://slowmist.medium.com/our-review-of-the-blockchain-security-industry-in-2021-with-global-losses-exceeding-9-8-billion-60d93efbfca3)
 
 #### Papers
@@ -114,6 +114,23 @@ Bold entries here are especially relevant to blockchain projects.
 &nbsp;
 
 ## Most Active in December
+
+[Parity](https://github.com/paritytech):
+336 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6], [7][parity-merged-prs-7]), 
+115 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5]), 
+75 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4])
+
+[Solana](https://github.com/solana-labs/solana):
+265 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]), 
+46 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+46 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+
+[NEAR](https://github.com/nearprotocol/nearcore):
+251 merged PRs ([1][near-merged-prs-1], [2][near-merged-prs-2], [3][near-merged-prs-3]), 
+51 closed issues ([1][near-closed_issues-1], [2][near-closed_issues-2], [3][near-closed_issues-3]), 
+62 open issues ([1][near-open_issues-1], [2][near-open_issues-2], [3][near-open_issues-3])
+
 
 &nbsp;
 

@@ -113,6 +113,12 @@ Bold entries here are especially relevant to blockchain projects.
 [RustSec]: https://rustsec.org/advisories/
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
 
+- **[RUSTSEC-2021-0130: Use after free in `lru`](https://rustsec.org/advisories/RUSTSEC-2021-0130.html).**
+- **[RUSTSEC-2021-0131: Integer overflow in `brotli-sys`](https://rustsec.org/advisories/RUSTSEC-2021-0131.html).**
+- **[RUSTSEC-2021-0132: Integer overflow in `compu-brotli-sys`](https://rustsec.org/advisories/RUSTSEC-2021-0132.html).**
+- **[RUSTSEC-2021-0129: Invalid handling of `x509_verify_cert` in `openssl-src`](https://rustsec.org/advisories/RUSTSEC-2021-0129.html).**
+- **[RUSTSEC-2021-0128: Incorrect lifetime bounds on closures in `rusqlite`](https://rustsec.org/advisories/RUSTSEC-2021-0128.html).**
+- [GHSA-gjrj-9rj4-pgwx: https://github.com/advisories/GHSA-gjrj-9rj4-pgwx](https://github.com/advisories/GHSA-gjrj-9rj4-pgwx).
 
 &nbsp;
 

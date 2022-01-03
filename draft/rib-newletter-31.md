@@ -20,8 +20,10 @@ Thanks to contributors:
 
 [Dan Shields],
 [Harlan T Wood],
+John Adler,
 [Marcin],
 [Max Wegman],
+Samuel Dare,
 [Squirrel],
 
 _TODO_
@@ -61,6 +63,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Disclosing Shamir’s Secret Sharing vulnerabilities and announcing ZKDocs](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)
 - [A breakdown of different output types and their address formats](https://murch.one/2021/12/23/a-breakdown-of-different-output-types-and-their-address-formats/)
+- [SlowMist: Our review of the blockchain security industry in 2021](https://slowmist.medium.com/our-review-of-the-blockchain-security-industry-in-2021-with-global-losses-exceeding-9-8-billion-60d93efbfca3)
 
 #### Papers
 
@@ -75,15 +78,21 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   written in Rust.
 - [Gear](https://github.com/gear-tech/gear) 
   is a Substrate-based smart-contract platform allowing anyone to run dApp in a few minutes. 
+- [gp-v2-services](https://github.com/gnosis/gp-v2-services).
+  Off-chain services for Gnosis Protocol v2
 - [interBTC](https://github.com/interlay/interbtc).
   A trust-minimized bridge from Bitcoin to Polkadot.
 - [orion](https://github.com/orion-rs/orion).
   Usable, easy and safe pure-Rust crypto.
 - [Pathfinde](https://github.com/eqlabs/pathfinder).
   A StarkNet full node written in Rust.
+- [RealTPS](https://github.com/Aimeedeer/realtps)
+  measures the current number of transactions per second committed by various blockchains.
 - [Shade Protocol](https://github.com/securesecrets/shade)
   is an array of connected privacy-preserving dApps built on Secret Network.
-
+- [Sway](https://github.com/FuelLabs/sway)
+  is a language developed for the Fuel blockchain.
+  [doc: The Sway Programming Language](https://fuellabs.github.io/sway).
 
 &nbsp;
 
@@ -155,6 +164,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Parity](https://github.com/paritytech)
   
+- [Polkadot 2021 Roundup](https://polkadot.network/blog/polkadot-2021-roundup/)
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)

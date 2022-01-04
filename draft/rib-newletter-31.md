@@ -17,17 +17,13 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
 [Dan Shields],
 [Harlan T Wood],
 John Adler,
 [Marcin],
 [Max Wegman],
 Samuel Dare,
-[Squirrel],
-
-_TODO_
-
+[Squirrel].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -64,9 +60,6 @@ Fees can be paid in either the Arweave native token or SOL.
 
 
 ## Interesting Things
-
-#### News
-
 
 #### Blog Posts
 

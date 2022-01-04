@@ -564,10 +564,6 @@ Dec 22, 2021 - Feb 10, 2022 | Online
 
 [NEAR MetaBUILD Hackathon](https://metabuild.devpost.com/)
 
-Jan 24-26, 2022 | Arrillaga Alumni Center, Stanford University
-
-[SBC'22: The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/)
-
 Feb 5-6, 2022 | Online
 
 [FOSDEM 2022](https://fosdem.org/2022/)
@@ -580,13 +576,13 @@ Apr 2022 | Amsterdam
 
 [Devconnect](https://devconnect.org/)
 
-Apr 6-9, 2022 | Portland, OR
-
-[dystopia Fest: Summit & Hackathon](https://q1.dystopiafest.com/)
-
 Apr 16 - May 13th, 2022 | Online
 
 [Scaling Ethereum](https://scaling.ethglobal.co/)
+
+Aug 29 - Sep 2, 2022 | Arrillaga Alumni Center, Stanford University
+
+[SBC'22: The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/)
 
 
 &nbsp;

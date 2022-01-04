@@ -79,6 +79,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Akula](https://github.com/akula-bft/akula).
   Ethereum client written in Rust, based on [Erigon client architecture](https://github.com/ledgerwatch/interfaces).
+- [arloader](https://github.com/CalebEverett/arloader).
+  Rust command line application and client for uploading files to Arweave.
 - [Foundry](https://github.com/gakonst/foundry/) is a blazing fast,
   portable and modular toolkit for Ethereum application development
   written in Rust.

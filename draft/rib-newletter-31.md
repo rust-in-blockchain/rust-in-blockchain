@@ -72,6 +72,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Efficient and Post-Quantum Zero-Knowledge Proofs for Blockchain Confidential Transaction Protocols](https://eprint.iacr.org/2021/1674)
 - [SoK: Blockchain Light Clients](https://eprint.iacr.org/2021/1657)
 - [SoK: Mitigation of Front-running in Decentralized Finance](https://eprint.iacr.org/2021/1628)
+- [Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains](https://eprint.iacr.org/2021/1612)
 - [Verifiable Encryption from MPC-in-the-Head](https://eprint.iacr.org/2021/1704)
 - [Zero-Knowledge for Homomorphic Key-Value Commitments with Applications to Privacy-Preserving Ledgers](https://eprint.iacr.org/2021/1678)
 
@@ -167,6 +168,9 @@ Bold entries here are especially relevant to blockchain projects.
 [anoma-merged-prs-2]: https://github.com/anoma/ferveo/pulls?q=is%3Apr+is%3Aclosed+merged%3A2021-12-01..2021-12-31
 [anoma-closed_issues-1]: https://github.com/anoma/anoma/issues?q=is%3Aissue+is%3Aclosed+closed%3A2021-12-01..2021-12-31
 [anoma-open_issues-1]: https://github.com/anoma/anoma/issues?q=is%3Aissue+is%3Aopen+created%3A2021-12-01..2021-12-31
+
+- [Hash Functions in Plonkup](https://anoma.network/blog/hash-functions-in-plonkup/)
+- [Agents of Anoma: Matchmaking Node Operators](https://anoma.network/blog/agents-of-anoma-matchmaking-node-operators/)
 
 #### [ChainSafe](https://github.com/ChainSafe)
 
@@ -377,6 +381,7 @@ Bold entries here are especially relevant to blockchain projects.
 [near-open_issues-2]: https://github.com/near/core-contracts/issues?q=is%3Aissue+is%3Aopen+created%3A2021-12-01..2021-12-31
 [near-open_issues-3]: https://github.com/near/near-sdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2021-12-01..2021-12-31
 
+- [NEAR 2021: A Year in Review](https://near.org/blog/near-2021-a-year-in-review/)
 - [NEAR MetaBUILD 2: Join the Hackathon and Build an App](https://near.org/blog/near-metabuild-2-join-the-hackathon-and-build-an-app/)
 - [NEAR Q4: Hackathons, Upgrades and Integrations](https://near.org/blog/near-q4-update-ecosystem-sharding-launch/)
 
@@ -421,6 +426,7 @@ Bold entries here are especially relevant to blockchain projects.
 [parity-open_issues-4]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aopen+created%3A2021-12-01..2021-12-31
   
 - [Polkadot 2021 Roundup](https://polkadot.network/blog/polkadot-2021-roundup/)
+- [Parachains are Live! Polkadot Launch is Now Complete](https://polkadot.network/blog/parachains-are-live-polkadot-launch-is-now-complete/)
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 

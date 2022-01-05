@@ -489,6 +489,9 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2021-12-01..2021-12-31
 
 - [Solana internals Part 1: what are the native on-chain programs and why do they matter?](https://medium.com/coinmonks/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter-61c981483e86)
+- [How to audit Solana smart contracts Part 4: the Anchor framework](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-4-the-anchor-framework-ef42d944f086)
+- [How to audit Solana smart contracts Part 3: penetration testing](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-3-penetration-testing-a315b3bbb2d3)
+- [Solana stake pool: a semantic inconsistency vulnerability discovered by Soteria](https://medium.com/coinmonks/solana-stake-pool-a-semantic-inconsistency-vulnerability-discovered-by-soteria-b92abcbaf909)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 

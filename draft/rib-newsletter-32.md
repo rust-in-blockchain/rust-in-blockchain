@@ -48,6 +48,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Electric Capital Developer Report (2021)](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d)
 
 #### Papers
 

@@ -17,6 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[Philip Glazman],
 
 _TODO_
 
@@ -28,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Philip Glazman]: https://github.com/philipglazman
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -166,6 +168,9 @@ Company name | Location A, B, Remote
 
 -->
 
+
+Pine Street Labs | San Francisco or Remote
+- [Custody Engineer](https://www.linkedin.com/hiring/jobs/2863929634/detail/)
 
 
 More jobs can be found at [Job Board][page-jobboard].

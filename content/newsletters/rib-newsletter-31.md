@@ -4,7 +4,8 @@ description: "December 2021"
 date: 2022-01-05
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #31 edition of Rust in Blockchain. 
+This month we spotlight `Arloader`, a command line client for uploading files to Arweave."
 ---
 
 Welcome to the #31 edition of Rust in Blockchain, the monthly

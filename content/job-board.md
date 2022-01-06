@@ -158,6 +158,9 @@ Parity Technologies | Berlin or Remote
 - [Solution Engineer - Substrate](https://grnh.se/d7fe278f3us)
 - [Rust/Core Developer - Open Application](https://grnh.se/0efc64513us)
 
+Pine Street Labs | San Francisco or Remote
+- [Custody Engineer](https://www.linkedin.com/hiring/jobs/2863929634/detail/)
+
 Protocol Labs | Remote
 - [Software Engineer, Cryptography & Systems](https://jobs.lever.co/protocol/9afbc1c9-8b3b-4c03-856d-6b0cb5518eaa)
 - [Software Engineer, Peer-to-Peer Networks](https://jobs.lever.co/protocol/e4a469e4-c420-4ae5-acea-44c33a03dbd2)

@@ -17,6 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[bbyleggo123],
 [Philip Glazman],
 
 _TODO_
@@ -29,6 +30,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[bbyleggo123]: https://github.com/bbyleggo123
 [Philip Glazman]: https://github.com/philipglazman
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
@@ -168,6 +170,15 @@ Company name | Location A, B, Remote
 
 -->
 
+Aurora | Remote
+- [Blockchain/EVM Engineer](https://docs.google.com/document/d/1VkaXInjgSczOL_R3aKMOnXKv7lFvvL1z__SlZQLfR78/edit?usp=sharing)
+
+Fluence | Remote
+- [Rust Engineer (AquaVM)](https://docs.google.com/document/d/1941617PiUwIUSccQVS-5UDX8kRitp36mTLBgzVtspfQ/edit?usp=sharing)
+
+NEAR | Remote
+- [Core Engineer](https://docs.google.com/document/d/1b5oJAM37_B2-stUsJ-xtAIsPnqMwdD0wu30ITvylCHk/edit?usp=sharing)
+- [Engineering Manager, Contract Runtime](https://docs.google.com/document/d/1MD_I2tL0ucLLpjyhOCpDtE0-_mmGQ1k6eMsuzd9eeHc/edit?usp=sharing)
 
 Pine Street Labs | San Francisco or Remote
 - [Custody Engineer](https://www.linkedin.com/hiring/jobs/2863929634/detail/)

@@ -28,6 +28,7 @@ Anoma | Berlin, Remote
 
 Aurora | Remote
 - [Blockchain/Bridge Engineer](https://docs.google.com/document/d/1xXMEeQffOv2rfPT4jpipwkjo4osmfyAp4eEl51j3dt4/edit?usp=sharing)
+- [Blockchain/EVM Engineer](https://docs.google.com/document/d/1VkaXInjgSczOL_R3aKMOnXKv7lFvvL1z__SlZQLfR78/edit?usp=sharing)
 
 Bolt Labs | US, Remote
 - [Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1pPcX7Pt)
@@ -84,6 +85,9 @@ Findora | Beijing, China; Menlo Park, CA
 - [Cryptography Engineer](https://jobs.lever.co/findora/082d76ed-3371-4374-b5f5-25be99df2bdb)
 - [Director of Engineering](https://jobs.lever.co/findora/d1981ece-fb53-4b41-96d9-346b1974a7d8)
 - [Senior Systems Engineer](https://jobs.lever.co/findora/e89e2e02-622c-41da-a14d-c12d854a25b5)
+
+Fluence | Remote
+- [Rust Engineer (AquaVM)](https://docs.google.com/document/d/1941617PiUwIUSccQVS-5UDX8kRitp36mTLBgzVtspfQ/edit?usp=sharing)
 
 Foundation Devices | Boston, MA - San Diego, CA - Remote
 - [Embedded Rust Engineer](https://angel.co/company/foundationdevices/jobs/1436754-embedded-rust-engineer)
@@ -148,6 +152,8 @@ Moonbeam | Boston, MA USA; Madrid, Spain; Remote
 
 NEAR | Remote
 - [Low-Level Developer, Contract Runtime](https://docs.google.com/document/d/18HEwef-HDPZ2FPYfaHWpsd-kSF8E4zNpeQVulqhfFSk/edit?usp=sharing)
+- [Core Engineer](https://docs.google.com/document/d/1b5oJAM37_B2-stUsJ-xtAIsPnqMwdD0wu30ITvylCHk/edit?usp=sharing)
+- [Engineering Manager, Contract Runtime](https://docs.google.com/document/d/1MD_I2tL0ucLLpjyhOCpDtE0-_mmGQ1k6eMsuzd9eeHc/edit?usp=sharing)
 
 Oxygen | Dubai or Remote
 - [Rust Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)

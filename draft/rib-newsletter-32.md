@@ -19,7 +19,7 @@ industry topics.
 Thanks to contributors:
 [bbyleggo123],
 [Philip Glazman],
-Tannr,
+[TannrA],
 
 _TODO_
 
@@ -33,6 +33,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 [bbyleggo123]: https://github.com/bbyleggo123
 [Philip Glazman]: https://github.com/philipglazman
+[TannrA]: https://github.com/WilfredTA
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

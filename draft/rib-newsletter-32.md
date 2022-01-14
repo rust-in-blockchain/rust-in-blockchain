@@ -19,6 +19,7 @@ industry topics.
 Thanks to contributors:
 [bbyleggo123],
 [Philip Glazman],
+Tannr,
 
 _TODO_
 
@@ -59,6 +60,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Plonky2](https://github.com/mir-protocol/plonky2)
+  is a SNARK implementation based on techniques from PLONK and FRI.
+  The announcement: [Introducing Plonky2](https://blog.polygon.technology/introducing-plonky2/).
+- [Trampoline](https://github.com/WilfredTA/trampoline).
+  A UTXO-based smart contract composition framework for Nervos Network.
 
 &nbsp;
 
@@ -121,6 +127,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
+- [NEAR Launches Stake Farming To Unlock Ecosystem Rewards](https://near.org/blog/near-launches-stake-farming-to-unlock-ecosystem-rewards/)
+
 #### [Nervos](https://github.com/nervosnetwork)
 
 #### [Parity](https://github.com/paritytech)
@@ -142,6 +150,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Zcash](https://github.com/zcash)
 
 #### [zkSync](https://github.com/matter-labs/zksync)
+
+- [On Managing Secure Upgradability](https://blog.matter-labs.io/upgradability3-934db4433b0c)
 
 
 &nbsp;

@@ -144,6 +144,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Solana](https://github.com/solana-labs/solana)
 
+- [Solana internals Part 2: how is a Solana program deployed and upgraded](https://medium.com/coinmonks/solana-internals-part-2-how-is-a-solana-deployed-and-upgraded-d0ae52601b99)
+
 #### [Spacemesh](https://github.com/spacemeshos)
 
 #### [Subspace Labs](https://github.com/subspace)

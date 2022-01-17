@@ -272,6 +272,30 @@ repos = [
 ]
 ```
 
+## Fuel
+
+Media:
+
+- https://fuel.network
+- https://twitter.com/fuellabs_
+
+GitHub
+
+- https://github.com/FuelLabs
+
+```toml
+repos = [
+"FuelLabs/fuel-asm",
+"FuelLabs/fuel-core",
+"FuelLabs/fuel-merkle",
+"FuelLabs/fuel-storage",
+"FuelLabs/fuel-tx",
+"FuelLabs/fuel-types",
+"FuelLabs/fuel-vm",
+"FuelLabs/fuels-rs",
+"FuelLabs/sway",
+]
+```
 
 ## Golem
 

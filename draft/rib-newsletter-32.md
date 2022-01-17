@@ -18,6 +18,7 @@ industry topics.
 
 Thanks to contributors:
 [bbyleggo123],
+[John Adler],
 [Philip Glazman],
 [TannrA],
 
@@ -32,6 +33,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [bbyleggo123]: https://github.com/bbyleggo123
+[John Adler]: https://github.com/adlerjohn
 [Philip Glazman]: https://github.com/philipglazman
 [TannrA]: https://github.com/WilfredTA
 [Brian Anderson]: https://github.com/brson

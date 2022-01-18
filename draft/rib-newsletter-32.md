@@ -193,7 +193,6 @@ Fluence | Remote
 
 NEAR | Remote
 - [Core Engineer](https://docs.google.com/document/d/1b5oJAM37_B2-stUsJ-xtAIsPnqMwdD0wu30ITvylCHk/edit?usp=sharing)
-- [Engineering Manager, Contract Runtime](https://docs.google.com/document/d/1MD_I2tL0ucLLpjyhOCpDtE0-_mmGQ1k6eMsuzd9eeHc/edit?usp=sharing)
 
 Pine Street Labs | San Francisco or Remote
 - [Custody Engineer](https://www.linkedin.com/hiring/jobs/2863929634/detail/)

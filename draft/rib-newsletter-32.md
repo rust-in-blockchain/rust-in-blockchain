@@ -66,6 +66,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Plonky2](https://github.com/mir-protocol/plonky2)
   is a SNARK implementation based on techniques from PLONK and FRI.
   The announcement: [Introducing Plonky2](https://blog.polygon.technology/introducing-plonky2/).
+- [Schnorrkel](https://github.com/w3f/schnorrkel)
+  implements Schnorr signature on Ristretto compressed Ed25519 points,
+  as well as related protocols like HDKD, MuSig, and a verifiable
+  random function (VRF).
 - [Trampoline](https://github.com/WilfredTA/trampoline).
   A UTXO-based smart contract composition framework for Nervos Network.
 

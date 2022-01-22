@@ -18,6 +18,7 @@ industry topics.
 
 Thanks to contributors:
 [bbyleggo123],
+[Daniel Lubarov],
 [John Adler],
 [Philip Glazman],
 [TannrA],
@@ -33,6 +34,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [bbyleggo123]: https://github.com/bbyleggo123
+[Daniel Lubarov]: https://github.com/dlubarov
 [John Adler]: https://github.com/adlerjohn
 [Philip Glazman]: https://github.com/philipglazman
 [TannrA]: https://github.com/WilfredTA
@@ -201,6 +203,8 @@ NEAR | Remote
 Pine Street Labs | San Francisco or Remote
 - [Custody Engineer](https://www.linkedin.com/hiring/jobs/2863929634/detail/)
 
+Polygon Zero | Remote
+- [Senior Protocol Engineer](https://mirprotocol.org/careers/protocol-engineer)
 
 More jobs can be found at [Job Board][page-jobboard].
 

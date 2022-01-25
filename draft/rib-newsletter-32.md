@@ -55,6 +55,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [The great renaming: what happened to Eth2?](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/)
 
 #### Blog Posts
 
@@ -112,6 +113,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Dfinity](https://github.com/dfinity)
 
+- [‘The Internet Computer for Geeks’: A New DFINITY White Paper](https://medium.com/dfinity/the-internet-computer-for-geeks-a-new-dfinity-white-paper-ecb075b2d525)
+
 #### [Diem](https://github.com/diem)
 
 #### [Elrond](https://github.com/ElrondNetwork)
@@ -141,7 +144,9 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Nervos](https://github.com/nervosnetwork)
 
 #### [Parity](https://github.com/paritytech)
-  
+
+- [Polkadot v1.0: Sharding and Economic Security](https://medium.com/polkadot-network/polkadot-v1-0-sharding-and-economic-security-e03099b4fa81)
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)

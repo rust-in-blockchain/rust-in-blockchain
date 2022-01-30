@@ -63,6 +63,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [An Introduction to Secret-Sharing-Based Secure Multiparty Computation](https://eprint.iacr.org/2022/062)
+- [Non-Interactive Zero-Knowledge Proofs to Multiple Verifiers](https://eprint.iacr.org/2022/063)
+- [PlonKup: Reconciling PlonK with plookup](https://eprint.iacr.org/2022/086)
+- [Titanium: A Metadata-Hiding File-Sharing System with Malicious Security](https://eprint.iacr.org/2022/051)
+- [LedgerHedger: Gas Reservation for Smart-Contract Security](https://eprint.iacr.org/2022/056)
+- [Broken Proofs of Solvency in Blockchain Custodial Wallets and Exchanges](https://eprint.iacr.org/2022/043)
+- [Preparation for Post-Quantum era: a survey about blockchain schemes from a post-quantum perspective](https://eprint.iacr.org/2022/026)
 
 #### Projects
 

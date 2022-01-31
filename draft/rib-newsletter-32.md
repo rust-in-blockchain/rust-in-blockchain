@@ -162,7 +162,9 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Solana](https://github.com/solana-labs/solana)
 
-- [Solana internals Part 2: how is a Solana program deployed and upgraded](https://medium.com/coinmonks/solana-internals-part-2-how-is-a-solana-deployed-and-upgraded-d0ae52601b99)
+- [Solana Internals Part 2: How Is a Solana Program Deployed and Upgraded](https://www.soteria.dev/post/solana-internals-part-2-how-is-a-solana-program-deployed-and-upgraded)
+- [Solana Internals Part 3: The Transaction Processing Unit (TPU)](https://www.soteria.dev/post/solana-internals-part-3-the-transaction-processing-unit-tpu)
+- [Solana Internals Part 4: The Bank — A Key Component](https://www.soteria.dev/post/solana-internals-part-4-the-bank-a-key-component)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 

@@ -109,6 +109,22 @@ Bold entries here are especially relevant to blockchain projects.
 [RustSec]: https://rustsec.org/advisories/
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
 
+- [RUSTSEC-2021-0133: cargo-download is unmaintained](https://rustsec.org/advisories/RUSTSEC-2021-0133.html).
+- [RUSTSEC-2021-0134: rental is unmaintained](https://rustsec.org/advisories/RUSTSEC-2021-0134.html).
+- [RUSTSEC-2022-0004: Vulnerability in rustc-serialize](https://rustsec.org/advisories/RUSTSEC-2022-0004.html).
+- [RUSTSEC-2022-0001: lmdb is unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0001.html).
+- [RUSTSEC-2022-0002: Vulnerability in dashmap](https://rustsec.org/advisories/RUSTSEC-2022-0002.html).
+- **[CVE-2022-21658: Vulnerability in std](https://rustsec.org/advisories/CVE-2022-21658.html).**
+  Time-of-check time-of-use race condition can allow attacker to delete files they do not have access to delete.
+- [RUSTSEC-2022-0003: Vulnerability in ammonia](https://rustsec.org/advisories/RUSTSEC-2022-0003.html).
+- [RUSTSEC-2022-0005: ftd2xx-embedded-hal is unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0005.html).
+- [RUSTSEC-2022-0006: Vulnerability in thread_local](https://rustsec.org/advisories/RUSTSEC-2022-0006.html).
+- [RUSTSEC-2022-0007: Unsoundness in qcell](https://rustsec.org/advisories/RUSTSEC-2022-0007.html).
+- **[CVE-2022-21685: Integer underflow in Frontier](https://github.com/advisories/GHSA-cjg2-2fjg-fph4).**
+  Frontier is an ethereum compatibility for substrate
+- [CVE-2021-39480: Denial of service in bingrep](https://github.com/advisories/GHSA-gm68-g349-gxgg).
+- **[CVE-2021-46102: Integer overflow in solana_rbpf](https://github.com/advisories/GHSA-xwqr-xmgg-j69q).**
+
 
 &nbsp;
 

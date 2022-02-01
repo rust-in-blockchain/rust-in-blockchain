@@ -97,7 +97,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   Secret Oracle - RNG will be a decentralized source of private
   randomness on Secret Network.
 - [stable-swap](https://github.com/saber-hq/stable-swap).
-  an automated market maker for mean-reverting trading pairs.
+  The source for the Saber stableswap AMM on Solana.
 
 &nbsp;
 

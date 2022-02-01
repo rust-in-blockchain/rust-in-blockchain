@@ -60,6 +60,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Electric Capital Developer Report (2021)](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d)
+- [A technical overview of developing gold.xyz on Solana](https://mirror.xyz/goldxyz.eth/cP4BqSyI_xP04VgRSsAtdDyDkvDcfUG_ZFgWYILDhjQ?123)
 
 #### Papers
 

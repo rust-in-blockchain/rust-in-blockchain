@@ -53,6 +53,16 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[Trampoline].
+
+Trampoline is a Rust-based smart contract framework for the UTXO-based Nervos network.
+Whereas most smart contract platforms are account-based,
+with a programming model that is relatively easy to reason about in the imperative style,
+there are comparatively few smart contracts of any complexity written for UTXO blockchains.
+This project is an attempt to make writing UTXO-based contracts more accessible.
+
+[Trampoline]: https://github.com/WilfredTA/trampoline
+
 &nbsp;
 
 
@@ -91,8 +101,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   random function (VRF).
 - [ref-fvm](https://github.com/filecoin-project/ref-fvm).
   Reference implementation of the Filecoin Virtual Machine [v0, pre-alpha].
-- [Trampoline](https://github.com/WilfredTA/trampoline).
-  A UTXO-based smart contract composition framework for Nervos Network.
 - [Scrt-RNG](https://github.com/DDT5/scrt-rng).
   Secret Oracle - RNG will be a decentralized source of private
   randomness on Secret Network.

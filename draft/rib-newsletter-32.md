@@ -96,6 +96,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Scrt-RNG](https://github.com/DDT5/scrt-rng).
   Secret Oracle - RNG will be a decentralized source of private
   randomness on Secret Network.
+- [stable-swap](https://github.com/saber-hq/stable-swap).
+  an automated market maker for mean-reverting trading pairs.
 
 &nbsp;
 

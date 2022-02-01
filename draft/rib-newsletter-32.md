@@ -503,6 +503,7 @@ Bold entries here are especially relevant to blockchain projects.
 - [Solana Internals Part 2: How Is a Solana Program Deployed and Upgraded](https://www.soteria.dev/post/solana-internals-part-2-how-is-a-solana-program-deployed-and-upgraded)
 - [Solana Internals Part 3: The Transaction Processing Unit (TPU)](https://www.soteria.dev/post/solana-internals-part-3-the-transaction-processing-unit-tpu)
 - [Solana Internals Part 4: The Bank — A Key Component](https://www.soteria.dev/post/solana-internals-part-4-the-bank-a-key-component)
+- [A technical overview of developing gold.xyz on Solana](https://mirror.xyz/goldxyz.eth/cP4BqSyI_xP04VgRSsAtdDyDkvDcfUG_ZFgWYILDhjQ?123)
 - Events: [Introducing the Solana Hacker House Inaugural World Tour](https://solana.com/news/solana-hacker-house-world-tour).
 
 #### [Spacemesh](https://github.com/spacemeshos)

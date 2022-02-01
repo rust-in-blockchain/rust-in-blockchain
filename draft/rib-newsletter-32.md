@@ -122,13 +122,13 @@ Bold entries here are especially relevant to blockchain projects.
 
 - [‘The Internet Computer for Geeks’: A New DFINITY White Paper](https://medium.com/dfinity/the-internet-computer-for-geeks-a-new-dfinity-white-paper-ecb075b2d525)
 
-#### [Diem](https://github.com/diem)
-
 #### [Elrond](https://github.com/ElrondNetwork)
 
 #### [Findora](https://github.com/FindoraNetwork)
 
 #### [Fluence](https://github.com/fluencelabs)
+
+#### [Fuel](https://github.com/FuelLabs)
 
 #### [Golem](https://github.com/golemfactory)
 

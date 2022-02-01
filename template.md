@@ -92,13 +92,13 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Dfinity](https://github.com/dfinity)
 
-#### [Diem](https://github.com/diem)
-
 #### [Elrond](https://github.com/ElrondNetwork)
 
 #### [Findora](https://github.com/FindoraNetwork)
 
 #### [Fluence](https://github.com/fluencelabs)
+
+#### [Fuel](https://github.com/FuelLabs)
 
 #### [Golem](https://github.com/golemfactory)
 

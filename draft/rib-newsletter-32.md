@@ -133,8 +133,6 @@ Bold entries here are especially relevant to blockchain projects.
 
 ## Project Updates
 
-<!-- NB: This list needs to be kept in sync with rib-bible.md / rib-config.toml -->
-
 #### [Aleo](https://github.com/AleoHQ)
 
 129 merged PRs ([1][aleo-merged-prs-1], [2][aleo-merged-prs-2], [3][aleo-merged-prs-3], [4][aleo-merged-prs-4]), 
@@ -151,6 +149,8 @@ Bold entries here are especially relevant to blockchain projects.
 [aleo-open_issues-1]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aopen+created%3A2022-01-01..2022-01-31
 [aleo-open_issues-2]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2022-01-01..2022-01-31
 [aleo-open_issues-3]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2022-01-01..2022-01-31
+
+- [Intro to Leo Programming Language](https://www.aleo.org/post/leo-programming-language)
 
 #### [Anoma](https://github.com/anoma)
 
@@ -365,7 +365,7 @@ Bold entries here are especially relevant to blockchain projects.
 [lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-01-01..2022-01-31
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2022-01-01..2022-01-31
 
-- New release: [Poñeta](https://github.com/sigp/lighthouse/releases/tag/v2.1.1)
+- [New releases v2.1.2](https://github.com/sigp/lighthouse/releases/tag/v2.1.2)
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 

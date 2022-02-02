@@ -4,7 +4,8 @@ description: "January 2022"
 date: 2022-02-02
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #32 edition of Rust in Blockchain.
+This month we spotlight `Trampoline`, a Rust-based smart contract framework for the UTXO-based Nervos network."
 ---
 
 Welcome to the #32 edition of Rust in Blockchain, the monthly

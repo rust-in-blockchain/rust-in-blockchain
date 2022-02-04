@@ -92,6 +92,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Dfinity](https://github.com/dfinity)
 
+- [The Internet Computer’s Bitcoin Developer Preview Is Now Available](https://medium.com/dfinity/the-internet-computers-bitcoin-developer-preview-is-now-available-85ce1df6b17d)
+
 #### [Elrond](https://github.com/ElrondNetwork)
 
 #### [Findora](https://github.com/FindoraNetwork)
@@ -111,6 +113,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [IOTA](https://github.com/iotaledger)
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
+
+- [Lighthouse Update #39](https://lighthouse.sigmaprime.io/update-39.html)
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 

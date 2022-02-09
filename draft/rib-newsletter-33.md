@@ -45,9 +45,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [Wormhole Incident Report — 02/02/22](https://wormholecrypto.medium.com/wormhole-incident-report-02-02-22-ad9b8f21eec6)
 
 #### Blog Posts
 
+- [What Are Cross-Chain Smart Contracts?](https://blog.chain.link/cross-chain-smart-contracts/)
 
 #### Papers
 

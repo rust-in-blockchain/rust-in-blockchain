@@ -61,16 +61,13 @@ Dash Core Group | Remote
 DEX Labs | Remote
 - [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb-rust-engineer)
 
-Diem | Remote
-- [Developer Advocate](https://www.diem.com/en-us/job-board/?gh_jid=4465800002)
-
 Dock | Remote
 - [Rust & DevOps](https://www.cryptojobsdaily.com/job/dock-blockchain-developer-rust-devops/)
 
 DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
-- [Software Engineer, Distributed Systems](https://grnh.se/1f702d2e2us)
-- [Software Engineer, Front-End](https://grnh.se/b8daa0ed2us)
-- [Software Engineer, SDK](https://grnh.se/92e1344b2us)
+- [Software Engineer, Distributed Systems](https://boards.greenhouse.io/dfinity/jobs/4408999002)
+- [Software Engineer - SDK](https://boards.greenhouse.io/dfinity/jobs/5516557002)
+- [Software Engineer - Systems](https://boards.greenhouse.io/dfinity/jobs/4408974002)
 
 e^{i} Ventures | Remote
 - [Senior Rust Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/hedgehog-markets-senior-smart-contract-engineer-rust-solana/)
@@ -158,10 +155,14 @@ Oxygen | Dubai or Remote
 - [Rust Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
 
 Parity Technologies | Berlin or Remote 
-- [Core Rust Developer - Cross-chain Messaging (Polkadot)](https://grnh.se/dafd8e973us)
-- [Core Rust Developer - Consensus (Polkadot)](https://grnh.se/470a1a623us)
-- [Solution Engineer - Substrate](https://grnh.se/d7fe278f3us)
-- [Rust/Core Developer - Open Application](https://grnh.se/0efc64513us)
+- [Rust/Core Developer](https://boards.greenhouse.io/parity/jobs/4030037003)
+- [Rust Core Developer - Smart Contract Platform](https://boards.greenhouse.io/parity/jobs/4852265003)
+- [Rust Core Developer - Solidity Compiler](https://boards.greenhouse.io/parity/jobs/4852012003)
+- [Senior Engineer - Enterprise Engineering](https://boards.greenhouse.io/parity/jobs/4897521003)
+- [Senior Full Stack Developer - Technical Runtime + UI](https://boards.greenhouse.io/parity/jobs/4328483003)
+- [Full Stack Engineer](https://boards.greenhouse.io/parity/jobs/4880046003)
+- [Parachains Engineer - Common Good](https://boards.greenhouse.io/parity/jobs/4794657003)
+- [Release Automation Engineer](https://boards.greenhouse.io/parity/jobs/4906067003)
 
 Pine Street Labs | San Francisco or Remote
 - [Custody Engineer](https://www.linkedin.com/hiring/jobs/2863929634/detail/)

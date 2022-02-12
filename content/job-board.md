@@ -30,6 +30,14 @@ Aurora | Remote
 - [Blockchain/Bridge Engineer](https://docs.google.com/document/d/1xXMEeQffOv2rfPT4jpipwkjo4osmfyAp4eEl51j3dt4/edit?usp=sharing)
 - [Blockchain/EVM Engineer](https://docs.google.com/document/d/1VkaXInjgSczOL_R3aKMOnXKv7lFvvL1z__SlZQLfR78/edit?usp=sharing)
 
+Blockstream | Remote
+- [Software Library Engineer](https://grnh.se/fc3876861us)
+- [Product Management Director, Liquid](https://grnh.se/aca150011us)
+- [Full-Stack Software Engineer: Lightning/Greenlight](https://grnh.se/487613a51us)
+- [Full-Stack Software Engineer](https://grnh.se/aed921721us)
+- [Cryptographic Engineer](https://grnh.se/3b9acf401us)
+- [QA Engineer](https://grnh.se/ce2891871us)
+
 Bolt Labs | US, Remote
 - [Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1pPcX7Pt)
 - [Senior Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/HytKoEmwY)

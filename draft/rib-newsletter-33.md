@@ -17,8 +17,8 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[David],
 
-_TODO_
 
 Thank you for your help!
 
@@ -28,6 +28,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[David]: https://github.com/djdo83
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -171,6 +172,13 @@ Company name | Location A, B, Remote
 
 -->
 
+Blockstream | Remote
+- [Software Library Engineer](https://grnh.se/fc3876861us)
+- [Product Management Director, Liquid](https://grnh.se/aca150011us)
+- [Full-Stack Software Engineer: Lightning/Greenlight](https://grnh.se/487613a51us)
+- [Full-Stack Software Engineer](https://grnh.se/aed921721us)
+- [Cryptographic Engineer](https://grnh.se/3b9acf401us)
+- [QA Engineer](https://grnh.se/ce2891871us)
 
 
 More jobs can be found at [Job Board][page-jobboard].

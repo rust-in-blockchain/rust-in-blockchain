@@ -23,6 +23,9 @@ Anoma | Berlin, Remote
 - [Zero-Knowledge Cryptographer & Protocol Developer](https://heliax.dev/jobs/zero-knowledge-cryptographer-protocol-developer/)
 - [Distributed Systems Research Engineer](https://heliax.dev/jobs/distributed-systems-research-engineer/)
 
+Anon | Africa, Remote
+- [Rust Developer](https://proximal-finch-4f9.notion.site/Rust-Developer-for-Blockchain-03afbedc6cf24b188bf9caff0581b958)
+
 `arkworks` | Remote
 - [Co-maintainer](https://form.jotform.com/212026632139145)
 

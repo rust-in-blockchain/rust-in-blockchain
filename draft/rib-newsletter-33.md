@@ -18,6 +18,7 @@ industry topics.
 
 Thanks to contributors:
 [David],
+[oiclid],
 
 
 Thank you for your help!
@@ -29,6 +30,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [David]: https://github.com/djdo83
+[oiclid]: https://github.com/oiclid
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -171,6 +173,9 @@ Company name | Location A, B, Remote
 - [Job 2](https://job.two)
 
 -->
+
+Anon | Africa, Remote
+- [Rust Developer](https://proximal-finch-4f9.notion.site/Rust-Developer-for-Blockchain-03afbedc6cf24b188bf9caff0581b958)
 
 Blockstream | Remote
 - [Software Library Engineer](https://grnh.se/fc3876861us)

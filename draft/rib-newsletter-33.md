@@ -178,13 +178,15 @@ Anon | Africa, Remote
 - [Rust Developer](https://proximal-finch-4f9.notion.site/Rust-Developer-for-Blockchain-03afbedc6cf24b188bf9caff0581b958)
 
 Blockstream | Remote
-- [Software Library Engineer](https://grnh.se/fc3876861us)
-- [Product Management Director, Liquid](https://grnh.se/aca150011us)
+- [Software Library Engineer (Rust)](https://grnh.se/fc3876861us)
+- [Software Library Engineer (C++)](https://grnh.se/69d260dc1us)
 - [Full-Stack Software Engineer: Lightning/Greenlight](https://grnh.se/487613a51us)
 - [Full-Stack Software Engineer](https://grnh.se/aed921721us)
 - [Cryptographic Engineer](https://grnh.se/3b9acf401us)
 - [QA Engineer](https://grnh.se/ce2891871us)
-
+- [Product Management Director, Liquid](https://grnh.se/aca150011us)
+- [Sr. Product Manager](https://grnh.se/11354dd01us)
+- [Product Manager](https://grnh.se/1bdd2ced1us)
 
 More jobs can be found at [Job Board][page-jobboard].
 

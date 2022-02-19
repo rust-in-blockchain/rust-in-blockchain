@@ -36,7 +36,6 @@ Aurora | Remote
 Blockstream | Remote
 - [Software Library Engineer (Rust)](https://grnh.se/fc3876861us)
 - [Software Library Engineer (C++)](https://grnh.se/69d260dc1us)
-- [Full-Stack Software Engineer: Lightning/Greenlight](https://grnh.se/487613a51us)
 - [Full-Stack Software Engineer](https://grnh.se/aed921721us)
 - [Cryptographic Engineer](https://grnh.se/3b9acf401us)
 - [QA Engineer](https://grnh.se/ce2891871us)

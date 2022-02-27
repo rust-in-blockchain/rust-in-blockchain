@@ -56,6 +56,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [The Power of the Differentially Oblivious Shuffle in Distributed Privacy Mechanisms](https://eprint.iacr.org/2022/177)
+- [Azeroth: Auditable Zero-knowledge Transactions in Smart Contracts](https://eprint.iacr.org/2022/211)
+- [Zero-Knowledge Protocols for the Subset Sum Problem from MPC-in-the-Head with Rejection](https://eprint.iacr.org/2022/223)
+- [Short-lived zero-knowledge proofs and signatures](https://eprint.iacr.org/2022/190)
+- [SNACKs: Leveraging Proofs of Sequential Work for Blockchain Light Clients](https://eprint.iacr.org/2022/240)
+
 
 #### Projects
 
@@ -147,6 +153,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 
+- [zkSync 2.0: Public Testnet is Live!](https://matterlabs.medium.com/zksync-2-0-public-testnet-is-live-de870ba9632a)
 
 &nbsp;
 
@@ -160,6 +167,9 @@ Dec 1-2 | Online
 
 -->
 
+Feb 25 - Mar 27 | Online
+
+[ETHernals hackathon](https://ethernals.devfolio.co/)
 
 
 &nbsp;

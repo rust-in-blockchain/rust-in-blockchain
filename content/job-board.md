@@ -108,6 +108,10 @@ Fractal Protocol | Remote or Berlin
 - [Rust and Blockchain Engineer](https://gist.github.com/juliosantos/ba6d01ffab39b5c06ea459d88b1f735f)
 
 Fuel Labs | Remote
+- [Application Engineer [Rust, Sway]](https://jobs.lever.co/fuellabs/05417e26-4c6a-4be6-8fb9-95b51daf74cd)
+- [Compiler/Language Engineer [Rust]](https://jobs.lever.co/fuellabs/5c5e0c29-2657-4046-ae24-0e3674361450)
+- [Junior Software Engineer [Rust]](https://jobs.lever.co/fuellabs/c5a0c172-a378-4d25-b792-e2e96a6490c8)
+- [Senior Protocol Engineer [Rust]](https://jobs.lever.co/fuellabs/11f95c0b-e2bb-4e13-bea2-7348b2a491fc)
 - [Senior Software Engineer [Rust]](https://jobs.lever.co/fuellabs/13b01903-490a-4497-b778-35434f4188cf)
 
 Hubble (Solana, DeFi) | London, Remote

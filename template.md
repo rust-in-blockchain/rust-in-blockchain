@@ -106,8 +106,6 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Holochain](https://github.com/holochain/)
 
-#### [Interledger](https://github.com/interledger-rs)
-
 #### [IOTA](https://github.com/iotaledger)
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)

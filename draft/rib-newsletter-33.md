@@ -44,6 +44,14 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[teleport-transactions](https://github.com/bitcoin-teleport/teleport-transactions/).
+
+This is an implementation in Rust of [CoinSwap], a long-discussed, but never implemented, technique
+for improving the privacy and fungibility of Bitcoin. It involves an interactive agreement between
+two parties, performed over Tor, that results in exchanging ownership of two different addresses.
+
+[CoinSwap]: https://bitcointalk.org/index.php?topic=321228.0
+
 &nbsp;
 
 
@@ -94,6 +102,15 @@ Bold entries here are especially relevant to blockchain projects.
 
 [RustSec]: https://rustsec.org/advisories/
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
+
+- **[RUSTSEC-2022-0009: Vulnerability in libp2p-core](https://rustsec.org/advisories/RUSTSEC-2022-0009.html).**
+- [RUSTSEC-2022-0010: Unsoundness in enum-map](https://rustsec.org/advisories/RUSTSEC-2022-0010.html).
+- [RUSTSEC-2022-0011: Vulnerability in rust-crypto](https://rustsec.org/advisories/RUSTSEC-2022-0011.html).
+  This is an old and unmaintained library that should not be used.
+- [GHSA-45w3-v3g4-54pm: Potential segfault in SPIFFE authenticator (parsec)](https://github.com/advisories/GHSA-45w3-v3g4-54pm).
+- [CVE-2022-24988: Buffer Overflow in galois_2p8](https://github.com/advisories/GHSA-9p8q-j6q5-mjw8).
+- **[CVE-2022-23636: Invalid drop of partially-initialized instances in the pooling instance allocator for modules with defined `externref` globals (wasmtime)](https://github.com/advisories/GHSA-88xq-w8cq-xfg7).**
+- [CVE-2022-23639: Improper Restriction of Operations within the Bounds of a Memory Buffer and Race Condition in crossbeam-utils](https://github.com/advisories/GHSA-qc84-gqf4-9926).
 
 
 &nbsp;

@@ -17,10 +17,10 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[Dan Shields],
 [David],
 [oiclid],
-
-
+[Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -29,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Dan Shields]: Https://github.com/NukeManDan
 [David]: https://github.com/djdo83
 [oiclid]: https://github.com/oiclid
 [Brian Anderson]: https://github.com/brson
@@ -48,23 +49,35 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
-- [Wormhole Incident Report — 02/02/22](https://wormholecrypto.medium.com/wormhole-incident-report-02-02-22-ad9b8f21eec6)
+Wormhole hack:
+- Offcial report: [Wormhole Incident Report — 02/02/22](https://wormholecrypto.medium.com/wormhole-incident-report-02-02-22-ad9b8f21eec6)
+- Rekt report: [WORMHOLE - REKT](https://rekt.news/wormhole-rekt/)
+- [Decommissioning Wormhole V1](https://wormholecrypto.medium.com/decommissioning-wormhole-v1-da79e4bfff99)
 
 #### Blog Posts
 
+- [Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 - [What Are Cross-Chain Smart Contracts?](https://blog.chain.link/cross-chain-smart-contracts/)
+- [Encapsulated vs systemic complexity in protocol design](https://vitalik.ca/general/2022/02/28/complexity.html)
 
 #### Papers
 
 - [The Power of the Differentially Oblivious Shuffle in Distributed Privacy Mechanisms](https://eprint.iacr.org/2022/177)
+- [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://eprint.iacr.org/2022/123)
 - [Azeroth: Auditable Zero-knowledge Transactions in Smart Contracts](https://eprint.iacr.org/2022/211)
 - [Zero-Knowledge Protocols for the Subset Sum Problem from MPC-in-the-Head with Rejection](https://eprint.iacr.org/2022/223)
+- [Proving UNSAT in Zero Knowledge](https://eprint.iacr.org/2022/206)
 - [Short-lived zero-knowledge proofs and signatures](https://eprint.iacr.org/2022/190)
 - [SNACKs: Leveraging Proofs of Sequential Work for Blockchain Light Clients](https://eprint.iacr.org/2022/240)
+- [Non-interactive Mimblewimble transactions, revisited](https://eprint.iacr.org/2022/265)
 
 
 #### Projects
 
+- [awesome-move](https://github.com/MystenLabs/awesome-move).
+  Code and content from the Move programming language community.
+- [Teleport Transactions](https://github.com/bitcoin-teleport/teleport-transactions/).
+  CoinSwap implementation aims to improve the privacy of Bitcoin.
 
 &nbsp;
 
@@ -80,6 +93,21 @@ Bold entries here are especially relevant to blockchain projects.
 &nbsp;
 
 ## Most Active in February
+
+[Parity](https://github.com/paritytech):
+299 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6]), 
+74 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5], [6][parity-closed_issues-6]), 
+91 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5], [6][parity-open_issues-6])
+
+[Solana](https://github.com/solana-labs/solana):
+254 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]), 
+45 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+52 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2])
+
+[Zcash](https://github.com/zcash):
+124 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 
+121 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2], [3][zcash-closed_issues-3]),
+39 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
 
 &nbsp;
 
@@ -193,6 +221,7 @@ Bold entries here are especially relevant to blockchain projects.
 [dfinity-open_issues-3]: https://github.com/dfinity/quill/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 
 - [The Internet Computer’s Bitcoin Developer Preview Is Now Available](https://medium.com/dfinity/the-internet-computers-bitcoin-developer-preview-is-now-available-85ce1df6b17d)
+- [Bitcoin Integration Developer Preview](https://github.com/dfinity/bitcoin-developer-preview)
 
 #### [Elrond](https://github.com/ElrondNetwork)
 
@@ -373,7 +402,9 @@ Bold entries here are especially relevant to blockchain projects.
 [parity-open_issues-4]: https://github.com/paritytech/wasmi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 [parity-open_issues-5]: https://github.com/paritytech/cumulus/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 [parity-open_issues-6]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
-  
+
+- Proposal: [Treasury for upstream](https://that.world/~wei/polkadot/council/upstream/)
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 36 merged PRs ([1][rust_bitcoin-merged-prs-1], [2][rust_bitcoin-merged-prs-2], [3][rust_bitcoin-merged-prs-3], [4][rust_bitcoin-merged-prs-4]), 
@@ -427,6 +458,8 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-closed_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-02-01..2022-02-28
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
+
+- [Announcing Soteria Premium: Auto Auditor for Solana Smart Contracts](https://medium.com/coinmonks/announcing-soteria-premium-auto-auditor-for-solana-smart-contracts-866476b50ff2)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 
@@ -501,10 +534,33 @@ Dec 1-2 | Online
 
 -->
 
-Feb 25 - Mar 27 | Online
+Apr 16 - May 13th | Online
 
-[ETHernals hackathon](https://ethernals.devfolio.co/)
+[Scaling Ethereum](https://scaling.ethglobal.co/)
 
+Apr 18-25 | Amsterdam
+
+[Devconnect](https://devconnect.org/)
+
+May 2-6 | Canada
+
+[Financial Cryptography and Data Security 2022](http://fc22.ifca.ai/index.html)
+
+May 29-30 | Trondheim, Norway
+
+[CBCrypto 2022: International Workshop on Code-Based Cryptography](https://www.cb-crypto.org/)
+
+May 30 - Jun 3 | Trondheim, Norway
+
+[Eurocrypt 2022](https://eurocrypt.iacr.org/2022/)
+
+Jun 13-17 | Šibenik, Croatia
+
+[Summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2022/)
+
+Aug 29-31 | Arrillaga Alumni Center, Stanford University
+
+[SBC'22: The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/)
 
 &nbsp;
 

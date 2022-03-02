@@ -19,6 +19,7 @@ industry topics.
 Thanks to contributors:
 [Dan Shields],
 [David],
+[John Adler],
 [oiclid],
 [Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
@@ -31,6 +32,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 [Dan Shields]: Https://github.com/NukeManDan
 [David]: https://github.com/djdo83
+[John Adler]: https://github.com/adlerjohn
 [oiclid]: https://github.com/oiclid
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer

@@ -51,10 +51,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
-Wormhole hack:
-- Offcial report: [Wormhole Incident Report — 02/02/22](https://wormholecrypto.medium.com/wormhole-incident-report-02-02-22-ad9b8f21eec6)
-- Rekt report: [WORMHOLE - REKT](https://rekt.news/wormhole-rekt/)
+- Wormhole hack:
+  - Offcial report: [Wormhole Incident Report — 02/02/22](https://wormholecrypto.medium.com/wormhole-incident-report-02-02-22-ad9b8f21eec6)
+  - Rekt report: [WORMHOLE - REKT](https://rekt.news/wormhole-rekt/)
 - [Decommissioning Wormhole V1](https://wormholecrypto.medium.com/decommissioning-wormhole-v1-da79e4bfff99)
+- [Arti 0.1.0 is released: Your somewhat-stable API is here!](https://blog.torproject.org/arti_010_released/)
 
 #### Blog Posts
 
@@ -136,6 +137,8 @@ Bold entries here are especially relevant to blockchain projects.
 [aleo-open_issues-3]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 [aleo-open_issues-4]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 
+- [Incentivized Testnet Retrospective](https://www.aleo.org/post/incentivized-testnet-retrospective)
+
 #### [Anoma](https://github.com/anoma)
 
 21 merged PRs ([1][anoma-merged-prs-1]), 
@@ -168,6 +171,8 @@ Bold entries here are especially relevant to blockchain projects.
 [comit-closed_issues-1]: https://github.com/comit-network/xmr-btc-swap/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-02-01..2022-02-28
 [comit-open_issues-1]: https://github.com/comit-network/xmr-btc-swap/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 
+- [XMR-BTC swaps: Maintainers Wanted](https://comit.network/blog/2022/02/07/xmr-btc-looking-for-maintainer)
+
 #### [Concordium](https://github.com/Concordium)
 
 12 merged PRs ([1][concordium-merged-prs-1], [2][concordium-merged-prs-2], [3][concordium-merged-prs-3], [4][concordium-merged-prs-4]), 
@@ -183,6 +188,8 @@ Bold entries here are especially relevant to blockchain projects.
 [concordium-open_issues-1]: https://github.com/Concordium/concordium-node/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 [concordium-open_issues-2]: https://github.com/Concordium/concordium-rust-smart-contracts/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 
+- [Concordium Transaction Fees 101](https://medium.com/concordium/concordium-transaction-fees-101-8a6d33dc590e)
+
 #### [Conflux](https://github.com/Conflux-Chain)
 
 27 merged PRs ([1][conflux-merged-prs-1]), 
@@ -192,6 +199,8 @@ Bold entries here are especially relevant to blockchain projects.
 [conflux-merged-prs-1]: https://github.com/Conflux-Chain/conflux-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-02-01..2022-02-28
 [conflux-closed_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-02-01..2022-02-28
 [conflux-open_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
+
+- [Our Long Awaited Hard Fork Hydra is Almost Here!](https://confluxnetwork.medium.com/conflux-hard-fork-hydra-is-almost-here-19dae229a690)
 
 #### [DarkFi](https://dark.fi)
 
@@ -222,6 +231,7 @@ Bold entries here are especially relevant to blockchain projects.
 [dfinity-open_issues-2]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 [dfinity-open_issues-3]: https://github.com/dfinity/quill/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 
+- [Bitcoin Smart Contracts Are Coming to Internet Computer DeFi Projects](https://medium.com/dfinity/bitcoin-smart-contracts-are-coming-to-internet-computer-defi-projects-dd6786078853)
 - [The Internet Computer’s Bitcoin Developer Preview Is Now Available](https://medium.com/dfinity/the-internet-computers-bitcoin-developer-preview-is-now-available-85ce1df6b17d)
 - [Bitcoin Integration Developer Preview](https://github.com/dfinity/bitcoin-developer-preview)
 
@@ -235,6 +245,8 @@ Bold entries here are especially relevant to blockchain projects.
 [elrond-merged-prs-2]: https://github.com/ElrondNetwork/elrond-wasm-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-02-01..2022-02-28
 [elrond-merged-prs-3]: https://github.com/ElrondNetwork/sc-dns-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-02-01..2022-02-28
 [elrond-open_issues-1]: https://github.com/ElrondNetwork/elrond-wasm-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
+
+- [Elrond DeFi 2.0: The Era Of Autonomous Banking, A 100-Trillion Dollar Opportunity](https://elrond.com/blog/elrond-defi-20-autonomous-banking-economic-growth/)
 
 #### [Findora](https://github.com/FindoraNetwork)
 
@@ -318,6 +330,8 @@ Bold entries here are especially relevant to blockchain projects.
 [holochain-merged-prs-2]: https://github.com/holochain/elemental-chat/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-02-01..2022-02-28
 [holochain-merged-prs-3]: https://github.com/holochain/holochain-wasmer/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-02-01..2022-02-28
 [holochain-closed_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-02-01..2022-02-28
+
+- [Big HDK Change](https://blog.holochain.org/big-hdk-change/)
 
 #### [IOTA](https://github.com/iotaledger)
 
@@ -406,6 +420,7 @@ Bold entries here are especially relevant to blockchain projects.
 [parity-open_issues-6]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 
 - Proposal: [Treasury for upstream](https://that.world/~wei/polkadot/council/upstream/)
+- [Substrate Builders Program Milestone Update: February 2022](https://www.parity.io/blog/substrate-builders-program-milestone-update-february-2022)
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
@@ -433,10 +448,6 @@ Bold entries here are especially relevant to blockchain projects.
 [rust_ethereum-merged-prs-1]: https://github.com/rust-ethereum/ethabi/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-02-01..2022-02-28
 [rust_ethereum-closed_issues-1]: https://github.com/rust-ethereum/ethabi/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-02-01..2022-02-28
 
-- PR: [feat: support 0x prefixed hex](https://github.com/rust-ethereum/ethabi/pull/261) by [@tarrencev](https://github.com/tarrencev)
-- PR: [Add parity-codec cargo feature.](https://github.com/rust-ethereum/ethabi/pull/260) by [@dandanlen](https://github.com/dandanlen)
-- PR: [Skip writing out of `function.constant` if `None`](https://github.com/rust-ethereum/ethabi/pull/259) by [@brockelmore](https://github.com/brockelmore)
-
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 6 merged PRs ([1][secret_network-merged-prs-1], [2][secret_network-merged-prs-2]), 
@@ -462,6 +473,7 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-02-01..2022-02-28
 
 - [Announcing Soteria Premium: Auto Auditor for Solana Smart Contracts](https://medium.com/coinmonks/announcing-soteria-premium-auto-auditor-for-solana-smart-contracts-866476b50ff2)
+- [Welcome to the Solana Riptide Hackathon](https://solana.com/news/solana-riptide-announcement)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 

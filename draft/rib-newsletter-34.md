@@ -1,7 +1,7 @@
 ---
-title: "RiB Newsletter #29 - _TODO_"
-description: "October 2021"
-date: 2021-11-03
+title: "RiB Newsletter #34 - _TODO_"
+description: "March 2022"
+date: 2022-04-06
 categories:
   - "newsletters"
 summary: "_TODO_"
@@ -10,7 +10,7 @@ summary: "_TODO_"
 Welcome to the #29 edition of Rust in Blockchain, the monthly
 newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
-[Previous: #28](/newsletters/rib-newsletter-28/).
+[Previous: #33](/newsletters/rib-newsletter-33/).
 
 &nbsp;
 
@@ -68,7 +68,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 &nbsp;
 
-## Most Active in October
+## Most Active in March
 
 &nbsp;
 

@@ -1,10 +1,11 @@
 ---
-title: "RiB Newsletter #33 - _TODO_"
+title: "RiB Newsletter #33"
 description: "February 2022"
 date: 2022-03-02
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #33 edition of Rust in Blockchain.
+This month we spotlight `teleport-transactions`, an implementation in Rust of CoinSwap."
 ---
 
 Welcome to the #33 edition of Rust in Blockchain, the monthly

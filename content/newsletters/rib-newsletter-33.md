@@ -47,7 +47,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [teleport-transactions](https://github.com/bitcoin-teleport/teleport-transactions/).
 
-This is an implementation in Rust of [CoinSwap], a long-discussed, but never implemented, technique
+This is an implementation in Rust of [CoinSwap], a long-discussed, but never implemented technique
 for improving the privacy and fungibility of Bitcoin. It involves an interactive agreement between
 two parties, performed over Tor, that results in exchanging ownership of two different addresses.
 
@@ -61,7 +61,7 @@ two parties, performed over Tor, that results in exchanging ownership of two dif
 #### News
 
 - Wormhole hack:
-  - Offcial report: [Wormhole Incident Report — 02/02/22](https://wormholecrypto.medium.com/wormhole-incident-report-02-02-22-ad9b8f21eec6)
+  - Official report: [Wormhole Incident Report — 02/02/22](https://wormholecrypto.medium.com/wormhole-incident-report-02-02-22-ad9b8f21eec6)
   - Rekt report: [WORMHOLE - REKT](https://rekt.news/wormhole-rekt/)
 - [Decommissioning Wormhole V1](https://wormholecrypto.medium.com/decommissioning-wormhole-v1-da79e4bfff99)
 - [Arti 0.1.0 is released: Your somewhat-stable API is here!](https://blog.torproject.org/arti_010_released/)

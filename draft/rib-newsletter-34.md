@@ -7,7 +7,7 @@ categories:
 summary: "_TODO_"
 ---
 
-Welcome to the #29 edition of Rust in Blockchain, the monthly
+Welcome to the #34 edition of Rust in Blockchain, the monthly
 newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #33](/newsletters/rib-newsletter-33/).

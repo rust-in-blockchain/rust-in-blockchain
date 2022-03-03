@@ -65,6 +65,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [Round-Optimal Byzantine Agreement](https://eprint.iacr.org/2022/255)
+- [Gradecast in Synchrony and Reliable Broadcast in Asynchrony with Optimal Resilience, Efficiency, and Unconditional Security](https://eprint.iacr.org/2022/264)
+- [Efficient NIZKs and Signatures from Commit-and-Open Protocols in the QROM](https://eprint.iacr.org/2022/270)
 - [The Power of the Differentially Oblivious Shuffle in Distributed Privacy Mechanisms](https://eprint.iacr.org/2022/177)
 - [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://eprint.iacr.org/2022/123)
 - [Azeroth: Auditable Zero-knowledge Transactions in Smart Contracts](https://eprint.iacr.org/2022/211)

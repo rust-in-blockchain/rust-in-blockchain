@@ -143,8 +143,6 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [LDK](https://github.com/lightningdevkit/rust-lightning)
 
-#### [Miniscript](https://github.com/rust-bitcoin/rust-miniscript)
-
 #### [Sapio](https://github.com/sapio-lang/sapio)
 
 #### [LNP/BP](https://github.com/LNP-BP)

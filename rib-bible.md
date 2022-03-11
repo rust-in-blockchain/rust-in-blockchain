@@ -201,7 +201,7 @@ Media:
 
 GitHub:
 
-- https://github.com/diem 
+- https://github.com/diem
 
 ``` toml
 repos = [
@@ -216,11 +216,11 @@ repos = [
 Media:
 
 - https://elrond.com/
-- https://elrond.com/blog/ 
+- https://elrond.com/blog/
 
 GitHub:
 
-- https://github.com/ElrondNetwork 
+- https://github.com/ElrondNetwork
 
 ```toml
 repos = [
@@ -525,11 +525,182 @@ GitHub:
 ```toml
 repos = [
 "rust-bitcoin/rust-bitcoin",
+"rust-bitcoin/rust-secp256k1",
 "rust-bitcoin/rust-miniscript",
+"rust-bitcoin/rust-wallet",
 "rust-bitcoin/rust-bitcoincore-rpc",
+"rust-bitcoin/rust-bech32-bitcoin",
+"rust-bitcoin/murmel",
+"rust-bitcoin/rust-bip39",
+"rust-bitcoin/bitcoin_hashes",
+"jean-airoldie/zeromq-src-rs",
+]
+```
+
+## BDK
+
+Media:
+
+- https://bitcoindevkit.org
+
+GitHub:
+
+- https://github.com/bitcoindevkit
+
+```toml
+repos = [
+"bitcoindevkit/bdk",
+"bitcoindevkit/bdk-cli",
+"bitcoindevkit/bdk-ffi",
+"bitcoindevkit/bdk-hwi",
+"rust-electrum-client",
+]
+```
+
+## LDK
+
+Media:
+
+- https://lightningdevkit.org
+
+GitHub:
+
+- https://github.com/lightningdevkit
+
+```toml
+repos = [
 "lightningdevkit/rust-lightning",
 "lightningdevkit/ldk-sample",
 "lightningdevkit/ldk-c-bindings",
+]
+```
+
+## Sapio
+
+Media:
+
+- https://learn.sapio-lang.org/
+
+GitHub:
+
+- https://github.com/sapio-lang
+
+```toml
+repos = [
+"sapio-lang/sapio",
+]
+```
+
+## LNP
+
+Media:
+
+- https://www.lnp-bp.org
+
+GitHub:
+
+- https://github.com/LNP-BP
+
+```toml
+repos = [
+"LNP-BP/lnp-core",
+"LNP-BP/lnp-node",
+"LNP-BP/bp-node",
+"LNP-BP/bp-core",
+"LNP-BP/client_side_validation",
+"LNP-BP/descriptor-wallet",
+"LNP-BP/rust-amplify",
+"LNP-BP/ln-types",
+"LNP-BP/invoices",
+"LNP-BP/rust-psbt",
+"LNP-BP/lnp-sdk",
+"LNP-BP/lbx",
+]
+```
+
+## RGB
+
+Media:
+
+- https://www.rgbfaq.com
+- https://rgbex.io
+
+GitHub:
+
+- https://github.com/rgb-org
+
+```toml
+repos = [
+"rgb-org/rgb-core",
+"rgb-org/rgb-node",
+"rgb-org/rust-rgb20",
+]
+```
+
+## Internet2
+
+GitHub:
+
+- https://github.com/internet2-org/
+
+```toml
+repos = [
+"internet2-org/rust-aluvm",
+"internet2-org/rust-internet2",
+"internet2-org/rust-microservices",
+"internet2-org/stenc",
+]
+```
+
+## Electrs
+
+GitHub:
+
+- https://github.com/romanz/electrs
+
+```toml
+repos = [
+"https://github.com/romanz/electrs",
+]
+```
+
+## Simplicity
+
+GitHub:
+
+- https://github.com/ElementsProject/rust-simplicity
+
+```toml
+repos = [
+"ElementsProject/rust-simplicity",
+]
+```
+
+## Nakamoto
+
+GitHub:
+
+- https://github.com/cloudhead/nakamoto
+
+```toml
+repos = [
+"https://github.com/cloudhead/nakamoto",
+]
+```
+
+## Bitmask
+
+Media:
+
+- https://bitmask.app
+
+GitHub:
+
+- https://github.com/diba-io/bitmask-core
+
+```toml
+repos = [
+"https://github.com/diba-io/bitmask-core"
 ]
 ```
 

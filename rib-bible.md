@@ -684,7 +684,7 @@ GitHub:
 
 ```toml
 repos = [
-"https://github.com/cloudhead/nakamoto",
+"cloudhead/nakamoto",
 ]
 ```
 
@@ -700,7 +700,23 @@ GitHub:
 
 ```toml
 repos = [
-"https://github.com/diba-io/bitmask-core"
+"diba-io/bitmask-core",
+]
+```
+
+## Nomic
+
+GitHub:
+
+- https://github.com/diba-io/bitmask-core
+
+```toml
+repos = [
+"https://github.com/nomic-io/nomic",
+"https://github.com/nomic-io/merk",
+"https://github.com/nomic-io/orga",
+"https://github.com/nomic-io/abci2",
+"https://github.com/nomic-io/ed",
 ]
 ```
 

@@ -159,12 +159,18 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Bitmask](https://github.com/diba-io/bitmask-core)
 
+#### [Nomic](https://github.com/nomic-io)
+
+If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free to contribute!
+
 
 &nbsp;
 
 ### Rust in Ethereum
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
+
+If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
 
 &nbsp;

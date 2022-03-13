@@ -660,7 +660,7 @@ GitHub:
 
 ```toml
 repos = [
-"https://github.com/romanz/electrs",
+"romanz/electrs",
 ]
 ```
 

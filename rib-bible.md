@@ -712,11 +712,27 @@ GitHub:
 
 ```toml
 repos = [
-"https://github.com/nomic-io/nomic",
-"https://github.com/nomic-io/merk",
-"https://github.com/nomic-io/orga",
-"https://github.com/nomic-io/abci2",
-"https://github.com/nomic-io/ed",
+"nomic-io/nomic",
+"nomic-io/merk",
+"nomic-io/orga",
+"nomic-io/abci2",
+"nomic-io/ed",
+]
+```
+
+## Talaia
+
+Media:
+
+- https://talaia.watch
+
+GitHub:
+
+- https://github.com/talaia-labs
+
+```toml
+repos = [
+"talaia-labs/rust-teos",
 ]
 ```
 

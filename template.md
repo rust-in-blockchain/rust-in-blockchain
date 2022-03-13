@@ -161,6 +161,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Nomic](https://github.com/nomic-io)
 
+#### [Talaia](https://github.com/talaia-labs/rust-teos)
+
 If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free to contribute!
 
 

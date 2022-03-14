@@ -751,6 +751,30 @@ repos = [
 ]
 ```
 
+## Ethers-rs
+
+GitHub:
+
+- https://github.com/gakonst/ethers-rs
+
+```toml
+repos = [
+"gakonst/ethers-rs",
+]
+```
+
+## Rust Web3
+
+GitHub:
+
+- https://github.com/tomusdrw/rust-web3
+
+```toml
+repos = [
+"tomusdrw/rust-web3",
+]
+```
+
 ## Secret Network
 
 Media:

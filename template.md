@@ -172,6 +172,10 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
+#### [Ethers-rs](https://github.com/gakonst/ethers-rs)
+
+#### [Rust Web3](https://github.com/tomusdrw/rust-web3)
+
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
 

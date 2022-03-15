@@ -591,11 +591,12 @@ repos = [
 ]
 ```
 
-## LNP
+## LNP/BP
 
 Media:
 
 - https://www.lnp-bp.org
+- https://twitter.com/lnp_bp
 
 GitHub:
 
@@ -603,18 +604,31 @@ GitHub:
 
 ```toml
 repos = [
-"LNP-BP/lnp-core",
-"LNP-BP/lnp-node",
 "LNP-BP/bp-node",
 "LNP-BP/bp-core",
 "LNP-BP/client_side_validation",
 "LNP-BP/descriptor-wallet",
 "LNP-BP/rust-amplify",
+"LNP-BP/rust-lnpbp",
 "LNP-BP/ln-types",
 "LNP-BP/invoices",
 "LNP-BP/rust-psbt",
 "LNP-BP/lnp-sdk",
-"LNP-BP/lbx",
+]
+```
+
+## LNP WG
+
+GitHub:
+
+- https://github.com/LNP-WG
+
+
+```toml
+repos = [
+"LNP-WG/lnp-core",
+"LNP-WG/lnp-node",
+"LNP-WG/lightning_encoding",
 ]
 ```
 
@@ -627,13 +641,13 @@ Media:
 
 GitHub:
 
-- https://github.com/rgb-org
+- https://github.com/rgb-wg
 
 ```toml
 repos = [
-"rgb-org/rgb-core",
-"rgb-org/rgb-node",
-"rgb-org/rust-rgb20",
+"rgb-wg/rgb-core",
+"rgb-wg/rgb-node",
+"rgb-wg/rust-rgb20",
 ]
 ```
 
@@ -641,14 +655,14 @@ repos = [
 
 GitHub:
 
-- https://github.com/internet2-org/
+- https://github.com/internet2-wg/
 
 ```toml
 repos = [
-"internet2-org/rust-aluvm",
-"internet2-org/rust-internet2",
-"internet2-org/rust-microservices",
-"internet2-org/stenc",
+"internet2-wg/rust-aluvm",
+"internet2-wg/rust-internet2",
+"internet2-wg/rust-microservices",
+"internet2-wg/stenc",
 ]
 ```
 

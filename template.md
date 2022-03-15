@@ -147,9 +147,11 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [LNP/BP](https://github.com/LNP-BP)
 
-#### [RGB](https://github.com/rgb-org)
+#### [LNP WG](https://github.com/LNP-WG)
 
-#### [Internet2](https://github.com/internet2-org/)
+#### [RGB](https://github.com/rgb-wg)
+
+#### [Internet2](https://github.com/internet2-wg/)
 
 #### [Electrs](https://github.com/romanz/electrs)
 

@@ -37,11 +37,10 @@ Blockstream | Remote
 - [Software Library Engineer (Rust)](https://grnh.se/fc3876861us)
 - [Software Library Engineer (C++)](https://grnh.se/69d260dc1us)
 - [Full-Stack Software Engineer](https://grnh.se/aed921721us)
-- [Cryptographic Engineer](https://grnh.se/3b9acf401us)
 - [QA Engineer](https://grnh.se/ce2891871us)
-- [Product Management Director, Liquid](https://grnh.se/aca150011us)
 - [Sr. Product Manager](https://grnh.se/11354dd01us)
 - [Product Manager](https://grnh.se/1bdd2ced1us)
+- [Technical Project Manager](https://grnh.se/ca7b51b81us)
 
 Bolt Labs | US, Remote
 - [Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1pPcX7Pt)

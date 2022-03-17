@@ -22,9 +22,9 @@ _TODO_
 
 Thank you for your help!
 
-RiB needs help to keep up with Rust blockchain projects. 
-If you follow a particular project, or otherwise find information 
-that is beneficial to the Rust & blockchain community, 
+RiB needs help to keep up with Rust blockchain projects.
+If you follow a particular project, or otherwise find information
+that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
@@ -117,10 +117,6 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Nervos](https://github.com/nervosnetwork)
 
 #### [Parity](https://github.com/paritytech)
-  
-#### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-
-#### [Rust Ethereum](https://github.com/rust-ethereum)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
@@ -135,6 +131,54 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Zcash](https://github.com/zcash)
 
 #### [zkSync](https://github.com/matter-labs/zksync)
+
+
+&nbsp;
+
+### Rust in Bitcoin
+
+#### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
+#### [BDK](https://github.com/bitcoindevkit/bdk)
+
+#### [LDK](https://github.com/lightningdevkit/rust-lightning)
+
+#### [Sapio](https://github.com/sapio-lang/sapio)
+
+#### [LNP/BP](https://github.com/LNP-BP)
+
+#### [LNP WG](https://github.com/LNP-WG)
+
+#### [RGB](https://github.com/rgb-wg)
+
+#### [Internet2](https://github.com/internet2-wg/)
+
+#### [Electrs](https://github.com/romanz/electrs)
+
+#### [Rust Simplicity](https://github.com/ElementsProject/rust-simplicity)
+
+#### [Nakamoto](https://github.com/cloudhead/nakamoto)
+
+#### [Bitmask](https://github.com/diba-io/bitmask-core)
+
+#### [Nomic](https://github.com/nomic-io)
+
+#### [Talaia](https://github.com/talaia-labs/rust-teos)
+
+If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free to contribute!
+
+
+&nbsp;
+
+### Rust in Ethereum
+
+#### [Rust Ethereum](https://github.com/rust-ethereum)
+
+#### [Ethers-rs](https://github.com/gakonst/ethers-rs)
+
+#### [Rust Web3](https://github.com/tomusdrw/rust-web3)
+
+If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
 
 &nbsp;

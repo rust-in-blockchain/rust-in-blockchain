@@ -167,7 +167,10 @@ Company name | Location A, B, Remote
 
 -->
 
-
+Parity Technologies
+- [Parachains Engineer - Common Good](https://boards.greenhouse.io/parity/jobs/4794657003)
+- [Core Runtime Engineer - Substrate](https://grnh.se/dddd76283us)
+- [Rust / Core Engineer - General Posting](https://grnh.se/1cf2de503us) - engineers new to/learning Rust are very welcomed!
 
 More jobs can be found at [Job Board][page-jobboard].
 

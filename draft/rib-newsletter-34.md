@@ -98,6 +98,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Elrond](https://github.com/ElrondNetwork)
 
+#### [Espresso Systems](https://github.com/EspressoSystems)
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 #### [Fluence](https://github.com/fluencelabs)

@@ -286,7 +286,9 @@ GitHub
 ```toml
 repos = [
 "FuelLabs/fuel-asm",
+"FuelLabs/fuel-bft",
 "FuelLabs/fuel-core",
+"FuelLabs/fuel-crypto",
 "FuelLabs/fuel-merkle",
 "FuelLabs/fuel-storage",
 "FuelLabs/fuel-tx",

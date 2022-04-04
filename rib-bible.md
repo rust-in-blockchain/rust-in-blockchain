@@ -232,6 +232,29 @@ repos = [
 ]
 
 ```
+
+## Espresso
+
+Media:
+- https://www.espressosys.com/
+- https://www.espressosys.com/blog
+- https://twitter.com/EspressoSys
+
+github:
+
+- https://github.com/EspressoSystems/
+
+```toml
+repos = [
+"EspressoSystems/jellyfish",
+"EspressoSystems/cape",
+"EspressoSystems/reef",
+"EspressoSystems/seahorse",
+"EspressoSystems/cap",
+]
+
+```
+
 ## Findora
 
 Media:

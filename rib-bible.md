@@ -703,14 +703,14 @@ repos = [
 
 GitHub:
 
-- https://github.com/internet2-wg
+- https://github.com/Internet2-WG
 
 ```toml
 repos = [
-"internet2-wg/rust-aluvm",
-"internet2-wg/rust-internet2",
-"internet2-wg/rust-microservices",
-"internet2-wg/stenc",
+"Internet2-WG/rust-aluvm",
+"Internet2-WG/rust-internet2",
+"Internet2-WG/rust-microservices",
+"Internet2-WG/stenc",
 ]
 ```
 

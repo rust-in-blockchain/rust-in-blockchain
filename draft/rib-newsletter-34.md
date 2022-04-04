@@ -21,9 +21,8 @@ Thanks to contributors:
 [Hunter Trujillo],
 [John Adler],
 [Max Wegman],
-
-_TODO_
-
+[veilgets],
+[Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects. 
@@ -36,6 +35,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [Hunter Trujillo]: https://github.com/cryptoquick
 [John Adler]: https://github.com/adlerjohn
 [Max Wegman]: https://github.com/mastermaxy
+[veilgets]: https://github.com/veilgets
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -101,6 +101,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Dfinity](https://github.com/dfinity)
 
 #### [Elrond](https://github.com/ElrondNetwork)
+
+#### [Espresso Systems](https://github.com/EspressoSystems)
 
 #### [Findora](https://github.com/FindoraNetwork)
 

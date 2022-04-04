@@ -143,8 +143,6 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Zcash](https://github.com/zcash)
 
-#### [zkSync](https://github.com/matter-labs/zksync)
-
 
 &nbsp;
 
@@ -178,6 +176,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Talaia](https://github.com/talaia-labs/rust-teos)
 
+
 &nbsp;
 
 ### Rust in Ethereum
@@ -189,6 +188,9 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
 #### [Rust Web3](https://github.com/tomusdrw/rust-web3)
+
+#### [zkSync](https://github.com/matter-labs/zksync)
+
 
 &nbsp;
 

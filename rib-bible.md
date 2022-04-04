@@ -74,7 +74,6 @@ repos = [
 ]
 ```
 
-
 ## COMIT
 
 Media:
@@ -88,10 +87,11 @@ GitHub:
 
 ``` toml
 repos = [
-"comit-network/comit-rs",
+"comit-network/maia",
+"comit-network/rendezvous-server",
 "comit-network/xmr-btc-swap",
-"comit-network/create-comit-app",
-"comit-network/blockchain-contracts",
+"comit-network/xtra-productivity",
+"comit-network/waves",
 ]
 
 ```
@@ -110,10 +110,15 @@ GitHub:
 
 ``` toml
 repos = [
-"Concordium/concordium-node",
-"Concordium/concordium-base",
-"Concordium/concordium-contracts-common",
 "Concordium/concordium-rust-smart-contracts",
+"Concordium/concordium-wasm-smart-contracts",
+"Concordium/concordium-contracts-common",
+"Concordium/concordium-rust-sdk",
+"Concordium/concordium-base",
+"Concordium/concordium-transaction-logger",
+"Concordium/concordium-euro2ccd-service",
+"Concordium/concordium-use-case-examples",
+"Concordium/concordium-node",
 ]
 ```
 
@@ -131,26 +136,6 @@ GitHub:
 ``` toml
 repos = [
 "Conflux-Chain/conflux-rust",
-]
-```
-
-## Crypto.com Chain
-
-Media:
-
-- https://blog.crypto.com
-
-GitHub:
-
-- https://github.com/crypto-com
-
-``` toml
-repos = [
-"crypto-com/thaler",
-"crypto-com/chain-nodelib",
-"crypto-com/thaler-sample-wallet",
-"crypto-com/sample-thaler-java-example",
-"crypto-com/sample-thaler-ios-example",
 ]
 ```
 
@@ -183,31 +168,17 @@ GitHub:
 
 ```toml
 repos = [
-"dfinity/agent-rs",
-"dfinity/candid",
-"dfinity/cdk-rs",
 "dfinity/ic",
-"dfinity/ic-types",
+"dfinity/sdk",
+"dfinity/agent-rs",
+"dfinity/icx-proxy",
+"dfinity/cdk-rs",
+"dfinity/candid",
 "dfinity/quill",
+"dfinity/experimental-minting-tool",
 "dfinity/vessel",
-]
-```
-
-## Diem
-
-Media:
-
-- https://www.diem.com/
-
-GitHub:
-
-- https://github.com/diem
-
-``` toml
-repos = [
-"diem/diem",
-"diem/rosetta-proxy",
-"diem/bcs",
+"dfinity/bitcoin-developer-preview",
+"dfinity/ic-types",
 ]
 ```
 
@@ -224,11 +195,14 @@ GitHub:
 
 ```toml
 repos = [
-"ElrondNetwork/sc-delegation-rs",
-"ElrondNetwork/sc-band-bridge-rs",
-"ElrondNetwork/mandos-rs",
 "ElrondNetwork/elrond-wasm-rs",
-"ElrondNetwork/sc-dns-rs",
+"ElrondNetwork/sc-dex-rs",
+"ElrondNetwork/sc-nft-marketplace",
+"ElrondNetwork/sc-metabonding-rs",
+"ElrondNetwork/sc-bridge-elrond",
+"ElrondNetwork/sc-chainlink-rs",
+"ElrondNetwork/sc-delegation-rs",
+"ElrondNetwork/sc-savings-account-rs",
 ]
 
 ```
@@ -242,7 +216,7 @@ Media:
 
 github:
 
-- https://github.com/EspressoSystems/
+- https://github.com/EspressoSystems
 
 ```toml
 repos = [
@@ -268,9 +242,14 @@ GitHub:
 
 ```toml
 repos = [
-"FindoraNetwork/platform",
 "FindoraNetwork/zei",
-"FindoraNetwork/merk",
+"FindoraNetwork/platform",
+"FindoraNetwork/findora-scanner",
+"FindoraNetwork/bp",
+"FindoraNetwork/findora-exporter",
+"FindoraNetwork/findorad",
+"FindoraNetwork/abcf",
+"FindoraNetwork/bs3",
 "FindoraNetwork/storage",
 ]
 ```
@@ -288,10 +267,13 @@ GitHub:
 
 ```toml
 repos = [
-"fluencelabs/fluence",
 "fluencelabs/marine",
 "fluencelabs/aquavm",
-"fluencelabs/marine-rs-sdk",
+"fluencelabs/fluence",
+"fluencelabs/examples",
+"fluencelabs/registry",
+"fluencelabs/trust-graph",
+"fluencelabs/aqua-ipfs",
 ]
 ```
 
@@ -337,8 +319,14 @@ GitHub:
 
 ``` toml
 repos = [
+"golemfactory/ya-runtime-http-auth",
 "golemfactory/yagna",
+"golemfactory/ya-service-bus",
 "golemfactory/ya-client",
+"golemfactory/ya-relay",
+"golemfactory/ya-runtime-sdk",
+"golemfactory/ya-runtime-vm",
+"golemfactory/ya-vm-file-server",
 ]
 ```
 
@@ -355,6 +343,7 @@ GitHub:
 ``` toml
 repos = [
 "mimblewimble/grin",
+"mimblewimble/grin-wallet",
 ]
 ```
 
@@ -375,28 +364,12 @@ GitHub:
 
 ``` toml
 repos = [
-"holochain/holochain-rust",
 "holochain/holochain",
-"holochain/elemental-chat",
+"holochain/absquic",
+"holochain/launcher",
+"holochain/holochain-client-rust",
 "holochain/holochain-wasmer",
-"holochain/lair",
-]
-```
-
-## Interledger
-
-Media:
-
-- https://twitter.com/interledger
-- https://lists.w3.org/Archives/Public/public-interledger/
-
-GitHub:
-
-- https://github.com/interledger-rs
-
-``` toml
-repos = [
-"interledger-rs/interledger-rs",
+"holochain/hc-utils",
 ]
 ```
 
@@ -408,25 +381,14 @@ GitHub:
 
 ``` toml
 repos = [
+"iotaledger/bee",
+"iotaledger/wallet.rs",
 "iotaledger/iota.rs",
-]
-```
-
-## Lighthouse
-
-Media:
-
-- https://lighthouse.sigmaprime.io/
-
-GitHub:
-
-- https://github.com/sigp/lighthouse
-
-``` toml
-repos = [
-"sigp/lighthouse",
-"sigp/beacon-fuzz",
-"sigp/discv5",
+"iotaledger/identity.rs",
+"iotaledger/cli-wallet",
+"iotaledger/streams",
+"iotaledger/stronghold.rs",
+"iotaledger/chronicle.rs",
 ]
 ```
 
@@ -442,8 +404,9 @@ GitHub:
 
 ``` toml
 repos	= [
-"mobilecoinfoundation/fog",
 "mobilecoinfoundation/mobilecoin",
+"mobilecoinfoundation/mc-oblivious",
+"mobilecoinfoundation/fog",
 ]
 
 ```
@@ -458,14 +421,22 @@ Media:
 
 GitHub:
 
-- https://github.com/nearprotocol
+- https://github.com/near
 
 ``` toml
 repos = [
+"near/workspaces-rs",
 "near/nearcore",
-"near/borsh",
+"near/near-cli-rs",
+"near/near-sdk-rs",
+"near/near-jsonrpc-client-rs",
+"near/near-lake",
+"near/near-blake2",
 "near/core-contracts",
-"near/near-evm",
+"near/near-lake-framework",
+"near/borsh-rs",
+"near/near-indexer-for-explorer",
+"near/wasmer",
 ]
 ```
 
@@ -485,12 +456,18 @@ GitHub:
 
 ``` toml
 repos = [
+"nervosnetwork/axon",
+"nervosnetwork/godwoken",
 "nervosnetwork/ckb",
+"nervosnetwork/godwoken-scripts",
+"nervosnetwork/mercury",
 "nervosnetwork/ckb-vm",
+"nervosnetwork/godwoken-tests",
 "nervosnetwork/ckb-cli",
+"nervosnetwork/molecule",
 "nervosnetwork/capsule",
-"nervosnetwork/ckb-std",
-"nervosnetwork/force-bridge-eth",
+"nervosnetwork/ckb-indexer",
+"nervosnetwork/overlord",
 ]
 ```
 ## Oasis
@@ -509,11 +486,9 @@ GitHub:
 
 ``` toml
 repos = [
-"oasislabs/oasis-ethwasi-runtime",
-"oasislabs/oasis-rs",
-"oasislabs/oasis-cli",
-"oasislabs/oasis-chain",
-"oasisprotocol/deoxysii-rust",
+"oasisprotocol/oasis-sdk",
+"oasisprotocol/cipher-paratime",
+"oasisprotocol/emerald-paratime",
 ]
 ```
 
@@ -533,11 +508,19 @@ GitHub:
 repos = [
 "paritytech/substrate",
 "paritytech/polkadot",
-"paritytech/cargo-contract",
-"paritytech/wasmi",
-"paritytech/parity-bitcoin",
 "paritytech/cumulus",
+"paritytech/parity-signer",
+"paritytech/smoldot",
 "paritytech/ink",
+"paritytech/parity-common",
+"paritytech/subxt",
+"paritytech/jsonrpsee",
+"paritytech/frontier",
+"paritytech/cargo-contract",
+"paritytech/substrate-contracts-node",
+"paritytech/ink-playground",
+"paritytech/metadata-portal",
+"paritytech/parity-bridges-common",
 ]
 ```
 
@@ -802,6 +785,23 @@ repos = [
 ]
 ```
 
+## Lighthouse
+
+Media:
+
+- https://lighthouse.sigmaprime.io/
+
+GitHub:
+
+- https://github.com/sigp/lighthouse
+
+``` toml
+repos = [
+"sigp/lighthouse",
+"sigp/discv5",
+]
+```
+
 ## Rust Web3
 
 GitHub:
@@ -830,7 +830,7 @@ GitHub:
 repos = [
 "scrtlabs/SecretNetwork",
 "scrtlabs/secret-toolkit",
-"scrtlabs/SafeTrace",
+"scrtlabs/snip20-reference-impl",
 ]
 ```
 
@@ -849,8 +849,8 @@ GitHub:
 ``` toml
 repos = [
 "solana-labs/solana",
-"solana-labs/rbpf",
-"solana-labs/solana-program-library"
+"solana-labs/solana-program-library",
+"solana-labs/solana-accountsdb-plugin-postgres",
 ]
 ```
 
@@ -862,7 +862,6 @@ GitHub:
 
 ``` toml
 repos = [
-"spacemeshos/go-spacemesh",
 "spacemeshos/svm",
 ]
 ```
@@ -886,8 +885,6 @@ GitHub:
 ``` toml
 repos = [
 "subspace/subspace",
-"subspace/subspace-desktop",
-"subspace/sloth256-189",
 ]
 ```
 
@@ -900,6 +897,8 @@ GitHub:
 ``` toml
 repos = [
 "tezedge/tezedge",
+"tezedge/tezedge-snapshots",
+"tezedge/tezedge-tui",
 ]
 ```
 
@@ -924,7 +923,11 @@ GitHub:
 repos = [
 "ZcashFoundation/zebra",
 "zcash/halo2",
+"zcash/incrementalmerkletree",
 "zcash/librustzcash",
+"zcash/orchard",
+"zcash/pasta_curves",
+"zcash/halo2_gadgets",
 ]
 ```
 
@@ -942,5 +945,6 @@ GitHub:
 ``` toml
 repos = [
 "matter-labs/zksync",
+"matter-labs/compiler-solidity",
 ]
 ```

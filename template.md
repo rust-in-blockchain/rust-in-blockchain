@@ -110,8 +110,6 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [IOTA](https://github.com/iotaledger)
 
-#### [Lighthouse](https://github.com/sigp/lighthouse)
-
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
@@ -174,9 +172,11 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 ### Rust in Ethereum
 
-#### [Rust Ethereum](https://github.com/rust-ethereum)
-
 #### [Ethers-rs](https://github.com/gakonst/ethers-rs)
+
+#### [Lighthouse](https://github.com/sigp/lighthouse)
+
+#### [Rust Ethereum](https://github.com/rust-ethereum)
 
 #### [Rust Web3](https://github.com/tomusdrw/rust-web3)
 

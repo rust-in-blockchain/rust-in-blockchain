@@ -146,6 +146,46 @@ Bold entries here are especially relevant to blockchain projects.
 
 
 &nbsp;
+### Rust in Bitcoin
+
+#### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
+#### [BDK](https://github.com/bitcoindevkit/bdk)
+
+#### [LDK](https://github.com/lightningdevkit/rust-lightning)
+
+#### [Sapio](https://github.com/sapio-lang/sapio)
+
+#### [LNP/BP](https://github.com/LNP-BP)
+
+#### [LNP WG](https://github.com/LNP-WG)
+
+#### [RGB](https://github.com/rgb-wg)
+
+#### [Internet2](https://github.com/internet2-wg/)
+
+#### [Electrs](https://github.com/romanz/electrs)
+
+#### [Rust Simplicity](https://github.com/ElementsProject/rust-simplicity)
+
+#### [Nakamoto](https://github.com/cloudhead/nakamoto)
+
+#### [Bitmask](https://github.com/diba-io/bitmask-core)
+
+#### [Nomic](https://github.com/nomic-io)
+
+#### [Talaia](https://github.com/talaia-labs/rust-teos)
+
+&nbsp;
+
+### Rust in Ethereum
+
+#### [Rust Ethereum](https://github.com/rust-ethereum)
+
+#### [Ethers-rs](https://github.com/gakonst/ethers-rs)
+
+#### [Rust Web3](https://github.com/tomusdrw/rust-web3)
+
 
 ## Events
 

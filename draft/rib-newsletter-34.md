@@ -127,10 +127,6 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Nervos](https://github.com/nervosnetwork)
 
 #### [Parity](https://github.com/paritytech)
-  
-#### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-
-#### [Rust Ethereum](https://github.com/rust-ethereum)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
@@ -148,6 +144,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 
 &nbsp;
+
 ### Rust in Bitcoin
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
@@ -188,6 +185,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Rust Web3](https://github.com/tomusdrw/rust-web3)
 
+&nbsp;
 
 ## Events
 

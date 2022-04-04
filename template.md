@@ -130,8 +130,6 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Zcash](https://github.com/zcash)
 
-#### [zkSync](https://github.com/matter-labs/zksync)
-
 
 &nbsp;
 
@@ -179,6 +177,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
 #### [Rust Web3](https://github.com/tomusdrw/rust-web3)
+
+#### [zkSync](https://github.com/matter-labs/zksync)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 

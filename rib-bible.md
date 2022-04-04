@@ -666,7 +666,7 @@ repos = [
 "bitcoindevkit/bdk",
 "bitcoindevkit/bdk-cli",
 "bitcoindevkit/bdk-ffi",
-"bitcoindevkit/bdk-hwi",
+"bitcoindevkit/rust-hwi",
 "bitcoindevkit/rust-electrum-client",
 ]
 ```

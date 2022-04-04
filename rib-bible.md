@@ -13,6 +13,8 @@ Note:
 for the purposes of generating GitHub metrics,
 repo information also must be duplicated
 in [ribbot/src/rib-config.toml][config].
+The structure here should also be reflected
+in [template.md].
 
 [config]: https://github.com/rust-in-blockchain/ribbot/blob/master/src/rib-config.toml
 
@@ -649,27 +651,6 @@ repos = [
 
 ## Rust in Bitcoin
 
-### Rust Bitcoin
-
-GitHub:
-
-- https://github.com/rust-bitcoin
-
-```toml
-repos = [
-"rust-bitcoin/rust-bitcoin",
-"rust-bitcoin/rust-secp256k1",
-"rust-bitcoin/rust-miniscript",
-"rust-bitcoin/rust-wallet",
-"rust-bitcoin/rust-bitcoincore-rpc",
-"rust-bitcoin/rust-bech32-bitcoin",
-"rust-bitcoin/murmel",
-"rust-bitcoin/rust-bip39",
-"rust-bitcoin/bitcoin_hashes",
-"jean-airoldie/zeromq-src-rs",
-]
-```
-
 ### BDK
 
 Media:
@@ -686,7 +667,50 @@ repos = [
 "bitcoindevkit/bdk-cli",
 "bitcoindevkit/bdk-ffi",
 "bitcoindevkit/bdk-hwi",
-"rust-electrum-client",
+"bitcoindevkit/rust-electrum-client",
+]
+```
+
+### Bitmask
+
+Media:
+
+- https://bitmask.app
+
+GitHub:
+
+- https://github.com/diba-io/bitmask-core
+
+```toml
+repos = [
+"diba-io/bitmask-core",
+]
+```
+
+### Electrs
+
+GitHub:
+
+- https://github.com/romanz/electrs
+
+```toml
+repos = [
+"romanz/electrs",
+]
+```
+
+### Internet2
+
+GitHub:
+
+- https://github.com/internet2-wg
+
+```toml
+repos = [
+"internet2-wg/rust-aluvm",
+"internet2-wg/rust-internet2",
+"internet2-wg/rust-microservices",
+"internet2-wg/stenc",
 ]
 ```
 
@@ -705,22 +729,6 @@ repos = [
 "lightningdevkit/rust-lightning",
 "lightningdevkit/ldk-sample",
 "lightningdevkit/ldk-c-bindings",
-]
-```
-
-### Sapio
-
-Media:
-
-- https://learn.sapio-lang.org/
-
-GitHub:
-
-- https://github.com/sapio-lang
-
-```toml
-repos = [
-"sapio-lang/sapio",
 ]
 ```
 
@@ -765,6 +773,34 @@ repos = [
 ]
 ```
 
+### Nakamoto
+
+GitHub:
+
+- https://github.com/cloudhead/nakamoto
+
+```toml
+repos = [
+"cloudhead/nakamoto",
+]
+```
+
+### Nomic
+
+GitHub:
+
+- https://github.com/nomic-io
+
+```toml
+repos = [
+"nomic-io/nomic",
+"nomic-io/merk",
+"nomic-io/orga",
+"nomic-io/abci2",
+"nomic-io/ed",
+]
+```
+
 ### RGB
 
 Media:
@@ -784,34 +820,28 @@ repos = [
 ]
 ```
 
-### Internet2
+### Rust Bitcoin
 
 GitHub:
 
-- https://github.com/internet2-wg/
+- https://github.com/rust-bitcoin
 
 ```toml
 repos = [
-"internet2-wg/rust-aluvm",
-"internet2-wg/rust-internet2",
-"internet2-wg/rust-microservices",
-"internet2-wg/stenc",
+"rust-bitcoin/rust-bitcoin",
+"rust-bitcoin/rust-secp256k1",
+"rust-bitcoin/rust-miniscript",
+"rust-bitcoin/rust-wallet",
+"rust-bitcoin/rust-bitcoincore-rpc",
+"rust-bitcoin/rust-bech32-bitcoin",
+"rust-bitcoin/murmel",
+"rust-bitcoin/rust-bip39",
+"rust-bitcoin/bitcoin_hashes",
+"jean-airoldie/zeromq-src-rs",
 ]
 ```
 
-### Electrs
-
-GitHub:
-
-- https://github.com/romanz/electrs
-
-```toml
-repos = [
-"romanz/electrs",
-]
-```
-
-### Simplicity
+### Rust Simplicity
 
 GitHub:
 
@@ -823,47 +853,19 @@ repos = [
 ]
 ```
 
-### Nakamoto
-
-GitHub:
-
-- https://github.com/cloudhead/nakamoto
-
-```toml
-repos = [
-"cloudhead/nakamoto",
-]
-```
-
-### Bitmask
+### Sapio
 
 Media:
 
-- https://bitmask.app
+- https://learn.sapio-lang.org/
 
 GitHub:
 
-- https://github.com/diba-io/bitmask-core
+- https://github.com/sapio-lang
 
 ```toml
 repos = [
-"diba-io/bitmask-core",
-]
-```
-
-### Nomic
-
-GitHub:
-
-- https://github.com/diba-io/bitmask-core
-
-```toml
-repos = [
-"nomic-io/nomic",
-"nomic-io/merk",
-"nomic-io/orga",
-"nomic-io/abci2",
-"nomic-io/ed",
+"sapio-lang/sapio",
 ]
 ```
 
@@ -887,21 +889,6 @@ repos = [
 ---
 
 ## Rust in Ethereum
-
-### Rust Ethereum
-
-GitHub:
-
-- https://github.com/rust-ethereum
-
-```toml
-repos = [
-"rust-ethereum/ethabi",
-"rust-ethereum/enr",
-"rust-ethereum/devp2p",
-"rust-ethereum/dnsdisc",
-]
-```
 
 ### Ethers-rs
 
@@ -929,6 +916,21 @@ GitHub:
 repos = [
 "sigp/lighthouse",
 "sigp/discv5",
+]
+```
+
+### Rust Ethereum
+
+GitHub:
+
+- https://github.com/rust-ethereum
+
+```toml
+repos = [
+"rust-ethereum/ethabi",
+"rust-ethereum/enr",
+"rust-ethereum/devp2p",
+"rust-ethereum/dnsdisc",
 ]
 ```
 

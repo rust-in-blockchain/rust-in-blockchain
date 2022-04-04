@@ -135,31 +135,31 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
-#### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-
 #### [BDK](https://github.com/bitcoindevkit/bdk)
 
-#### [LDK](https://github.com/lightningdevkit/rust-lightning)
+#### [Bitmask](https://github.com/diba-io/bitmask-core)
 
-#### [Sapio](https://github.com/sapio-lang/sapio)
+#### [Electrs](https://github.com/romanz/electrs)
+
+#### [Internet2](https://github.com/internet2-wg/)
+
+#### [LDK](https://github.com/lightningdevkit/rust-lightning)
 
 #### [LNP/BP](https://github.com/LNP-BP)
 
 #### [LNP WG](https://github.com/LNP-WG)
 
+#### [Nakamoto](https://github.com/cloudhead/nakamoto)
+
+#### [Nomic](https://github.com/nomic-io)
+
 #### [RGB](https://github.com/rgb-wg)
 
-#### [Internet2](https://github.com/internet2-wg/)
-
-#### [Electrs](https://github.com/romanz/electrs)
+#### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 #### [Rust Simplicity](https://github.com/ElementsProject/rust-simplicity)
 
-#### [Nakamoto](https://github.com/cloudhead/nakamoto)
-
-#### [Bitmask](https://github.com/diba-io/bitmask-core)
-
-#### [Nomic](https://github.com/nomic-io)
+#### [Sapio](https://github.com/sapio-lang/sapio)
 
 #### [Talaia](https://github.com/talaia-labs/rust-teos)
 

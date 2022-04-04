@@ -73,6 +73,11 @@ Bold entries here are especially relevant to blockchain projects.
 [RustSec]: https://rustsec.org/advisories/
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
 
+- [RUSTSEC-2022-0013: Vulnerability in regex](https://rustsec.org/advisories/RUSTSEC-2022-0013.html).
+- [RUSTSEC-2022-0014: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2022-0014.html).
+- [RUSTSEC-2022-0015: pty is unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0015.html).
+- **[RUSTSEC-2022-0016: Vulnerability in wasmtime](https://rustsec.org/advisories/RUSTSEC-2022-0016.html).**
+- [CVE-2022-24783: Sandbox bypass leading to arbitrary code execution in Deno](https://github.com/advisories/GHSA-838h-jqp6-cf2f).
 
 &nbsp;
 

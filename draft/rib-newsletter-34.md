@@ -12,6 +12,33 @@ newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #33](/newsletters/rib-newsletter-33/).
 
+After a fairly sleepy winter,
+this month felt overwhelmingly active,
+with lots of conversation in the Telegram group,
+and many new projects coming to our attention.
+
+This month we refreshed and reorganized the set of GitHub repositories we track,
+and which are listed in the "project updates" section. The corresponding
+[rib-bible] is likely the most comprehensive list of Rust blockchains and their
+repositories on the Internet.
+
+Thanks to [Hunter Trujillo] the project updates now have entire sections for all
+Bitcoin-related projects and all Ethereum-related projects, and there are many
+Bitcoin and Lightning Network projects written in Rust that we have overlooked.
+Many of them are overseen by the [LNP/BP Association], which is dedicated to
+building layer 2/3 technologies on top of Bitcoin and Lightning. Their GitHub
+README is a good overview of their many Rust Bitcoin projects; and their are
+many other Rust Bitcoin projects now listed in our project updates section.
+
+[rib-bible]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/rib-bible.md
+[LNP/BP Association]: https://github.com/LNP-BP
+
+
+- espresso
+- move / diem derivitives
+- most active
+
+
 &nbsp;
 
 ## Thanks

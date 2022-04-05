@@ -33,7 +33,7 @@ Rust that we have overlooked. Many of them are overseen by the [LNP/BP
 Association], which is dedicated to building layer 2/3 technologies on top of
 Bitcoin and Lightning. Their GitHub README is a good overview of their many Rust
 Bitcoin projects; and their are many other Rust Bitcoin projects now listed in
-our project updates section.
+the project updates section.
 
 [LNP/BP Association]: https://github.com/LNP-BP
 

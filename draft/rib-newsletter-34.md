@@ -40,7 +40,7 @@ the project updates section.
 [Diem] has not seen any contributions in the last month,
 and appears unlikely to continue in its current form.
 Several projects though are carrying the technology forward,
-particularly its seemingly well-designed [Move language].
+particularly its seemingly well-designed and Rust-inspired [Move language].
 
 These two projects were launched by former Diem team members recently:
 

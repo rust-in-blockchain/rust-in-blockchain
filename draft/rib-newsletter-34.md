@@ -15,12 +15,16 @@ industry topics.
 After a fairly sleepy winter,
 this month felt overwhelmingly active,
 with lots of conversation in the Telegram group,
+lots of contributions to the newsletter,
 and many new projects coming to our attention.
 
 This month we refreshed and reorganized the set of GitHub repositories we track,
-and which are listed in the "project updates" section. The corresponding
+and which are listed in the [Project Updates] section. The corresponding
 [rib-bible] is likely the most comprehensive list of Rust blockchains and their
 repositories on the Internet.
+
+[Project Updates]: #project-updates
+[rib-bible]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/rib-bible.md
 
 Thanks to [Hunter Trujillo] the project updates now have entire sections for all
 Bitcoin-related projects and all Ethereum-related projects, and there are many
@@ -30,13 +34,44 @@ building layer 2/3 technologies on top of Bitcoin and Lightning. Their GitHub
 README is a good overview of their many Rust Bitcoin projects; and their are
 many other Rust Bitcoin projects now listed in our project updates section.
 
-[rib-bible]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/rib-bible.md
 [LNP/BP Association]: https://github.com/LNP-BP
 
+With the addition of more Rust GitHub repositories to [ribbot], the [Most Active]
+section has some noticable shifts, with the [Fuel] and [IOTA] projects
+entering the top 3. [Parity] continues to be the most active.
 
-- espresso
-- move / diem derivitives
-- most active
+[ribbot]: https://github.com/rust-in-blockchain/ribbot
+[Most Active]: #most-active-in-march
+[Fuel]: https://github.com/FuelLabs
+[IOTA]: https://github.com/iotaledger
+[Parity]: https://github.com/paritytech
+
+[Diem] has not seen any contributions in the last month,
+and appears unlikely to continue in its current form.
+Several projects have appeared to carry the technology forward though,
+particularly its seemingly well-designed [Move language].
+
+These two projects were launched by former Diem team members recently:
+
+- [Aptos] - from former Diem developers. It appears to fork the Diem codebase directly.
+- [Sui] - from former Diem developers. It does not obviously fork from the Diem codebase.
+
+These blockchains are or will be using Move:
+
+- [0L] - A fork of Diem / Libra.
+- [Celo] - An EVM chain based on Geth. [Adding Move support][ams].
+- [Pontem] - Built on Substrate.
+- [Starcoin] - Not a fork of Diem.
+
+[Diem]: https://github.com/diem/diem
+[Move language]: https://github.com/MystenLabs/awesome-move
+[Sui]: https://github.com/MystenLabs/sui
+[Aptos]: https://github.com/aptos-labs/aptos-core
+[0L]: https://github.com/OLSF/libra
+[Starcoin]: https://github.com/starcoinorg/starcoin
+[Pontem]: https://github.com/pontem-network
+[Celo]: https://github.com/celo-org
+[ams]: https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs
 
 
 &nbsp;

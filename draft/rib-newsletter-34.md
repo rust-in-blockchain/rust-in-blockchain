@@ -65,7 +65,7 @@ These blockchains are or will be using Move:
 [ams]: https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs
 
 We have also added some more projects: [Espresso],
-an EVM-compatible chain with zero-knowledge features written in Rust;
+an EVM-compatible chain with ZK-rollups written in Rust;
 [Helium], the distributed wireless hotspot network,
 which has many components in Rust;
 and [MaidSafe], probably the oldest permissionless distributed system written in Rust,

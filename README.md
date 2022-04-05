@@ -17,9 +17,10 @@ before contributing.
 You are welcomed to open an issue
 if the documentation isn't satisfied your question.
 
-## Support Us
+## Support Rust in Blockchain
 
-If you like us, please consider sending donation to us:   
+If you like our work, please consider sending a donation:
+
 - BTC
   - bc1qrl00ya0p0fg2s27lmws908cfmzapa4fa2uyk8n
 - ETH

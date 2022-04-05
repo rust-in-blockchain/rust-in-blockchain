@@ -17,6 +17,7 @@ The structure here should also be reflected
 in [template.md].
 
 [config]: https://github.com/rust-in-blockchain/ribbot/blob/master/src/rib-config.toml
+[template.md]: template.md
 
 
 ## Non-Bitcoin / Non-Ethereum

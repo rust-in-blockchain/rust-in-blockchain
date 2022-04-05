@@ -749,12 +749,12 @@ repos = [
 "LNP-BP/bp-core",
 "LNP-BP/client_side_validation",
 "LNP-BP/descriptor-wallet",
-"LNP-BP/rust-amplify",
 "LNP-BP/rust-lnpbp",
 "LNP-BP/ln-types",
 "LNP-BP/invoices",
 "LNP-BP/rust-psbt",
 "LNP-BP/lnp-sdk",
+"rust-amplify/rust-amplify",
 ]
 ```
 
@@ -810,13 +810,13 @@ Media:
 
 GitHub:
 
-- https://github.com/rgb-wg
+- https://github.com/RGB-WG
 
 ```toml
 repos = [
-"rgb-wg/rgb-core",
-"rgb-wg/rgb-node",
-"rgb-wg/rust-rgb20",
+"RGB-WG/rgb-core",
+"RGB-WG/rgb-node",
+"RGB-WG/rust-rgb20",
 ]
 ```
 

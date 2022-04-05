@@ -17,10 +17,16 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+Ali Atiia,
+Dan Shields,
 [djddo],
+Ganzaro,
+Giles Cope,
 [Hunter Trujillo],
 [John Adler],
 [Max Wegman],
+Samuel Dare,
+Tannr,
 [veilgets],
 [Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
@@ -56,13 +62,35 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [A Comparison of Heterogeneous Blockchain Networks](https://medium.com/@arikan/a-comparison-of-heterogeneous-blockchain-networks-4bf7ff2fe279)
+- [The AMM Test: A No BS Look at L1 Performance](https://medium.com/dragonfly-research/spamming-solana-a-trip-report-d05e0455a3ba)
+- [Geometry presents: Slush, a proposal for Fractal scaling](https://hackmd.io/@kalmanlajko/rkgg9GLG5#Security-and-the-problem-of-iterated-exits)
+- [Towards Practical Security Optimizations for Binaries](https://blog.trailofbits.com/2022/03/25/towards-practical-security-optimizations-for-binaries)
+- [High Assurance Rust](https://github.com/tnballo/high-assurance-rust). A book about developing secure and robust systems software.
 
 #### Papers
 
 - [Constant Latency in Sleepy Consensus](https://eprint.iacr.org/2022/404)
+- [Making CRDTs Byzantine Fault Tolerant](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf)
+- [Gemini: elastic SNARKs for diverse environments](https://iacr.org/cryptodb/data/paper.php?pubkey=31934)
+- [Instachain: Breaking the Sharding Limits via Adjustable Quorums](https://eprint.iacr.org/2022/413)
 
 #### Projects
 
+- [groth16-sol-verifier](https://github.com/zkLinkProtocol/groth16-sol-verifier).
+  An implementation of the Groth16 zk-SNARK proving system on Solana.
+- [White Whale](https://github.com/White-Whale-Defi-Platform/contracts).
+  A novel decentralised arbitrage platform built on the Terra blockchain.
+- [Multicall](https://github.com/scb-10x/multicall).
+  On-chain query aggregator/batcher in Terra.
+- [symbolic-stack-machines](https://github.com/WilfredTA/symbolic-stack-machines).
+  Library for building symbolically executable stack-based virtual machines.
+- [eclipse](https://github.com/eqlabs/eclipse).
+  Bridging ecosystems by storing Zero-knowledge proofs of Solana votes on the Aleo blockchain.
+- [sui](https://github.com/MystenLabs/sui).
+  A smart contract platform with high throughput, low latency, and an
+  asset-oriented programming model powered by the Move programming
+  language.
 
 &nbsp;
 
@@ -83,6 +111,15 @@ Bold entries here are especially relevant to blockchain projects.
 &nbsp;
 
 ## Most Active in March
+
+[Parity](https://github.com/paritytech):
+534 merged PRs, 164 closed issues, 99 open issues
+
+[IOTA](https://github.com/iotaledger):
+261 merged PRs, 102 closed issue, 42 open issues
+
+[Fuel](https://github.com/FuelLabs):
+240 merged PRs, 135 closed issues, 112 open issues
 
 &nbsp;
 
@@ -117,6 +154,8 @@ Bold entries here are especially relevant to blockchain projects.
 [anoma-closed_issues-1]: https://github.com/anoma/anoma/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
 [anoma-open_issues-1]: https://github.com/anoma/anoma/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [anoma-open_issues-2]: https://github.com/anoma/ferveo/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+
+- [An Overview of Anoma's Architecture](https://anoma.network/blog/an-overview-of-anomas-architecture/)
 
 #### [ChainSafe](https://github.com/ChainSafe)
 
@@ -202,6 +241,8 @@ Bold entries here are especially relevant to blockchain projects.
 [dfinity-open_issues-2]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [dfinity-open_issues-3]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+- [Introducing Supernova, the First Global Internet Computer Hackathon](https://medium.com/dfinity/introducing-supernova-the-first-global-internet-computer-hackathon-dbaec18e0fb3)
+
 #### [Elrond](https://github.com/ElrondNetwork)
 
 121 merged PRs ([1][elrond-merged-prs-1], [2][elrond-merged-prs-2], [3][elrond-merged-prs-3], [4][elrond-merged-prs-4], [5][elrond-merged-prs-5], [6][elrond-merged-prs-6], [7][elrond-merged-prs-7]), 
@@ -240,6 +281,9 @@ Bold entries here are especially relevant to blockchain projects.
 [espresso_systems-open_issues-2]: https://github.com/EspressoSystems/cape/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [espresso_systems-open_issues-3]: https://github.com/EspressoSystems/seahorse/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [espresso_systems-open_issues-4]: https://github.com/EspressoSystems/cap/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+
+- [Introducing Espresso Systems](https://www.espressosys.com/blog/introducing-espresso-systems)
+- [Releasing the Jellyfish cryptography library](https://www.espressosys.com/blog/introducing-the-jellyfish-cryptography-library)
 
 #### [Findora](https://github.com/FindoraNetwork)
 
@@ -422,6 +466,8 @@ Bold entries here are especially relevant to blockchain projects.
 [near-open_issues-8]: https://github.com/near/near-indexer-for-explorer/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [near-open_issues-9]: https://github.com/near/wasmer/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+- [NEAR’s Road to Decentralization: Building Bridges](https://near.org/blog/near-bridges-decentralization-interconnection/)
+
 #### [Nervos](https://github.com/nervosnetwork)
 
 174 merged PRs ([1][nervos-merged-prs-1], [2][nervos-merged-prs-2], [3][nervos-merged-prs-3], [4][nervos-merged-prs-4], [5][nervos-merged-prs-5], [6][nervos-merged-prs-6], [7][nervos-merged-prs-7], [8][nervos-merged-prs-8], [9][nervos-merged-prs-9]), 
@@ -510,6 +556,9 @@ Bold entries here are especially relevant to blockchain projects.
 [parity-open_issues-13]: https://github.com/paritytech/metadata-portal/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [parity-open_issues-14]: https://github.com/paritytech/parity-bridges-common/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+- [Privacy on Polkadot Recap](https://medium.com/zero-knowledge-validator/privacy-on-polkadot-recap-a88ae91c5864)
+- [ink! 3.0: Parity’s Rust-Based Language for WASM Smart Contracts Gets a Major Update](https://www.parity.io/blog/ink-3-0-paritys-rust-based-language-gets-a-major-update)
+
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 6 merged PRs ([1][secret_network-merged-prs-1], [2][secret_network-merged-prs-2]), 
@@ -534,6 +583,11 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [solana-open_issues-3]: https://github.com/solana-labs/solana-accountsdb-plugin-postgres/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+
+- [Spamming Solana: a Trip Report](https://medium.com/dragonfly-research/spamming-solana-a-trip-report-d05e0455a3ba)
+- [On a $20m bug in Jet Protocol](https://medium.com/coinmonks/on-a-20m-bug-in-jet-protocol-f8581599328e)
+- [CashioApp Attack — what’s the vulnerability and how Soteria detects it](https://medium.com/coinmonks/cashioapp-attack-whats-the-vulnerability-and-how-soteria-detects-it-2e96b9c6d1d3)
+- [Solana programs Part 1: understanding SPL Token Mint](https://medium.com/coinmonks/solana-programs-part-1-understanding-spl-token-mint-fabd13323219)
 
 #### [Subspace Labs](https://github.com/subspace)
 
@@ -570,6 +624,8 @@ Bold entries here are especially relevant to blockchain projects.
 [zcash-open_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+
+- [Sin7Y Tech Review (20): Halo2 Circuit Development](https://hackmd.io/@sin7y/SJQpj9Fxc)
 
 &nbsp;
 
@@ -760,6 +816,8 @@ Bold entries here are especially relevant to blockchain projects.
 [lighthouse-closed_issues-2]: https://github.com/sigp/discv5/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+- [Lighthouse Update #40](https://lighthouse.sigmaprime.io/update-40.html)
+
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
 3 merged PRs ([1][rust_ethereum-merged-prs-1]), 
@@ -800,7 +858,53 @@ Dec 1-2 | Online
 
 -->
 
+Apr 13-14 | Paris, France
 
+[Paris Blockchain Week Summit](https://www.pbwsummit.com/)
+
+Apr 16 - May 13 | Online
+
+[Scaling Ethereum](https://scaling.ethglobal.co/)
+
+Apr 18-25 | Amsterdam, Netherlands
+
+[Devconnect](https://devconnect.org/)
+
+Apr 22-24 | Amsterdam, Netherlands
+
+[ETHAmsterdam](https://amsterdam.ethglobal.com/)
+
+May 2-6 | Canada
+
+[Financial Cryptography and Data Security 2022](http://fc22.ifca.ai/index.html)
+
+May 10 - Jun 20 | Online
+
+[Supernova: Dfinity hackthon](https://dfinity.org/supernova/)
+
+May 29-30 | Trondheim, Norway
+
+[CBCrypto 2022: International Workshop on Code-Based Cryptography](https://www.cb-crypto.org/)
+
+May 30 - Jun 3 | Trondheim, Norway
+
+[Eurocrypt 2022](https://eurocrypt.iacr.org/2022/)
+
+Jun 13-17 | Šibenik, Croatia
+
+[Summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2022/)
+
+Aug 13-18 | Santa Barbara, CA, USA
+
+[Crypto 2022](https://crypto.iacr.org/2022/)
+
+Aug 29-31 | Arrillaga Alumni Center, Stanford University
+
+[SBC'22: The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/)
+
+Oct 7-16 | Bogota, Colombia
+
+[Devcon Week](https://devcon.org/)
 
 &nbsp;
 
@@ -813,6 +917,15 @@ Company name | Location A, B, Remote
 - [Job 2](https://job.two)
 
 -->
+
+Blockstream | Remote
+- [Software Library Engineer (Rust)](https://grnh.se/fc3876861us)
+- [Software Library Engineer (C++)](https://grnh.se/69d260dc1us)
+- [Full-Stack Software Engineer](https://grnh.se/aed921721us)
+- [Network Engineer](https://grnh.se/6ac8f7f11us)
+- [Sr. Product Manager](https://grnh.se/11354dd01us)
+- [Product Manager](https://grnh.se/1bdd2ced1us)
+- [Technical Project Manager](https://grnh.se/ca7b51b81us)
 
 Parity Technologies
 - [Parachains Engineer - Common Good](https://boards.greenhouse.io/parity/jobs/4794657003)

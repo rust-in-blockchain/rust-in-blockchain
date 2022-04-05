@@ -171,6 +171,7 @@ Oxygen | Dubai or Remote
 - [Rust Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
 
 Parity Technologies | Berlin or Remote 
+- [Core Runtime Engineer - Substrate](https://grnh.se/dddd76283us)
 - [Rust/Core Developer](https://boards.greenhouse.io/parity/jobs/4030037003)
 - [Rust Core Developer - Smart Contract Platform](https://boards.greenhouse.io/parity/jobs/4852265003)
 - [Rust Core Developer - Solidity Compiler](https://boards.greenhouse.io/parity/jobs/4852012003)

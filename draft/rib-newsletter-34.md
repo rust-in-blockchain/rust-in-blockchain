@@ -129,11 +129,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [jellyfish](https://github.com/EspressoSystems/jellyfish).
 
-Jellyfish is the PLONK zero-knowlege proof implementation used by [Espresso] blockchain.
-As [described in their blog][eblg], what stands out about this library is its built-in
-toolbox of circuits for cryptographic purposes: hashes, pseudo-random functions,
-Merkle tree accumulators, Schnorr signatures, ElGamal encryption, AEAD encryption.
-It is also said to be performant.
+Jellyfish is the PLONK zero-knowlege proof implementation used by the [Espresso]
+blockchain. As [described in their blog][eblg], what stands out about this
+library is its built-in toolbox of circuits for cryptographic purposes: hashes,
+pseudo-random functions, Merkle tree accumulators, Schnorr signatures, ElGamal
+encryption, AEAD encryption. It is also said to be performant.
 
 [Espresso]: https://github.com/Espresso
 [eblg]: https://www.espressosys.com/blog/introducing-the-jellyfish-cryptography-library

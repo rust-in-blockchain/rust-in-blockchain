@@ -21,7 +21,7 @@ and many new projects coming to our attention.
 This month we refreshed and reorganized the set of GitHub repositories we track,
 and which are listed in the [Project Updates] section. The corresponding
 [rib-bible] is likely the most comprehensive list of Rust blockchains and their
-repositories on the internet.
+source repositories on the internet.
 
 [Project Updates]: #project-updates
 [rib-bible]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/rib-bible.md
@@ -50,7 +50,7 @@ These two projects were launched by former Diem team members recently:
 These blockchains are or will be using Move:
 
 - [0L] - A fork of Diem / Libra.
-- [Celo] - An EVM chain based on Geth. [Adding Move support][ams].
+- [Celo] - An EVM chain based on Geth, [adding Move support][ams].
 - [Pontem] - Built on Substrate.
 - [Starcoin] - Not a fork of Diem.
 
@@ -75,6 +75,16 @@ and [MaidSafe], probably the oldest permissionless distributed system written in
 [Helium]: https://github.com/helium
 [MaidSafe]: https://github.com/maidsafe
 [sid]: https://safenetforum.org/t/update-17-march-2022/36780
+
+With the great expansion of projects covered,
+we've also expanded the [Most Active] rankings from 3 to 5 projects.
+This month's data shows that [IOTA], [Fuel], and [Espresso]
+are among the most actively developed Rust blockchain projects.
+
+[Most Active]: #most-active
+[IOTA]: https://github.com/iotaledger
+[Fuel]: https://github.com/FuelLabs
+[Espresso]: https://github.com/EspressoSystems
 
 
 &nbsp;

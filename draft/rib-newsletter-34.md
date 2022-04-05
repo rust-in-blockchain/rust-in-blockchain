@@ -59,6 +59,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [Constant Latency in Sleepy Consensus](https://eprint.iacr.org/2022/404)
 
 #### Projects
 

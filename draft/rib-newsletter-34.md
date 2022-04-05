@@ -32,7 +32,7 @@ projects, and there are many Bitcoin and Lightning Network projects written in
 Rust that we have overlooked. Many of them are overseen by the [LNP/BP
 Association], which is dedicated to building layer 2/3 technologies on top of
 Bitcoin and Lightning. Their GitHub README is a good overview of their many Rust
-Bitcoin projects; and their are many other Rust Bitcoin projects now listed in
+Bitcoin projects; and there are many other Rust Bitcoin projects now listed in
 the project updates section.
 
 [LNP/BP Association]: https://github.com/LNP-BP

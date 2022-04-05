@@ -116,6 +116,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Nervos](https://github.com/nervosnetwork)
 
+#### [Oasis](https://github.com/oasisprotocol)
+
 #### [Parity](https://github.com/paritytech)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)

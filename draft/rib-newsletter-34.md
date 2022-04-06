@@ -143,9 +143,6 @@ encryption, AEAD encryption. It is also said to be performant.
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
 - [A Comparison of Heterogeneous Blockchain Networks](https://medium.com/@arikan/a-comparison-of-heterogeneous-blockchain-networks-4bf7ff2fe279)
@@ -250,13 +247,19 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [ChainSafe](https://github.com/ChainSafe)
 
-31 merged PRs ([1][chainsafe-merged-prs-1]), 
-17 closed issues ([1][chainsafe-closed_issues-1]), 
-29 open issues ([1][chainsafe-open_issues-1])
+49 merged PRs ([1][chainsafe-merged-prs-1], [2][chainsafe-merged-prs-2], [3][chainsafe-merged-prs-3]), 
+29 closed issues ([1][chainsafe-closed_issues-1], [2][chainsafe-closed_issues-2], [3][chainsafe-closed_issues-3]), 
+37 open issues ([1][chainsafe-open_issues-1], [2][chainsafe-open_issues-2], [3][chainsafe-open_issues-3])
 
-[chainsafe-merged-prs-1]: https://github.com/ChainSafe/forest/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
-[chainsafe-closed_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
-[chainsafe-open_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+[chainsafe-merged-prs-1]: https://github.com/ChainSafe/mina-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[chainsafe-merged-prs-2]: https://github.com/ChainSafe/api3-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[chainsafe-merged-prs-3]: https://github.com/ChainSafe/forest/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[chainsafe-closed_issues-1]: https://github.com/ChainSafe/mina-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
+[chainsafe-closed_issues-2]: https://github.com/ChainSafe/api3-rust/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
+[chainsafe-closed_issues-3]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
+[chainsafe-open_issues-1]: https://github.com/ChainSafe/mina-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+[chainsafe-open_issues-2]: https://github.com/ChainSafe/api3-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+[chainsafe-open_issues-3]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
 #### [COMIT](https://github.com/comit-network)
 
@@ -635,6 +638,8 @@ Bold entries here are especially relevant to blockchain projects.
 [oasis-closed_issues-2]: https://github.com/oasisprotocol/emerald-paratime/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
 [oasis-open_issues-1]: https://github.com/oasisprotocol/oasis-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+- [Oasis Network Damask Upgrade secured a big majority vote from validators](https://medium.com/oasis-protocol-project/oasis-network-damask-upgrade-secured-a-big-majority-vote-from-validators-168a6d48e9a3)
+
 #### [Parity](https://github.com/paritytech)
 
 534 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6], [7][parity-merged-prs-7], [8][parity-merged-prs-8], [9][parity-merged-prs-9], [10][parity-merged-prs-10], [11][parity-merged-prs-11], [12][parity-merged-prs-12], [13][parity-merged-prs-13], [14][parity-merged-prs-14], [15][parity-merged-prs-15]), 
@@ -699,6 +704,8 @@ Bold entries here are especially relevant to blockchain projects.
 [secret_network-closed_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
 [secret_network-open_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+- [SCRT Labs Update: Scaling Secret](https://scrt.network/blog/scrt-labs-update-scaling-secrets)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 449 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2], [3][solana-merged-prs-3]), 
@@ -757,6 +764,7 @@ Bold entries here are especially relevant to blockchain projects.
 [zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
 - [Sin7Y Tech Review (20): Halo2 Circuit Development](https://hackmd.io/@sin7y/SJQpj9Fxc)
+- [NU5 activation and Halo Arc release delayed for remediation of consensus bug in testnet](https://electriccoin.co/blog/nu5-activation-and-halo-arc-release-delayed-for-remediation-of-consensus-bug/)
 
 &nbsp;
 

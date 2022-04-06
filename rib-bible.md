@@ -75,6 +75,8 @@ GitHub:
 
 ```toml
 repos = [
+"ChainSafe/mina-rs",
+"ChainSafe/api3-rust",
 "ChainSafe/forest",
 "ChainSafe/filecoindot",
 ]

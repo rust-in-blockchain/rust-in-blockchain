@@ -175,13 +175,19 @@ Bold entries here are especially relevant to blockchain projects.
 ## Most Active in March
 
 [Parity](https://github.com/paritytech):
-534 merged PRs, 164 closed issues, 99 open issues
+534 merged PRs, 164 closed issues, 98 open issues
+
+[Solana](https://github.com/solana-labs/solana):
+449 merged PRs, 112 closed issues, 79 open issues
 
 [IOTA](https://github.com/iotaledger):
 261 merged PRs, 102 closed issue, 42 open issues
 
 [Fuel](https://github.com/FuelLabs):
-240 merged PRs, 135 closed issues, 112 open issues
+240 merged PRs, 135 closed issues, 104 open issues
+
+[Espresso Systems](https://github.com/EspressoSystems):
+212 merged PRs, 150 closed issues, 89 open issues
 
 &nbsp;
 
@@ -190,7 +196,6 @@ Bold entries here are especially relevant to blockchain projects.
 <!-- NB: This list needs to be kept in sync with rib-bible.md / rib-config.toml -->
 
 #### [Aleo](https://github.com/AleoHQ)
-
 103 merged PRs ([1][aleo-merged-prs-1], [2][aleo-merged-prs-2], [3][aleo-merged-prs-3]), 
 48 closed issues ([1][aleo-closed_issues-1], [2][aleo-closed_issues-2], [3][aleo-closed_issues-3]), 
 19 open issues ([1][aleo-open_issues-1], [2][aleo-open_issues-2], [3][aleo-open_issues-3])
@@ -223,7 +228,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 31 merged PRs ([1][chainsafe-merged-prs-1]), 
 17 closed issues ([1][chainsafe-closed_issues-1]), 
-30 open issues ([1][chainsafe-open_issues-1])
+29 open issues ([1][chainsafe-open_issues-1])
 
 [chainsafe-merged-prs-1]: https://github.com/ChainSafe/forest/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
 [chainsafe-closed_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
@@ -327,7 +332,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 212 merged PRs ([1][espresso_systems-merged-prs-1], [2][espresso_systems-merged-prs-2], [3][espresso_systems-merged-prs-3], [4][espresso_systems-merged-prs-4], [5][espresso_systems-merged-prs-5]), 
 150 closed issues ([1][espresso_systems-closed_issues-1], [2][espresso_systems-closed_issues-2], [3][espresso_systems-closed_issues-3], [4][espresso_systems-closed_issues-4], [5][espresso_systems-closed_issues-5]), 
-91 open issues ([1][espresso_systems-open_issues-1], [2][espresso_systems-open_issues-2], [3][espresso_systems-open_issues-3], [4][espresso_systems-open_issues-4])
+89 open issues ([1][espresso_systems-open_issues-1], [2][espresso_systems-open_issues-2], [3][espresso_systems-open_issues-3], [4][espresso_systems-open_issues-4])
 
 [espresso_systems-merged-prs-1]: https://github.com/EspressoSystems/jellyfish/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
 [espresso_systems-merged-prs-2]: https://github.com/EspressoSystems/cape/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -385,7 +390,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 240 merged PRs ([1][fuel-merged-prs-1], [2][fuel-merged-prs-2], [3][fuel-merged-prs-3], [4][fuel-merged-prs-4], [5][fuel-merged-prs-5], [6][fuel-merged-prs-6], [7][fuel-merged-prs-7], [8][fuel-merged-prs-8], [9][fuel-merged-prs-9], [10][fuel-merged-prs-10]), 
 135 closed issues ([1][fuel-closed_issues-1], [2][fuel-closed_issues-2], [3][fuel-closed_issues-3], [4][fuel-closed_issues-4], [5][fuel-closed_issues-5], [6][fuel-closed_issues-6], [7][fuel-closed_issues-7]), 
-112 open issues ([1][fuel-open_issues-1], [2][fuel-open_issues-2], [3][fuel-open_issues-3], [4][fuel-open_issues-4], [5][fuel-open_issues-5], [6][fuel-open_issues-6], [7][fuel-open_issues-7], [8][fuel-open_issues-8], [9][fuel-open_issues-9])
+104 open issues ([1][fuel-open_issues-1], [2][fuel-open_issues-2], [3][fuel-open_issues-3], [4][fuel-open_issues-4], [5][fuel-open_issues-5], [6][fuel-open_issues-6], [7][fuel-open_issues-7], [8][fuel-open_issues-8], [9][fuel-open_issues-9])
 
 [fuel-merged-prs-1]: https://github.com/FuelLabs/fuel-asm/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
 [fuel-merged-prs-2]: https://github.com/FuelLabs/fuel-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -442,6 +447,21 @@ Bold entries here are especially relevant to blockchain projects.
 [grin-closed_issues-1]: https://github.com/mimblewimble/grin-wallet/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
 [grin-open_issues-1]: https://github.com/mimblewimble/grin/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+#### [Helium](https://github.com/helium)
+
+25 merged PRs ([1][helium-merged-prs-1], [2][helium-merged-prs-2], [3][helium-merged-prs-3], [4][helium-merged-prs-4], [5][helium-merged-prs-5]), 
+15 closed issues ([1][helium-closed_issues-1], [2][helium-closed_issues-2]), 
+3 open issues ([1][helium-open_issues-1])
+
+[helium-merged-prs-1]: https://github.com/helium/gateway-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[helium-merged-prs-2]: https://github.com/helium/semtech-udp/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[helium-merged-prs-3]: https://github.com/helium/ecc608-linux-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[helium-merged-prs-4]: https://github.com/helium/helium-wallet-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[helium-merged-prs-5]: https://github.com/helium/helium-api-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[helium-closed_issues-1]: https://github.com/helium/gateway-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
+[helium-closed_issues-2]: https://github.com/helium/helium-wallet-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
+[helium-open_issues-1]: https://github.com/helium/gateway-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+
 #### [Holochain](https://github.com/holochain/)
 
 44 merged PRs ([1][holochain-merged-prs-1], [2][holochain-merged-prs-2]), 
@@ -482,6 +502,29 @@ Bold entries here are especially relevant to blockchain projects.
 [iota-open_issues-5]: https://github.com/iotaledger/streams/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [iota-open_issues-6]: https://github.com/iotaledger/stronghold.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [iota-open_issues-7]: https://github.com/iotaledger/chronicle.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+
+#### [Maidsafe](https://github.com/maidsafe)
+
+74 merged PRs ([1][maidsafe-merged-prs-1], [2][maidsafe-merged-prs-2], [3][maidsafe-merged-prs-3], [4][maidsafe-merged-prs-4], [5][maidsafe-merged-prs-5], [6][maidsafe-merged-prs-6], [7][maidsafe-merged-prs-7]), 
+12 closed issues ([1][maidsafe-closed_issues-1], [2][maidsafe-closed_issues-2], [3][maidsafe-closed_issues-3]), 
+10 open issues ([1][maidsafe-open_issues-1], [2][maidsafe-open_issues-2], [3][maidsafe-open_issues-3], [4][maidsafe-open_issues-4])
+
+[maidsafe-merged-prs-1]: https://github.com/maidsafe/sn_dbc/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[maidsafe-merged-prs-2]: https://github.com/maidsafe/safe_network/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[maidsafe-merged-prs-3]: https://github.com/maidsafe/qp2p/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[maidsafe-merged-prs-4]: https://github.com/maidsafe/blsttc/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[maidsafe-merged-prs-5]: https://github.com/maidsafe/sn_consensus/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[maidsafe-merged-prs-6]: https://github.com/maidsafe/bls_dkg/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[maidsafe-merged-prs-7]: https://github.com/maidsafe/self_encryption/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
+[maidsafe-closed_issues-1]: https://github.com/maidsafe/sn_dbc/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
+[maidsafe-closed_issues-2]: https://github.com/maidsafe/safe_network/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
+[maidsafe-closed_issues-3]: https://github.com/maidsafe/blsttc/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
+[maidsafe-open_issues-1]: https://github.com/maidsafe/safe_network/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+[maidsafe-open_issues-2]: https://github.com/maidsafe/blsttc/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+[maidsafe-open_issues-3]: https://github.com/maidsafe/sn_consensus/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+[maidsafe-open_issues-4]: https://github.com/maidsafe/bls_dkg/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
+
+- [Safe Network update 17 March, 2022](https://safenetforum.org/t/update-17-march-2022/36780)
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
@@ -572,7 +615,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 534 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6], [7][parity-merged-prs-7], [8][parity-merged-prs-8], [9][parity-merged-prs-9], [10][parity-merged-prs-10], [11][parity-merged-prs-11], [12][parity-merged-prs-12], [13][parity-merged-prs-13], [14][parity-merged-prs-14], [15][parity-merged-prs-15]), 
 164 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5], [6][parity-closed_issues-6], [7][parity-closed_issues-7], [8][parity-closed_issues-8], [9][parity-closed_issues-9], [10][parity-closed_issues-10], [11][parity-closed_issues-11], [12][parity-closed_issues-12], [13][parity-closed_issues-13], [14][parity-closed_issues-14]), 
-99 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5], [6][parity-open_issues-6], [7][parity-open_issues-7], [8][parity-open_issues-8], [9][parity-open_issues-9], [10][parity-open_issues-10], [11][parity-open_issues-11], [12][parity-open_issues-12], [13][parity-open_issues-13], [14][parity-open_issues-14])
+98 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5], [6][parity-open_issues-6], [7][parity-open_issues-7], [8][parity-open_issues-8], [9][parity-open_issues-9], [10][parity-open_issues-10], [11][parity-open_issues-11], [12][parity-open_issues-12], [13][parity-open_issues-13], [14][parity-open_issues-14])
 
 [parity-merged-prs-1]: https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
 [parity-merged-prs-2]: https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -634,14 +677,15 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Solana](https://github.com/solana-labs/solana)
 
-55 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2], [3][solana-merged-prs-3]), 
-27 closed issues ([1][solana-closed_issues-1]), 
-78 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2], [3][solana-open_issues-3])
+449 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2], [3][solana-merged-prs-3]), 
+112 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+79 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2], [3][solana-open_issues-3])
 
 [solana-merged-prs-1]: https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
 [solana-merged-prs-2]: https://github.com/solana-labs/solana-program-library/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
 [solana-merged-prs-3]: https://github.com/solana-labs/solana-accountsdb-plugin-postgres/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
-[solana-closed_issues-1]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
+[solana-closed_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
+[solana-closed_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [solana-open_issues-3]: https://github.com/solana-labs/solana-accountsdb-plugin-postgres/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
@@ -650,6 +694,7 @@ Bold entries here are especially relevant to blockchain projects.
 - [On a $20m bug in Jet Protocol](https://medium.com/coinmonks/on-a-20m-bug-in-jet-protocol-f8581599328e)
 - [CashioApp Attack — what’s the vulnerability and how Soteria detects it](https://medium.com/coinmonks/cashioapp-attack-whats-the-vulnerability-and-how-soteria-detects-it-2e96b9c6d1d3)
 - [Solana programs Part 1: understanding SPL Token Mint](https://medium.com/coinmonks/solana-programs-part-1-understanding-spl-token-mint-fabd13323219)
+- [Neon EVM Alpha — Now Live on Solana Devnet](https://neonlabsorg.medium.com/neon-evm-alpha-now-live-on-solana-devnet-c326dc12267c)
 
 #### [Subspace Labs](https://github.com/subspace)
 
@@ -674,8 +719,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Zcash](https://github.com/zcash)
 
-109 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 
-84 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2]), 
+144 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 
+187 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2]), 
 37 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
 
 [zcash-merged-prs-1]: https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31

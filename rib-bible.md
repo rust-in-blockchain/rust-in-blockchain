@@ -353,6 +353,30 @@ repos = [
 ]
 ```
 
+### Helium
+
+Media:
+
+- https://www.helium.com/
+- https://blog.helium.com/
+- https://twitter.com/helium
+
+GitHub:
+
+- https://github.com/helium
+
+```toml
+repos = [
+"helium/gateway-rs",
+"helium/semtech-udp",
+"helium/helium-crypto-rs",
+"helium/ecc608-linux-rs",
+"helium/virtual-lorawan-device",
+"helium/helium-wallet-rs",
+"helium/helium-api-rs",
+]
+```
+
 ### Holochain
 
 Media:
@@ -395,6 +419,33 @@ repos = [
 "iotaledger/streams",
 "iotaledger/stronghold.rs",
 "iotaledger/chronicle.rs",
+]
+```
+
+### Maidsafe
+
+Media:
+
+- https://maidsafe.net/
+- https://safenetwork.tech/
+- https://medium.com/safenetwork
+- https://twitter.com/maidsafe
+- https://twitter.com/safenetworktech
+
+GitHub:
+
+- https://github.com/maidsafe
+
+```toml
+repos = [
+"maidsafe/sn_dbc",
+"maidsafe/safe_network",
+"maidsafe/qp2p",
+"maidsafe/blsttc",
+"maidsafe/sn_dbc_examples",
+"maidsafe/sn_consensus",
+"maidsafe/bls_dkg",
+"maidsafe/self_encryption",
 ]
 ```
 

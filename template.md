@@ -106,9 +106,13 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Grin](https://github.com/mimblewimble/grin)
 
+#### [Helium](https://github.com/helium)
+
 #### [Holochain](https://github.com/holochain/)
 
 #### [IOTA](https://github.com/iotaledger)
+
+#### [Maidsafe](https://github.com/maidsafe)
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 

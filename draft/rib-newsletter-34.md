@@ -26,7 +26,14 @@ source repositories on the internet.
 [Project Updates]: #project-updates
 [rib-bible]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/rib-bible.md
 
-Thanks to a big contribution by [Hunter Trujillo] the project updates now have entire sections for most Bitcoin and Lightning Network-related Rust projects and many Ethereum-related Rust projects. There's been a ton of activity lately, so it's been hard to keep track! Many of them are overseen by the [LNP/BP Association] and [Spiral], which is dedicated to building layer 2/3 technologies on top of Bitcoin and Lightning. Their GitHub README is a good overview of their many Rust Bitcoin projects; and there are many other Rust Bitcoin projects now listed in the project updates section.
+Thanks to a big contribution by [Hunter Trujillo] the project updates now have
+entire sections for most Bitcoin and Lightning Network-related Rust projects and
+many Ethereum-related Rust projects. There's been a ton of activity lately, so
+it's been hard to keep track! Many of them are overseen by the [LNP/BP
+Association] and [Spiral], which are dedicated to building layer 2/3 technologies
+on top of Bitcoin and Lightning. Their GitHub README is a good overview of their
+many Rust Bitcoin projects; and there are many other Rust Bitcoin projects now
+listed in the project updates section.
 
 [LNP/BP Association]: https://github.com/LNP-BP
 [Spiral]: https://spiral.xyz

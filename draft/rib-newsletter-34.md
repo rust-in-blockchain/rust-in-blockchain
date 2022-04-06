@@ -129,7 +129,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [jellyfish](https://github.com/EspressoSystems/jellyfish).
 
-Jellyfish is the PLONK zero-knowlege proof implementation used by the [Espresso]
+Jellyfish is the PLONK zero-knowledge proof implementation used by the [Espresso]
 blockchain. As [described in their blog][eblg], what stands out about this
 library is its built-in toolbox of circuits for cryptographic purposes: hashes,
 pseudo-random functions, Merkle tree accumulators, Schnorr signatures, ElGamal
@@ -157,13 +157,14 @@ encryption, AEAD encryption. It is also said to be performant.
 - [Making CRDTs Byzantine Fault Tolerant](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf)
 - [Gemini: elastic SNARKs for diverse environments](https://iacr.org/cryptodb/data/paper.php?pubkey=31934)
 - [Instachain: Breaking the Sharding Limits via Adjustable Quorums](https://eprint.iacr.org/2022/413)
+- [Light Clients for Lazy Blockchains](https://eprint.iacr.org/2022/384)
 
 #### Projects
 
 - [groth16-sol-verifier](https://github.com/zkLinkProtocol/groth16-sol-verifier).
   An implementation of the Groth16 zk-SNARK proving system on Solana.
 - [White Whale](https://github.com/White-Whale-Defi-Platform/contracts).
-  A novel decentralised arbitrage platform built on the Terra blockchain.
+  A novel decentralized arbitrage platform built on the Terra blockchain.
 - [Multicall](https://github.com/scb-10x/multicall).
   On-chain query aggregator/batcher in Terra.
 - [symbolic-stack-machines](https://github.com/WilfredTA/symbolic-stack-machines).
@@ -202,7 +203,7 @@ Bold entries here are especially relevant to blockchain projects.
 449 merged PRs, 112 closed issues, 79 open issues
 
 [IOTA](https://github.com/iotaledger):
-261 merged PRs, 102 closed issue, 42 open issues
+261 merged PRs, 102 closed issues, 42 open issues
 
 [Fuel](https://github.com/FuelLabs):
 240 merged PRs, 135 closed issues, 104 open issues

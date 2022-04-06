@@ -160,7 +160,7 @@ encryption, AEAD encryption. It is also said to be performant.
 - [Gemini: elastic SNARKs for diverse environments](https://iacr.org/cryptodb/data/paper.php?pubkey=31934)
 - [Instachain: Breaking the Sharding Limits via Adjustable Quorums](https://eprint.iacr.org/2022/413)
 - [Light Clients for Lazy Blockchains](https://eprint.iacr.org/2022/384)
-- [MimbleWimble Broken](https://arxiv.org/abs/2112.13009)
+- [One Bad Apple Spoils the Bunch: Transaction DoS in MimbleWimble Blockchains](https://arxiv.org/abs/2112.13009)
 
 #### Projects
 

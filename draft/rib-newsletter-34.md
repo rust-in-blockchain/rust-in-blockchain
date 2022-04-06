@@ -26,16 +26,10 @@ source repositories on the internet.
 [Project Updates]: #project-updates
 [rib-bible]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/rib-bible.md
 
-Thanks to a big contribution by [Hunter Trujillo] the project updates now have
-entire sections for all Bitcoin-related projects and all Ethereum-related
-projects, and there are many Bitcoin and Lightning Network projects written in
-Rust that we have overlooked. Many of them are overseen by the [LNP/BP
-Association], which is dedicated to building layer 2/3 technologies on top of
-Bitcoin and Lightning. Their GitHub README is a good overview of their many Rust
-Bitcoin projects; and there are many other Rust Bitcoin projects now listed in
-the project updates section.
+Thanks to a big contribution by [Hunter Trujillo] the project updates now have entire sections for most Bitcoin and Lightning Network-related Rust projects and many Ethereum-related Rust projects. There's been a ton of activity lately, so it's been hard to keep track! Many of them are overseen by the [LNP/BP Association] and [Spiral], which is dedicated to building layer 2/3 technologies on top of Bitcoin and Lightning. Their GitHub README is a good overview of their many Rust Bitcoin projects; and there are many other Rust Bitcoin projects now listed in the project updates section.
 
 [LNP/BP Association]: https://github.com/LNP-BP
+[Spiral]: https://spiral.xyz
 
 [Diem] has not seen any contributions in the last month,
 and appears unlikely to continue in its current form.
@@ -106,9 +100,9 @@ Tannr,
 [Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
-RiB needs help to keep up with Rust blockchain projects. 
-If you follow a particular project, or otherwise find information 
-that is beneficial to the Rust & blockchain community, 
+RiB needs help to keep up with Rust blockchain projects.
+If you follow a particular project, or otherwise find information
+that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
@@ -150,6 +144,7 @@ encryption, AEAD encryption. It is also said to be performant.
 - [Geometry presents: Slush, a proposal for Fractal scaling](https://hackmd.io/@kalmanlajko/rkgg9GLG5#Security-and-the-problem-of-iterated-exits)
 - [Towards Practical Security Optimizations for Binaries](https://blog.trailofbits.com/2022/03/25/towards-practical-security-optimizations-for-binaries)
 - [High Assurance Rust](https://github.com/tnballo/high-assurance-rust). A book about developing secure and robust systems software.
+- [Taproot Asset Representation Overlay](https://bitcoinmagazine.com/technical/how-bitcoin-taro-protocol-works)
 
 #### Papers
 
@@ -158,6 +153,7 @@ encryption, AEAD encryption. It is also said to be performant.
 - [Gemini: elastic SNARKs for diverse environments](https://iacr.org/cryptodb/data/paper.php?pubkey=31934)
 - [Instachain: Breaking the Sharding Limits via Adjustable Quorums](https://eprint.iacr.org/2022/413)
 - [Light Clients for Lazy Blockchains](https://eprint.iacr.org/2022/384)
+- [MimbleWimble Broken](https://arxiv.org/abs/2112.13009)
 
 #### Projects
 
@@ -175,6 +171,7 @@ encryption, AEAD encryption. It is also said to be performant.
   A smart contract platform with high throughput, low latency, and an
   asset-oriented programming model powered by the Move programming
   language.
+- [reusable-taproot-addresses](https://github.com/w0xlt/reusable-taproot-addresses)
 
 &nbsp;
 
@@ -218,8 +215,8 @@ Bold entries here are especially relevant to blockchain projects.
 <!-- NB: This list needs to be kept in sync with rib-bible.md / rib-config.toml -->
 
 #### [Aleo](https://github.com/AleoHQ)
-103 merged PRs ([1][aleo-merged-prs-1], [2][aleo-merged-prs-2], [3][aleo-merged-prs-3]), 
-48 closed issues ([1][aleo-closed_issues-1], [2][aleo-closed_issues-2], [3][aleo-closed_issues-3]), 
+103 merged PRs ([1][aleo-merged-prs-1], [2][aleo-merged-prs-2], [3][aleo-merged-prs-3]),
+48 closed issues ([1][aleo-closed_issues-1], [2][aleo-closed_issues-2], [3][aleo-closed_issues-3]),
 19 open issues ([1][aleo-open_issues-1], [2][aleo-open_issues-2], [3][aleo-open_issues-3])
 
 [aleo-merged-prs-1]: https://github.com/AleoHQ/snarkOS/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -234,8 +231,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Anoma](https://github.com/anoma)
 
-28 merged PRs ([1][anoma-merged-prs-1], [2][anoma-merged-prs-2]), 
-26 closed issues ([1][anoma-closed_issues-1]), 
+28 merged PRs ([1][anoma-merged-prs-1], [2][anoma-merged-prs-2]),
+26 closed issues ([1][anoma-closed_issues-1]),
 20 open issues ([1][anoma-open_issues-1], [2][anoma-open_issues-2])
 
 [anoma-merged-prs-1]: https://github.com/anoma/anoma/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -248,8 +245,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [ChainSafe](https://github.com/ChainSafe)
 
-49 merged PRs ([1][chainsafe-merged-prs-1], [2][chainsafe-merged-prs-2], [3][chainsafe-merged-prs-3]), 
-29 closed issues ([1][chainsafe-closed_issues-1], [2][chainsafe-closed_issues-2], [3][chainsafe-closed_issues-3]), 
+49 merged PRs ([1][chainsafe-merged-prs-1], [2][chainsafe-merged-prs-2], [3][chainsafe-merged-prs-3]),
+29 closed issues ([1][chainsafe-closed_issues-1], [2][chainsafe-closed_issues-2], [3][chainsafe-closed_issues-3]),
 37 open issues ([1][chainsafe-open_issues-1], [2][chainsafe-open_issues-2], [3][chainsafe-open_issues-3])
 
 [chainsafe-merged-prs-1]: https://github.com/ChainSafe/mina-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -264,8 +261,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [COMIT](https://github.com/comit-network)
 
-10 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3]), 
-5 closed issues ([1][comit-closed_issues-1], [2][comit-closed_issues-2]), 
+10 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2], [3][comit-merged-prs-3]),
+5 closed issues ([1][comit-closed_issues-1], [2][comit-closed_issues-2]),
 7 open issues ([1][comit-open_issues-1], [2][comit-open_issues-2])
 
 [comit-merged-prs-1]: https://github.com/comit-network/maia/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -278,8 +275,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Concordium](https://github.com/Concordium)
 
-16 merged PRs ([1][concordium-merged-prs-1], [2][concordium-merged-prs-2], [3][concordium-merged-prs-3], [4][concordium-merged-prs-4], [5][concordium-merged-prs-5], [6][concordium-merged-prs-6], [7][concordium-merged-prs-7]), 
-1 closed issues ([1][concordium-closed_issues-1]), 
+16 merged PRs ([1][concordium-merged-prs-1], [2][concordium-merged-prs-2], [3][concordium-merged-prs-3], [4][concordium-merged-prs-4], [5][concordium-merged-prs-5], [6][concordium-merged-prs-6], [7][concordium-merged-prs-7]),
+1 closed issues ([1][concordium-closed_issues-1]),
 18 open issues ([1][concordium-open_issues-1], [2][concordium-open_issues-2], [3][concordium-open_issues-3], [4][concordium-open_issues-4])
 
 [concordium-merged-prs-1]: https://github.com/Concordium/concordium-rust-smart-contracts/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -297,8 +294,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Conflux](https://github.com/Conflux-Chain)
 
-24 merged PRs ([1][conflux-merged-prs-1]), 
-13 closed issues ([1][conflux-closed_issues-1]), 
+24 merged PRs ([1][conflux-merged-prs-1]),
+13 closed issues ([1][conflux-closed_issues-1]),
 1 open issues ([1][conflux-open_issues-1])
 
 [conflux-merged-prs-1]: https://github.com/Conflux-Chain/conflux-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -307,8 +304,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [DarkFi](https://dark.fi)
 
-1 merged PRs ([1][darkfi-merged-prs-1]), 
-5 closed issues ([1][darkfi-closed_issues-1]), 
+1 merged PRs ([1][darkfi-merged-prs-1]),
+5 closed issues ([1][darkfi-closed_issues-1]),
 1 open issues ([1][darkfi-open_issues-1])
 
 [darkfi-merged-prs-1]: https://github.com/darkrenaissance/darkfi/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -317,8 +314,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Dfinity](https://github.com/dfinity)
 
-96 merged PRs ([1][dfinity-merged-prs-1], [2][dfinity-merged-prs-2], [3][dfinity-merged-prs-3], [4][dfinity-merged-prs-4], [5][dfinity-merged-prs-5], [6][dfinity-merged-prs-6]), 
-9 closed issues ([1][dfinity-closed_issues-1], [2][dfinity-closed_issues-2], [3][dfinity-closed_issues-3], [4][dfinity-closed_issues-4], [5][dfinity-closed_issues-5]), 
+96 merged PRs ([1][dfinity-merged-prs-1], [2][dfinity-merged-prs-2], [3][dfinity-merged-prs-3], [4][dfinity-merged-prs-4], [5][dfinity-merged-prs-5], [6][dfinity-merged-prs-6]),
+9 closed issues ([1][dfinity-closed_issues-1], [2][dfinity-closed_issues-2], [3][dfinity-closed_issues-3], [4][dfinity-closed_issues-4], [5][dfinity-closed_issues-5]),
 8 open issues ([1][dfinity-open_issues-1], [2][dfinity-open_issues-2], [3][dfinity-open_issues-3])
 
 [dfinity-merged-prs-1]: https://github.com/dfinity/sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -340,8 +337,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Elrond](https://github.com/ElrondNetwork)
 
-121 merged PRs ([1][elrond-merged-prs-1], [2][elrond-merged-prs-2], [3][elrond-merged-prs-3], [4][elrond-merged-prs-4], [5][elrond-merged-prs-5], [6][elrond-merged-prs-6], [7][elrond-merged-prs-7]), 
-3 closed issues ([1][elrond-closed_issues-1], [2][elrond-closed_issues-2]), 
+121 merged PRs ([1][elrond-merged-prs-1], [2][elrond-merged-prs-2], [3][elrond-merged-prs-3], [4][elrond-merged-prs-4], [5][elrond-merged-prs-5], [6][elrond-merged-prs-6], [7][elrond-merged-prs-7]),
+3 closed issues ([1][elrond-closed_issues-1], [2][elrond-closed_issues-2]),
 2 open issues ([1][elrond-open_issues-1], [2][elrond-open_issues-2])
 
 [elrond-merged-prs-1]: https://github.com/ElrondNetwork/elrond-wasm-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -358,8 +355,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Espresso Systems](https://github.com/EspressoSystems)
 
-212 merged PRs ([1][espresso_systems-merged-prs-1], [2][espresso_systems-merged-prs-2], [3][espresso_systems-merged-prs-3], [4][espresso_systems-merged-prs-4], [5][espresso_systems-merged-prs-5]), 
-150 closed issues ([1][espresso_systems-closed_issues-1], [2][espresso_systems-closed_issues-2], [3][espresso_systems-closed_issues-3], [4][espresso_systems-closed_issues-4], [5][espresso_systems-closed_issues-5]), 
+212 merged PRs ([1][espresso_systems-merged-prs-1], [2][espresso_systems-merged-prs-2], [3][espresso_systems-merged-prs-3], [4][espresso_systems-merged-prs-4], [5][espresso_systems-merged-prs-5]),
+150 closed issues ([1][espresso_systems-closed_issues-1], [2][espresso_systems-closed_issues-2], [3][espresso_systems-closed_issues-3], [4][espresso_systems-closed_issues-4], [5][espresso_systems-closed_issues-5]),
 89 open issues ([1][espresso_systems-open_issues-1], [2][espresso_systems-open_issues-2], [3][espresso_systems-open_issues-3], [4][espresso_systems-open_issues-4])
 
 [espresso_systems-merged-prs-1]: https://github.com/EspressoSystems/jellyfish/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -382,8 +379,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Findora](https://github.com/FindoraNetwork)
 
-66 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2], [3][findora-merged-prs-3], [4][findora-merged-prs-4]), 
-2 closed issues ([1][findora-closed_issues-1]), 
+66 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2], [3][findora-merged-prs-3], [4][findora-merged-prs-4]),
+2 closed issues ([1][findora-closed_issues-1]),
 2 open issues ([1][findora-open_issues-1], [2][findora-open_issues-2])
 
 [findora-merged-prs-1]: https://github.com/FindoraNetwork/zei/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -396,8 +393,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Fluence](https://github.com/fluencelabs)
 
-28 merged PRs ([1][fluence-merged-prs-1], [2][fluence-merged-prs-2], [3][fluence-merged-prs-3], [4][fluence-merged-prs-4], [5][fluence-merged-prs-5]), 
-5 closed issues ([1][fluence-closed_issues-1], [2][fluence-closed_issues-2], [3][fluence-closed_issues-3]), 
+28 merged PRs ([1][fluence-merged-prs-1], [2][fluence-merged-prs-2], [3][fluence-merged-prs-3], [4][fluence-merged-prs-4], [5][fluence-merged-prs-5]),
+5 closed issues ([1][fluence-closed_issues-1], [2][fluence-closed_issues-2], [3][fluence-closed_issues-3]),
 11 open issues ([1][fluence-open_issues-1], [2][fluence-open_issues-2], [3][fluence-open_issues-3], [4][fluence-open_issues-4], [5][fluence-open_issues-5])
 
 [fluence-merged-prs-1]: https://github.com/fluencelabs/marine/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -416,8 +413,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Fuel](https://github.com/FuelLabs)
 
-240 merged PRs ([1][fuel-merged-prs-1], [2][fuel-merged-prs-2], [3][fuel-merged-prs-3], [4][fuel-merged-prs-4], [5][fuel-merged-prs-5], [6][fuel-merged-prs-6], [7][fuel-merged-prs-7], [8][fuel-merged-prs-8], [9][fuel-merged-prs-9], [10][fuel-merged-prs-10]), 
-135 closed issues ([1][fuel-closed_issues-1], [2][fuel-closed_issues-2], [3][fuel-closed_issues-3], [4][fuel-closed_issues-4], [5][fuel-closed_issues-5], [6][fuel-closed_issues-6], [7][fuel-closed_issues-7]), 
+240 merged PRs ([1][fuel-merged-prs-1], [2][fuel-merged-prs-2], [3][fuel-merged-prs-3], [4][fuel-merged-prs-4], [5][fuel-merged-prs-5], [6][fuel-merged-prs-6], [7][fuel-merged-prs-7], [8][fuel-merged-prs-8], [9][fuel-merged-prs-9], [10][fuel-merged-prs-10]),
+135 closed issues ([1][fuel-closed_issues-1], [2][fuel-closed_issues-2], [3][fuel-closed_issues-3], [4][fuel-closed_issues-4], [5][fuel-closed_issues-5], [6][fuel-closed_issues-6], [7][fuel-closed_issues-7]),
 104 open issues ([1][fuel-open_issues-1], [2][fuel-open_issues-2], [3][fuel-open_issues-3], [4][fuel-open_issues-4], [5][fuel-open_issues-5], [6][fuel-open_issues-6], [7][fuel-open_issues-7], [8][fuel-open_issues-8], [9][fuel-open_issues-9])
 
 [fuel-merged-prs-1]: https://github.com/FuelLabs/fuel-asm/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -449,8 +446,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Golem](https://github.com/golemfactory)
 
-42 merged PRs ([1][golem-merged-prs-1], [2][golem-merged-prs-2], [3][golem-merged-prs-3], [4][golem-merged-prs-4]), 
-34 closed issues ([1][golem-closed_issues-1], [2][golem-closed_issues-2], [3][golem-closed_issues-3]), 
+42 merged PRs ([1][golem-merged-prs-1], [2][golem-merged-prs-2], [3][golem-merged-prs-3], [4][golem-merged-prs-4]),
+34 closed issues ([1][golem-closed_issues-1], [2][golem-closed_issues-2], [3][golem-closed_issues-3]),
 34 open issues ([1][golem-open_issues-1], [2][golem-open_issues-2], [3][golem-open_issues-3])
 
 [golem-merged-prs-1]: https://github.com/golemfactory/yagna/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -466,8 +463,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Grin](https://github.com/mimblewimble/grin)
 
-5 merged PRs ([1][grin-merged-prs-1], [2][grin-merged-prs-2]), 
-1 closed issues ([1][grin-closed_issues-1]), 
+5 merged PRs ([1][grin-merged-prs-1], [2][grin-merged-prs-2]),
+1 closed issues ([1][grin-closed_issues-1]),
 1 open issues ([1][grin-open_issues-1])
 
 [grin-merged-prs-1]: https://github.com/mimblewimble/grin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -477,8 +474,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Helium](https://github.com/helium)
 
-25 merged PRs ([1][helium-merged-prs-1], [2][helium-merged-prs-2], [3][helium-merged-prs-3], [4][helium-merged-prs-4], [5][helium-merged-prs-5]), 
-15 closed issues ([1][helium-closed_issues-1], [2][helium-closed_issues-2]), 
+25 merged PRs ([1][helium-merged-prs-1], [2][helium-merged-prs-2], [3][helium-merged-prs-3], [4][helium-merged-prs-4], [5][helium-merged-prs-5]),
+15 closed issues ([1][helium-closed_issues-1], [2][helium-closed_issues-2]),
 3 open issues ([1][helium-open_issues-1])
 
 [helium-merged-prs-1]: https://github.com/helium/gateway-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -492,8 +489,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Holochain](https://github.com/holochain/)
 
-44 merged PRs ([1][holochain-merged-prs-1], [2][holochain-merged-prs-2]), 
-3 closed issues ([1][holochain-closed_issues-1], [2][holochain-closed_issues-2]), 
+44 merged PRs ([1][holochain-merged-prs-1], [2][holochain-merged-prs-2]),
+3 closed issues ([1][holochain-closed_issues-1], [2][holochain-closed_issues-2]),
 3 open issues ([1][holochain-open_issues-1], [2][holochain-open_issues-2])
 
 [holochain-merged-prs-1]: https://github.com/holochain/holochain/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -505,8 +502,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [IOTA](https://github.com/iotaledger)
 
-261 merged PRs ([1][iota-merged-prs-1], [2][iota-merged-prs-2], [3][iota-merged-prs-3], [4][iota-merged-prs-4], [5][iota-merged-prs-5], [6][iota-merged-prs-6], [7][iota-merged-prs-7], [8][iota-merged-prs-8]), 
-102 closed issues ([1][iota-closed_issues-1], [2][iota-closed_issues-2], [3][iota-closed_issues-3], [4][iota-closed_issues-4], [5][iota-closed_issues-5], [6][iota-closed_issues-6]), 
+261 merged PRs ([1][iota-merged-prs-1], [2][iota-merged-prs-2], [3][iota-merged-prs-3], [4][iota-merged-prs-4], [5][iota-merged-prs-5], [6][iota-merged-prs-6], [7][iota-merged-prs-7], [8][iota-merged-prs-8]),
+102 closed issues ([1][iota-closed_issues-1], [2][iota-closed_issues-2], [3][iota-closed_issues-3], [4][iota-closed_issues-4], [5][iota-closed_issues-5], [6][iota-closed_issues-6]),
 42 open issues ([1][iota-open_issues-1], [2][iota-open_issues-2], [3][iota-open_issues-3], [4][iota-open_issues-4], [5][iota-open_issues-5], [6][iota-open_issues-6], [7][iota-open_issues-7])
 
 [iota-merged-prs-1]: https://github.com/iotaledger/bee/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -533,8 +530,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Maidsafe](https://github.com/maidsafe)
 
-74 merged PRs ([1][maidsafe-merged-prs-1], [2][maidsafe-merged-prs-2], [3][maidsafe-merged-prs-3], [4][maidsafe-merged-prs-4], [5][maidsafe-merged-prs-5], [6][maidsafe-merged-prs-6], [7][maidsafe-merged-prs-7]), 
-12 closed issues ([1][maidsafe-closed_issues-1], [2][maidsafe-closed_issues-2], [3][maidsafe-closed_issues-3]), 
+74 merged PRs ([1][maidsafe-merged-prs-1], [2][maidsafe-merged-prs-2], [3][maidsafe-merged-prs-3], [4][maidsafe-merged-prs-4], [5][maidsafe-merged-prs-5], [6][maidsafe-merged-prs-6], [7][maidsafe-merged-prs-7]),
+12 closed issues ([1][maidsafe-closed_issues-1], [2][maidsafe-closed_issues-2], [3][maidsafe-closed_issues-3]),
 10 open issues ([1][maidsafe-open_issues-1], [2][maidsafe-open_issues-2], [3][maidsafe-open_issues-3], [4][maidsafe-open_issues-4])
 
 [maidsafe-merged-prs-1]: https://github.com/maidsafe/sn_dbc/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -556,8 +553,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
-103 merged PRs ([1][mobilecoin-merged-prs-1], [2][mobilecoin-merged-prs-2]), 
-19 closed issues ([1][mobilecoin-closed_issues-1]), 
+103 merged PRs ([1][mobilecoin-merged-prs-1], [2][mobilecoin-merged-prs-2]),
+19 closed issues ([1][mobilecoin-closed_issues-1]),
 50 open issues ([1][mobilecoin-open_issues-1])
 
 [mobilecoin-merged-prs-1]: https://github.com/mobilecoinfoundation/mobilecoin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -567,8 +564,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
-167 merged PRs ([1][near-merged-prs-1], [2][near-merged-prs-2], [3][near-merged-prs-3], [4][near-merged-prs-4], [5][near-merged-prs-5], [6][near-merged-prs-6], [7][near-merged-prs-7], [8][near-merged-prs-8], [9][near-merged-prs-9], [10][near-merged-prs-10]), 
-119 closed issues ([1][near-closed_issues-1], [2][near-closed_issues-2], [3][near-closed_issues-3], [4][near-closed_issues-4], [5][near-closed_issues-5], [6][near-closed_issues-6], [7][near-closed_issues-7], [8][near-closed_issues-8]), 
+167 merged PRs ([1][near-merged-prs-1], [2][near-merged-prs-2], [3][near-merged-prs-3], [4][near-merged-prs-4], [5][near-merged-prs-5], [6][near-merged-prs-6], [7][near-merged-prs-7], [8][near-merged-prs-8], [9][near-merged-prs-9], [10][near-merged-prs-10]),
+119 closed issues ([1][near-closed_issues-1], [2][near-closed_issues-2], [3][near-closed_issues-3], [4][near-closed_issues-4], [5][near-closed_issues-5], [6][near-closed_issues-6], [7][near-closed_issues-7], [8][near-closed_issues-8]),
 68 open issues ([1][near-open_issues-1], [2][near-open_issues-2], [3][near-open_issues-3], [4][near-open_issues-4], [5][near-open_issues-5], [6][near-open_issues-6], [7][near-open_issues-7], [8][near-open_issues-8], [9][near-open_issues-9])
 
 [near-merged-prs-1]: https://github.com/near/workspaces-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -603,8 +600,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Nervos](https://github.com/nervosnetwork)
 
-174 merged PRs ([1][nervos-merged-prs-1], [2][nervos-merged-prs-2], [3][nervos-merged-prs-3], [4][nervos-merged-prs-4], [5][nervos-merged-prs-5], [6][nervos-merged-prs-6], [7][nervos-merged-prs-7], [8][nervos-merged-prs-8], [9][nervos-merged-prs-9]), 
-10 closed issues ([1][nervos-closed_issues-1], [2][nervos-closed_issues-2], [3][nervos-closed_issues-3], [4][nervos-closed_issues-4], [5][nervos-closed_issues-5]), 
+174 merged PRs ([1][nervos-merged-prs-1], [2][nervos-merged-prs-2], [3][nervos-merged-prs-3], [4][nervos-merged-prs-4], [5][nervos-merged-prs-5], [6][nervos-merged-prs-6], [7][nervos-merged-prs-7], [8][nervos-merged-prs-8], [9][nervos-merged-prs-9]),
+10 closed issues ([1][nervos-closed_issues-1], [2][nervos-closed_issues-2], [3][nervos-closed_issues-3], [4][nervos-closed_issues-4], [5][nervos-closed_issues-5]),
 4 open issues ([1][nervos-open_issues-1], [2][nervos-open_issues-2], [3][nervos-open_issues-3], [4][nervos-open_issues-4])
 
 [nervos-merged-prs-1]: https://github.com/nervosnetwork/axon/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -628,8 +625,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Oasis](https://github.com/oasisprotocol)
 
-40 merged PRs ([1][oasis-merged-prs-1], [2][oasis-merged-prs-2], [3][oasis-merged-prs-3]), 
-2 closed issues ([1][oasis-closed_issues-1], [2][oasis-closed_issues-2]), 
+40 merged PRs ([1][oasis-merged-prs-1], [2][oasis-merged-prs-2], [3][oasis-merged-prs-3]),
+2 closed issues ([1][oasis-closed_issues-1], [2][oasis-closed_issues-2]),
 5 open issues ([1][oasis-open_issues-1])
 
 [oasis-merged-prs-1]: https://github.com/oasisprotocol/oasis-sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -643,8 +640,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Parity](https://github.com/paritytech)
 
-534 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6], [7][parity-merged-prs-7], [8][parity-merged-prs-8], [9][parity-merged-prs-9], [10][parity-merged-prs-10], [11][parity-merged-prs-11], [12][parity-merged-prs-12], [13][parity-merged-prs-13], [14][parity-merged-prs-14], [15][parity-merged-prs-15]), 
-164 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5], [6][parity-closed_issues-6], [7][parity-closed_issues-7], [8][parity-closed_issues-8], [9][parity-closed_issues-9], [10][parity-closed_issues-10], [11][parity-closed_issues-11], [12][parity-closed_issues-12], [13][parity-closed_issues-13], [14][parity-closed_issues-14]), 
+534 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6], [7][parity-merged-prs-7], [8][parity-merged-prs-8], [9][parity-merged-prs-9], [10][parity-merged-prs-10], [11][parity-merged-prs-11], [12][parity-merged-prs-12], [13][parity-merged-prs-13], [14][parity-merged-prs-14], [15][parity-merged-prs-15]),
+164 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5], [6][parity-closed_issues-6], [7][parity-closed_issues-7], [8][parity-closed_issues-8], [9][parity-closed_issues-9], [10][parity-closed_issues-10], [11][parity-closed_issues-11], [12][parity-closed_issues-12], [13][parity-closed_issues-13], [14][parity-closed_issues-14]),
 98 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5], [6][parity-open_issues-6], [7][parity-open_issues-7], [8][parity-open_issues-8], [9][parity-open_issues-9], [10][parity-open_issues-10], [11][parity-open_issues-11], [12][parity-open_issues-12], [13][parity-open_issues-13], [14][parity-open_issues-14])
 
 [parity-merged-prs-1]: https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -696,8 +693,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
-6 merged PRs ([1][secret_network-merged-prs-1], [2][secret_network-merged-prs-2]), 
-9 closed issues ([1][secret_network-closed_issues-1]), 
+6 merged PRs ([1][secret_network-merged-prs-1], [2][secret_network-merged-prs-2]),
+9 closed issues ([1][secret_network-closed_issues-1]),
 4 open issues ([1][secret_network-open_issues-1])
 
 [secret_network-merged-prs-1]: https://github.com/scrtlabs/SecretNetwork/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -709,8 +706,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Solana](https://github.com/solana-labs/solana)
 
-449 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2], [3][solana-merged-prs-3]), 
-112 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]), 
+449 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2], [3][solana-merged-prs-3]),
+112 closed issues ([1][solana-closed_issues-1], [2][solana-closed_issues-2]),
 79 open issues ([1][solana-open_issues-1], [2][solana-open_issues-2], [3][solana-open_issues-3])
 
 [solana-merged-prs-1]: https://github.com/solana-labs/solana/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -730,8 +727,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Subspace Labs](https://github.com/subspace)
 
-25 merged PRs ([1][subspace_labs-merged-prs-1]), 
-8 closed issues ([1][subspace_labs-closed_issues-1]), 
+25 merged PRs ([1][subspace_labs-merged-prs-1]),
+8 closed issues ([1][subspace_labs-closed_issues-1]),
 2 open issues ([1][subspace_labs-open_issues-1])
 
 [subspace_labs-merged-prs-1]: https://github.com/subspace/subspace/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -740,8 +737,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [TezEdge](https://github.com/tezedge)
 
-57 merged PRs ([1][tezedge-merged-prs-1], [2][tezedge-merged-prs-2]), 
-1 closed issues ([1][tezedge-closed_issues-1]), 
+57 merged PRs ([1][tezedge-merged-prs-1], [2][tezedge-merged-prs-2]),
+1 closed issues ([1][tezedge-closed_issues-1]),
 1 open issues ([1][tezedge-open_issues-1])
 
 [tezedge-merged-prs-1]: https://github.com/tezedge/tezedge/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -751,8 +748,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Zcash](https://github.com/zcash)
 
-144 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]), 
-187 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2]), 
+144 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]),
+187 closed issues ([1][zcash-closed_issues-1], [2][zcash-closed_issues-2]),
 37 open issues ([1][zcash-open_issues-1], [2][zcash-open_issues-2], [3][zcash-open_issues-3])
 
 [zcash-merged-prs-1]: https://github.com/ZcashFoundation/zebra/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -773,8 +770,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [BDK](https://github.com/bitcoindevkit/bdk)
 
-23 merged PRs ([1][bdk-merged-prs-1], [2][bdk-merged-prs-2], [3][bdk-merged-prs-3], [4][bdk-merged-prs-4]), 
-9 closed issues ([1][bdk-closed_issues-1], [2][bdk-closed_issues-2], [3][bdk-closed_issues-3]), 
+23 merged PRs ([1][bdk-merged-prs-1], [2][bdk-merged-prs-2], [3][bdk-merged-prs-3], [4][bdk-merged-prs-4]),
+9 closed issues ([1][bdk-closed_issues-1], [2][bdk-closed_issues-2], [3][bdk-closed_issues-3]),
 13 open issues ([1][bdk-open_issues-1], [2][bdk-open_issues-2], [3][bdk-open_issues-3], [4][bdk-open_issues-4], [5][bdk-open_issues-5])
 
 [bdk-merged-prs-1]: https://github.com/bitcoindevkit/bdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -790,20 +787,24 @@ Bold entries here are especially relevant to blockchain projects.
 [bdk-open_issues-4]: https://github.com/bitcoindevkit/rust-hwi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [bdk-open_issues-5]: https://github.com/bitcoindevkit/rust-electrum-client/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+- [BDK v0.4.0](https://github.com/bitcoindevkit/bdk-cli/releases/tag/v0.4.0)
+
 #### [Bitmask](https://github.com/diba-io/bitmask-core)
 
-6 merged PRs ([1][bitmask-merged-prs-1]), 
-3 closed issues ([1][bitmask-closed_issues-1]), 
+6 merged PRs ([1][bitmask-merged-prs-1]),
+3 closed issues ([1][bitmask-closed_issues-1]),
 9 open issues ([1][bitmask-open_issues-1])
 
 [bitmask-merged-prs-1]: https://github.com/diba-io/bitmask-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
 [bitmask-closed_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
 [bitmask-open_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+- [BitMask tBTC Web Wallet just released!](https://bitmask.app)
+
 #### [Electrs](https://github.com/romanz/electrs)
 
-1 merged PRs ([1][electrs-merged-prs-1]), 
-2 closed issues ([1][electrs-closed_issues-1]), 
+1 merged PRs ([1][electrs-merged-prs-1]),
+2 closed issues ([1][electrs-closed_issues-1]),
 2 open issues ([1][electrs-open_issues-1])
 
 [electrs-merged-prs-1]: https://github.com/romanz/electrs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -812,8 +813,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Internet2](https://github.com/internet2-wg/)
 
-5 merged PRs ([1][internet2-merged-prs-1]), 
-7 closed issues ([1][internet2-closed_issues-1]), 
+5 merged PRs ([1][internet2-merged-prs-1]),
+7 closed issues ([1][internet2-closed_issues-1]),
 2 open issues ([1][internet2-open_issues-1], [2][internet2-open_issues-2])
 
 [internet2-merged-prs-1]: https://github.com/Internet2-WG/rust-aluvm/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -823,8 +824,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [LDK](https://github.com/lightningdevkit/rust-lightning)
 
-48 merged PRs ([1][ldk-merged-prs-1], [2][ldk-merged-prs-2], [3][ldk-merged-prs-3]), 
-20 closed issues ([1][ldk-closed_issues-1], [2][ldk-closed_issues-2], [3][ldk-closed_issues-3]), 
+48 merged PRs ([1][ldk-merged-prs-1], [2][ldk-merged-prs-2], [3][ldk-merged-prs-3]),
+20 closed issues ([1][ldk-closed_issues-1], [2][ldk-closed_issues-2], [3][ldk-closed_issues-3]),
 17 open issues ([1][ldk-open_issues-1], [2][ldk-open_issues-2])
 
 [ldk-merged-prs-1]: https://github.com/lightningdevkit/rust-lightning/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -836,10 +837,12 @@ Bold entries here are especially relevant to blockchain projects.
 [ldk-open_issues-1]: https://github.com/lightningdevkit/rust-lightning/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [ldk-open_issues-2]: https://github.com/lightningdevkit/ldk-sample/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+- [Phantom Node Payments](https://github.com/lightningdevkit/rust-lightning/pull/1199)
+
 #### [LNP/BP](https://github.com/LNP-BP)
 
-24 merged PRs ([1][lnp/bp-merged-prs-1], [2][lnp/bp-merged-prs-2], [3][lnp/bp-merged-prs-3], [4][lnp/bp-merged-prs-4], [5][lnp/bp-merged-prs-5]), 
-11 closed issues ([1][lnp/bp-closed_issues-1], [2][lnp/bp-closed_issues-2], [3][lnp/bp-closed_issues-3]), 
+24 merged PRs ([1][lnp/bp-merged-prs-1], [2][lnp/bp-merged-prs-2], [3][lnp/bp-merged-prs-3], [4][lnp/bp-merged-prs-4], [5][lnp/bp-merged-prs-5]),
+11 closed issues ([1][lnp/bp-closed_issues-1], [2][lnp/bp-closed_issues-2], [3][lnp/bp-closed_issues-3]),
 4 open issues ([1][lnp/bp-open_issues-1], [2][lnp/bp-open_issues-2], [3][lnp/bp-open_issues-3])
 
 [lnp/bp-merged-prs-1]: https://github.com/LNP-BP/client_side_validation/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -856,7 +859,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [LNP WG](https://github.com/LNP-WG)
 
-1 merged PRs ([1][lnp_wg-merged-prs-1]), 
+1 merged PRs ([1][lnp_wg-merged-prs-1]),
 0 closed issues,
 2 open issues ([1][lnp_wg-open_issues-1])
 
@@ -865,7 +868,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Nakamoto](https://github.com/cloudhead/nakamoto)
 
-2 merged PRs ([1][nakamoto-merged-prs-1]), 
+2 merged PRs ([1][nakamoto-merged-prs-1]),
 0 closed issues,
 0 open issues
 
@@ -873,8 +876,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Nomic](https://github.com/nomic-io)
 
-5 merged PRs ([1][nomic-merged-prs-1], [2][nomic-merged-prs-2]), 
-1 closed issues ([1][nomic-closed_issues-1]), 
+5 merged PRs ([1][nomic-merged-prs-1], [2][nomic-merged-prs-2]),
+1 closed issues ([1][nomic-closed_issues-1]),
 0 open issues
 
 [nomic-merged-prs-1]: https://github.com/nomic-io/nomic/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -889,10 +892,12 @@ Bold entries here are especially relevant to blockchain projects.
 
 [rgb-open_issues-1]: https://github.com/RGB-WG/rgb-node/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+- [RGB roadmap to release 2022 (video)](https://youtu.be/9uI-5IAlzqo)
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
-61 merged PRs ([1][rust_bitcoin-merged-prs-1], [2][rust_bitcoin-merged-prs-2], [3][rust_bitcoin-merged-prs-3]), 
-13 closed issues ([1][rust_bitcoin-closed_issues-1], [2][rust_bitcoin-closed_issues-2]), 
+61 merged PRs ([1][rust_bitcoin-merged-prs-1], [2][rust_bitcoin-merged-prs-2], [3][rust_bitcoin-merged-prs-3]),
+13 closed issues ([1][rust_bitcoin-closed_issues-1], [2][rust_bitcoin-closed_issues-2]),
 15 open issues ([1][rust_bitcoin-open_issues-1], [2][rust_bitcoin-open_issues-2], [3][rust_bitcoin-open_issues-3])
 
 [rust_bitcoin-merged-prs-1]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -904,27 +909,32 @@ Bold entries here are especially relevant to blockchain projects.
 [rust_bitcoin-open_issues-2]: https://github.com/rust-bitcoin/rust-miniscript/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 [rust_bitcoin-open_issues-3]: https://github.com/rust-bitcoin/rust-bitcoincore-rpc/issues?q=is%3Aissue+is%3Aopen+created%3A2022-03-01..2022-03-31
 
+[The Rust Bitcoin project now has a logo!](https://github.com/rust-bitcoin/rust-bitcoin/tree/master/logo)
+
 #### [Rust Simplicity](https://github.com/ElementsProject/rust-simplicity)
 
-1 merged PRs ([1][rust_simplicity-merged-prs-1]), 
-0 closed issues, 
+1 merged PRs ([1][rust_simplicity-merged-prs-1]),
+0 closed issues,
 0 open issues
 
 [rust_simplicity-merged-prs-1]: https://github.com/ElementsProject/rust-simplicity/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
 
 #### [Sapio](https://github.com/sapio-lang/sapio)
 
-7 merged PRs ([1][sapio-merged-prs-1]), 
-1 closed issues ([1][sapio-closed_issues-1]), 
+7 merged PRs ([1][sapio-merged-prs-1]),
+1 closed issues ([1][sapio-closed_issues-1]),
 0 open issues
 
 [sapio-merged-prs-1]: https://github.com/sapio-lang/sapio/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
 [sapio-closed_issues-1]: https://github.com/sapio-lang/sapio/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-03-01..2022-03-31
 
+- [Sapio Studio Tutorial](https://rubin.io/bitcoin/2022/03/22/sapio-studio-btc-dev-mtg-6/)
+- [Sapio implementation of CTV DLCs](https://gist.github.com/JeremyRubin/bcaf58e50e870a55c6e27be0d3b94af0)
+
 #### [Talaia](https://github.com/talaia-labs/rust-teos)
 
-2 merged PRs ([1][talaia-merged-prs-1]), 
-0 closed issues, 
+2 merged PRs ([1][talaia-merged-prs-1]),
+0 closed issues,
 14 open issues ([1][talaia-open_issues-1])
 
 [talaia-merged-prs-1]: https://github.com/talaia-labs/rust-teos/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -937,8 +947,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Ethers-rs](https://github.com/gakonst/ethers-rs)
 
-85 merged PRs ([1][ethers-rs-merged-prs-1]), 
-16 closed issues ([1][ethers-rs-closed_issues-1]), 
+85 merged PRs ([1][ethers-rs-merged-prs-1]),
+16 closed issues ([1][ethers-rs-closed_issues-1]),
 12 open issues ([1][ethers-rs-open_issues-1])
 
 [ethers-rs-merged-prs-1]: https://github.com/gakonst/ethers-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -947,8 +957,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
-3 merged PRs ([1][lighthouse-merged-prs-1]), 
-22 closed issues ([1][lighthouse-closed_issues-1], [2][lighthouse-closed_issues-2]), 
+3 merged PRs ([1][lighthouse-merged-prs-1]),
+22 closed issues ([1][lighthouse-closed_issues-1], [2][lighthouse-closed_issues-2]),
 23 open issues ([1][lighthouse-open_issues-1])
 
 [lighthouse-merged-prs-1]: https://github.com/sigp/discv5/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -960,7 +970,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
-3 merged PRs ([1][rust_ethereum-merged-prs-1]), 
+3 merged PRs ([1][rust_ethereum-merged-prs-1]),
 0 closed issues,
 0 open issues
 
@@ -968,8 +978,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Rust Web3](https://github.com/tomusdrw/rust-web3)
 
-1 merged PRs ([1][rust_web3-merged-prs-1]), 
-2 closed issues ([1][rust_web3-closed_issues-1]), 
+1 merged PRs ([1][rust_web3-merged-prs-1]),
+2 closed issues ([1][rust_web3-closed_issues-1]),
 3 open issues ([1][rust_web3-open_issues-1])
 
 [rust_web3-merged-prs-1]: https://github.com/tomusdrw/rust-web3/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31
@@ -978,8 +988,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 
-7 merged PRs ([1][zksync-merged-prs-1], [2][zksync-merged-prs-2]), 
-43 closed issues ([1][zksync-closed_issues-1]), 
+7 merged PRs ([1][zksync-merged-prs-1], [2][zksync-merged-prs-2]),
+43 closed issues ([1][zksync-closed_issues-1]),
 0 open issues
 
 [zksync-merged-prs-1]: https://github.com/matter-labs/zksync/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-03-01..2022-03-31

@@ -1,10 +1,12 @@
 ---
-title: "RiB Newsletter #34 - _TODO_"
+title: "RiB Newsletter #34"
 description: "March 2022"
 date: 2022-04-06
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #34 edition of Rust in Blockchain.
+This month we refreshed and reorganized the set of GitHub repositories we track,
+and which are listed in the Project Updates section."
 ---
 
 Welcome to the #34 edition of Rust in Blockchain, the monthly
@@ -82,7 +84,7 @@ we've also expanded the [Most Active] rankings from 3 to 5 projects.
 This month's data shows that [IOTA], [Fuel], and [Espresso]
 are among the most actively developed Rust blockchain projects.
 
-[Most Active]: #most-active
+[Most Active]: #most-active-in-march
 [IOTA]: https://github.com/iotaledger
 [Fuel]: https://github.com/FuelLabs
 [Espresso]: https://github.com/EspressoSystems

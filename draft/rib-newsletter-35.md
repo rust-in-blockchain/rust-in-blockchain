@@ -20,6 +20,7 @@ Thanks to contributors:
 
 _TODO_
 
+[Radha].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -28,6 +29,8 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+
+[Radha]: https://github.com/DrW3RK
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -215,6 +218,10 @@ Company name | Location A, B, Remote
 
 -->
 
+Web3 Foundation | Zug or Remote
+- [Technical Grants Evaluator](https://web3.bamboohr.com/jobs/view.php?id=85)
+- [Technical Educator](https://web3.bamboohr.com/jobs/view.php?id=100)
+- [Spec Engineer](https://web3.bamboohr.com/jobs/view.php?id=101)
 
 
 More jobs can be found at [Job Board][page-jobboard].

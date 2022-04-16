@@ -36,11 +36,12 @@ Aurora | Remote
 Blockstream | Remote
 - [Software Library Engineer (Rust)](https://grnh.se/fc3876861us)
 - [Software Library Engineer (C++)](https://grnh.se/69d260dc1us)
-- [Full-Stack Software Engineer](https://grnh.se/aed921721us)
 - [Network Engineer](https://grnh.se/6ac8f7f11us)
 - [Sr. Product Manager](https://grnh.se/11354dd01us)
 - [Product Manager](https://grnh.se/1bdd2ced1us)
 - [Technical Project Manager](https://grnh.se/ca7b51b81us)
+- [QA Engineer](https://grnh.se/ce2891871us)
+- [Don't see a role that fits? Apply here!](https://grnh.se/e53608a01us)
 
 Bolt Labs | US, Remote
 - [Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1pPcX7Pt)

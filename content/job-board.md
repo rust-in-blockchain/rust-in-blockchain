@@ -41,6 +41,7 @@ Blockstream | Remote
 - [Product Manager](https://grnh.se/1bdd2ced1us)
 - [Technical Project Manager](https://grnh.se/ca7b51b81us)
 - [QA Engineer](https://grnh.se/ce2891871us)
+- [Qt Engineer](https://grnh.se/2bf5f9981us)
 - [Don't see a role that fits? Apply here!](https://grnh.se/e53608a01us)
 
 Bolt Labs | US, Remote

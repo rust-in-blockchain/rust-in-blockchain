@@ -118,6 +118,9 @@ Fuel Labs | Remote
 Hubble (Solana, DeFi) | London, Remote
 - [Software engineer](https://hubble.markets/careers)
 
+HashCloak | Toronto, Remote
+- [Junior Research Engineer (MPC)](https://hackmd.io/@hashcloak/HJz2Xn3Z9)
+
 IO Global | Remote
 - [Software Engineer - Rust](https://apply.workable.com/io-global/j/40A7923138/)
 - [Software Engineering Lead - Rust](https://apply.workable.com/io-global/j/870698A849/)

@@ -20,6 +20,8 @@ Thanks to contributors:
 
 _TODO_
 
+[djddo],
+[Mikerah],
 [Radha].
 Thank you for your help!
 
@@ -30,6 +32,8 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 
+[djddo]: https://github.com/djddo
+[Mikerah]: https://github.com/Mikerah
 [Radha]: https://github.com/DrW3RK
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
@@ -219,6 +223,20 @@ Company name | Location A, B, Remote
 - [Job 2](https://job.two)
 
 -->
+
+Blockstream | Remote
+- [Software Library Engineer (Rust)](https://grnh.se/fc3876861us)
+- [Software Library Engineer (C++)](https://grnh.se/69d260dc1us)
+- [Network Engineer](https://grnh.se/6ac8f7f11us)
+- [Sr. Product Manager](https://grnh.se/11354dd01us)
+- [Product Manager](https://grnh.se/1bdd2ced1us)
+- [Technical Project Manager](https://grnh.se/ca7b51b81us)
+- [QA Engineer](https://grnh.se/ce2891871us)
+- [Qt Engineer](https://grnh.se/2bf5f9981us)
+- [Don't see a role that fits? Apply here!](https://grnh.se/e53608a01us)
+
+HashCloak | Toronto, Remote
+- [Junior Research Engineer (MPC)](https://hackmd.io/@hashcloak/HJz2Xn3Z9)
 
 Web3 Foundation | Zug or Remote
 - [Technical Grants Evaluator](https://web3.bamboohr.com/jobs/view.php?id=85)

@@ -46,6 +46,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
+
 #### News
 
 
@@ -57,6 +58,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [StoffelMPC: A framework for building MPC as a sidechain applications for blockchains](https://write.as/hashcloaks-blog/announcing-stoffelmpc-an-mpc-as-a-sidechain-framework)
 
 &nbsp;
 

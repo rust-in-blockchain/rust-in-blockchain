@@ -21,6 +21,7 @@ Thanks to contributors:
 _TODO_
 
 [djddo],
+[Max Wegman],
 [Mikerah],
 [Radha].
 Thank you for your help!
@@ -33,6 +34,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 
 [djddo]: https://github.com/djddo
+[Max Wegman]: https://github.com/mastermaxy
 [Mikerah]: https://github.com/Mikerah
 [Radha]: https://github.com/DrW3RK
 [Brian Anderson]: https://github.com/brson

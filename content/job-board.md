@@ -177,14 +177,17 @@ Oxygen | Dubai or Remote
 
 Parity Technologies | Berlin or Remote 
 - [Core Runtime Engineer - Substrate](https://grnh.se/dddd76283us)
-- [Rust/Core Developer](https://boards.greenhouse.io/parity/jobs/4030037003)
 - [Rust Core Developer - Smart Contract Platform](https://boards.greenhouse.io/parity/jobs/4852265003)
-- [Rust Core Developer - Solidity Compiler](https://boards.greenhouse.io/parity/jobs/4852012003)
 - [Senior Engineer - Enterprise Engineering](https://boards.greenhouse.io/parity/jobs/4897521003)
 - [Senior Full Stack Developer - Technical Runtime + UI](https://boards.greenhouse.io/parity/jobs/4328483003)
 - [Full Stack Engineer](https://boards.greenhouse.io/parity/jobs/4880046003)
 - [Parachains Engineer - Common Good](https://boards.greenhouse.io/parity/jobs/4794657003)
 - [Release Automation Engineer](https://boards.greenhouse.io/parity/jobs/4906067003)
+- [Rust / Core Engineer - Parachains Engineering](https://grnh.se/24949fb13us)
+- [Rust / Core Engineer - Parachains Protocol](https://grnh.se/06ef2e673us)
+- [Rust Engineer - Solidity Compiler](https://grnh.se/ea0ffdf73us)
+- [Rust Engineer - General opening](https://grnh.se/1cf2de503us)
+
 
 Pine Street Labs | San Francisco or Remote
 - [Custody Engineer](https://www.linkedin.com/hiring/jobs/2863929634/detail/)

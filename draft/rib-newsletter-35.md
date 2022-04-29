@@ -238,6 +238,12 @@ Blockstream | Remote
 HashCloak | Toronto, Remote
 - [Junior Research Engineer (MPC)](https://hackmd.io/@hashcloak/HJz2Xn3Z9)
 
+Parity | Remote, Berlin, Lisbon, or United Kingdom
+*[Rust / Core Engineer - Parachains Engineering)](https://grnh.se/24949fb13us)
+*[Rust / Core Engineer - Parachains Protocol](https://grnh.se/06ef2e673us)
+*[Rust Engineer - Solidity Compiler](https://grnh.se/ea0ffdf73us)
+*[Rust Engineer - General opening](https://grnh.se/1cf2de503us)
+
 Web3 Foundation | Zug or Remote
 - [Technical Grants Evaluator](https://web3.bamboohr.com/jobs/view.php?id=85)
 - [Technical Educator](https://web3.bamboohr.com/jobs/view.php?id=100)

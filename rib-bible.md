@@ -255,7 +255,6 @@ repos = [
 "FindoraNetwork/findora-scanner",
 "FindoraNetwork/bp",
 "FindoraNetwork/findora-exporter",
-"FindoraNetwork/findorad",
 "FindoraNetwork/abcf",
 "FindoraNetwork/bs3",
 "FindoraNetwork/storage",

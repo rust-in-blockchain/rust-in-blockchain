@@ -143,6 +143,10 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
+For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
+
+[ribtc]: https://t.me/rust_in_bitcoin
+
 #### [BDK](https://github.com/bitcoindevkit/bdk)
 
 #### [Bitmask](https://github.com/diba-io/bitmask-core)

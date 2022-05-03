@@ -711,6 +711,10 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
+For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
+
+[ribtc]: https://t.me/rust_in_bitcoin
+
 #### [BDK](https://github.com/bitcoindevkit/bdk)
 
 18 merged PRs ([1][bdk-merged-prs-1], [2][bdk-merged-prs-2], [3][bdk-merged-prs-3]),

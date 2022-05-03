@@ -12,6 +12,15 @@ newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #34](/newsletters/rib-newsletter-34/).
 
+We like hacking on many Rust blockchains,
+and hackathons are a great bite-sized opportunity to take a blockchain for a test-drive.
+This month Dfinity will be [holding a hackathon][hah],
+but that is the last one we have on the calendar.
+We're interested in listing more hackathons in the newsletter;
+if you are aware of any please let us know.
+
+[hah]: https://dfinity.org/supernova/
+
 Since adding a bunch of coverage last month for Rust Bitcoin projects,
 Hunter Trujillo has started a dedicated [Rust in Bitcoin][ribtc] Telegram channel.
 

@@ -825,6 +825,26 @@ repos = [
 ]
 ```
 
+### MyCitadel
+
+Media:
+
+- https://mycitadel.io/
+- https://twitter.com/mycitadel_io
+
+GitHub:
+
+- https://github.com/mycitadel
+
+```toml
+repos = [
+"mycitadel/citadel-runtime",
+"mycitadel/libcitadel",
+"mycitadel/mycitadel-desktop",
+"mycitadel/mycitadel-node",
+]
+```
+
 ### Nakamoto
 
 GitHub:

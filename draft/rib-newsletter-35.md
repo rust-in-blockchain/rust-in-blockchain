@@ -675,6 +675,15 @@ Bold entries here are especially relevant to blockchain projects.
 [lnp_wg-closed_issues-1]: https://github.com/LNP-WG/ln-types/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
 [lnp_wg-open_issues-1]: https://github.com/LNP-WG/ln-types/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
+#### [MyCitadel](https://github.com/orgs/mycitadel)
+
+0 merged PRs (),
+13 closed issues ([1][mycitadel-closed_issues-1]),
+11 open issues ([1][mycitadel-open_issues-1])
+
+[mycitadel-closed_issues-1]: https://github.com/mycitadel/mycitadel-desktop/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
+[mycitadel-open_issues-1]: https://github.com/mycitadel/mycitadel-desktop/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
 #### [Nakamoto](https://github.com/cloudhead/nakamoto)
 
 2 merged PRs ([1][nakamoto-merged-prs-1]),

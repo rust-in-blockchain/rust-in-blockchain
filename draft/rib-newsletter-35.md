@@ -152,8 +152,8 @@ Bold entries here are especially relevant to blockchain projects.
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
 
 - [RUSTSEC-2022-0017: Unsoundness in array-macro](https://rustsec.org/advisories/RUSTSEC-2022-0017.html).
-- [Dep Group Remote Memory Exhaustion (Denial of Service) in ckb](https://github.com/advisories/GHSA-j35p-q24r-5367).
-- [Relative Path Traversal in afire serve_static](https://github.com/advisories/GHSA-3227-r97m-8j95).
+- [GHSA-j35p-q24r-5367: Dep Group Remote Memory Exhaustion (Denial of Service) in ckb](https://github.com/advisories/GHSA-j35p-q24r-5367).
+- [GHSA-3227-r97m-8j95: Relative Path Traversal in afire serve_static](https://github.com/advisories/GHSA-3227-r97m-8j95).
 
 
 &nbsp;

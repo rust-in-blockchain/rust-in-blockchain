@@ -26,7 +26,8 @@ _TODO_
 [keymakercasa],
 [Max Wegman],
 [Mikerah],
-[Radha].
+[Radha]
+[Hunter Trujillo].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -61,6 +62,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+For Rust in Bitcoin, Taproot support has landed in rust-bitcoin and rust-miniscript. In addition, the first release of the [MyCitadel Wallet](https://github.com/mycitadel) was published by the LNP/BP team. It's fully written in Rust, supports hardware signers like the Ledger Nano X and BitBox, and uses GTK and [Relm](https://docs.rs/relm/latest/relm/).
+
 
 #### Blog Posts
 
@@ -71,6 +74,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [The Frozen Heart vulnerability in Bulletproofs](https://blog.trailofbits.com/2022/04/15/the-frozen-heart-vulnerability-in-bulletproofs/)
 - [The Frozen Heart vulnerability in PlonK](https://blog.trailofbits.com/2022/04/18/the-frozen-heart-vulnerability-in-plonk/)
 - [What's two-adicity?](https://www.cryptologie.net/article/559/whats-two-adicity/)
+- [Understanding RGB Protocol](https://medium.com/@FedericoTenga/understanding-rgb-protocol-7dc7819d3059)
+- [Miniscript is coming to Bitcoin, and to your Ledger Nano!](https://blog.ledger.com/miniscript-is-coming/)
+- [7 Theses on a next step for BIP-119](https://rubin.io/bitcoin/2022/04/17/next-steps-bip119/)
 
 #### Papers
 
@@ -88,6 +94,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [RISC Zero](https://github.com/risc0/risc0)
   is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
   Example: [Battleship on RISC Zero](https://www.risczero.com/docs/tutorial-examples/battleship_rust_tutorial)
+- [Vulcan Signer: Software for building an embedded PSBT signing device](https://github.com/mcroad/vulcan)
+- [Mori: A CLI descriptor-based wallet to be used to safely inherit bitcoin](https://github.com/BlockchainCommons/mori-cli)
 
 &nbsp;
 
@@ -670,6 +678,8 @@ Bold entries here are especially relevant to blockchain projects.
 [bdk-open_issues-2]: https://github.com/bitcoindevkit/bdk-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [bdk-open_issues-3]: https://github.com/bitcoindevkit/bdk-ffi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
+- [BDK v0.18.0](https://github.com/bitcoindevkit/bdk/releases/tag/v0.18.0)
+
 #### [Bitmask](https://github.com/diba-io/bitmask-core)
 
 7 merged PRs ([1][bitmask-merged-prs-1]),
@@ -679,6 +689,8 @@ Bold entries here are especially relevant to blockchain projects.
 [bitmask-merged-prs-1]: https://github.com/diba-io/bitmask-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
 [bitmask-closed_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
 [bitmask-open_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
+- [BitMask Chrome Extension publihsed to the Chrome Web Store!](https://chrome.google.com/webstore/detail/bitmask/momakdpclmaphlamgjcndbgfckjfpemp)
 
 #### [Electrs](https://github.com/romanz/electrs)
 
@@ -702,6 +714,8 @@ Bold entries here are especially relevant to blockchain projects.
 [ldk-closed_issues-1]: https://github.com/lightningdevkit/rust-lightning/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
 [ldk-closed_issues-2]: https://github.com/lightningdevkit/ldk-c-bindings/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
 [ldk-open_issues-1]: https://github.com/lightningdevkit/rust-lightning/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
+- [rust-lightning v0.0.106](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.106)
 
 #### [LNP/BP](https://github.com/LNP-BP)
 

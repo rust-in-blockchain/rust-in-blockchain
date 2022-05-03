@@ -235,6 +235,25 @@ Bold entries here are especially relevant to blockchain projects.
 
 - [IC Internals: Orthogonal Persistence](https://medium.com/dfinity/ic-internals-orthogonal-persistence-9e0c094aac1a)
 
+#### [Dusk Network](https://github.com/dusk-network)
+
+35 merged PRs ([1][dusk_network-merged-prs-1], [2][dusk_network-merged-prs-2], [3][dusk_network-merged-prs-3], [4][dusk_network-merged-prs-4], [5][dusk_network-merged-prs-5]),
+39 closed issues ([1][dusk_network-closed_issues-1], [2][dusk_network-closed_issues-2], [3][dusk_network-closed_issues-3], [4][dusk_network-closed_issues-4]),
+4 open issues ([1][dusk_network-open_issues-1], [2][dusk_network-open_issues-2], [3][dusk_network-open_issues-3])
+
+[dusk_network-merged-prs-1]: https://github.com/dusk-network/dusk-hamt/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
+[dusk_network-merged-prs-2]: https://github.com/dusk-network/plonk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
+[dusk_network-merged-prs-3]: https://github.com/dusk-network/rusk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
+[dusk_network-merged-prs-4]: https://github.com/dusk-network/wallet-cli/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
+[dusk_network-merged-prs-5]: https://github.com/dusk-network/wallet-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
+[dusk_network-closed_issues-1]: https://github.com/dusk-network/plonk/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
+[dusk_network-closed_issues-2]: https://github.com/dusk-network/rusk/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
+[dusk_network-closed_issues-3]: https://github.com/dusk-network/wallet-cli/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
+[dusk_network-closed_issues-4]: https://github.com/dusk-network/wallet-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
+[dusk_network-open_issues-1]: https://github.com/dusk-network/rusk/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+[dusk_network-open_issues-2]: https://github.com/dusk-network/rusk-vm/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+[dusk_network-open_issues-3]: https://github.com/dusk-network/wallet-core/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
 #### [Elrond](https://github.com/ElrondNetwork)
 
 93 merged PRs ([1][elrond-merged-prs-1], [2][elrond-merged-prs-2], [3][elrond-merged-prs-3], [4][elrond-merged-prs-4], [5][elrond-merged-prs-5], [6][elrond-merged-prs-6], [7][elrond-merged-prs-7], [8][elrond-merged-prs-8]),

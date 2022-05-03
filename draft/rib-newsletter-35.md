@@ -44,6 +44,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [Max Wegman]: https://github.com/mastermaxy
 [Mikerah]: https://github.com/Mikerah
 [Radha]: https://github.com/DrW3RK
+[Hunter Trujillo]: https://github.com/cryptoquick
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

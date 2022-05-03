@@ -62,8 +62,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 `risc0` is an implementation of the RISC-V instruction set that produces zero-knowledge proofs of execution.
 It can run arbitrary code produced by compilers of traditional languages like Rust.
-This would seem to make programming zero-knowledge proof programming more accessible to
-the average programmer.
+This would seem to make zero-knowledge proof programming more accessible to the average programmer.
 It was introduced in a recent [blog post],
 and with a [Battleship example] that shows how to create a fair distributed game of battleship
 without a trusted server.

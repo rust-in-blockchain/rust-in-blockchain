@@ -24,12 +24,13 @@ Hunter Trujillo has started a dedicated [Rust in Bitcoin][ribtc] Telegram channe
 Thanks to contributors:
 [djddo],
 [Genysys],
+[Hunter Trujillo],
 [Ilya Tegmark],
 [keymakercasa],
 [Max Wegman],
 [Mikerah],
-[Radha]
-[Hunter Trujillo].
+[Radha],
+[Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -41,12 +42,12 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 [djddo]: https://github.com/djddo
 [Genysys]:https://github.com/Genysys
+[Hunter Trujillo]: https://github.com/cryptoquick
 [Ilya Tegmark]: https://github.com/ilyategmark
 [keymakercasa]: https://github.com/keymakercasa
 [Max Wegman]: https://github.com/mastermaxy
 [Mikerah]: https://github.com/Mikerah
 [Radha]: https://github.com/DrW3RK
-[Hunter Trujillo]: https://github.com/cryptoquick
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -317,6 +318,8 @@ Bold entries here are especially relevant to blockchain projects.
 [elrond-merged-prs-8]: https://github.com/ElrondNetwork/sc-savings-account-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
 [elrond-open_issues-1]: https://github.com/ElrondNetwork/elrond-wasm-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [elrond-open_issues-2]: https://github.com/ElrondNetwork/sc-dex-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
+- [PLONK Critical Vulnerability Successfully Remediated](https://dusk.network/news/plonk-vulnerability-remediated)
 
 #### [Espresso Systems](https://github.com/EspressoSystems)
 
@@ -665,6 +668,8 @@ Bold entries here are especially relevant to blockchain projects.
 [subspace_labs-merged-prs-1]: https://github.com/subspace/subspace/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
 [subspace_labs-closed_issues-1]: https://github.com/subspace/subspace/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
 [subspace_labs-open_issues-1]: https://github.com/subspace/subspace/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
+- [Archiving Polkadot on the Subspace Aries Test Network](https://medium.com/subspace-network/archiving-polkadot-on-the-subspace-aries-test-network-b715b3e897a)
 
 #### [TezEdge](https://github.com/tezedge)
 

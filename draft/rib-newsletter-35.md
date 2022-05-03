@@ -52,11 +52,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
+- 
+
 
 #### News
 
 
 #### Blog Posts
+- [Mesa's New OpenCL Stack "Rusticl" Nearing Formal Support For OpenCL 3.0](https://www.phoronix.com/scan.php?page=news_item&px=Mesa-OpenCL-3.0-CTS-Passes)
+- [The Tower of Weakenings: Memory Models For Everyone](https://gankra.github.io/blah/tower-of-weakenings/)
 
 
 #### Papers

@@ -12,6 +12,18 @@ newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #34](/newsletters/rib-newsletter-34/).
 
+This month Trail of Bits published disclosure
+of a class of [security vulnerabilities in
+multiple zero-knowledge proof implementations][zkp].
+The four part series is a good read,
+though technically deep.
+One of the projects they audited and fixed
+is [Dusk Network's plonk][dnplonk] implementation in Rust,
+increasing that library's credibility.
+
+[zkp]: https://blog.trailofbits.com/2022/04/13/part-1-coordinated-disclosure-of-vulnerabilities-affecting-girault-bulletproofs-and-plonk/
+[dnplonk]: https://github.com/dusk-network/plonk
+
 We like hacking on many Rust blockchains,
 and hackathons are a great bite-sized opportunity to take a blockchain for a test-drive.
 This month Dfinity will be [holding a hackathon][hah],

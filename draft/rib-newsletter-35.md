@@ -12,6 +12,11 @@ newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #34](/newsletters/rib-newsletter-34/).
 
+Since adding a bunch of coverage last month for Rust Bitcoin projects,
+Hunter Trujillo has started a dedicated [Rust in Bitcoin][ribtc] Telegram channel.
+
+[ribtc]: https://t.me/rust_in_bitcoin
+
 &nbsp;
 
 ## Thanks

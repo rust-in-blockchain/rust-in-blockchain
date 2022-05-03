@@ -63,8 +63,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
-For Rust in Bitcoin, Taproot support has landed in rust-bitcoin and rust-miniscript. In addition, the first release of the [MyCitadel Wallet](https://github.com/mycitadel) was published by the LNP/BP team. It's fully written in Rust, supports hardware signers like the Ledger Nano X and BitBox, and uses GTK and [Relm](https://docs.rs/relm/latest/relm/).
-
+- For Rust in Bitcoin, Taproot support has landed in
+  [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) and
+  [rust-miniscript](https://github.com/rust-bitcoin/rust-miniscript). In
+  addition, the first release of the [MyCitadel
+  Wallet](https://github.com/mycitadel) was published by the
+  [LNP/BP](https://github.com/lnp-bp) team. It's fully written in Rust, supports
+  hardware signers like the Ledger Nano X and BitBox, and uses GTK and
+  [Relm](https://docs.rs/relm/latest/relm/).
 
 #### Blog Posts
 

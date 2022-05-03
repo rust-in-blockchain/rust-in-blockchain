@@ -618,16 +618,6 @@ Bold entries here are especially relevant to blockchain projects.
 [bitmask-closed_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
 [bitmask-open_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
-#### [BP-WG](https://github.com/BP-WG)
-
-2 merged PRs ([1][bp-wg-merged-prs-1]), 
-1 closed issues ([1][bp-wg-closed_issues-1]),
-1 open issues ([1][bp-wg-open_issues-1])
-
-[bp-wg-merged-prs-1]: https://github.com/BP-WG/descriptor-wallet/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
-[bp-wg-closed_issues-1]: https://github.com/BP-WG/descriptor-wallet/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
-[bp-wg-open_issues-1]: https://github.com/BP-WG/descriptor-wallet/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
-
 #### [Electrs](https://github.com/romanz/electrs)
 
 8 merged PRs ([1][electrs-merged-prs-1]),
@@ -653,14 +643,26 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [LNP/BP](https://github.com/LNP-BP)
 
-4 merged PRs ([1][lnp/bp-merged-prs-1]),
-2 closed issues ([1][lnp/bp-closed_issues-1], [2][lnp/bp-closed_issues-2]),
-5 open issues ([1][lnp/bp-open_issues-1])
+6 merged PRs ([1][lnp/bp-merged-prs-1], [2][lnp/bp-merged-prs-2]),
+3 closed issues ([1][lnp/bp-closed_issues-1], [2][lnp/bp-closed_issues-2], [3][lnp/bp-closed_issues-3]),
+6 open issues ([1][lnp/bp-open_issues-1], [2][lnp/bp-open_issues-2])
 
 [lnp/bp-merged-prs-1]: https://github.com/LNP-BP/client_side_validation/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
+[lnp/bp-merged-prs-2]: https://github.com/BP-WG/descriptor-wallet/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
 [lnp/bp-closed_issues-1]: https://github.com/LNP-BP/client_side_validation/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
 [lnp/bp-closed_issues-2]: https://github.com/rust-amplify/rust-amplify/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
+[lnp/bp-closed_issues-3]: https://github.com/BP-WG/descriptor-wallet/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
 [lnp/bp-open_issues-1]: https://github.com/rust-amplify/rust-amplify/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+[lnp/bp-open_issues-2]: https://github.com/BP-WG/descriptor-wallet/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
+#### [LNP WG](https://github.com/LNP-WG)
+
+0 merged PRs,
+1 closed issues ([1][lnp_wg-closed_issues-1]),
+3 open issues ([1][lnp_wg-open_issues-1])
+
+[lnp_wg-closed_issues-1]: https://github.com/LNP-WG/ln-types/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
+[lnp_wg-open_issues-1]: https://github.com/LNP-WG/ln-types/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
 #### [Nakamoto](https://github.com/cloudhead/nakamoto)
 

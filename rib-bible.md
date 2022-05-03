@@ -798,16 +798,14 @@ GitHub:
 
 ```toml
 repos = [
-"LNP-BP/bp-node",
-"LNP-BP/bp-core",
 "LNP-BP/client_side_validation",
-"LNP-BP/descriptor-wallet",
 "LNP-BP/rust-lnpbp",
-"LNP-BP/ln-types",
 "LNP-BP/invoices",
-"LNP-BP/rust-psbt",
-"LNP-BP/lnp-sdk",
 "rust-amplify/rust-amplify",
+"BP-WG/bp-node",
+"BP-WG/bp-core",
+"BP-WG/descriptor-wallet",
+"BP-WG/rust-psbt",
 ]
 ```
 
@@ -823,6 +821,7 @@ repos = [
 "LNP-WG/lnp-core",
 "LNP-WG/lnp-node",
 "LNP-WG/lightning_encoding",
+"LNP-WG/ln-types",
 ]
 ```
 

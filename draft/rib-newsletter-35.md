@@ -853,8 +853,9 @@ More jobs can be found at [Job Board][page-jobboard].
 Want to be included in the next issue? Feel free to submit a PR to the
 [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
-**Join the discussion on [RiB telegram group][ribtg]** **❤️**
+**Join the discussion on the [RiB][ribtg] and [Rust in Bitcoin][ribtc] Telegram groups** **❤️🧡**
 
 [ribtg]: https://t.me/rustinblockchain
+[ribtc]: https://t.me/rust_in_bitcoin
 
 

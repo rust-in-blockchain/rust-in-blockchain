@@ -17,9 +17,6 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
-_TODO_
-
 [djddo],
 [Genysys],
 [Ilya Tegmark],
@@ -104,6 +101,21 @@ Bold entries here are especially relevant to blockchain projects.
 
 ## Most Active in April
 
+[Solana](https://github.com/solana-labs/solana):
+590 merged PRs, 105 closed issues, 88 open issues
+
+[Parity](https://github.com/paritytech):
+471 merged PRs, 145 closed issues, 154 open issues
+
+[NEAR](https://github.com/nearprotocol/nearcore):
+219 merged PRs, 51 closed issues, 45 open issues
+
+[Fuel](https://github.com/FuelLabs):
+213 merged PRs, 145 closed issues, 134 open issues
+
+[IOTA](https://github.com/iotaledger):
+187 merged PRs, 46 closed issues, 34 open issues
+
 &nbsp;
 
 ## Project Updates
@@ -156,6 +168,8 @@ Bold entries here are especially relevant to blockchain projects.
 [chainsafe-open_issues-1]: https://github.com/ChainSafe/mina-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [chainsafe-open_issues-2]: https://github.com/ChainSafe/api3-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [chainsafe-open_issues-3]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
+- [An Intro to the Sauron Web Framework](https://blog.chainsafe.io/an-intro-to-the-sauron-web-framework-a6093a2ac9eb)
 
 #### [COMIT](https://github.com/comit-network)
 
@@ -491,6 +505,8 @@ Bold entries here are especially relevant to blockchain projects.
 [nervos-open_issues-1]: https://github.com/nervosnetwork/godwoken/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [nervos-open_issues-2]: https://github.com/nervosnetwork/capsule/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
+- [Hashing it Out: The Highlights](https://www.nervos.org/blog/hashing-it-out-the-highlights)
+
 #### [Oasis](https://github.com/oasisprotocol)
 
 40 merged PRs ([1][oasis-merged-prs-1], [2][oasis-merged-prs-2], [3][oasis-merged-prs-3]),
@@ -554,6 +570,8 @@ Bold entries here are especially relevant to blockchain projects.
 [parity-open_issues-14]: https://github.com/paritytech/metadata-portal/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [parity-open_issues-15]: https://github.com/paritytech/parity-bridges-common/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
+- [Parity Signer 5.0 Beta: Parity’s Advanced Air-Gapped Wallet Gets a Major Update](https://www.parity.io/blog/parity-signer-gets-a-major-update)
+
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 3 merged PRs ([1][secret_network-merged-prs-1], [2][secret_network-merged-prs-2]),
@@ -581,6 +599,7 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-open_issues-3]: https://github.com/solana-labs/solana-accountsdb-plugin-postgres/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
 - [Solana restarted after seven-hour outage caused by surge of transactions](https://www.reddit.com/r/solana/comments/ug09ze/solana_restarted_after_sevenhour_outage_caused_by/)
+- [04-30-22 Solana Mainnet Beta Outage Report and Mitigation](https://solana.com/news/04-30-22-solana-mainnet-beta-outage-report-mitigation)
 - [Neon EVM: The Limitations for Ethereum Compatibility](https://neonlabsorg.medium.com/neon-evm-the-limitations-for-ethereum-compatibility-47d059fc1742)
 - [Solana programs Part 2: understanding SPL Associated Token Account](https://medium.com/coinmonks/solana-programs-part-2-understanding-spl-associated-token-account-25082b9b5471)
 - [Solana programs Part 3: understanding Metaplex Token Metadata](https://medium.com/coinmonks/solana-programs-part-3-understanding-metaplex-token-metadata-3cafde284d72)
@@ -709,7 +728,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [MyCitadel](https://github.com/orgs/mycitadel)
 
-0 merged PRs (),
+0 merged PRs,
 13 closed issues ([1][mycitadel-closed_issues-1]),
 11 open issues ([1][mycitadel-open_issues-1])
 

@@ -58,9 +58,6 @@ Casa | Remote
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
 
-Chainlink | Remote
-- [Blockchain Tools Engineer - Entry Level](https://careers.smartcontract.com/o/blockchain-tools-engineer-entry-level)
-
 Cloud-On-Chain | Moscow
 - [CTO Cofounder — Rust Core Blockchain Engineer](https://itegmark.substack.com/p/cto-cofounder-rust-core-blockchain)
 
@@ -111,7 +108,7 @@ Kraken | Remote
 - [Backend Engineer - Rust - Core Backend](https://jobs.lever.co/kraken/4019a818-4a7b-46ef-9225-c53c7a7f238c)
 - [Backend Engineer, Kraken Futures - Rust](https://jobs.lever.co/kraken/fe1e07f4-6d7c-4f65-9a8f-27cf3b3fd2b1)
 - [Site Reliability Engineer - Rust - Core Backend](https://jobs.lever.co/kraken/1c6b290f-e430-430d-9b40-a258d07686b0)
-- [Rust API SDET](https://jobs.lever.co/kraken/5ec9958a-529c-4bae-89b3-0d1a104cbd81)
+- [Software Engineer in Test - Rust - Core Backend](https://jobs.lever.co/kraken/5ec9958a-529c-4bae-89b3-0d1a104cbd81)
 
 Massa | Paris, Remote
 - [Lead blockchain Developer](https://massa.net/lead_blockchain_developer.html)
@@ -125,18 +122,18 @@ Massa | Paris, Remote
 - [Lead Support Engineer](https://massa.net/lead_support_engineer.html)
 
 Matter Labs | Berlin/Kiev or Remote
-- [Junior Software Engineer](https://www.notion.so/Junior-Software-Engineer-2d062b60daf941f792ebac1958244f52)
-- [Protocol Security Engineer](https://www.notion.so/Protocol-Security-Engineer-Blockchain-444a7d5f558c412da70c3300815a620a)
+- [Junior Software Engineer (ACM ICPC/IOI finalists)](https://www.notion.so/Junior-Software-Engineer-ACM-ICPC-IOI-finalists-2d062b60daf941f792ebac1958244f52)
+- [Head of Security (Blockchain)](https://www.notion.so/Head-of-Security-Blockchain-444a7d5f558c412da70c3300815a620a)
 
 Moonbeam | Boston, MA USA; Madrid, Spain; Remote
-- [Senior Blockchain Engineer, Contract Runtime](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
+- [Senior Blockchain Engineer](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
 
 NEAR | Remote
 - [Low-Level Developer, Contract Runtime](https://docs.google.com/document/d/18HEwef-HDPZ2FPYfaHWpsd-kSF8E4zNpeQVulqhfFSk/edit?usp=sharing)
 - [Core Engineer](https://docs.google.com/document/d/1b5oJAM37_B2-stUsJ-xtAIsPnqMwdD0wu30ITvylCHk/edit?usp=sharing)
 
 Oxygen | Dubai or Remote
-- [Rust Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
+- [Smart Contract Engineer (Rust)](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
 
 Parity Technologies | Berlin or Remote 
 - [Core Runtime Engineer - Substrate](https://grnh.se/dddd76283us)
@@ -160,16 +157,16 @@ Soramitsu | Remote
 
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
-- [Blockchain Consensus Engineer](https://jobs.lever.co/subspacelabs/d5d62ccb-eaaf-43f4-83ad-11ebff2ce3a0)
+- [Protocol Engineer (Consensus)](https://jobs.lever.co/subspacelabs/d5d62ccb-eaaf-43f4-83ad-11ebff2ce3a0)
 - [P2P Network Engineer](https://jobs.lever.co/subspacelabs/6b2c3833-0bbb-409e-9484-049679390756)
-- [EVM Execution Engineer](https://jobs.lever.co/subspacelabs/9d8f9b6d-4141-4782-923a-2872a06c723e)
+- [WASM Execution Engineer](https://jobs.lever.co/subspacelabs/9d8f9b6d-4141-4782-923a-2872a06c723e)
 
 The Graph | Remote
-- [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer)
+- [Rust Engineer](https://thegraph.com/jobs/rust-engineer)
  
 Trail of Bits | Remote
-- [Cryptography Analyst](https://jobs.lever.co/trailofbits/56af8506-3205-4c7b-b28d-ba8292bd1a47)
-- [Application Security Engineer](https://jobs.lever.co/trailofbits/8b7f7fc1-efb0-4e89-b406-784c3a2d77e4)
+- [Security Consultant, Cryptography](https://jobs.lever.co/trailofbits/56af8506-3205-4c7b-b28d-ba8292bd1a47)
+- [Security Consultant, Application Security](https://jobs.lever.co/trailofbits/8b7f7fc1-efb0-4e89-b406-784c3a2d77e4)
 
 Web3 Foundation | Zug or Remote
 - [Technical Grants Evaluator](https://web3.bamboohr.com/jobs/view.php?id=85)

@@ -58,23 +58,36 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-- 
-
 
 #### News
 
 
 #### Blog Posts
+
 - [Mesa's New OpenCL Stack "Rusticl" Nearing Formal Support For OpenCL 3.0](https://www.phoronix.com/scan.php?page=news_item&px=Mesa-OpenCL-3.0-CTS-Passes)
 - [The Tower of Weakenings: Memory Models For Everyone](https://gankra.github.io/blah/tower-of-weakenings/)
-
+- [Coordinated disclosure of vulnerabilities affecting Girault, Bulletproofs, and PlonK](https://blog.trailofbits.com/2022/04/13/part-1-coordinated-disclosure-of-vulnerabilities-affecting-girault-bulletproofs-and-plonk/)
+- [The Frozen Heart vulnerability in Girault’s proof of knowledge](https://blog.trailofbits.com/2022/04/14/the-frozen-heart-vulnerability-in-giraults-proof-of-knowledge/)
+- [The Frozen Heart vulnerability in Bulletproofs](https://blog.trailofbits.com/2022/04/15/the-frozen-heart-vulnerability-in-bulletproofs/)
+- [The Frozen Heart vulnerability in PlonK](https://blog.trailofbits.com/2022/04/18/the-frozen-heart-vulnerability-in-plonk/)
+- [What's two-adicity?](https://www.cryptologie.net/article/559/whats-two-adicity/)
 
 #### Papers
 
+- [Practical Decentralized Oracle Contracts for Cryptocurrencies](https://eprint.iacr.org/2022/499)
+- [Design and analysis of a distributed ECDSA signing service](https://eprint.iacr.org/2022/506)
+- [Gemini: Elastic SNARKs for Diverse Environments](https://eprint.kobi.one/2022/420)
+- [Bulletproofs++](https://eprint.iacr.org/2022/510)
+- [Dew: Transparent Constant-sized zkSNARKs](https://eprint.iacr.org/2022/419)
 
 #### Projects
 
 - [StoffelMPC: A framework for building MPC as a sidechain applications for blockchains](https://write.as/hashcloaks-blog/announcing-stoffelmpc-an-mpc-as-a-sidechain-framework)
+- [oriac](https://github.com/xJonathanLEI/oriac).
+  A toy Cairo VM implementation in Rust
+- [RISC Zero](https://github.com/risc0/risc0)
+  is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
+  Example: [Battleship on RISC Zero](https://www.risczero.com/docs/tutorial-examples/battleship_rust_tutorial)
 
 &nbsp;
 
@@ -219,6 +232,8 @@ Bold entries here are especially relevant to blockchain projects.
 [dfinity-open_issues-2]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [dfinity-open_issues-3]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [dfinity-open_issues-4]: https://github.com/dfinity/quill/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
+- [IC Internals: Orthogonal Persistence](https://medium.com/dfinity/ic-internals-orthogonal-persistence-9e0c094aac1a)
 
 #### [Elrond](https://github.com/ElrondNetwork)
 
@@ -369,6 +384,8 @@ Bold entries here are especially relevant to blockchain projects.
 [holochain-merged-prs-2]: https://github.com/holochain/holochain-wasmer/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
 [holochain-open_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
+- [Holochain Dev Pulse 117: External Links](https://blog.holochain.org/external-links/)
+
 #### [IOTA](https://github.com/iotaledger)
 
 187 merged PRs ([1][iota-merged-prs-1], [2][iota-merged-prs-2], [3][iota-merged-prs-3], [4][iota-merged-prs-4], [5][iota-merged-prs-5], [6][iota-merged-prs-6]),
@@ -391,6 +408,8 @@ Bold entries here are especially relevant to blockchain projects.
 [iota-open_issues-3]: https://github.com/iotaledger/iota.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [iota-open_issues-4]: https://github.com/iotaledger/identity.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [iota-open_issues-5]: https://github.com/iotaledger/stronghold.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
+- [IOTA in Gaia-X 4 Future Mobility](https://blog.iota.org/iota-in-gaia-x-4-future-mobility/)
 
 #### [Maidsafe](https://github.com/maidsafe)
 
@@ -561,6 +580,11 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [solana-open_issues-3]: https://github.com/solana-labs/solana-accountsdb-plugin-postgres/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
+- [Solana restarted after seven-hour outage caused by surge of transactions](https://www.reddit.com/r/solana/comments/ug09ze/solana_restarted_after_sevenhour_outage_caused_by/)
+- [Neon EVM: The Limitations for Ethereum Compatibility](https://neonlabsorg.medium.com/neon-evm-the-limitations-for-ethereum-compatibility-47d059fc1742)
+- [Solana programs Part 2: understanding SPL Associated Token Account](https://medium.com/coinmonks/solana-programs-part-2-understanding-spl-associated-token-account-25082b9b5471)
+- [Solana programs Part 3: understanding Metaplex Token Metadata](https://medium.com/coinmonks/solana-programs-part-3-understanding-metaplex-token-metadata-3cafde284d72)
+
 #### [Subspace Labs](https://github.com/subspace)
 
 74 merged PRs ([1][subspace_labs-merged-prs-1]),
@@ -604,6 +628,8 @@ Bold entries here are especially relevant to blockchain projects.
 [zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [zcash-open_issues-4]: https://github.com/zcash/pasta_curves/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
+- [New Release 4.7.0](https://electriccoin.co/blog/new-release-4-7-0/)
 
 &nbsp;
 
@@ -814,7 +840,49 @@ Dec 1-2 | Online
 
 -->
 
+May 10 - Jun 20 | Online
 
+[Supernova: Dfinity hackthon](https://dfinity.org/supernova/)
+
+May 29-30 | Trondheim, Norway
+
+[CBCrypto 2022: International Workshop on Code-Based Cryptography](https://www.cb-crypto.org/)
+
+May 30 - Jun 3 | Trondheim, Norway
+
+[Eurocrypt 2022](https://eurocrypt.iacr.org/2022/)
+
+Jun 9-12 | Austin, TX, US
+
+[Consensus](https://www.coindesk.com/consensus2022/)
+
+Jun 13-17 | Šibenik, Croatia
+
+[Summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2022/)
+
+Jun 20-23 | New York, US
+
+[NFT.NYC](https://www.nft.nyc/)
+
+Jun 29-30 | Online, multiple cities
+
+[Polkadot Decoded](https://decoded.polkadot.network/)
+
+Aug 7-9 | Online, Las Vegas, US
+
+[Zcon3](https://zfnd.org/zcon3/)
+
+Aug 13-18 | Santa Barbara, CA, US
+
+[Crypto 2022](https://crypto.iacr.org/2022/)
+
+Aug 29-31 | Arrillaga Alumni Center, Stanford University
+
+[SBC'22: The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/)
+
+Oct 7-16 | Bogota, Colombia
+
+[Devcon Week](https://devcon.org/)
 
 &nbsp;
 

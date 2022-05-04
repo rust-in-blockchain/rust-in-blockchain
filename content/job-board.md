@@ -65,6 +65,9 @@ ChainSafe | Toronto, Remote
 cLabs / Celo | Remote
 - [Senior Rust Engineer](https://jobs.lever.co/clabs/46bf6e13-ef54-4a5c-9287-2c0557ad9db4)
 
+Cloud-On-Chain | Moscow
+- [CTO Cofounder — Rust Core Blockchain Engineer](https://itegmark.substack.com/p/cto-cofounder-rust-core-blockchain)
+
 Compound | Remote
 - [Rust Engineer](https://www.crypto-careers.com/jobs/39500671-rust-engineer-at-compound)
 

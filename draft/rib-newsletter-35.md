@@ -95,6 +95,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Gemini: Elastic SNARKs for Diverse Environments](https://eprint.kobi.one/2022/420)
 - [Bulletproofs++](https://eprint.iacr.org/2022/510)
 - [Dew: Transparent Constant-sized zkSNARKs](https://eprint.iacr.org/2022/419)
+- [Crime and Punishment in Distributed Byzantine Decision Tasks (Extended Version)](https://eprint.iacr.org/2022/121)
 
 #### Projects
 

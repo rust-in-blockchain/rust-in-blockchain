@@ -72,6 +72,9 @@ Findora | Beijing, China; Menlo Park, CA
 Fluence | Remote
 - [Rust Engineer (AquaVM)](https://docs.google.com/document/d/1941617PiUwIUSccQVS-5UDX8kRitp36mTLBgzVtspfQ/edit?usp=sharing)
 
+Fractal Protocol | Remote or Berlin
+- [Rust and Blockchain Engineer](https://gist.github.com/juliosantos/ba6d01ffab39b5c06ea459d88b1f735f)
+
 Fuel Labs | Remote
 - [Application Engineer [Rust, Sway]](https://jobs.lever.co/fuellabs/05417e26-4c6a-4be6-8fb9-95b51daf74cd)
 - [Compiler/Language Engineer [Rust]](https://jobs.lever.co/fuellabs/5c5e0c29-2657-4046-ae24-0e3674361450)
@@ -122,6 +125,9 @@ Moonbeam | Boston, MA USA; Madrid, Spain; Remote
 NEAR | Remote
 - [Low-Level Developer, Contract Runtime](https://docs.google.com/document/d/18HEwef-HDPZ2FPYfaHWpsd-kSF8E4zNpeQVulqhfFSk/edit?usp=sharing)
 - [Core Engineer](https://docs.google.com/document/d/1b5oJAM37_B2-stUsJ-xtAIsPnqMwdD0wu30ITvylCHk/edit?usp=sharing)
+
+Oxygen | Dubai or Remote
+- [Rust Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
 
 Parity Technologies | Berlin or Remote 
 - [Core Runtime Engineer - Substrate](https://grnh.se/dddd76283us)

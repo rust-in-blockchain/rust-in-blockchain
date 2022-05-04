@@ -21,6 +21,9 @@ Thanks to contributors:
 _TODO_
 
 [djddo],
+[Genysys],
+[Ilya Tegmark],
+[keymakercasa],
 [Max Wegman],
 [Mikerah],
 [Radha].
@@ -34,6 +37,9 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 
 [djddo]: https://github.com/djddo
+[Genysys]:https://github.com/Genysys
+[Ilya Tegmark]: https://github.com/ilyategmark
+[keymakercasa]: https://github.com/keymakercasa
 [Max Wegman]: https://github.com/mastermaxy
 [Mikerah]: https://github.com/Mikerah
 [Radha]: https://github.com/DrW3RK
@@ -832,6 +838,15 @@ Blockstream | Remote
 - [QA Engineer](https://grnh.se/ce2891871us)
 - [Qt Engineer](https://grnh.se/2bf5f9981us)
 - [Don't see a role that fits? Apply here!](https://grnh.se/e53608a01us)
+
+Casa | Remote
+- [Senior Infrastructure Engineer](https://tinyurl.com/Sr-Infra-RiB)
+- [Lead Infrastructure Engineer](https://tinyurl.com/Lead-Infra-RiB)
+- [Senior Backend Software Engineer](https://tinyurl.com/Sr-Backend-RiB)
+- [Senior iOS Engineer](https://tinyurl.com/Sr-iOS-RiB)
+
+Cloud-On-Chain | Moscow
+- [CTO Cofounder — Rust Core Blockchain Engineer](https://itegmark.substack.com/p/cto-cofounder-rust-core-blockchain)
 
 HashCloak | Toronto, Remote
 - [Junior Research Engineer (MPC)](https://hackmd.io/@hashcloak/HJz2Xn3Z9)

@@ -190,6 +190,32 @@ repos = [
 ]
 ```
 
+### Dusk Network
+
+Media:
+
+- https://dusk.network/
+- https://twitter.com/duskfoundation
+- https://dusk.network/pages/all-posts
+- https://www.reddit.com/r/DuskNetwork/
+
+GitHub:
+
+- https://github.com/dusk-network
+
+```toml
+repos = [
+"dusk-network/dusk-hamt",
+"dusk-network/dusk-zerocaf",
+"dusk-network/microkelvin",
+"dusk-network/plonk",
+"dusk-network/rusk",
+"dusk-network/rusk-vm",
+"dusk-network/wallet-cli",
+"dusk-network/wallet-core",
+]
+```
+
 ### Elrond
 
 Media:

@@ -92,6 +92,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Dfinity](https://github.com/dfinity)
 
+#### [Dusk Network](https://github.com/dusk-network)
+
 #### [Elrond](https://github.com/ElrondNetwork)
 
 #### [Espresso Systems](https://github.com/EspressoSystems)
@@ -154,6 +156,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [LNP/BP](https://github.com/LNP-BP)
 
 #### [LNP WG](https://github.com/LNP-WG)
+
+#### [MyCitadel](https://github.com/orgs/mycitadel)
 
 #### [Nakamoto](https://github.com/cloudhead/nakamoto)
 

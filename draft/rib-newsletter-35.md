@@ -23,7 +23,8 @@ Thanks to contributors:
 [keymakercasa],
 [Max Wegman],
 [Mikerah],
-[Radha].
+[Radha]
+[Hunter Trujillo].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -40,6 +41,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [Max Wegman]: https://github.com/mastermaxy
 [Mikerah]: https://github.com/Mikerah
 [Radha]: https://github.com/DrW3RK
+[Hunter Trujillo]: https://github.com/cryptoquick
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -58,6 +60,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- For Rust in Bitcoin, Taproot support has landed in
+  [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) and
+  [rust-miniscript](https://github.com/rust-bitcoin/rust-miniscript). In
+  addition, the first release of the [MyCitadel
+  Wallet](https://github.com/mycitadel) was published by the
+  [LNP/BP](https://github.com/lnp-bp) team. It's fully written in Rust, supports
+  hardware signers like the Ledger Nano X and BitBox, and uses GTK and
+  [Relm](https://docs.rs/relm/latest/relm/).
 
 #### Blog Posts
 
@@ -68,6 +78,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [The Frozen Heart vulnerability in Bulletproofs](https://blog.trailofbits.com/2022/04/15/the-frozen-heart-vulnerability-in-bulletproofs/)
 - [The Frozen Heart vulnerability in PlonK](https://blog.trailofbits.com/2022/04/18/the-frozen-heart-vulnerability-in-plonk/)
 - [What's two-adicity?](https://www.cryptologie.net/article/559/whats-two-adicity/)
+- [Understanding RGB Protocol](https://medium.com/@FedericoTenga/understanding-rgb-protocol-7dc7819d3059)
+- [Miniscript is coming to Bitcoin, and to your Ledger Nano!](https://blog.ledger.com/miniscript-is-coming/)
+- [7 Theses on a next step for BIP-119](https://rubin.io/bitcoin/2022/04/17/next-steps-bip119/)
 
 #### Papers
 
@@ -85,6 +98,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [RISC Zero](https://github.com/risc0/risc0)
   is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
   Example: [Battleship on RISC Zero](https://www.risczero.com/docs/tutorial-examples/battleship_rust_tutorial)
+- [Vulcan Signer: Software for building an embedded PSBT signing device](https://github.com/mcroad/vulcan)
+- [Mori: A CLI descriptor-based wallet to be used to safely inherit bitcoin](https://github.com/BlockchainCommons/mori-cli)
 
 &nbsp;
 
@@ -248,6 +263,25 @@ Bold entries here are especially relevant to blockchain projects.
 [dfinity-open_issues-4]: https://github.com/dfinity/quill/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
 - [IC Internals: Orthogonal Persistence](https://medium.com/dfinity/ic-internals-orthogonal-persistence-9e0c094aac1a)
+
+#### [Dusk Network](https://github.com/dusk-network)
+
+35 merged PRs ([1][dusk_network-merged-prs-1], [2][dusk_network-merged-prs-2], [3][dusk_network-merged-prs-3], [4][dusk_network-merged-prs-4], [5][dusk_network-merged-prs-5]),
+39 closed issues ([1][dusk_network-closed_issues-1], [2][dusk_network-closed_issues-2], [3][dusk_network-closed_issues-3], [4][dusk_network-closed_issues-4]),
+4 open issues ([1][dusk_network-open_issues-1], [2][dusk_network-open_issues-2], [3][dusk_network-open_issues-3])
+
+[dusk_network-merged-prs-1]: https://github.com/dusk-network/dusk-hamt/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
+[dusk_network-merged-prs-2]: https://github.com/dusk-network/plonk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
+[dusk_network-merged-prs-3]: https://github.com/dusk-network/rusk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
+[dusk_network-merged-prs-4]: https://github.com/dusk-network/wallet-cli/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
+[dusk_network-merged-prs-5]: https://github.com/dusk-network/wallet-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
+[dusk_network-closed_issues-1]: https://github.com/dusk-network/plonk/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
+[dusk_network-closed_issues-2]: https://github.com/dusk-network/rusk/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
+[dusk_network-closed_issues-3]: https://github.com/dusk-network/wallet-cli/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
+[dusk_network-closed_issues-4]: https://github.com/dusk-network/wallet-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
+[dusk_network-open_issues-1]: https://github.com/dusk-network/rusk/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+[dusk_network-open_issues-2]: https://github.com/dusk-network/rusk-vm/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+[dusk_network-open_issues-3]: https://github.com/dusk-network/wallet-core/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
 #### [Elrond](https://github.com/ElrondNetwork)
 
@@ -670,6 +704,8 @@ Bold entries here are especially relevant to blockchain projects.
 [bdk-open_issues-2]: https://github.com/bitcoindevkit/bdk-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 [bdk-open_issues-3]: https://github.com/bitcoindevkit/bdk-ffi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
 
+- [BDK v0.18.0](https://github.com/bitcoindevkit/bdk/releases/tag/v0.18.0)
+
 #### [Bitmask](https://github.com/diba-io/bitmask-core)
 
 7 merged PRs ([1][bitmask-merged-prs-1]),
@@ -679,6 +715,8 @@ Bold entries here are especially relevant to blockchain projects.
 [bitmask-merged-prs-1]: https://github.com/diba-io/bitmask-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-04-01..2022-04-30
 [bitmask-closed_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
 [bitmask-open_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
+- [BitMask Chrome Extension publihsed to the Chrome Web Store!](https://chrome.google.com/webstore/detail/bitmask/momakdpclmaphlamgjcndbgfckjfpemp)
 
 #### [Electrs](https://github.com/romanz/electrs)
 
@@ -702,6 +740,8 @@ Bold entries here are especially relevant to blockchain projects.
 [ldk-closed_issues-1]: https://github.com/lightningdevkit/rust-lightning/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
 [ldk-closed_issues-2]: https://github.com/lightningdevkit/ldk-c-bindings/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-04-01..2022-04-30
 [ldk-open_issues-1]: https://github.com/lightningdevkit/rust-lightning/issues?q=is%3Aissue+is%3Aopen+created%3A2022-04-01..2022-04-30
+
+- [rust-lightning v0.0.106](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.106)
 
 #### [LNP/BP](https://github.com/LNP-BP)
 

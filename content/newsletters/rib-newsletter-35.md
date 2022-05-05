@@ -1,10 +1,12 @@
 ---
-title: "RiB Newsletter #35 - _TODO_"
+title: "RiB Newsletter #35"
 description: "April 2022"
 date: 2022-05-04
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #35 edition of Rust in Blockchain.
+This month we spotlight `risc0`,
+an implementation of the RISC-V instruction set that produces zero-knowledge proofs of execution."
 ---
 
 Welcome to the #35 edition of Rust in Blockchain, the monthly
@@ -137,7 +139,6 @@ without a trusted server.
   A toy Cairo VM implementation in Rust
 - [RISC Zero](https://github.com/risc0/risc0)
   is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
-  Example: [Battleship on RISC Zero](https://www.risczero.com/docs/tutorial-examples/battleship_rust_tutorial)
 - [Vulcan Signer: Software for building an embedded PSBT signing device](https://github.com/mcroad/vulcan)
 - [Mori: A CLI descriptor-based wallet to be used to safely inherit bitcoin](https://github.com/BlockchainCommons/mori-cli)
 

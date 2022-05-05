@@ -237,5 +237,3 @@ Want to be included in the next issue? Feel free to submit a PR to the
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 
 [ribtg]: https://t.me/rustinblockchain
-
-

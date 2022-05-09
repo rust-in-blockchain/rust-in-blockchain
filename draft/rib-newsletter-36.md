@@ -18,6 +18,8 @@ industry topics.
 
 Thanks to contributors:
 
+[Aadz],
+
 _TODO_
 
 Thank you for your help!
@@ -28,6 +30,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Aadz]: https://github.com/aadz1
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -223,6 +226,10 @@ Company name | Location A, B, Remote
 
 -->
 
+IO Global (IOHK) | Remote
+- [Software Engineer - Rust (Jormungandr)](https://apply.workable.com/io-global/j/9278186849/)
+- [Technical Architect (Rust) - Lead Governance](https://apply.workable.com/io-global/j/C2F607EEF5/)
+- [Technical Architect (Catalyst)](https://apply.workable.com/io-global/j/3DDB40A962/)
 
 
 More jobs can be found at [Job Board][page-jobboard].

@@ -94,6 +94,11 @@ Hubble (Solana, DeFi) | London, Remote
 HashCloak | Toronto, Remote
 - [Junior Research Engineer (MPC)](https://hackmd.io/@hashcloak/HJz2Xn3Z9)
 
+IO Global (IOHK) | Remote
+- [Software Engineer - Rust (Jormungandr)](https://apply.workable.com/io-global/j/9278186849/)
+- [Technical Architect (Rust) - Lead Governance](https://apply.workable.com/io-global/j/C2F607EEF5/)
+- [Technical Architect (Catalyst)](https://apply.workable.com/io-global/j/3DDB40A962/)
+
 Jet Protocol | Remote
 - [Rust Blockchain Engineer](https://docs.google.com/document/d/1GXuk2LPxoYxIdQGwsL9IZ34B7WjlgkdJBgY7QBgBIn0)
 

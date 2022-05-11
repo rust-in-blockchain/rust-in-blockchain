@@ -51,7 +51,7 @@ Bolt Labs | US, Remote
 
 Casa | Remote
 - [Senior Infrastructure Engineer](https://tinyurl.com/Sr-Infra-RiB)
-- [Lead Infrastructure Engineer](https://tinyurl.com/Lead-Infra-RiB)
+- [Lead Infrastructure Engineer](https://tinyurl.com/Casa-Lead-Infra-RiB)
 - [Senior Backend Software Engineer](https://tinyurl.com/Sr-Backend-RiB)
 - [Senior iOS Engineer](https://tinyurl.com/Sr-iOS-RiB)
 

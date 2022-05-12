@@ -143,6 +143,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Zcash](https://github.com/zcash)
 
+- [New Release 5.0.0](https://electriccoin.co/blog/new-release-5-0-0/)
 
 &nbsp;
 

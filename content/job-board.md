@@ -53,7 +53,9 @@ Casa | Remote
 - [Senior Infrastructure Engineer](https://tinyurl.com/Sr-Infra-RiB)
 - [Lead Infrastructure Engineer](https://tinyurl.com/Casa-Lead-Infra-RiB)
 - [Senior Backend Software Engineer](https://tinyurl.com/Sr-Backend-RiB)
-- [Senior iOS Engineer](https://tinyurl.com/Sr-iOS-RiB)
+- [Growth Marketing Manager](https://tinyurl.com/Casa-GrowthMM-RiB)
+- [Engineering Manager, Backend](https://tinyurl.com/Casa-EngMgr-RiB)
+- [Backend Software Engineer](https://tinyurl.com/Casa-BackendSWE-RiB)
 
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)

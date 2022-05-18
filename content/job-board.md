@@ -50,7 +50,6 @@ Bolt Labs | US, Remote
 - [Blockchain Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1l5QGguY)
 
 Casa | Remote
-- [Lead Infrastructure Engineer](https://tinyurl.com/Casa-Lead-Infra-RiB)
 - [Senior Backend Software Engineer](https://tinyurl.com/Sr-Backend-RiB)
 - [Growth Marketing Manager](https://tinyurl.com/Casa-GrowthMM-RiB)
 - [Engineering Manager, Backend](https://tinyurl.com/Casa-EngMgr-RiB)

@@ -50,10 +50,9 @@ Bolt Labs | US, Remote
 - [Blockchain Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1l5QGguY)
 
 Casa | Remote
-- [Senior Infrastructure Engineer](https://tinyurl.com/Sr-Infra-RiB)
-- [Lead Infrastructure Engineer](https://tinyurl.com/Casa-Lead-Infra-RiB)
 - [Senior Backend Software Engineer](https://tinyurl.com/Sr-Backend-RiB)
-- [Senior iOS Engineer](https://tinyurl.com/Sr-iOS-RiB)
+- [Engineering Manager, Backend](https://tinyurl.com/Casa-EngMgr-RiB)
+- [Director of Partnerships](https://tinyurl.com/Casa-Dir-Partnerships-RiB)
 
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)

@@ -323,10 +323,13 @@ GitHub
 
 ```toml
 repos = [
+"FuelLabs/faucet",
+"FuelLabs/forc-wallet",
 "FuelLabs/fuel-asm",
 "FuelLabs/fuel-bft",
 "FuelLabs/fuel-core",
 "FuelLabs/fuel-crypto",
+"FuelLabs/fuel-indexer",
 "FuelLabs/fuel-merkle",
 "FuelLabs/fuel-storage",
 "FuelLabs/fuel-tx",

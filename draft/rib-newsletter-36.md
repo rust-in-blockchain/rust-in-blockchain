@@ -19,6 +19,7 @@ industry topics.
 Thanks to contributors:
 
 [Aadz],
+[John Adler],
 [keymakercasa],
 
 _TODO_
@@ -32,6 +33,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [Aadz]: https://github.com/aadz1
+[John Adler]: https://github.com/adlerjohn
 [keymakercasa]: https://github.com/keymakercasa
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer

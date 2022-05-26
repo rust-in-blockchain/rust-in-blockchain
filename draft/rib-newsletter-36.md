@@ -227,9 +227,8 @@ Dec 1-2 | Online
 
 <!--
 
-Company name | Location A, B, Remote
-- [Job 1](https://job.one)
-- [Job 2](https://job.two)
+Zcash Foundation | Remote
+- [Core Rust Engineer]([https://job.one](https://cryptojobslist.com/jobs/core-engineer-zcash-foundation-no-restrictions))
 
 -->
 

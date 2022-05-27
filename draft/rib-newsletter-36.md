@@ -62,6 +62,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [sta-rs](https://github.com/brave/sta-rs).
+  Rust workspace for implementing basic functionality of
+  [STAR: Distributed Secret-Sharing for Threshold Aggregation Reporting](https://arxiv.org/abs/2109.10074).
 
 &nbsp;
 

@@ -21,6 +21,7 @@ Thanks to contributors:
 [Aadz],
 [John Adler],
 [keymakercasa],
+[Piotr Dziubecki],
 
 _TODO_
 
@@ -37,6 +38,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [keymakercasa]: https://github.com/keymakercasa
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
+[Piotr Dziubecki]: https://github.com/piotr-dziubecki
 
 &nbsp;
 
@@ -59,6 +61,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [Pre-print of Casper's new consensus solution](https://arxiv.org/abs/2205.06314)
 
 #### Projects
 
@@ -90,6 +93,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Aleo](https://github.com/AleoHQ)
 
 #### [Anoma](https://github.com/anoma)
+
+#### [Casper](https://casper.network)
 
 #### [ChainSafe](https://github.com/ChainSafe)
 

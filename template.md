@@ -80,6 +80,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Anoma](https://github.com/anoma)
 
+#### [Casper](https://github.com/casper-network)
+
 #### [ChainSafe](https://github.com/ChainSafe)
 
 #### [COMIT](https://github.com/comit-network)

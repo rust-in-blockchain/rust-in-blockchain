@@ -21,7 +21,7 @@ Thanks to contributors:
 [Aadz],
 [John Adler],
 [keymakercasa],
-[https://github.com/piotr-dziubecki],
+[Piotr Dziubecki],
 
 _TODO_
 
@@ -38,6 +38,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [keymakercasa]: https://github.com/keymakercasa
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
+[Piotr Dziubecki]: https://github.com/piotr-dziubecki
 
 &nbsp;
 

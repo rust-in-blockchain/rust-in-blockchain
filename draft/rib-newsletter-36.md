@@ -21,6 +21,7 @@ Thanks to contributors:
 [Aadz],
 [John Adler],
 [keymakercasa],
+[piotr-dziubecki],
 
 _TODO_
 

@@ -63,6 +63,26 @@ repos = [
 ]
 ```
 
+### Casper
+
+Media:
+
+- https://casper.network
+- https://twitter.com/Casper_Network
+
+
+GitHub:
+
+- https://github.com/casper-network
+
+```toml
+repos = [
+"casper-network/casper-node",
+"casper-network/docs",
+]
+```
+
+
 ### ChainSafe
 
 Media:

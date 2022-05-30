@@ -25,6 +25,8 @@ Thanks to contributors:
 
 _TODO_
 
+[Brian Anderson] and [Aimee Zhu].
+
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -36,9 +38,9 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [Aadz]: https://github.com/aadz1
 [John Adler]: https://github.com/adlerjohn
 [keymakercasa]: https://github.com/keymakercasa
+[Piotr Dziubecki]: https://github.com/piotr-dziubecki
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
-[Piotr Dziubecki]: https://github.com/piotr-dziubecki
 
 &nbsp;
 

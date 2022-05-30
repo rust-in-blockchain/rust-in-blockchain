@@ -59,6 +59,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [Pre-print of Casper's new consensus solution](https://arxiv.org/abs/2205.06314)
 
 #### Projects
 
@@ -90,6 +91,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Aleo](https://github.com/AleoHQ)
 
 #### [Anoma](https://github.com/anoma)
+
+#### [Casper](https://casper.network)
 
 #### [ChainSafe](https://github.com/ChainSafe)
 

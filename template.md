@@ -80,6 +80,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Anoma](https://github.com/anoma)
 
+#### [Aptos](https://github.com/aptos-labs)
+
 #### [Casper](https://github.com/casper-network)
 
 #### [ChainSafe](https://github.com/ChainSafe)
@@ -135,6 +137,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Spacemesh](https://github.com/spacemeshos)
 
 #### [Subspace Labs](https://github.com/subspace)
+
+#### [Sui](https://github.com/MystenLabs)
 
 #### [TezEdge](https://github.com/tezedge)
 

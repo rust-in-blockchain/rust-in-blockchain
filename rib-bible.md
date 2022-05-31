@@ -42,6 +42,7 @@ repos = [
 "AleoHQ/leo",
 ]
 ```
+
 ### Anoma
 
 Media:
@@ -60,6 +61,24 @@ repos = [
 "anoma/ferveo",
 "anoma/masp",
 "anoma/plonkup-hash",
+]
+```
+
+### Aptos
+
+Media:
+
+- https://aptoslabs.com/
+- https://twitter.com/aptoslabs
+- https://aptoslabs.medium.com/
+
+GitHub:
+
+- https://github.com/aptos-labs
+
+```toml
+repos = [
+"aptos-labs/aptos-core",
 ]
 ```
 
@@ -702,6 +721,25 @@ GitHub:
 ``` toml
 repos = [
 "subspace/subspace",
+]
+```
+
+### Sui
+
+Media:
+
+- https://sui.io/
+- https://twitter.com/mysten_labs
+- https://medium.com/mysten-labs
+
+GitHub:
+
+- https://github.com/MystenLabs
+
+```toml
+repos = [
+"MystenLabs/sui",
+"MystenLabs/narwhal",
 ]
 ```
 

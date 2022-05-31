@@ -121,7 +121,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Dfinity](https://github.com/dfinity)
 
-- [https://medium.com/dfinity/the-internet-computer-for-ethereum-developers-3331b50db31b](https://electriccoin.co/blog/nu5-activates-on-mainnet-eliminating-trusted-setup-and-launching-a-new-era-for-zcash/)
+- [The Internet Computer for Ethereum Developers](https://medium.com/dfinity/the-internet-computer-for-ethereum-developers-3331b50db31b)
 
 #### [Dusk Network](https://github.com/dusk-network)
 
@@ -263,7 +263,7 @@ IO Global (IOHK) | Remote
 - [Technical Architect (Catalyst)](https://apply.workable.com/io-global/j/3DDB40A962/)
 
 Zcash Foundation | Remote
-- [Core Rust Engineer]([https://job.one](https://cryptojobslist.com/jobs/core-engineer-zcash-foundation-no-restrictions))
+- [Core Rust Engineer](https://cryptojobslist.com/jobs/core-engineer-zcash-foundation-no-restrictions)
 
 More jobs can be found at [Job Board][page-jobboard].
 

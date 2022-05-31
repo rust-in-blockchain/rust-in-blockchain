@@ -177,3 +177,6 @@ Web3 Foundation | Zug or Remote
 - [Technical Grants Evaluator](https://web3.bamboohr.com/jobs/view.php?id=85)
 - [Technical Educator](https://web3.bamboohr.com/jobs/view.php?id=100)
 - [Spec Engineer](https://web3.bamboohr.com/jobs/view.php?id=101)
+
+Zcash Foundation | Remote
+- [Core Rust Engineer](https://cryptojobslist.com/jobs/core-engineer-zcash-foundation-no-restrictions)

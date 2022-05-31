@@ -22,6 +22,7 @@ Thanks to contributors:
 [John Adler],
 [keymakercasa],
 [Piotr Dziubecki],
+[thewinfred],
 
 _TODO_
 
@@ -39,6 +40,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [John Adler]: https://github.com/adlerjohn
 [keymakercasa]: https://github.com/keymakercasa
 [Piotr Dziubecki]: https://github.com/piotr-dziubecki
+[thewinfred]: https://github.com/thewinfred
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -60,10 +62,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Sin7Y Tech Review (23): Verkle Tree For ETH](https://hackmd.io/@sin7y/rJZZy_mD9#Sin7Y-Tech-Review-23-Verkle-Tree-For-ETH)
+- [Security advisory: malicious crate rustdecimal](https://blog.rust-lang.org/2022/05/10/malicious-crate-rustdecimal.html)
+- [Blockchain Scalability: Execution, Storage, and Consensus](https://blog.chain.link/blockchain-scalability-approaches/)
 
 #### Papers
 
 - [Pre-print of Casper's new consensus solution](https://arxiv.org/abs/2205.06314)
+- [Marlin: Two-Phase BFT with Linearity](https://eprint.iacr.org/2022/551)
+- [Distributed Shuffling in Adversarial Environments](https://eprint.iacr.org/2022/560)
+- [ROAST: Robust Asynchronous Schnorr Threshold Signatures](https://eprint.iacr.org/2022/550)
+
 
 #### Projects
 
@@ -100,6 +108,9 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [ChainSafe](https://github.com/ChainSafe)
 
+- [Lodestar v0.37.0: Bopsten-ready Release](https://blog.chainsafe.io/lodestar-v0-37-0-bopsten-ready-release-231d185e3e1e)
+- [How to Become a Web3 Developer](https://blog.chainsafe.io/how-to-become-a-web3-developer-8849ab20b686)
+
 #### [COMIT](https://github.com/comit-network)
 
 #### [Concordium](https://github.com/Concordium)
@@ -109,6 +120,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [DarkFi](https://dark.fi)
 
 #### [Dfinity](https://github.com/dfinity)
+
+- [https://medium.com/dfinity/the-internet-computer-for-ethereum-developers-3331b50db31b](https://electriccoin.co/blog/nu5-activates-on-mainnet-eliminating-trusted-setup-and-launching-a-new-era-for-zcash/)
 
 #### [Dusk Network](https://github.com/dusk-network)
 
@@ -131,6 +144,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Holochain](https://github.com/holochain/)
 
 #### [IOTA](https://github.com/iotaledger)
+
+- [Energy Consumption of IOTA 2.0](https://blog.iota.org/energy-consumption-of-iota-2-0/)
 
 #### [Maidsafe](https://github.com/maidsafe)
 
@@ -157,6 +172,7 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Zcash](https://github.com/zcash)
 
 - [Zcash Proof-of-Stake Research](https://electriccoin.co/blog/zcash-proof-of-stake-research/)
+- [NU5 activates on mainnet, eliminating trusted setup and launching a new era for Zcash](https://electriccoin.co/blog/nu5-activates-on-mainnet-eliminating-trusted-setup-and-launching-a-new-era-for-zcash/)
 - [New Release 5.0.0](https://electriccoin.co/blog/new-release-5-0-0/)
 
 &nbsp;

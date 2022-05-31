@@ -55,6 +55,10 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[`cargo-supply-chain`](https://github.com/rust-secure-code/cargo-supply-chain).
+
+This project lists the authors, as registered with crates.io, of every crate in your dependency graph.axsn
+
 &nbsp;
 
 

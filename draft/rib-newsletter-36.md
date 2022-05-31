@@ -236,11 +236,9 @@ Dec 1-2 | Online
 ## Careers
 
 <!--
-
 Company name | Location A, B, Remote
 - [Job 1](https://job.one)
 - [Job 2](https://job.two)
-
 -->
 
 IO Global (IOHK) | Remote
@@ -248,6 +246,8 @@ IO Global (IOHK) | Remote
 - [Technical Architect (Rust) - Lead Governance](https://apply.workable.com/io-global/j/C2F607EEF5/)
 - [Technical Architect (Catalyst)](https://apply.workable.com/io-global/j/3DDB40A962/)
 
+Zcash Foundation | Remote
+- [Core Rust Engineer]([https://job.one](https://cryptojobslist.com/jobs/core-engineer-zcash-foundation-no-restrictions))
 
 More jobs can be found at [Job Board][page-jobboard].
 

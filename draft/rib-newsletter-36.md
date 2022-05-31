@@ -75,7 +75,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Marlin: Two-Phase BFT with Linearity](https://eprint.iacr.org/2022/551)
 - [Distributed Shuffling in Adversarial Environments](https://eprint.iacr.org/2022/560)
 - [ROAST: Robust Asynchronous Schnorr Threshold Signatures](https://eprint.iacr.org/2022/550)
-
+- [Ponyta: Foundations of Side-Contract-Resilient Fair Exchange](https://eprint.iacr.org/2022/582)
+- [TenderTee: Secure Tendermint](https://eprint.iacr.org/2022/599)
+- [Distributed Blockchain Price Oracle](https://eprint.iacr.org/2022/603)
+- [The Generals’ Scuttlebutt: Byzantine-Resilient Gossip Protocols](https://eprint.iacr.org/2022/541)
 
 #### Projects
 

@@ -64,9 +64,6 @@ This project lists the authors, as registered with crates.io, of every crate in 
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
 - [Sin7Y Tech Review (23): Verkle Tree For ETH](https://hackmd.io/@sin7y/rJZZy_mD9#Sin7Y-Tech-Review-23-Verkle-Tree-For-ETH)
@@ -139,6 +136,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Casper](https://casper.network)
 
+- [Technical Release Memo for v1.4.6](https://casper.network/network/blog/technical-release-and-changelog-for-v146)
+
 #### [ChainSafe](https://github.com/ChainSafe)
 
 - [Lodestar v0.37.0: Bopsten-ready Release](https://blog.chainsafe.io/lodestar-v0-37-0-bopsten-ready-release-231d185e3e1e)
@@ -147,6 +146,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [COMIT](https://github.com/comit-network)
 
 #### [Concordium](https://github.com/Concordium)
+
+- [Sirius Release NOW Available on Testnet](https://medium.com/concordium/sirius-release-now-available-aa39cec4bd5d)
 
 #### [Conflux](https://github.com/Conflux-Chain)
 
@@ -184,9 +185,15 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
+- [MobileCoin launches Bounties on Gitcoin](https://mobilecoin.com/news/mobilecoin-launches-bounties-on-gitcoin)
+
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
 #### [Nervos](https://github.com/nervosnetwork)
+
+- [The Nervos Layer 1 – Major Protocol Upgrade with Chief Architect Jan Xie – Highlights](https://www.nervos.org/blog/the-nervos-layer-1-major-protocol-upgrade-with-chief-architect-jan-xie-highlights)
+- [The Nervos Address Format Upgrade](https://www.nervos.org/blog/the-nervos-address-format-upgrade)
+- [Virtual Machine Improvements](https://www.nervos.org/blog/virtual-machine-improvements)
 
 #### [Oasis](https://github.com/oasisprotocol)
 
@@ -194,7 +201,13 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
+- [Shockwave Alpha Mainnet Upgrade is Complete!](https://scrt.network/blog/shockwave-alpha-mainnet-upgrade-complete)
+
 #### [Solana](https://github.com/solana-labs/solana)
+
+- [Scaffold Series - Part 1 Wallet Adapter](https://solana.com/news/solana-scaffold-part-1-wallet-adapter)
+- [Scaffold Series - Part 2 Wallet Balance](https://solana.com/news/solana-scaffold-part-2-wallet-balance)
+- [Scaffold Series - Part 3 Sending SOL](https://solana.com/news/solana-scaffold-part-3-sending-sol)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 

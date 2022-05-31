@@ -12,6 +12,10 @@ newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #35](/newsletters/rib-newsletter-35/).
 
+There are quite a few security advisories this month that might impact
+blockchain projects. If you are using OpenSSL, crossbeam, or hyper you should
+see if you need to upgrade.
+
 &nbsp;
 
 ## Thanks
@@ -88,6 +92,27 @@ Bold entries here are especially relevant to blockchain projects.
 
 [RustSec]: https://rustsec.org/advisories/
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
+
+- **[RUSTSEC-2022-0027: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2022-0027.html).**
+  - `OCSP_basic_verify` may incorrectly verify the response signing certificate
+- **[RUSTSEC-2022-0026: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2022-0026.html).**
+  - Incorrect MAC key used in the RC4-MD5 ciphersuite
+- **[RUSTSEC-2022-0025: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2022-0025.html).**
+  - Resource leakage when decoding certificates and keys
+- [RUSTSEC-2022-0018: Vulnerability in totp-rs](https://rustsec.org/advisories/RUSTSEC-2022-0018.html).
+  - Timing attack.
+- [RUSTSEC-2022-0019: Unsoundness in crossbeam-channel](https://rustsec.org/advisories/RUSTSEC-2022-0019.html).
+  - Channel creates zero value of any type
+- [RUSTSEC-2022-0020: Unsoundness in crossbeam](https://rustsec.org/advisories/RUSTSEC-2022-0020.html).
+  - `SegQueue` creates zero value of any type
+- [RUSTSEC-2022-0021: Unsoundness in crossbeam-queue](https://rustsec.org/advisories/RUSTSEC-2022-0021.html).
+  - `SegQueue` creates zero value of any type
+- [RUSTSEC-2022-0022: Unsoundness in hyper](https://rustsec.org/advisories/RUSTSEC-2022-0022.html).
+  - Parser creates invalid uninitialized value
+- [RUSTSEC-2022-0028: Vulnerability in neon](https://rustsec.org/advisories/RUSTSEC-2022-0028.html).
+  - Use after free in Neon external buffers
+- [CVE-2022-23066: Incorrect Calculation in solana_rbpf](https://github.com/advisories/GHSA-9qmm-4mfr-r3wj).
+- [CVE-2022-31264: Integer overflow in solana_rbpf](https://github.com/advisories/GHSA-ffx3-8qvm-pq3j).
 
 
 &nbsp;

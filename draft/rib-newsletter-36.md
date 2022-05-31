@@ -79,6 +79,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [TenderTee: Secure Tendermint](https://eprint.iacr.org/2022/599)
 - [Distributed Blockchain Price Oracle](https://eprint.iacr.org/2022/603)
 - [The Generals’ Scuttlebutt: Byzantine-Resilient Gossip Protocols](https://eprint.iacr.org/2022/541)
+- [RSK: A Bitcoin sidechain with stateful smart-contracts](https://eprint.iacr.org/2022/684)
 
 #### Projects
 

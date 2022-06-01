@@ -24,6 +24,7 @@ Thanks to contributors:
 
 [Aadz],
 Dan Shields,
+[Hunter Trujillo],
 [John Adler],
 [keymakercasa],
 [Piotr Dziubecki],
@@ -39,6 +40,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [Aadz]: https://github.com/aadz1
+[Hunter Trujillo]: https://github.com/cryptoquick
 [John Adler]: https://github.com/adlerjohn
 [keymakercasa]: https://github.com/keymakercasa
 [Piotr Dziubecki]: https://github.com/piotr-dziubecki
@@ -67,6 +69,10 @@ This project lists the authors, as registered with crates.io, of every crate in 
 - [Sin7Y Tech Review (23): Verkle Tree For ETH](https://hackmd.io/@sin7y/rJZZy_mD9#Sin7Y-Tech-Review-23-Verkle-Tree-For-ETH)
 - [Security advisory: malicious crate rustdecimal](https://blog.rust-lang.org/2022/05/10/malicious-crate-rustdecimal.html)
 - [Blockchain Scalability: Execution, Storage, and Consensus](https://blog.chain.link/blockchain-scalability-approaches/)
+- [Tor implements congestion control, improving bandwidth](https://blog.torproject.org/congestion-contrl-047/)
+- [Serious Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
+- [Arti 0.3.0 is released: Robustness and API improvements](https://blog.torproject.org/arti_030_released/)
+- [Bitcoin Script is Turing-complete (in a way)](https://github.com/supertestnet/rule-110-in-bitcoin-script)
 
 #### Papers
 
@@ -74,17 +80,20 @@ This project lists the authors, as registered with crates.io, of every crate in 
 - [Marlin: Two-Phase BFT with Linearity](https://eprint.iacr.org/2022/551)
 - [Distributed Shuffling in Adversarial Environments](https://eprint.iacr.org/2022/560)
 - [ROAST: Robust Asynchronous Schnorr Threshold Signatures](https://eprint.iacr.org/2022/550)
+- [Two-Round Threshold Schnorr Signatures with FROST](https://datatracker.ietf.org/doc/draft-irtf-cfrg-frost/)
 - [Ponyta: Foundations of Side-Contract-Resilient Fair Exchange](https://eprint.iacr.org/2022/582)
 - [TenderTee: Secure Tendermint](https://eprint.iacr.org/2022/599)
 - [Distributed Blockchain Price Oracle](https://eprint.iacr.org/2022/603)
 - [The Generals’ Scuttlebutt: Byzantine-Resilient Gossip Protocols](https://eprint.iacr.org/2022/541)
 - [RSK: A Bitcoin sidechain with stateful smart-contracts](https://eprint.iacr.org/2022/684)
+- [He-HTLC: Revisiting Incentives in HTLC](https://eprint.iacr.org/2022/546)
 
 #### Projects
 
 - [sta-rs](https://github.com/brave/sta-rs).
   Rust workspace for implementing basic functionality of
   [STAR: Distributed Secret-Sharing for Threshold Aggregation Reporting](https://arxiv.org/abs/2109.10074).
+- [dmix2 - A Decentralized Bitcoin Mixer, written in Rust](https://github.com/disnocen/dmix2)
 
 &nbsp;
 
@@ -750,7 +759,11 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
-For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
+An improvement to amount display types in Rust Bitcoin will help make BIP-21-encoded URIs shorter and their QR codes easier to scan. BDK implemented the "oldest-first" coin selection algorithm, which will be available to wallet authors in their next release. 0-conf channels have landed in LDK, allowing channels funds to be safely spent before there are block confirmations under some scenarios. Federico Tenga proposes a proof of payment protocol for LNP/BP. And in testing Bitmask RGB transfers, it's been observed that Bitcoin L3 token protocols will result in a dramatic improvements in privacy.
+
+For further details, see the links in their respective sections.
+
+For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 [ribtc]: https://t.me/rust_in_bitcoin
 
@@ -773,6 +786,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
 [bdk-open_issues-3]: https://github.com/bitcoindevkit/bdk-ffi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-05-01..2022-05-31
 [bdk-open_issues-4]: https://github.com/bitcoindevkit/rust-electrum-client/issues?q=is%3Aissue+is%3Aopen+created%3A2022-05-01..2022-05-31
 
+- [OldestFirstCoinSelection](https://github.com/bitcoindevkit/bdk/pull/557)
+
 #### [Bitmask](https://github.com/diba-io/bitmask-core)
 
 3 merged PRs ([1][bitmask-merged-prs-1]), 
@@ -781,6 +796,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
 
 [bitmask-merged-prs-1]: https://github.com/diba-io/bitmask-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-05-01..2022-05-31
 [bitmask-closed_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-05-01..2022-05-31
+
+- [Comment on RGB token transfers and their privacy](https://twitter.com/cryptoquick/status/1526996436650496000)
 
 #### [Electrs](https://github.com/romanz/electrs)
 
@@ -811,6 +828,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
 [ldk-open_issues-1]: https://github.com/lightningdevkit/rust-lightning/issues?q=is%3Aissue+is%3Aopen+created%3A2022-05-01..2022-05-31
 [ldk-open_issues-2]: https://github.com/lightningdevkit/ldk-c-bindings/issues?q=is%3Aissue+is%3Aopen+created%3A2022-05-01..2022-05-31
 
+- [Zero-conf Channels](https://github.com/lightningdevkit/rust-lightning/pull/1401)
+
 #### [LNP/BP](https://github.com/LNP-BP)
 
 8 merged PRs ([1][lnp/bp-merged-prs-1], [2][lnp/bp-merged-prs-2], [3][lnp/bp-merged-prs-3]), 
@@ -822,6 +841,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
 [lnp/bp-merged-prs-3]: https://github.com/BP-WG/bp-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-05-01..2022-05-31
 [lnp/bp-closed_issues-1]: https://github.com/LNP-BP/client_side_validation/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-05-01..2022-05-31
 [lnp/bp-closed_issues-2]: https://github.com/BP-WG/bp-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-05-01..2022-05-31
+
+- [Discussion around a proof-of-payment protocol](https://github.com/LNP-BP/LNPBPs/discussions/122#discussion-3985446)
 
 #### [LNP WG](https://github.com/LNP-WG)
 
@@ -891,6 +912,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
 [rust_bitcoin-open_issues-2]: https://github.com/rust-bitcoin/rust-miniscript/issues?q=is%3Aissue+is%3Aopen+created%3A2022-05-01..2022-05-31
 [rust_bitcoin-open_issues-3]: https://github.com/rust-bitcoin/rust-bitcoincore-rpc/issues?q=is%3Aissue+is%3Aopen+created%3A2022-05-01..2022-05-31
 [rust_bitcoin-open_issues-4]: https://github.com/rust-bitcoin/rust-bip39/issues?q=is%3Aissue+is%3Aopen+created%3A2022-05-01..2022-05-31
+
+- [Added amount::Display](https://github.com/rust-bitcoin/rust-bitcoin/issues/716) - Added a configurable Display type for denominations or other user-facing amounts. This patch reduces all representations of numbers to the minimum width by default, thereby reducing the use of superfluous zeros that caused BIP21 URIs to be needlessly longer, which often made QR codes larger or harder to scan than necessary.
 
 #### [Sapio](https://github.com/sapio-lang/sapio)
 

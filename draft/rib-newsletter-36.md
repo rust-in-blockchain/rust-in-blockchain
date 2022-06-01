@@ -4,7 +4,9 @@ description: "May 2022"
 date: 2022-06-01
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #36 edition of Rust in Blockchain.
+This month we spotlight `cargo-supply-chain`,
+It lists the authors of every crate in your dependency graph."
 ---
 
 Welcome to the #36 edition of Rust in Blockchain, the monthly
@@ -23,6 +25,7 @@ see if you need to upgrade.
 Thanks to contributors:
 
 [Aadz],
+Camila Hanada,
 Dan Shields,
 [Hunter Trujillo],
 [John Adler],
@@ -57,7 +60,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [`cargo-supply-chain`](https://github.com/rust-secure-code/cargo-supply-chain).
 
-This project lists the authors, as registered with crates.io, of every crate in your dependency graph.axsn
+This project lists the authors, as registered with crates.io, of every crate in your dependency graph.
 
 &nbsp;
 
@@ -489,6 +492,8 @@ Bold entries here are especially relevant to blockchain projects.
 [holochain-closed_issues-1]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-05-01..2022-05-31
 [holochain-open_issues-1]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aopen+created%3A2022-05-01..2022-05-31
 
+- [Announcing the Holochain Developer Education Initiative](https://press.holo.host/214789-announcing-the-holochain-developer-education-initiative)
+
 #### [IOTA](https://github.com/iotaledger)
 
 226 merged PRs ([1][iota-merged-prs-1], [2][iota-merged-prs-2], [3][iota-merged-prs-3], [4][iota-merged-prs-4], [5][iota-merged-prs-5], [6][iota-merged-prs-6], [7][iota-merged-prs-7], [8][iota-merged-prs-8]), 
@@ -692,6 +697,7 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-05-01..2022-05-31
 [solana-open_issues-3]: https://github.com/solana-labs/solana-accountsdb-plugin-postgres/issues?q=is%3Aissue+is%3Aopen+created%3A2022-05-01..2022-05-31
 
+- [How a Little-Known Solana Feature Made Program Vaults Unsafe](https://blog.neodyme.io/posts/solana_core_1)
 - [Scaffold Series - Part 1 Wallet Adapter](https://solana.com/news/solana-scaffold-part-1-wallet-adapter)
 - [Scaffold Series - Part 2 Wallet Balance](https://solana.com/news/solana-scaffold-part-2-wallet-balance)
 - [Scaffold Series - Part 3 Sending SOL](https://solana.com/news/solana-scaffold-part-3-sending-sol)

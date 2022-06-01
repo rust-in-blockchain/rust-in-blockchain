@@ -782,7 +782,6 @@ repos = [
 "zcash/librustzcash",
 "zcash/orchard",
 "zcash/pasta_curves",
-"zcash/halo2_gadgets",
 ]
 ```
 

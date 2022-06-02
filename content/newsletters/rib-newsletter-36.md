@@ -144,8 +144,8 @@ Bold entries here are especially relevant to blockchain projects.
 [Fuel](https://github.com/FuelLabs):
 352 merged PRs, 195 closed issues, 145 open issues
 
-[IOTA](https://github.com/iotaledger):
-226 merged PRs, 53 closed issues, 41 open issues
+[Aptos](https://github.com/aptos-labs):
+307 merged PRs, 48 closed issues, 64 open issues
 
 &nbsp;
 

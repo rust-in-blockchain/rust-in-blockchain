@@ -5,7 +5,7 @@ date: 2022-06-01
 categories:
   - "newsletters"
 summary: "Welcome to the #36 edition of Rust in Blockchain.
-This month we spotlight `cargo-supply-chain`,
+This month we spotlight `cargo-supply-chain`.
 It lists the authors of every crate in your dependency graph."
 ---
 
@@ -23,7 +23,6 @@ see if you need to upgrade.
 ## Thanks
 
 Thanks to contributors:
-
 [Aadz],
 Camila Hanada,
 Dan Shields,
@@ -33,7 +32,6 @@ Dan Shields,
 [Piotr Dziubecki],
 [thewinfred],
 [Brian Anderson] and [Aimee Zhu].
-
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.

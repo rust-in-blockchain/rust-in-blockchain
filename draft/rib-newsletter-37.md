@@ -51,6 +51,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [Cross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed Commitments](https://eprint.iacr.org/2022/717)
+- [End-to-End Security for Distributed Event-Driven Enclave Applications on Heterogeneous TEEs](https://arxiv.org/abs/2206.01041)
 
 #### Projects
 
@@ -113,6 +115,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Grin](https://github.com/mimblewimble/grin)
 
 #### [Helium](https://github.com/helium)
+
+- [Helium Wallet App Now Available for Download](https://blog.helium.com/helium-wallet-app-now-available-for-download-b25e9c7ebedd)
 
 #### [Holochain](https://github.com/holochain/)
 

@@ -17,6 +17,8 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[djddo],
+[keymakercasa],
 
 _TODO_
 
@@ -28,6 +30,8 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[djddo]: https://github.com/djddo
+[keymakercasa]: https://github.com/keymakercasa
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

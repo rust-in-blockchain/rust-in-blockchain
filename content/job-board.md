@@ -43,6 +43,7 @@ Blockstream | Remote
 - [QA Engineer](https://grnh.se/ce2891871us)
 - [Qt Engineer](https://grnh.se/2bf5f9981us)
 - [Junior Operations Manager](https://grnh.se/f1c289141us)
+- [Senior Product Designer](https://grnh.se/87bf94551us)
 - [Don't see a role that fits? Apply here!](https://grnh.se/e53608a01us)
 
 Bolt Labs | US, Remote

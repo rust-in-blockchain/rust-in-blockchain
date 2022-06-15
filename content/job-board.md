@@ -4,8 +4,8 @@ nocomment: true
 pager: false
 ---
 
-*This page shows current available Rust blockchain jobs.* 
-*To post your position here, please submit a PR to the* 
+*This page shows current available Rust blockchain jobs.*
+*To post your position here, please submit a PR to the*
 **[RiB GitHub][rib-job].**
 
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
@@ -139,7 +139,7 @@ NEAR | Remote
 Oxygen | Dubai or Remote
 - [Smart Contract Engineer (Rust)](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
 
-Parity Technologies | Berlin or Remote 
+Parity Technologies | Berlin or Remote
 - [Core Runtime Engineer - Substrate](https://grnh.se/dddd76283us)
 - [Parachains Engineer - Common Good](https://boards.greenhouse.io/parity/jobs/4794657003)
 - [Rust / Core Engineer - Parachains Engineering](https://grnh.se/24949fb13us)
@@ -159,6 +159,11 @@ Solana | (Probably)Remote
 Soramitsu | Remote
 - [Senior Rust Developer](https://soramitsu.freshteam.com/jobs/ifK-X2sHqXp6/rust-developer-senior-remote)
 
+Start9 Labs | Denver, USA / Remote
+- [Backend Developer (Rust)](https://start9.com/latest/about/jobs)
+- [Frontend Developer (JS)](https://start9.com/latest/about/jobs)
+- [Product Designer](https://start9.com/latest/about/jobs)
+
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
 - [Protocol Engineer (Consensus)](https://jobs.lever.co/subspacelabs/d5d62ccb-eaaf-43f4-83ad-11ebff2ce3a0)
@@ -167,7 +172,7 @@ Subspace Labs | Remote
 
 The Graph | Remote
 - [Rust Engineer](https://thegraph.com/jobs/rust-engineer)
- 
+
 Trail of Bits | Remote
 - [Security Consultant, Cryptography](https://jobs.lever.co/trailofbits/56af8506-3205-4c7b-b28d-ba8292bd1a47)
 - [Security Consultant, Application Security](https://jobs.lever.co/trailofbits/8b7f7fc1-efb0-4e89-b406-784c3a2d77e4)

@@ -106,6 +106,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Elrond](https://github.com/ElrondNetwork)
 
+- [Elrond Incident and Recovery Report](https://elrond.com/blog/incident-and-recovery-report/)
+
 #### [Espresso Systems](https://github.com/EspressoSystems)
 
 #### [Findora](https://github.com/FindoraNetwork)
@@ -201,6 +203,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [Ethers-rs](https://github.com/gakonst/ethers-rs)
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
+
+- [Lighthouse Release v2.3.1 (Butter Robot)](https://github.com/sigp/lighthouse/releases/tag/v2.3.1)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 

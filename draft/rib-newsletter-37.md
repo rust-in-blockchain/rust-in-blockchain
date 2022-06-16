@@ -19,6 +19,7 @@ industry topics.
 Thanks to contributors:
 [djddo],
 [keymakercasa],
+[kn0wmad],
 
 _TODO_
 
@@ -32,6 +33,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 [djddo]: https://github.com/djddo
 [keymakercasa]: https://github.com/keymakercasa
+[kn0wmad]: https://github.com/kn0wmad
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -241,6 +243,10 @@ Company name | Location A, B, Remote
 
 -->
 
+Start9 Labs | Denver, USA / Remote
+- [Backend Developer (Rust)](https://start9.com/latest/about/jobs#backend-developer-rust)
+- [Frontend Developer (JS)](https://start9.com/latest/about/jobs#frontend-developer-js)
+- [Product Designer](https://start9.com/latest/about/jobs#product-designer)
 
 
 More jobs can be found at [Job Board][page-jobboard].

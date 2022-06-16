@@ -51,9 +51,6 @@ Bolt Labs | US, Remote
 - [Senior Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/HytKoEmwY)
 - [Blockchain Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1l5QGguY)
 
-Casa | Remote
-- [Senior Backend Software Engineer](https://tinyurl.com/Sr-Backend-RiB)
-
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
 

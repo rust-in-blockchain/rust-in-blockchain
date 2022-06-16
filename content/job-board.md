@@ -160,9 +160,9 @@ Soramitsu | Remote
 - [Senior Rust Developer](https://soramitsu.freshteam.com/jobs/ifK-X2sHqXp6/rust-developer-senior-remote)
 
 Start9 Labs | Denver, USA / Remote
-- [Backend Developer (Rust)](https://start9.com/latest/about/jobs)
-- [Frontend Developer (JS)](https://start9.com/latest/about/jobs)
-- [Product Designer](https://start9.com/latest/about/jobs)
+- [Backend Developer (Rust)](https://start9.com/latest/about/jobs#backend-developer-rust)
+- [Frontend Developer (JS)](https://start9.com/latest/about/jobs#frontend-developer-js)
+- [Product Designer](https://start9.com/latest/about/jobs#product-designer)
 
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)

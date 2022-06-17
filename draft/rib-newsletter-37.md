@@ -146,6 +146,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Solana](https://github.com/solana-labs/solana)
 
+- [The reality behind Solana's claimed 50K TPS](https://www.reddit.com/r/solana/comments/vd6805/the_reality_behind_solanas_claimed_50k_tps)
+
 #### [Spacemesh](https://github.com/spacemeshos)
 
 #### [Subspace Labs](https://github.com/subspace)

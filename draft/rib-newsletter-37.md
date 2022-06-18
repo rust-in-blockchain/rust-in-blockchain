@@ -231,7 +231,25 @@ Dec 1-2 | Online
 
 -->
 
+Aug 7-9 | Online, Las Vegas, US
 
+[Zcon3](https://zfnd.org/zcon3/)
+
+Aug 13-18 | Santa Barbara, CA, US
+
+[Crypto 2022](https://crypto.iacr.org/2022/)
+
+Aug 29-31 | Arrillaga Alumni Center, Stanford University
+
+[SBC'22: The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/)
+
+Sep 28-29 | Online, NYC, US
+
+[SmartCon 2022](https://smartcon.chain.link/)
+
+Oct 7-16 | Bogota, Colombia
+
+[Devcon Week](https://devcon.org/)
 
 &nbsp;
 

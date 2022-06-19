@@ -20,6 +20,7 @@ Thanks to contributors:
 [djddo],
 [keymakercasa],
 [kn0wmad],
+[mradkov],
 
 _TODO_
 
@@ -34,6 +35,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [djddo]: https://github.com/djddo
 [keymakercasa]: https://github.com/keymakercasa
 [kn0wmad]: https://github.com/kn0wmad
+[mradkov]: https://github.com/mradkov
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

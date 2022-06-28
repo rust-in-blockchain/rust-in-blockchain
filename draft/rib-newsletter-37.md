@@ -58,11 +58,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [DAG Meets BFT - The Next Generation of BFT Consensus](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
+- [Are blockchains decentralized?](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)
+- [Smart Contract Security: A Simple Checklist for Web3 Development](https://a16zcrypto.com/smart-contract-security-checklist-web3-development/)
 
 #### Papers
 
 - [Cross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed Commitments](https://eprint.iacr.org/2022/717)
 - [End-to-End Security for Distributed Event-Driven Enclave Applications on Heterogeneous TEEs](https://arxiv.org/abs/2206.01041)
+- [Safe Permissionless Consensus](https://eprint.iacr.org/2022/796)
 
 #### Projects
 
@@ -135,6 +138,7 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Helium](https://github.com/helium)
 
 - [Helium Wallet App Now Available for Download](https://blog.helium.com/helium-wallet-app-now-available-for-download-b25e9c7ebedd)
+- [Helium x Streamr](https://blog.helium.com/helium-x-streamr-ea89c4b61a14)
 
 #### [Holochain](https://github.com/holochain/)
 
@@ -145,6 +149,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
+
+- [NEAR Foundation Launches Smart Contract Audit Program](https://near.org/blog/near-foundation-launches-smart-contract-audit-program/)
 
 #### [Nervos](https://github.com/nervosnetwork)
 

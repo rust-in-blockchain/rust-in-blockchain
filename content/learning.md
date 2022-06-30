@@ -82,6 +82,7 @@ is preferred, or comment on this page below.
 - [Performance Trade-offs in Design of MimbleWimble Proofs of Reserves](https://eprint.iacr.org/2020/938.pdf)
 - [The Blockchain Jobs Report, 2019](https://media.consensys.net/the-blockchain-jobs-report-2019-b2b911426c34)
 - [Analyzing Developers in Cryptocurrency Projects](https://blog.coincodecap.com/analyzing-developers-in-cryptocurrency-projects/)
+- [From Weakly-terminating Binary Agreement and Reliable Broadcast to Atomic Broadcast](https://arxiv.org/abs/2205.06314). From Casper, we present Zug protocol, a novel and simple solution to Atomic Broadcast (AB).
 
 ## Videos and Podcasts
 

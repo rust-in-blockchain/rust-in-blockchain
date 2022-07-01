@@ -66,6 +66,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Cross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed Commitments](https://eprint.iacr.org/2022/717)
 - [End-to-End Security for Distributed Event-Driven Enclave Applications on Heterogeneous TEEs](https://arxiv.org/abs/2206.01041)
 - [Safe Permissionless Consensus](https://eprint.iacr.org/2022/796)
+- [Round Efficient Byzantine Agreement from VDFs](https://eprint.iacr.org/2022/823)
+- [VERI-ZEXE: Decentralized Private Computation with Universal Setup](https://eprint.iacr.org/2022/802)
 
 #### Projects
 

@@ -34,7 +34,6 @@ Aurora | Remote
 - [Blockchain/EVM Engineer](https://docs.google.com/document/d/1VkaXInjgSczOL_R3aKMOnXKv7lFvvL1z__SlZQLfR78/edit?usp=sharing)
 
 Blockstream | Remote
-- [Software Library Engineer (C++)](https://grnh.se/69d260dc1us)
 - [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
 - [Senior Product Manager](https://grnh.se/11354dd01us)
 - [Product Manager](https://grnh.se/1bdd2ced1us)
@@ -52,7 +51,13 @@ Bolt Labs | US, Remote
 - [Blockchain Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1l5QGguY)
 
 Casper Labs | Remote
-- [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
+- [Project Manager (China)](https://casperlabs.io/careers#)
+- [React Developer](https://casperlabs.io/careers#)
+- [Director of Product Marketing](https://casperlabs.io/careers#)
+- [Rust Developer](https://casperlabs.io/careers#)
+- [Typescript Developer](https://casperlabs.io/careers#)
+- [Core Engineer : dAPP Dev](https://casperlabs.io/careers#)
+- [Full Stack Developer](https://casperlabs.io/careers#)
 
 Cloud-On-Chain | Moscow
 - [CTO Cofounder — Rust Core Blockchain Engineer](https://itegmark.substack.com/p/cto-cofounder-rust-core-blockchain)

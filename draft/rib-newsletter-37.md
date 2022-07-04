@@ -21,6 +21,7 @@ Thanks to contributors:
 [keymakercasa],
 [kn0wmad],
 [mradkov],
+[Piotr Dziubecki],
 Samuel Dare,
 
 _TODO_
@@ -37,6 +38,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [keymakercasa]: https://github.com/keymakercasa
 [kn0wmad]: https://github.com/kn0wmad
 [mradkov]: https://github.com/mradkov
+[Piotr Dziubecki]: https://github.com/piotr-dziubecki
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -281,11 +283,19 @@ Company name | Location A, B, Remote
 
 -->
 
+Casper Labs | Remote
+- [Project Manager (China)](https://casperlabs.io/careers#)
+- [React Developer](https://casperlabs.io/careers#)
+- [Director of Product Marketing](https://casperlabs.io/careers#)
+- [Rust Developer](https://casperlabs.io/careers#)
+- [Typescript Developer](https://casperlabs.io/careers#)
+- [Core Engineer : dAPP Dev](https://casperlabs.io/careers#)
+- [Full Stack Developer](https://casperlabs.io/careers#)
+
 Start9 Labs | Denver, USA / Remote
 - [Backend Developer (Rust)](https://start9.com/latest/about/jobs#backend-developer-rust)
 - [Frontend Developer (JS)](https://start9.com/latest/about/jobs#frontend-developer-js)
 - [Product Designer](https://start9.com/latest/about/jobs#product-designer)
-
 
 More jobs can be found at [Job Board][page-jobboard].
 

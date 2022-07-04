@@ -34,7 +34,6 @@ Aurora | Remote
 - [Blockchain/EVM Engineer](https://docs.google.com/document/d/1VkaXInjgSczOL_R3aKMOnXKv7lFvvL1z__SlZQLfR78/edit?usp=sharing)
 
 Blockstream | Remote
-- [Software Library Engineer (C++)](https://grnh.se/69d260dc1us)
 - [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
 - [Senior Product Manager](https://grnh.se/11354dd01us)
 - [Product Manager](https://grnh.se/1bdd2ced1us)

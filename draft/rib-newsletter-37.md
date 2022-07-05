@@ -90,6 +90,19 @@ Bold entries here are especially relevant to blockchain projects.
 [RustSec]: https://rustsec.org/advisories/
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
 
+- [RUSTSEC-2022-0033: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2022-0033.html).
+  - Heap memory corruption with RSA private key operation.
+- [RUSTSEC-2022-0032: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2022-0032.html).
+  - AES OCB fails to encrypt some bytes.
+- [RUSTSEC-2022-0029: Vulnerability in crossbeam](https://rustsec.org/advisories/RUSTSEC-2022-0029.html).
+  - `MsQueue` `push`/`pop` use the wrong orderings
+- [CVE-2021-41641: Link following in Deno](https://github.com/advisories/GHSA-67hm-27mx-9cg7).
+- [CVE-2022-31100: Reachable assertion in rulex](https://github.com/advisories/GHSA-8v9w-p43c-r885).
+- [CVE-2022-31099: Uncontrolled recursion in rulex](https://github.com/advisories/GHSA-v78m-2q7v-fjqp).
+- [CVE-2022-31104: Miscompilation of `i8x16.swizzle` and `select` with v128 inputs in `cranelift`](https://github.com/advisories/GHSA-jqwc-c49r-4w2x).
+
+GitHub issued a large set of advisories on a single day in June,
+but it seems to be a result of importing old RustSec advisories.
 
 &nbsp;
 

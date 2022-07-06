@@ -556,10 +556,10 @@ repos = [
 "near/near-cli-rs",
 "near/near-sdk-rs",
 "near/near-jsonrpc-client-rs",
-"near/near-lake",
 "near/near-blake2",
 "near/core-contracts",
-"near/near-lake-framework",
+"near/near-lake-framework-rs",
+"near/near-lake-indexer"
 "near/borsh-rs",
 "near/near-indexer-for-explorer",
 "near/wasmer",

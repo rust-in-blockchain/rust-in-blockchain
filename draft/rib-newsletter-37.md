@@ -18,6 +18,7 @@ industry topics.
 
 Thanks to contributors:
 [djddo],
+[Hunter Trujillo],
 [keymakercasa],
 [kn0wmad],
 [mradkov],
@@ -33,6 +34,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [djddo]: https://github.com/djddo
+[Hunter Trujillo]: https://github.com/cryptoquick
 [keymakercasa]: https://github.com/keymakercasa
 [kn0wmad]: https://github.com/kn0wmad
 [mradkov]: https://github.com/mradkov
@@ -57,6 +59,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [DAG Meets BFT - The Next Generation of BFT Consensus](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
 - [Are blockchains decentralized?](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)
 - [Smart Contract Security: A Simple Checklist for Web3 Development](https://a16zcrypto.com/smart-contract-security-checklist-web3-development/)
+- [New PQC NIST standards announced](https://arstechnica.com/information-technology/2022/07/nist-selects-quantum-proof-algorithms-to-head-off-the-coming-cryptopocalypse/)
 - [Zero Knowledge Proof — Deep into zkEVM source code (MPT Circuit)](https://starli.medium.com/zero-knowledge-proof-deep-into-zkevm-source-code-mpt-circuit-fb2dba6e8ba3)
 - [Zero Knowledge Proof — Deep into zkEVM source code (State Circuit)](https://starli.medium.com/zero-knowledge-proof-deep-into-zkevm-source-code-state-circuit-b3175b937fea)
 
@@ -67,6 +70,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Safe Permissionless Consensus](https://eprint.iacr.org/2022/796)
 - [Round Efficient Byzantine Agreement from VDFs](https://eprint.iacr.org/2022/823)
 - [VERI-ZEXE: Decentralized Private Computation with Universal Setup](https://eprint.iacr.org/2022/802)
+- [Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86](https://www.hertzbleed.com)
 - [Curve Trees: Practical and Transparent Zero-Knowledge Accumulators](https://eprint.iacr.org/2022/756)
 - [On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols](https://eprint.iacr.org/2021/409)
 - [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://eprint.iacr.org/2021/370)
@@ -79,6 +83,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   another that a certain computation was executed correctly. Cairo and
   similar proof systems can be used to provide scalability to
   blockchains.
+- [Rust Discrete Log Contracts](https://github.com/p2pderivatives/rust-dlc). 
+  DLCs are a means of creating derivatives, futures, and stablecoin contracts on Bitcoin. For more, see the [DLC specs](https://github.com/discreetlogcontracts/dlcspecs). It makes use of the rust-lightning (LDK) and rust-bitcoin crates.
 - [arkworks::algebra](https://github.com/arkworks-rs/algebra).
   Libraries for finite field, elliptic curve, and polynomial arithmetic
 - [Circuits for zkEVM](https://github.com/privacy-scaling-explorations/zkevm-circuits).
@@ -733,7 +739,9 @@ but it seems to be a result of importing old RustSec advisories.
 
 ### Rust in Bitcoin
 
-For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
+BDK 0.19 was released with experimental Taproot support, including `tr()` descriptors, taproot PSBTs, signing key and script spend taproot PSBTs, and `tr()` in `descriptor!` macros. Lots of activity from the RGB team this month as they released rgb 0.7 and are working hard on finishing 0.8, which is currently available pre-release, and includes work on Tapret on-chain Deterministic Bitcoin Contracts. Once the rgb-core 0.8 release is finalized, mainnet support for RGB20 tokens should be ready. Activity around LDK is also picking up, with their recent 0.108 and 0.109 releases.
+
+For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 [ribtc]: https://t.me/rust_in_bitcoin
 
@@ -758,6 +766,10 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
 [bdk-open_issues-3]: https://github.com/bitcoindevkit/bdk-ffi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-06-01..2022-06-30
 [bdk-open_issues-4]: https://github.com/bitcoindevkit/rust-hwi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-06-01..2022-06-30
 [bdk-open_issues-5]: https://github.com/bitcoindevkit/rust-electrum-client/issues?q=is%3Aissue+is%3Aopen+created%3A2022-06-01..2022-06-30
+
+- [0.19 Released with Taproot support](https://twitter.com/bitcoindevkit/status/1535307506880114688)
+- [rust-hwi version 0.2.0 is out!](https://github.com/bitcoindevkit/rust-hwi/releases/tag/v0.2.0)
+- [bdk-swift version 0.4.0 is ready, including bdk 0.19.0 with experimental tr() descriptor support](https://github.com/bitcoindevkit/bdk-swift/releases/tag/0.4.0)
 
 #### [Bitmask](https://github.com/diba-io/bitmask-core)
 
@@ -804,6 +816,11 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
 [ldk-closed_issues-2]: https://github.com/lightningdevkit/ldk-c-bindings/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-06-01..2022-06-30
 [ldk-open_issues-1]: https://github.com/lightningdevkit/rust-lightning/issues?q=is%3Aissue+is%3Aopen+created%3A2022-06-01..2022-06-30
 [ldk-open_issues-2]: https://github.com/lightningdevkit/ldk-c-bindings/issues?q=is%3Aissue+is%3Aopen+created%3A2022-06-01..2022-06-30
+
+- [rust-lightning 0.0.109 released](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.109)
+- [The story behind LDK, where they are, and where they're going](https://lightningdevkit.org/blog/ldk-an-sdk-for-the-lightning-network/)
+- [LDK adds anti-fee sniping measures to channel funding transactions](https://github.com/lightningdevkit/rust-lightning/pull/1531)
+  - [See this article for more on fee-sniping](https://bitcoinops.org/en/topics/fee-sniping/)
 
 #### [LNP/BP](https://github.com/LNP-BP)
 

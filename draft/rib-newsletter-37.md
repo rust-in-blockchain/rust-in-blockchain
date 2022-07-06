@@ -52,9 +52,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
 - [DAG Meets BFT - The Next Generation of BFT Consensus](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
@@ -71,6 +68,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Round Efficient Byzantine Agreement from VDFs](https://eprint.iacr.org/2022/823)
 - [VERI-ZEXE: Decentralized Private Computation with Universal Setup](https://eprint.iacr.org/2022/802)
 - [Curve Trees: Practical and Transparent Zero-Knowledge Accumulators](https://eprint.iacr.org/2022/756)
+- [On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols](https://eprint.iacr.org/2021/409)
+- [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://eprint.iacr.org/2021/370)
 
 #### Projects
 
@@ -83,6 +82,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [arkworks::algebra](https://github.com/arkworks-rs/algebra).
   Libraries for finite field, elliptic curve, and polynomial arithmetic
 - [Circuits for zkEVM](https://github.com/privacy-scaling-explorations/zkevm-circuits).
+- [Lurk](https://github.com/lurk-lang/lurk-rs).
+  A Turing-complete programming language for Zero-Knowledge Proofs.
 
 &nbsp;
 
@@ -111,6 +112,31 @@ but it seems to be a result of importing old RustSec advisories.
 &nbsp;
 
 ## Most Active in June
+
+[Parity](https://github.com/paritytech):
+557 merged PRs,
+152 closed issues,
+130 open issues
+
+[Solana](https://github.com/solana-labs/solana):
+501 merged PRs,
+95 closed issues,
+103 open issues
+
+[Sui](https://github.com/MystenLabs):
+343 merged PRs,
+155 closed issues,
+140 open issues
+
+[Fuel](https://github.com/FuelLabs):
+339 merged PRs,
+214 closed issues,
+180 open issues
+
+[Aptos](https://github.com/aptos-labs):
+290 merged PRs,
+81 closed issues,
+32 open issues
 
 &nbsp;
 
@@ -555,6 +581,8 @@ but it seems to be a result of importing old RustSec advisories.
 [nervos-open_issues-2]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aopen+created%3A2022-06-01..2022-06-30
 [nervos-open_issues-3]: https://github.com/nervosnetwork/capsule/issues?q=is%3Aissue+is%3Aopen+created%3A2022-06-01..2022-06-30
 
+- [Major Protocol Upgrade – Diving Into CKB-VM V1](https://www.nervos.org/blog/major-protocol-upgrade-diving-into-ckb-vm-v1)
+
 #### [Oasis](https://github.com/oasisprotocol)
 
 42 merged PRs ([1][oasis-merged-prs-1], [2][oasis-merged-prs-2], [3][oasis-merged-prs-3]), 
@@ -645,6 +673,8 @@ but it seems to be a result of importing old RustSec advisories.
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-06-01..2022-06-30
 [solana-open_issues-3]: https://github.com/solana-labs/solana-accountsdb-plugin-postgres/issues?q=is%3Aissue+is%3Aopen+created%3A2022-06-01..2022-06-30
 
+- [Solana Network Upgrades](https://solana.com/news/solana-network-upgrades)
+- [Solana Mobile debuts Saga, a flagship Android phone for web3](https://solana.com/news/page/2)
 - [The reality behind Solana's claimed 50K TPS](https://www.reddit.com/r/solana/comments/vd6805/the_reality_behind_solanas_claimed_50k_tps)
 
 #### [Subspace Labs](https://github.com/subspace)

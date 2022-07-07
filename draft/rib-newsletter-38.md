@@ -190,6 +190,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 ### Rust in Ethereum
 
+#### [Fuel](https://github.com/FuelLabs)
+
 #### [Ethers-rs](https://github.com/gakonst/ethers-rs)
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)

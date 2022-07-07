@@ -56,7 +56,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 Lurk is a Lisp the correct execution of which can be proved with recursive SNARKS.
 The [lurk-rs] implementation compiles by transpiling through `rustc`.
 
-[lunk-rs]: https://github.com/lurk-lang/lurk-rs
+[lurk-rs]: https://github.com/lurk-lang/lurk-rs
 
 &nbsp;
 

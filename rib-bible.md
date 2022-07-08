@@ -368,6 +368,7 @@ repos = [
 "FuelLabs/fuel-bft",
 "FuelLabs/fuel-core",
 "FuelLabs/fuel-crypto",
+"FuelLabs/fuel-debugger",
 "FuelLabs/fuel-indexer",
 "FuelLabs/fuel-merkle",
 "FuelLabs/fuel-storage",
@@ -375,6 +376,7 @@ repos = [
 "FuelLabs/fuel-types",
 "FuelLabs/fuel-vm",
 "FuelLabs/fuels-rs",
+"FuelLabs/fuelup",
 "FuelLabs/sway",
 ]
 ```

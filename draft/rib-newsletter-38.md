@@ -17,6 +17,8 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[Alexey Shekhirin],
+[John Adler],
 
 _TODO_
 
@@ -28,6 +30,9 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+
+[Alexey Shekhirin]: https://github.com/shekhirin
+[John Adler]: https://github.com/adlerjohn
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

@@ -192,6 +192,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [Ethers-rs](https://github.com/gakonst/ethers-rs)
 
+#### [Foundry](https://github.com/foundry-rs/foundry)
+
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)

@@ -349,6 +349,29 @@ repos = [
 ]
 ```
 
+### Foundry
+
+Media:
+
+- https://getfoundry.sh
+
+GitHub:
+
+- https://github.com/foundry-rs/foundry
+
+```toml
+repos = [
+"foundry-rs/foundry",
+"foundry-rs/forge-std",
+"foundry-rs/book",
+"foundry-rs/hardhat",
+"foundry-rs/getfoundry.sh",
+"foundry-rs/foundry-toolchain",
+"foundry-rs/forge-template",
+"foundry-rs/hardhat-foundry-template",
+]
+```
+
 ### Fuel
 
 Media:

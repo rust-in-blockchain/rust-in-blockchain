@@ -101,6 +101,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Dfinity](https://github.com/dfinity)
 
+- [InfinitySwap Launches Enhanced CDK for Rust Canisters](https://medium.com/dfinity/infinityswap-enhanced-cdk-for-rust-canisters-smart-contracts-3decb7059e0d)
+
 #### [Dusk Network](https://github.com/dusk-network)
 
 #### [Elrond](https://github.com/ElrondNetwork)

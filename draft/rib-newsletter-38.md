@@ -209,6 +209,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 
+- [100 Days to Mainnet](https://matterlabs.medium.com/100-days-to-mainnet-6f230893bd73)
+
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
 

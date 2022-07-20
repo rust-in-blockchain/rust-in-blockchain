@@ -10,7 +10,7 @@ summary: "_TODO_"
 Welcome to the #38 edition of Rust in Blockchain, the monthly
 newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
-[Previous: #37(/newsletters/rib-newsletter-37/).
+[Previous: #37](/newsletters/rib-newsletter-37/).
 
 &nbsp;
 
@@ -156,7 +156,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
-For discussion join the [Rust in Bitcoin Telegram group][ribtc] .
+For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 [ribtc]: https://t.me/rust_in_bitcoin
 

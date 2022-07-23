@@ -56,6 +56,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities](https://eprint.iacr.org/2022/932)
+- [Almost-Surely Terminating Asynchronous Byzantine Agreement Against General Adversaries with Optimal Resilience](https://eprint.iacr.org/2022/917)
+- [Lattice-Based SNARKs: Publicly Verifiable, Preprocessing, and Recursively Composable](https://eprint.iacr.org/2022/941)
+- [Foundations of Coin Mixing Services](https://eprint.iacr.org/2022/942)
 
 #### Projects
 

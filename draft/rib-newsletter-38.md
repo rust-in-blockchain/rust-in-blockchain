@@ -211,6 +211,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
+- [Medium-priority release: Galactic Federation President](https://github.com/sigp/lighthouse/releases/tag/v2.5.0)
+
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
 #### [Rust Web3](https://github.com/tomusdrw/rust-web3)

@@ -53,13 +53,17 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Zero Knowledge Proof — Error Explanation when developing Custom Gate](https://starli.medium.com/zero-knowledge-proof-error-explanation-when-developing-custom-gate-f599ea606a65)
 
 #### Papers
 
 - [Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities](https://eprint.iacr.org/2022/932)
 - [Almost-Surely Terminating Asynchronous Byzantine Agreement Against General Adversaries with Optimal Resilience](https://eprint.iacr.org/2022/917)
 - [Lattice-Based SNARKs: Publicly Verifiable, Preprocessing, and Recursively Composable](https://eprint.iacr.org/2022/941)
+- [Practical UC-Secure Zero-Knowledge Smart Contracts](https://eprint.iacr.org/2022/670)
 - [Foundations of Coin Mixing Services](https://eprint.iacr.org/2022/942)
+- [On the Computational Hardness of the Code Equivalence Problem in Cryptography](https://eprint.iacr.org/2022/967)
+- [Arithmetization of Σ¹₁ relations in Halo 2](https://eprint.iacr.org/2022/777)
 
 #### Projects
 

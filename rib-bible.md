@@ -349,22 +349,6 @@ repos = [
 ]
 ```
 
-### Foundry
-
-Media:
-
-- https://getfoundry.sh
-
-GitHub:
-
-- https://github.com/foundry-rs/foundry
-
-```toml
-repos = [
-"foundry-rs/foundry",
-]
-```
-
 ### Fuel
 
 Media:
@@ -1075,6 +1059,22 @@ GitHub:
 ```toml
 repos = [
 "gakonst/ethers-rs",
+]
+```
+
+### Foundry
+
+Media:
+
+- https://getfoundry.sh
+
+GitHub:
+
+- https://github.com/foundry-rs/foundry
+
+```toml
+repos = [
+"foundry-rs/foundry",
 ]
 ```
 

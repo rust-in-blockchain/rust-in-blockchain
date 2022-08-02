@@ -83,6 +83,31 @@ Bold entries here are especially relevant to blockchain projects.
 
 ## Most Active in July
 
+[Sui](https://github.com/MystenLabs):
+459 merged PRs,
+120 closed issues,
+158 open issues
+
+[Aptos](https://github.com/aptos-labs):
+453 merged PRs,
+28 closed issues,
+67 open issues
+
+[Parity](https://github.com/paritytech):
+360 merged PRs,
+124 closed issues,
+94 open issues
+
+[Solana](https://github.com/solana-labs/solana):
+327 merged PRs,
+93 closed issues,
+73 open issues
+
+[Fuel](https://github.com/FuelLabs):
+225 merged PRs,
+203 closed issues,
+142 open issues
+
 &nbsp;
 
 ## Project Updates

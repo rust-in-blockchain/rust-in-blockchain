@@ -59,6 +59,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Foundations of Coin Mixing Services](https://eprint.iacr.org/2022/942)
 - [On the Computational Hardness of the Code Equivalence Problem in Cryptography](https://eprint.iacr.org/2022/967)
 - [Arithmetization of Σ¹₁ relations in Halo 2](https://eprint.iacr.org/2022/777)
+- [Privacy when Everyone is Watching: An SOK on Anonymity on the Blockchain](https://eprint.iacr.org/2022/985)
 
 #### Projects
 
@@ -131,6 +132,8 @@ Bold entries here are especially relevant to blockchain projects.
 [aleo-open_issues-3]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [aleo-open_issues-4]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 
+- [Announcing Aleo Testnet 3](https://www.aleo.org/post/announcing-testnet-3)
+
 #### [Anoma](https://github.com/anoma)
 
 8 merged PRs ([1][anoma-merged-prs-1], [2][anoma-merged-prs-2]),
@@ -151,6 +154,8 @@ Bold entries here are especially relevant to blockchain projects.
 [aptos-merged-prs-1]: https://github.com/aptos-labs/aptos-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
 [aptos-closed_issues-1]: https://github.com/aptos-labs/aptos-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-07-01..2022-07-31
 [aptos-open_issues-1]: https://github.com/aptos-labs/aptos-core/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+
+- [Aptos Incentivized Testnet 2 | Highlights and Updates](https://medium.com/aptoslabs/aptos-incentivized-testnet-2-highlights-and-updates-ee478eace33c)
 
 #### [Casper](https://github.com/casper-network)
 
@@ -266,6 +271,8 @@ Bold entries here are especially relevant to blockchain projects.
 [dusk_network-closed_issues-4]: https://github.com/dusk-network/wallet-cli/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-07-01..2022-07-31
 [dusk_network-open_issues-1]: https://github.com/dusk-network/wallet-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 
+- [Dusk Network Launches Testnet 2.0, Upgraded Staking Contract Goes Live With 100+ Nodes.](https://dusk.network/news/dusk-network-launches-testnet-2-0-upgraded-staking-contract-goes-live-with-100-nodes-1)
+
 #### [Elrond](https://github.com/ElrondNetwork)
 
 48 merged PRs ([1][elrond-merged-prs-1], [2][elrond-merged-prs-2], [3][elrond-merged-prs-3], [4][elrond-merged-prs-4], [5][elrond-merged-prs-5]),
@@ -298,6 +305,8 @@ Bold entries here are especially relevant to blockchain projects.
 [espresso_systems-open_issues-3]: https://github.com/EspressoSystems/seahorse/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [espresso_systems-open_issues-4]: https://github.com/EspressoSystems/cap/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 
+- [VERI-ZEXE: Decentralized Private Computation with Universal Setup](https://www.espressosys.com/blog/veri-zexe-decentralized-private-computation-with-universal-setup)
+
 #### [Filecoin](https://github.com/filecoin-project)
 
 22 merged PRs ([1][filecoin-merged-prs-1], [2][filecoin-merged-prs-2], [3][filecoin-merged-prs-3], [4][filecoin-merged-prs-4], [5][filecoin-merged-prs-5], [6][filecoin-merged-prs-6], [7][filecoin-merged-prs-7]),
@@ -319,6 +328,11 @@ Bold entries here are especially relevant to blockchain projects.
 [filecoin-open_issues-3]: https://github.com/filecoin-project/fvm-evm/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [filecoin-open_issues-4]: https://github.com/filecoin-project/ref-fvm/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [filecoin-open_issues-5]: https://github.com/filecoin-project/rust-fil-proofs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+
+- [SnarkPack v2: A New Version of Filecoin’s Proof Aggregator](https://filecoin.io/blog/posts/snarkpack-v2-a-new-version-of-filecoin-s-proof-aggregator/)
+- [How does the Network Indexer work?](https://filecoin.io/blog/posts/how-does-the-network-indexer-work/)
+- [Retrieval Markets Rollup H1 2022](https://filecoin.io/blog/posts/retrieval-markets-rollup-h1-2022/)
+- [Filecoin v16 Network Upgrade: Skyr](https://filecoin.io/blog/posts/filecoin-v16-network-upgrade-skyr/)
 
 #### [Findora](https://github.com/FindoraNetwork)
 

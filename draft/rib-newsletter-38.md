@@ -273,6 +273,28 @@ Bold entries here are especially relevant to blockchain projects.
 [espresso_systems-open_issues-3]: https://github.com/EspressoSystems/seahorse/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [espresso_systems-open_issues-4]: https://github.com/EspressoSystems/cap/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 
+#### [Filecoin](https://github.com/filecoin-project)
+
+22 merged PRs ([1][filecoin-merged-prs-1], [2][filecoin-merged-prs-2], [3][filecoin-merged-prs-3], [4][filecoin-merged-prs-4], [5][filecoin-merged-prs-5], [6][filecoin-merged-prs-6], [7][filecoin-merged-prs-7]),
+10 closed issues ([1][filecoin-closed_issues-1], [2][filecoin-closed_issues-2], [3][filecoin-closed_issues-3]),
+16 open issues ([1][filecoin-open_issues-1], [2][filecoin-open_issues-2], [3][filecoin-open_issues-3], [4][filecoin-open_issues-4], [5][filecoin-open_issues-5])
+
+[filecoin-merged-prs-1]: https://github.com/filecoin-project/builtin-actors/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
+[filecoin-merged-prs-2]: https://github.com/filecoin-project/ec-gpu/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
+[filecoin-merged-prs-3]: https://github.com/filecoin-project/filecoin-ffi/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
+[filecoin-merged-prs-4]: https://github.com/filecoin-project/neptune/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
+[filecoin-merged-prs-5]: https://github.com/filecoin-project/ref-fvm/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
+[filecoin-merged-prs-6]: https://github.com/filecoin-project/rust-fil-proofs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
+[filecoin-merged-prs-7]: https://github.com/filecoin-project/rust-gpu-tools/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
+[filecoin-closed_issues-1]: https://github.com/filecoin-project/filecoin-ffi/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-07-01..2022-07-31
+[filecoin-closed_issues-2]: https://github.com/filecoin-project/ref-fvm/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-07-01..2022-07-31
+[filecoin-closed_issues-3]: https://github.com/filecoin-project/rust-fil-proofs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-07-01..2022-07-31
+[filecoin-open_issues-1]: https://github.com/filecoin-project/builtin-actors/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+[filecoin-open_issues-2]: https://github.com/filecoin-project/filecoin-ffi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+[filecoin-open_issues-3]: https://github.com/filecoin-project/fvm-evm/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+[filecoin-open_issues-4]: https://github.com/filecoin-project/ref-fvm/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+[filecoin-open_issues-5]: https://github.com/filecoin-project/rust-fil-proofs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 78 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2], [3][findora-merged-prs-3], [4][findora-merged-prs-4]),
@@ -567,6 +589,19 @@ Bold entries here are especially relevant to blockchain projects.
 [parity-open_issues-11]: https://github.com/paritytech/cargo-contract/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [parity-open_issues-12]: https://github.com/paritytech/substrate-contracts-node/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [parity-open_issues-13]: https://github.com/paritytech/parity-bridges-common/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+
+#### [Radix](https://github.com/radixdlt)
+
+95 merged PRs ([1][radix-merged-prs-1], [2][radix-merged-prs-2], [3][radix-merged-prs-3], [4][radix-merged-prs-4]),
+8 closed issues ([1][radix-closed_issues-1], [2][radix-closed_issues-2]),
+0 open issues
+
+[radix-merged-prs-1]: https://github.com/radixdlt/community-scrypto-examples/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
+[radix-merged-prs-2]: https://github.com/radixdlt/foo-hack/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
+[radix-merged-prs-3]: https://github.com/radixdlt/radixdlt-scrypto/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
+[radix-merged-prs-4]: https://github.com/radixdlt/scrypto-challenges/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
+[radix-closed_issues-1]: https://github.com/radixdlt/community-scrypto-examples/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-07-01..2022-07-31
+[radix-closed_issues-2]: https://github.com/radixdlt/radixdlt-scrypto/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-07-01..2022-07-31
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 

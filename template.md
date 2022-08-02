@@ -102,6 +102,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Espresso Systems](https://github.com/EspressoSystems)
 
+#### [Filecoin](https://github.com/filecoin-project)
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 #### [Fluence](https://github.com/fluencelabs)
@@ -129,6 +131,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Oasis](https://github.com/oasisprotocol)
 
 #### [Parity](https://github.com/paritytech)
+
+#### [Radix](https://github.com/radixdlt)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 

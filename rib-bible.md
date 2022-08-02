@@ -25,13 +25,11 @@ in [template.md].
 ### Aleo
 
 Media:
-
 - https://www.aleo.org
 - https://www.aleo.org/blog
 - https://twitter.com/AleoHQ
 
 GitHub:
-
 - https://github.com/AleoHQ
 
 ```toml
@@ -46,13 +44,10 @@ repos = [
 ### Anoma
 
 Media:
-
 - https://anoma.network
 - https://twitter.com/anomanetwork
 
-
 GitHub:
-
 - https://github.com/anoma
 
 ```toml
@@ -67,13 +62,11 @@ repos = [
 ### Aptos
 
 Media:
-
 - https://aptoslabs.com/
 - https://twitter.com/aptoslabs
 - https://aptoslabs.medium.com/
 
 GitHub:
-
 - https://github.com/aptos-labs
 
 ```toml
@@ -85,13 +78,10 @@ repos = [
 ### Casper
 
 Media:
-
 - https://casper.network
 - https://twitter.com/Casper_Network
 
-
 GitHub:
-
 - https://github.com/casper-network
 
 ```toml
@@ -101,15 +91,12 @@ repos = [
 ]
 ```
 
-
 ### ChainSafe
 
 Media:
-
 - https://medium.com/chainsafe-systems
 
 GitHub:
-
 - https://github.com/ChainSafe
 
 ```toml
@@ -124,12 +111,10 @@ repos = [
 ### COMIT
 
 Media:
-
 - https://comit.network/blog
 - https://twitter.com/comit_network
 
 GitHub:
-
 - https://github.com/comit-network
 
 ``` toml
@@ -140,19 +125,16 @@ repos = [
 "comit-network/xtra-productivity",
 "comit-network/waves",
 ]
-
 ```
 
 ### Concordium
 
 Media:
-
 - https://twitter.com/concordiumnet
 - https://medium.com/concordium
 - https://www.reddit.com/r/Concordium_Official/
 
 GitHub:
-
 - https://github.com/Concordium
 
 ``` toml
@@ -172,12 +154,10 @@ repos = [
 ### Conflux Network
 
 Media:
-
 - https://twitter.com/Conflux_Network
 - https://medium.com/conflux-network
 
 GitHub:
-
 - https://github.com/Conflux-Chain
 
 ``` toml
@@ -189,12 +169,10 @@ repos = [
 ### DarkFi
 
 Media:
-
 - https://dark.fi/
 - https://twitter.com/DarkFiSquad/
 
 GitHub:
-
 - https://github.com/darkrenaissance/darkfi
 
 ```toml
@@ -206,11 +184,9 @@ repos = [
 ### Dfinity
 
 Media:
-
 - https://medium.com/dfinity
 
 GitHub:
-
 - https://github.com/dfinity
 
 ```toml
@@ -232,14 +208,12 @@ repos = [
 ### Dusk Network
 
 Media:
-
 - https://dusk.network/
 - https://twitter.com/duskfoundation
 - https://dusk.network/pages/all-posts
 - https://www.reddit.com/r/DuskNetwork/
 
 GitHub:
-
 - https://github.com/dusk-network
 
 ```toml
@@ -258,12 +232,10 @@ repos = [
 ### Elrond
 
 Media:
-
 - https://elrond.com/
 - https://elrond.com/blog/
 
 GitHub:
-
 - https://github.com/ElrondNetwork
 
 ```toml
@@ -287,8 +259,7 @@ Media:
 - https://www.espressosys.com/blog
 - https://twitter.com/EspressoSys
 
-github:
-
+GitHub:
 - https://github.com/EspressoSystems
 
 ```toml
@@ -302,15 +273,42 @@ repos = [
 
 ```
 
+### Filecoin
+
+Media:
+- https://filecoin.io/
+
+GitHub:
+- https://github.com/filecoin-project
+
+```toml
+repos = [
+"filecoin-project/blstrs",
+"filecoin-project/bls-signatures",
+"filecoin-project/builtin-actors",
+"filecoin-project/builtin-actors-bundler",
+"filecoin-project/ec-gpu",
+"filecoin-project/filecoin-ffi",
+"filecoin-project/filecoin-phase2",
+"filecoin-project/fvm-evm",
+"filecoin-project/neptune",
+"filecoin-project/ref-fvm",
+"filecoin-project/rust-filecoin-proofs-api",
+"filecoin-project/rust-fil-ffi-toolkit",
+"filecoin-project/rust-fil-logger",
+"filecoin-project/rust-fil-proofs",
+"filecoin-project/rust-gpu-tools",
+"filecoin-project/taupipp",
+]
+```
+
 ### Findora
 
 Media:
-
 - https://findora.org
 - https://twitter.com/findoraofficial
 
 GitHub:
-
 - https://github.com/FindoraNetwork
 
 ```toml
@@ -329,12 +327,10 @@ repos = [
 ### Fluence
 
 Media:
-
 - https://fluence.network
 - https://twitter.com/fluence_project
 
 GitHub:
-
 - https://github.com/fluencelabs
 
 ```toml
@@ -352,12 +348,10 @@ repos = [
 ### Fuel
 
 Media:
-
 - https://fuel.network
 - https://twitter.com/fuellabs_
 
 GitHub
-
 - https://github.com/FuelLabs
 
 ```toml
@@ -384,15 +378,12 @@ repos = [
 ### Golem
 
 Media:
-
 - https://blog.golemproject.net/
 - https://twitter.com/golemproject
 - https://chat.golem.network/
 
 GitHub:
-
 - https://github.com/golemfactory
-
 
 ``` toml
 repos = [
@@ -410,11 +401,9 @@ repos = [
 ### Grin
 
 Media:
-
 - https://grinnews.substack.com
 
 GitHub:
-
 - https://github.com/mimblewimble
 
 ``` toml
@@ -427,13 +416,11 @@ repos = [
 ### Helium
 
 Media:
-
 - https://www.helium.com/
 - https://blog.helium.com/
 - https://twitter.com/helium
 
 GitHub:
-
 - https://github.com/helium
 
 ```toml
@@ -451,7 +438,6 @@ repos = [
 ### Holochain
 
 Media:
-
 - https://medium.com/holochain
 - https://twitter.com/holochain
 - https://www.reddit.com/r/holochain/
@@ -460,7 +446,6 @@ Media:
 - https://medium.com/h-o-l-o
 
 GitHub:
-
 - https://github.com/holochain
 
 ``` toml
@@ -477,7 +462,6 @@ repos = [
 ### Iota
 
 GitHub:
-
 - https://github.com/iotaledger
 
 ``` toml
@@ -496,7 +480,6 @@ repos = [
 ### Maidsafe
 
 Media:
-
 - https://maidsafe.net/
 - https://safenetwork.tech/
 - https://medium.com/safenetwork
@@ -504,7 +487,6 @@ Media:
 - https://twitter.com/safenetworktech
 
 GitHub:
-
 - https://github.com/maidsafe
 
 ```toml
@@ -523,11 +505,9 @@ repos = [
 ### MobileCoin
 
 Media:
-
 - https://www.mobilecoin.com/
 
 GitHub:
-
 - https://github.com/mobilecoinfoundation
 
 ``` toml
@@ -542,13 +522,11 @@ repos	= [
 ### Near
 
 Media:
-
 - https://nearprotocol.com/blog/
 - https://twitter.com/nearprotocol
 - https://nearprotocol.com/community/
 
 GitHub:
-
 - https://github.com/near
 
 ``` toml
@@ -571,7 +549,6 @@ repos = [
 ### Nervos
 
 Media:
-
 - https://medium.com/nervosnetwork
 - https://medium.com/nervosnetwork/tagged/development-updates
 - https://twitter.com/nervosnetwork
@@ -579,7 +556,6 @@ Media:
 - https://www.reddit.com/r/NervosNetwork/
 
 GitHub:
-
 - https://github.com/nervosnetwork
 
 ``` toml
@@ -601,14 +577,12 @@ repos = [
 ### Oasis
 
 Media:
-
 - https://medium.com/oasislabs
 - https://medium.com/oasis-protocol-project
 - https://www.twitter.com/OasisLabs
 - https://www.reddit.com/r/OasisLabs
 
 GitHub:
-
 - https://github.com/oasislabs
 - https://github.com/oasisprotocol
 
@@ -623,13 +597,11 @@ repos = [
 ### Parity
 
 Media:
-
 - https://www.parity.io/blog/
 - https://polkadot.network/blog/
 - https://twitter.com/ParityTech
 
 GitHub:
-
 - https://github.com/paritytech
 
 ``` toml
@@ -652,16 +624,34 @@ repos = [
 ]
 ```
 
+### Radix
+
+Media:
+- https://www.radixdlt.com/
+
+GitHub:
+- https://github.com/radixdlt
+
+```toml
+repos = [
+"radixdlt/community-scrypto-examples",
+"radixdlt/foo-hack",
+"radixdlt/radixdlt-scrypto",
+"radixdlt/scrypto-challenges",
+"radixdlt/scrypto-demos",
+"radixdlt/scrypto-examples",
+"radixdlt/scrypto_tutorial",
+]
+```
+
 ### Secret Network
 
 Media:
-
 - https://blog.scrt.network
 - https://twitter.com/SecretNetwork
 - https://forum.scrt.network
 
 GitHub:
-
 - https://github.com/scrtlabs
 
 ``` toml
@@ -675,13 +665,11 @@ repos = [
 ### Solana
 
 Media:
-
 - https://medium.com/solana-labs
 - https://twitter.com/solana
 - https://www.reddit.com/r/solana
 
 GitHub:
-
 - https://github.com/solana-labs
 
 ``` toml
@@ -695,7 +683,6 @@ repos = [
 ### Spacemesh
 
 GitHub:
-
 - https://github.com/spacemeshos
 
 ``` toml
@@ -707,7 +694,6 @@ repos = [
 ### Subspace Labs
 
 Media:
-
 - https://subspace.network
 - https://medium.com/subspace-network
 - https://twitter.com/NetworkSubspace
@@ -717,7 +703,6 @@ Media:
 - https://www.youtube.com/channel/UCojYRCZOtVTJHJXivOYJzeQ
 
 GitHub:
-
 - https://github.com/subspace
 
 ``` toml
@@ -729,13 +714,11 @@ repos = [
 ### Sui
 
 Media:
-
 - https://sui.io/
 - https://twitter.com/mysten_labs
 - https://medium.com/mysten-labs
 
 GitHub:
-
 - https://github.com/MystenLabs
 
 ```toml
@@ -748,7 +731,6 @@ repos = [
 ### TezEdge
 
 GitHub:
-
 - https://github.com/tezedge
 
 ``` toml
@@ -762,7 +744,6 @@ repos = [
 ### Zcash
 
 Media:
-
 - https://z.cash/buzz/
 - https://electriccoin.co/blog/
 - https://www.zfnd.org/blog/
@@ -772,7 +753,6 @@ Media:
 - https://reddit.com/r/zec
 
 GitHub:
-
 - https://github.com/ZcashFoundation
 - https://github.com/zcash
 
@@ -787,7 +767,6 @@ repos = [
 ]
 ```
 
-
 ---
 
 ## Rust in Bitcoin
@@ -795,11 +774,9 @@ repos = [
 ### BDK
 
 Media:
-
 - https://bitcoindevkit.org
 
 GitHub:
-
 - https://github.com/bitcoindevkit
 
 ```toml
@@ -815,11 +792,9 @@ repos = [
 ### Bitmask
 
 Media:
-
 - https://bitmask.app
 
 GitHub:
-
 - https://github.com/diba-io/bitmask-core
 
 ```toml
@@ -831,7 +806,6 @@ repos = [
 ### Electrs
 
 GitHub:
-
 - https://github.com/romanz/electrs
 
 ```toml
@@ -843,7 +817,6 @@ repos = [
 ### Internet2
 
 GitHub:
-
 - https://github.com/Internet2-WG
 
 ```toml
@@ -858,11 +831,9 @@ repos = [
 ### LDK
 
 Media:
-
 - https://lightningdevkit.org
 
 GitHub:
-
 - https://github.com/lightningdevkit
 
 ```toml
@@ -876,12 +847,10 @@ repos = [
 ### LNP/BP
 
 Media:
-
 - https://www.lnp-bp.org
 - https://twitter.com/lnp_bp
 
 GitHub:
-
 - https://github.com/LNP-BP
 
 ```toml
@@ -900,9 +869,7 @@ repos = [
 ### LNP WG
 
 GitHub:
-
 - https://github.com/LNP-WG
-
 
 ```toml
 repos = [
@@ -916,12 +883,10 @@ repos = [
 ### MyCitadel
 
 Media:
-
 - https://mycitadel.io/
 - https://twitter.com/mycitadel_io
 
 GitHub:
-
 - https://github.com/mycitadel
 
 ```toml
@@ -936,7 +901,6 @@ repos = [
 ### Nakamoto
 
 GitHub:
-
 - https://github.com/cloudhead/nakamoto
 
 ```toml
@@ -948,7 +912,6 @@ repos = [
 ### Nomic
 
 GitHub:
-
 - https://github.com/nomic-io
 
 ```toml
@@ -964,12 +927,10 @@ repos = [
 ### RGB
 
 Media:
-
 - https://www.rgbfaq.com
 - https://rgbex.io
 
 GitHub:
-
 - https://github.com/RGB-WG
 
 ```toml
@@ -983,7 +944,6 @@ repos = [
 ### Rust Bitcoin
 
 GitHub:
-
 - https://github.com/rust-bitcoin
 
 ```toml
@@ -1004,7 +964,6 @@ repos = [
 ### Rust Simplicity
 
 GitHub:
-
 - https://github.com/ElementsProject/rust-simplicity
 
 ```toml
@@ -1016,11 +975,9 @@ repos = [
 ### Sapio
 
 Media:
-
 - https://learn.sapio-lang.org/
 
 GitHub:
-
 - https://github.com/sapio-lang
 
 ```toml
@@ -1032,11 +989,9 @@ repos = [
 ### Talaia
 
 Media:
-
 - https://talaia.watch
 
 GitHub:
-
 - https://github.com/talaia-labs
 
 ```toml
@@ -1045,7 +1000,6 @@ repos = [
 ]
 ```
 
-
 ---
 
 ## Rust in Ethereum
@@ -1053,7 +1007,6 @@ repos = [
 ### Ethers-rs
 
 GitHub:
-
 - https://github.com/gakonst/ethers-rs
 
 ```toml
@@ -1065,11 +1018,9 @@ repos = [
 ### Foundry
 
 Media:
-
 - https://getfoundry.sh
 
 GitHub:
-
 - https://github.com/foundry-rs/foundry
 
 ```toml
@@ -1081,11 +1032,9 @@ repos = [
 ### Lighthouse
 
 Media:
-
 - https://lighthouse.sigmaprime.io/
 
 GitHub:
-
 - https://github.com/sigp/lighthouse
 
 ``` toml
@@ -1098,7 +1047,6 @@ repos = [
 ### Rust Ethereum
 
 GitHub:
-
 - https://github.com/rust-ethereum
 
 ```toml
@@ -1113,7 +1061,6 @@ repos = [
 ### Rust Web3
 
 GitHub:
-
 - https://github.com/tomusdrw/rust-web3
 
 ```toml
@@ -1125,12 +1072,10 @@ repos = [
 ### zkSync
 
 Media:
-
 - https://medium.com/matter-labs
 - https://twitter.com/zksync
 
 GitHub:
-
 - https://github.com/matter-labs/zksync
 
 ``` toml
@@ -1139,4 +1084,3 @@ repos = [
 "matter-labs/compiler-solidity",
 ]
 ```
-

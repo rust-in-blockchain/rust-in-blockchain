@@ -19,9 +19,8 @@ industry topics.
 Thanks to contributors:
 [Alexey Shekhirin],
 [John Adler],
-
-_TODO_
-
+Samuel Dare,
+[Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -29,7 +28,6 @@ If you follow a particular project, or otherwise find information
 that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
-
 
 [Alexey Shekhirin]: https://github.com/shekhirin
 [John Adler]: https://github.com/adlerjohn
@@ -48,9 +46,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
 - [Zero Knowledge Proof — Error Explanation when developing Custom Gate](https://starli.medium.com/zero-knowledge-proof-error-explanation-when-developing-custom-gate-f599ea606a65)
@@ -67,6 +62,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [rs-soroban-env](https://github.com/stellar/rs-soroban-env).
+  Rust contract-environment interface and (optional) host implementation for Soroban.
+  The announcement:
+  [Project Jump Cannon: Soroban Preview Release](https://www.stellar.org/blog/project-jump-cannon-soroban-preview-release).
+- [narwhal-abci-evm](https://github.com/gakonst/narwhal-abci-evm).
 
 &nbsp;
 

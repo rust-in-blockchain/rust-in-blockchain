@@ -98,6 +98,13 @@ Bold entries here are especially relevant to blockchain projects.
 [RustSec]: https://rustsec.org/advisories/
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
 
+- [RUSTSEC-2022-0037: `async-graphql` - denial of service on deeply nested fragment requests](https://rustsec.org/advisories/RUSTSEC-2022-0037.html).
+- [RUSTSEC-2022-0034: `pkcs11` - unsoundness in pkcs11](https://rustsec.org/advisories/RUSTSEC-2022-0034.html).
+- [RUSTSEC-2022-0038: `juniper` - denial of service on deeply nested fragment requests](https://rustsec.org/advisories/RUSTSEC-2022-0038.html).
+- [RUSTSEC-2022-0035: `websocket` - unbounded memory allocation based on untrusted length](https://rustsec.org/advisories/RUSTSEC-2022-0035.html).
+- **[CVE-2022-31146: `wasmtime` - use after frees with externrefs](https://github.com/advisories/GHSA-5fhj-g3p3-pq9g)**
+- [CVE-2022-31162: `slack-morphism` - Slack Morphism for Rust before 0.41.0 can accidentally leak Slack OAuth client information in application debug logs](https://github.com/advisories/GHSA-99j7-mhfh-w84p).
+- [CVE-2022-31169: `cranelift` - Cranelift vulnerable to miscompilation of constant values in division on AArch64](https://github.com/advisories/GHSA-7f6x-jwh5-m9r4).
 
 &nbsp;
 

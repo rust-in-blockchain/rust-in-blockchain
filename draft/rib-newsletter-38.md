@@ -20,6 +20,7 @@ Thanks to contributors:
 [Alexey Shekhirin],
 [John Adler],
 Samuel Dare,
+Mike,
 [Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
@@ -49,6 +50,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Zero Knowledge Proof — Error Explanation when developing Custom Gate](https://starli.medium.com/zero-knowledge-proof-error-explanation-when-developing-custom-gate-f599ea606a65)
+- [A Twitter thread about Luca Stealer](https://twitter.com/wallet_guard/status/1551894224144138240).
+  An open source malware written in Rust that, among other things, steals from crypto wallet browser extensions.
 
 #### Papers
 
@@ -64,10 +67,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Projects
 
 - [rs-soroban-env](https://github.com/stellar/rs-soroban-env).
-  Rust contract-environment interface and (optional) host implementation for Soroban.
+  A new smart contract environment for Stellar. Written in Rust, and running Rust.
   The announcement:
   [Project Jump Cannon: Soroban Preview Release](https://www.stellar.org/blog/project-jump-cannon-soroban-preview-release).
 - [narwhal-abci-evm](https://github.com/gakonst/narwhal-abci-evm).
+  An experiment that combines Sui's [Narwhal] fast consensus with Cosmos's [ABCI]
+  with [REVM].
+
+[Narwhal]: https://github.com/MystenLabs/narwhal
+[ABCI]: https://docs.tendermint.com/master/spec/abci/
+[REVM]: https://github.com/bluealloy/revm
 
 &nbsp;
 

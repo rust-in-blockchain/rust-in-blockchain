@@ -12,6 +12,29 @@ newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #37](/newsletters/rib-newsletter-37/).
 
+Things are feeling kind of slow lately:
+not a lot of technical blog posts coming out of Rust blockchains,
+development velocity of some projects has slowed,
+no new job postings this month.
+
+Both [Aptos] and [Sui], successor projects to Diem,
+have somewhat surprisingly jumped to the top of the most active lists this month.
+Thanks to [John Adler],
+our [ribbot] tool that we use to measure GitHub activity now
+filters out activity from dependabot,
+and also finally has some CI set up.
+
+[Stellar] will soon be a Rust blockchain,
+with their new smart contract platform,
+[Soroban],
+written in Rust and running Rust programs.
+
+[Aptos]: https://github.com/aptos-labs/aptos-core
+[Sui]: https://github.com/MystenLabs/sui/
+[Stellar]: https://github.com/stellar/
+[Soroban]: https://www.stellar.org/blog/project-jump-cannon-soroban-preview-release
+[ribbot]: https://github.com/rust-in-blockchain/ribbot
+
 &nbsp;
 
 ## Thanks

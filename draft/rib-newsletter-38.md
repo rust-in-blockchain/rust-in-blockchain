@@ -347,6 +347,10 @@ Bold entries here are especially relevant to blockchain projects.
 [findora-closed_issues-1]: https://github.com/FindoraNetwork/platform/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-07-01..2022-07-31
 [findora-open_issues-1]: https://github.com/FindoraNetwork/platform/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 
+- [Optimizing Findora’s TPS on Its EVM Layer](https://medium.com/findorafoundation/optimizing-findoras-tps-on-its-evm-layer-57f5bbbcbd44)
+- [FinDAOra | Validator Tutorial](https://medium.com/findorafoundation/findaora-validator-tutorial-d708c7c9f253)
+
+
 #### [Fluence](https://github.com/fluencelabs)
 
 26 merged PRs ([1][fluence-merged-prs-1], [2][fluence-merged-prs-2], [3][fluence-merged-prs-3], [4][fluence-merged-prs-4], [5][fluence-merged-prs-5], [6][fluence-merged-prs-6]),
@@ -651,6 +655,8 @@ Bold entries here are especially relevant to blockchain projects.
 [secret_network-merged-prs-1]: https://github.com/scrtlabs/SecretNetwork/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-07-01..2022-07-31
 [secret_network-closed_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-07-01..2022-07-31
 [secret_network-open_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+
+- [SCRT Labs Development Update: August 2022](https://scrt.network/blog/scrt-labs-development-update-august-2022)
 
 #### [Solana](https://github.com/solana-labs/solana)
 
@@ -1006,9 +1012,7 @@ Company name | Location A, B, Remote
 
 -->
 
-
-
-More jobs can be found at [Job Board][page-jobboard].
+Check open positions at [Job Board][page-jobboard].
 
 [page-jobboard]: https://rustinblockchain.org/job-board/
 

@@ -42,6 +42,16 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[danta](https://github.com/grunch/danta).
+
+Danta is an event registration web app that handles payments over the [Lightning
+Network]. It uses [`tonic_lnd`] for [LND RPC], and will debut for the first Lightning
+Hackday in Buenos Aires.
+
+[Lightning Network]: https://lightning.network/
+[`tonic_lnd`]: https://github.com/Kixunil/tonic_lnd
+[LND RPC]: https://api.lightning.community/
+
 &nbsp;
 
 

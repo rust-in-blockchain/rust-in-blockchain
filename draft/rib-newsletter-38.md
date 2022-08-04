@@ -956,6 +956,7 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [lighthouse-open_issues-2]: https://github.com/sigp/discv5/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 
+- [High-priority release: Slippy](https://github.com/sigp/lighthouse/releases/tag/v2.5.1)
 - [Medium-priority release: Galactic Federation President](https://github.com/sigp/lighthouse/releases/tag/v2.5.0)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)

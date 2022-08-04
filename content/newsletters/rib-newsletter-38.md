@@ -4,7 +4,9 @@ description: "July 2022"
 date: 2022-08-03
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #38 edition of Rust in Blockchain.
+This month we spotlight `danta`.
+Danta is an event registration web app that handles payments over the Lightning Network."
 ---
 
 Welcome to the #38 edition of Rust in Blockchain, the monthly

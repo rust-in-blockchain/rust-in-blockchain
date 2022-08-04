@@ -44,6 +44,7 @@ Thanks to contributors:
 [John Adler],
 Samuel Dare,
 Mike,
+[Hunter Trujillo],
 [Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
@@ -55,6 +56,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 [Alexey Shekhirin]: https://github.com/shekhirin
 [John Adler]: https://github.com/adlerjohn
+[Hunter Trujillo]: https://github.com/cryptoquick
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -69,11 +71,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 Danta is an event registration web app that handles payments over the [Lightning
 Network]. It uses [`tonic_lnd`] for [LND RPC], and will debut for the first Lightning
-Hackday in Buenos Aires.
+Hackday in Buenos Aires, which will be [announced soon].
 
 [Lightning Network]: https://lightning.network/
 [`tonic_lnd`]: https://github.com/Kixunil/tonic_lnd
 [LND RPC]: https://api.lightning.community/
+[announced soon]: https://twitter.com/negrunch
 
 &nbsp;
 
@@ -96,6 +99,7 @@ Hackday in Buenos Aires.
 - [On the Computational Hardness of the Code Equivalence Problem in Cryptography](https://eprint.iacr.org/2022/967)
 - [Arithmetization of Σ¹₁ relations in Halo 2](https://eprint.iacr.org/2022/777)
 - [Privacy when Everyone is Watching: An SOK on Anonymity on the Blockchain](https://eprint.iacr.org/2022/985)
+- [Scalable and Transparent Proofs over All Large Fields, via Elliptic Curves](https://eccc.weizmann.ac.il/report/2022/110/) - STARK proofs for Bitcoin ECDSA signatures over the secp256k1 field
 
 #### Projects
 
@@ -196,7 +200,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Aptos](https://github.com/aptos-labs)
 
-453 merged PRs ([1][aptos-merged-prs-1]), 
+453 merged PRs ([1][aptos-merged-prs-1]),
 28 closed issues ([1][aptos-closed_issues-1]),
 67 open issues ([1][aptos-open_issues-1])
 
@@ -765,6 +769,12 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
+- [Fedimint](https://github.com/fedimint) made a big splash this month with their [Minimint node](https://github.com/fedimint/minimint), written in Rust.
+- [Eye of Satoshi 0.1.1](https://twitter.com/sr_gi/status/1550431640907911168), which includes a Rust CLN watchtower.
+- [BDK 0.20](https://github.com/bitcoindevkit/bdk/releases/tag/v0.20.0), containing new signing options and ways to discourage fee sniping.
+- [LDK 0.0.110](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.110) - "Routing, With a Vengeance"
+- [LNP/BP released Storm, an L3 decentralized storage and messaging protocol that builds on Lightning](https://twitter.com/lnp_bp/status/1545366480593846275)
+
 For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 [ribtc]: https://t.me/rust_in_bitcoin
@@ -789,6 +799,9 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [bdk-open_issues-3]: https://github.com/bitcoindevkit/bdk-ffi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [bdk-open_issues-4]: https://github.com/bitcoindevkit/rust-hwi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [bdk-open_issues-5]: https://github.com/bitcoindevkit/rust-electrum-client/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+
+- [Get block hash by its height](https://github.com/bitcoindevkit/bdk/pull/634)
+- [Avoid using immature coinbase inputs](https://github.com/bitcoindevkit/bdk/pull/614)
 
 #### [Bitmask](https://github.com/diba-io/bitmask-core)
 
@@ -822,6 +835,9 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [ldk-open_issues-1]: https://github.com/lightningdevkit/rust-lightning/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [ldk-open_issues-2]: https://github.com/lightningdevkit/ldk-sample/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [ldk-open_issues-3]: https://github.com/lightningdevkit/ldk-c-bindings/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+
+- [LDK - Introducing Phantom Node Payments](https://lightningdevkit.org/blog/introducing-phantom-node-payments/)
+- [Payment Probing](https://github.com/lightningdevkit/rust-lightning/pull/1567)
 
 #### [LNP/BP](https://github.com/LNP-BP)
 
@@ -888,6 +904,9 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [rust_bitcoin-open_issues-2]: https://github.com/rust-bitcoin/rust-secp256k1/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [rust_bitcoin-open_issues-3]: https://github.com/rust-bitcoin/rust-miniscript/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
 [rust_bitcoin-open_issues-4]: https://github.com/rust-bitcoin/rust-bitcoincore-rpc/issues?q=is%3Aissue+is%3Aopen+created%3A2022-07-01..2022-07-31
+
+- [Sorting public keys according to BIP383](https://github.com/rust-bitcoin/rust-bitcoin/pull/1084)
+- [LockTime enum for nLockTime and BIP65 OP_CHECKLOCKTIME fields](https://github.com/rust-bitcoin/rust-bitcoin/pull/994)
 
 #### [Rust Simplicity](https://github.com/ElementsProject/rust-simplicity)
 

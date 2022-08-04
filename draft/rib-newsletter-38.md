@@ -41,10 +41,10 @@ written in Rust and running Rust programs.
 
 Thanks to contributors:
 [Alexey Shekhirin],
-[John Adler],
-Samuel Dare,
-Mike,
 [Hunter Trujillo],
+[John Adler],
+Mike,
+Samuel Dare,
 [Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 

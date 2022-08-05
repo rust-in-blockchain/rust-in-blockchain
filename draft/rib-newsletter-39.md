@@ -96,6 +96,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Dfinity](https://github.com/dfinity)
 
+- [BTC<>ICP Integration Beta Release: The Bitcoin Testnet API Is Now Available](https://medium.com/dfinity/btc-icp-integration-beta-release-the-bitcoin-testnet-api-is-now-available-bab84c378c1e)
+
 #### [Dusk Network](https://github.com/dusk-network)
 
 #### [Elrond](https://github.com/ElrondNetwork)

@@ -17,6 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[Rodairos],
 
 _TODO_
 
@@ -28,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Rodairos]: https://github.com/rodairos
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -237,6 +239,8 @@ Company name | Location A, B, Remote
 
 -->
 
+Stellar Development Foundation | USA / CAN / Remote
+- [Senior Engineering Manager, Smart Contracts](https://boards.greenhouse.io/stellar/jobs/4606832004)
 
 
 More jobs can be found at [Job Board][page-jobboard].

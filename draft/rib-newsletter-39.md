@@ -51,6 +51,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Measuring SNARK performance: Frontends, backends, and the future](https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/)
+- [The Problem of Scalable Privacy](https://neptune.cash/blog/scalable-privacy-problem/)
+- Tutorial: [BrainSTARK](https://aszepieniec.github.io/stark-brainfuck/)
 
 #### Papers
 
@@ -59,6 +61,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Open TSS](https://github.com/LatticeX-Foundation/opentss).
   An ECDSA threshold signature algorithm implemented in Rust.
+- [Triton VM](https://github.com/TritonVM/triton-vm).
+  A virtual machine that comes with Algebraic Execution Tables (AET)
+  and Arithmetic Intermediate Representations (AIR) for use in
+  combination with a STARK proof system.
+  
 
 &nbsp;
 

@@ -17,6 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[Eli Corrales],
 [Rodairos],
 
 _TODO_
@@ -29,6 +30,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Eli Corrales]: https://github.com/elicorrales
 [Rodairos]: https://github.com/rodairos
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer

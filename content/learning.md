@@ -58,6 +58,7 @@ is preferred, or comment on this page below.
 - [Token Engineering Learning Program](https://web.archive.org/web/20210123044822/https://www.tannrallard.tech/token-engineering-learning-program/)
 - [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/)
 - [Further adventures with Substrate and Ink](https://brson.github.io/2021/03/09/further-adventures-with-substrate-and-ink)
+- [Decentralized Application (dApp) Blockchain Videos & Tutorials(Rust,Web3.js,NEAR,Solana,Substrate](https://github.com/elicorrales/blockchain-tutorials/blob/main/README.md)
 
 ## Reports and Papers
 

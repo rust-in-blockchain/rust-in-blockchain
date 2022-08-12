@@ -51,6 +51,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Measuring SNARK performance: Frontends, backends, and the future](https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/)
+- [The Problem of Scalable Privacy](https://neptune.cash/blog/scalable-privacy-problem/)
+- Tutorial: [BrainSTARK](https://aszepieniec.github.io/stark-brainfuck/)
 
 #### Papers
 
@@ -59,6 +61,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Open TSS](https://github.com/LatticeX-Foundation/opentss).
   An ECDSA threshold signature algorithm implemented in Rust.
+- [Triton VM](https://github.com/TritonVM/triton-vm).
+  A virtual machine that comes with Algebraic Execution Tables (AET)
+  and Arithmetic Intermediate Representations (AIR) for use in
+  combination with a STARK proof system.
+  
 
 &nbsp;
 
@@ -102,6 +109,7 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Dfinity](https://github.com/dfinity)
 
 - [BTC<>ICP Integration Beta Release: The Bitcoin Testnet API Is Now Available](https://medium.com/dfinity/btc-icp-integration-beta-release-the-bitcoin-testnet-api-is-now-available-bab84c378c1e)
+- [IC Internals: The XNet Protocol for Subnets](https://medium.com/dfinity/ic-internals-the-xnet-protocol-for-subnets-c4035dac7d2c)
 
 #### [Dusk Network](https://github.com/dusk-network)
 

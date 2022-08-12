@@ -55,6 +55,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Measuring SNARK performance: Frontends, backends, and the future](https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/)
 - [The Problem of Scalable Privacy](https://neptune.cash/blog/scalable-privacy-problem/)
 - Tutorial: [BrainSTARK](https://aszepieniec.github.io/stark-brainfuck/)
+- [Decentralized Application (dApp) Blockchain Tutorials (NEAR,Solana,Substrate)](https://github.com/elicorrales/blockchain-tutorials)
 
 #### Papers
 

@@ -50,12 +50,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Measuring SNARK performance: Frontends, backends, and the future](https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/)
 
 #### Papers
 
 
 #### Projects
 
+- [Open TSS](https://github.com/LatticeX-Foundation/opentss).
+  An ECDSA threshold signature algorithm implemented in Rust.
 
 &nbsp;
 

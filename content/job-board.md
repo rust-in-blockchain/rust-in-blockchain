@@ -34,12 +34,6 @@ Aurora | Remote
 
 Blockstream | Remote
 - [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
-- [Senior Product Manager](https://grnh.se/11354dd01us)
-- [Product Manager](https://grnh.se/1bdd2ced1us)
-- [Technical Project Manager](https://grnh.se/ca7b51b81us)
-- [Lead Engineer, Blockstream Mining](https://grnh.se/e128bb9b1us)
-- [QA Engineer](https://grnh.se/ce2891871us)
-- [Qt Engineer](https://grnh.se/2bf5f9981us)
 - [Junior Operations Manager](https://grnh.se/f1c289141us)
 - [Senior Product Designer](https://grnh.se/87bf94551us)
 - [Don't see a role that fits? Apply here!](https://grnh.se/e53608a01us)

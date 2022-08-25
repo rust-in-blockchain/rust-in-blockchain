@@ -17,6 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[djddo],
 [Eli Corrales],
 [Piotr Dziubecki],
 [Rodairos],
@@ -31,6 +32,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[djddo]: https://github.com/djddo
 [Eli Corrales]: https://github.com/elicorrales
 [Piotr Dziubecki]: https://github.com/piotr-dziubecki
 [Rodairos]: https://github.com/rodairos

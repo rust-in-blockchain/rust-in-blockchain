@@ -44,11 +44,11 @@ Bolt Labs | US, Remote
 - [Blockchain Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1l5QGguY)
 
 Casper Labs | Remote
-- [React Developer](https://casperlabs.io/careers#)
-- [Project Manager (China)](https://casperlabs.io/careers#)
-- [Typescript Developer](https://casperlabs.io/careers#)
-- [Consensus Engineer](https://casperlabs.io/careers#)
-- [Director of Product Marketing](https://casperlabs.io/careers#)
+- [Solutions Architect](https://apply.workable.com/casperlabs/j/B0AEE7F01F)
+- [Senior Project Manager](https://apply.workable.com/casperlabs/j/E99CD4390F)
+- [Software Engineer (Ecosystem)](https://apply.workable.com/casperlabs/j/3B002A4F53)
+- [Rust Engineer](https://casperlabs.io/careers/rust-engineer)
+- [Director of Product Marketing](https://casperlabs.io/careers/rust-engineer)
 
 DEX Labs | Remote
 - [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb-rust-engineer)

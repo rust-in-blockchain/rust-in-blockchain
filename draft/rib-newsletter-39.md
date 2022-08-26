@@ -55,6 +55,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [Plonky2 is Now Open-Source](https://blog.polygon.technology/plonky2-is-now-open-source/).
 
 #### Blog Posts
 
@@ -74,7 +75,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A virtual machine that comes with Algebraic Execution Tables (AET)
   and Arithmetic Intermediate Representations (AIR) for use in
   combination with a STARK proof system.
-  
+- [Plonky2 & more](https://github.com/mir-protocol/plonky2).
+  A SNARK implementation based on techniques from PLONK and FRI.
 
 &nbsp;
 
@@ -245,6 +247,9 @@ Dec 1-2 | Online
 
 -->
 
+- Sep 2-28 | Online
+
+[ETHGlobal Hackathon](https://online.ethglobal.com/)
 
 
 &nbsp;

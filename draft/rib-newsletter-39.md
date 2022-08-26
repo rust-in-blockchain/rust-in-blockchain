@@ -19,6 +19,7 @@ industry topics.
 Thanks to contributors:
 [djddo],
 [Eli Corrales],
+[Paul],
 [Piotr Dziubecki],
 [Rodairos],
 
@@ -34,6 +35,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 [djddo]: https://github.com/djddo
 [Eli Corrales]: https://github.com/elicorrales
+[Paul]: https://github.com/ChengYueJia
 [Piotr Dziubecki]: https://github.com/piotr-dziubecki
 [Rodairos]: https://github.com/rodairos
 [Brian Anderson]: https://github.com/brson

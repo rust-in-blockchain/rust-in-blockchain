@@ -66,6 +66,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [The inspection model for zero-knowledge proofs and efficient Zerocash with secp256k1 keys](https://eprint.iacr.org/2022/1079)
 
 #### Projects
 
@@ -225,6 +226,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [Foundry](https://github.com/foundry-rs/foundry)
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
+
+- [High-priority release: Rick Prime](https://github.com/sigp/lighthouse/releases/tag/v3.0.0)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 

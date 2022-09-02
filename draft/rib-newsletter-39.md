@@ -250,10 +250,41 @@ Dec 1-2 | Online
 
 -->
 
-- Sep 2-28 | Online
+Sep 2-28 | Online
 
 [ETHGlobal Hackathon](https://online.ethglobal.com/)
 
+Sep 12-14 | Radialsystem, Berlin
+
+[Developer Conference for Ethereum Infrastructure and Dapps](https://www.dappcon.io/)
+
+Sep 11-14 | Lisbon, Portugal
+
+[NEARCON](https://nearcon.org/)
+
+Sep 15 | Berlin, Germany
+
+[zkSummit 8](https://www.zksummit.com/)
+
+Sep 28-29 | Online, NYC, US
+
+[SmartCon 2022](https://smartcon.chain.link/)
+
+Oct 7-16 | Bogota, Colombia
+
+[Devcon Week](https://devcon.org/)
+
+Oct 28-30 | Lisbon, Portugal
+
+[ETH Lisbon](https://www.ethlisbon.org/)
+
+Nov 7-10 | Chicago, USA
+
+[TCC 2022](https://tcc.iacr.org/2022/)
+
+Nov 10-11 | Dubai, United Arab Emirates
+
+[ICSCB 2022: 16. International Conference on Smart Contracts and Blockchain](https://waset.org/smart-contracts-and-blockchain-conference-in-november-2022-in-dubai)
 
 &nbsp;
 

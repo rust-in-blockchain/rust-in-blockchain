@@ -4,9 +4,9 @@ nocomment: true
 pager: false
 ---
 
-RiB ocassionally accepts sponsorship from relevant companies and organizations
+RiB occasionally accepts sponsorship from relevant companies and organizations
 in exchange for advertisement placement
-on the website, and/or prominent acknowledgement in the monthly newsletter.
+on the website, and/or prominent acknowledgment in the monthly newsletter.
 
 **50% of all such funds received go to the [RiB community fund][cfund]
 and the other 50% to the editors.**
@@ -24,10 +24,10 @@ via our website, email and RSS subscriptions, as well as RiB's social media.
 
 ## RiB Traffic Numbers
 
-The monthly numbers as of October 2021 are:
-- **72,300** impressions  
-- **8,920** unique visitors
-- **980** email subscribers
+The monthly numbers as of August 2022 are:
+- **87,700** impressions
+- **5,710** unique visitors
+- **1,328** email subscribers
 
 ## Packages
 
@@ -44,7 +44,7 @@ The ad links to the URL of your choice.
 Note that on mobile, the ad will appear after the page content.
 
 Sponsorships in the RiB Newsletter are textual.
-They are prominently displayed as a thanks from our sponsor,
+They are prominently displayed as thanks from our sponsor,
 including the word "sponsor", along with a mutually
 agreed upon description of the sponsor (3 sentences maximum),
 which may include inline links.

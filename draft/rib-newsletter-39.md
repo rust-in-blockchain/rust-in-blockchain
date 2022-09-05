@@ -95,10 +95,34 @@ Bold entries here are especially relevant to blockchain projects.
 [RustSec]: https://rustsec.org/advisories/
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
 
-
 &nbsp;
 
 ## Most Active in August
+
+[Aptos](https://github.com/aptos-labs):
+888 merged PRs,
+174 closed issues,
+90 open issues
+
+[Solana](https://github.com/solana-labs/solana):
+502 merged PRs,
+86 closed issues,
+91 open issues
+
+[Sui](https://github.com/MystenLabs):
+452 merged PRs,
+211 closed issues,
+204 open issues
+
+[Parity](https://github.com/paritytech):
+439 merged PRs,
+209 closed issues,
+135 open issues
+
+[Fuel](https://github.com/FuelLabs):
+253 merged PRs,
+193 closed issues,
+139 open issues
 
 &nbsp;
 
@@ -207,7 +231,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 3 merged PRs ([1][conflux-merged-prs-1]),
 0 closed issues,
-0 open issues ()
+0 open issues
 
 [conflux-merged-prs-1]: https://github.com/Conflux-Chain/conflux-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-08-01..2022-08-31
 
@@ -325,7 +349,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 87 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2], [3][findora-merged-prs-3], [4][findora-merged-prs-4], [5][findora-merged-prs-5]),
 8 closed issues ([1][findora-closed_issues-1]),
-0 open issues ()
+0 open issues
 
 [findora-merged-prs-1]: https://github.com/FindoraNetwork/zei/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-08-01..2022-08-31
 [findora-merged-prs-2]: https://github.com/FindoraNetwork/platform/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-08-01..2022-08-31

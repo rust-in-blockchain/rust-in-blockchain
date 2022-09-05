@@ -337,11 +337,11 @@ GitHub:
 repos = [
 "fluencelabs/marine",
 "fluencelabs/aquavm",
-"fluencelabs/fluence",
 "fluencelabs/examples",
 "fluencelabs/registry",
 "fluencelabs/trust-graph",
 "fluencelabs/aqua-ipfs",
+"fluencelabs/rust-peer",
 ]
 ```
 
@@ -560,7 +560,6 @@ GitHub:
 
 ``` toml
 repos = [
-"nervosnetwork/axon",
 "nervosnetwork/godwoken",
 "nervosnetwork/ckb",
 "nervosnetwork/godwoken-scripts",

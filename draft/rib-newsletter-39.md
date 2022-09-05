@@ -68,6 +68,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Papers
 
 - [The inspection model for zero-knowledge proofs and efficient Zerocash with secp256k1 keys](https://eprint.iacr.org/2022/1079)
+- [Orbis Specification Language: a type theory for zk-SNARK programming](https://eprint.iacr.org/2022/1003)
+- [Zswap: zk-SNARK Based Non-Interactive Multi-Asset Swaps](https://eprint.iacr.org/2022/1002)
+- [PESCA: A Privacy-Enhancing Smart-Contract Architecture](https://eprint.iacr.org/2022/1119)
 
 #### Projects
 

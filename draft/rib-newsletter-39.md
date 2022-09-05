@@ -59,11 +59,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [The noname language, a toy DSL for zkapps](https://www.cryptologie.net/article/568/the-noname-language-a-toy-dsl-for-zkapps/)
 - [Measuring SNARK performance: Frontends, backends, and the future](https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/)
 - [The Problem of Scalable Privacy](https://neptune.cash/blog/scalable-privacy-problem/)
 - Tutorial: [BrainSTARK](https://aszepieniec.github.io/stark-brainfuck/)
 - [Decentralized Application (dApp) Blockchain Tutorials (NEAR,Solana,Substrate)](https://github.com/elicorrales/blockchain-tutorials)
 - [Sin7Y Tech Review(29): Design Principles of Private Transactions in Aleo & Zcash](https://hackmd.io/@sin7y/rkxFXLkgs)
+- [The different types of ZK-EVMs](https://vitalik.ca/general/2022/08/04/zkevm.html)
 
 #### Papers
 
@@ -239,6 +241,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 
+- [zkSync 2.0 Update: Dynamic Fees Milestone Completed](https://blog.matter-labs.io/zksync-2-0-update-dynamic-fees-milestone-completed-c6620a3d2618)
+
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
 
@@ -270,6 +274,10 @@ Sep 15 | Berlin, Germany
 
 [zkSummit 8](https://www.zksummit.com/)
 
+Sep 18-21 | Leuven, Belgium
+
+[CHES 2022](https://ches.iacr.org/2022/registration.php)
+
 Sep 28-29 | Online, NYC, US
 
 [SmartCon 2022](https://smartcon.chain.link/)
@@ -282,6 +290,10 @@ Oct 28-30 | Lisbon, Portugal
 
 [ETH Lisbon](https://www.ethlisbon.org/)
 
+Nov 3 | San Francisco, USA
+
+[Ethereum hackathon: ETH San Francisco 2022](https://nftevening.com/event/eth-san-francisco-2022-san-francisco/)
+
 Nov 7-10 | Chicago, USA
 
 [TCC 2022](https://tcc.iacr.org/2022/)
@@ -289,6 +301,10 @@ Nov 7-10 | Chicago, USA
 Nov 10-11 | Dubai, United Arab Emirates
 
 [ICSCB 2022: 16. International Conference on Smart Contracts and Blockchain](https://waset.org/smart-contracts-and-blockchain-conference-in-november-2022-in-dubai)
+
+Nov 14-17 | Istanbul, Turkey
+
+[Istanbul Blockchain Week](https://istanbulblockchainweek.com/)
 
 &nbsp;
 

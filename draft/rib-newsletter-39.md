@@ -233,6 +233,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
+- [Merge Migration](https://lighthouse-book.sigmaprime.io/merge-migration.html)
+- [High-priority release: Unity](https://github.com/sigp/lighthouse/releases/tag/v3.1.0)
 - [High-priority release: Rick Prime](https://github.com/sigp/lighthouse/releases/tag/v3.0.0)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)

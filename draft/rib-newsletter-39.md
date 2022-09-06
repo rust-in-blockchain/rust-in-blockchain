@@ -17,8 +17,11 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+Dan Shields,
 [djddo],
 [Eli Corrales],
+Ganzaro,
+Mayoeba Yabureru,
 [Paul],
 [Piotr Dziubecki],
 [Rodairos],
@@ -66,13 +69,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Decentralized Application (dApp) Blockchain Tutorials (NEAR,Solana,Substrate)](https://github.com/elicorrales/blockchain-tutorials)
 - [Sin7Y Tech Review(29): Design Principles of Private Transactions in Aleo & Zcash](https://hackmd.io/@sin7y/rkxFXLkgs)
 - [The different types of ZK-EVMs](https://vitalik.ca/general/2022/08/04/zkevm.html)
+- [How consensus and data availability impact decentralized scalability of blockchains](https://kabat.substack.com/p/how-consensus-and-data-availability)
 
 #### Papers
 
+- [PESCA: A Privacy-Enhancing Smart-Contract Architecture](https://eprint.iacr.org/2022/1119)
 - [The inspection model for zero-knowledge proofs and efficient Zerocash with secp256k1 keys](https://eprint.iacr.org/2022/1079)
 - [Orbis Specification Language: a type theory for zk-SNARK programming](https://eprint.iacr.org/2022/1003)
+- [Orion: Zero Knowledge Proof with Linear Prover Time](https://eprint.iacr.org/2022/1010)
 - [Zswap: zk-SNARK Based Non-Interactive Multi-Asset Swaps](https://eprint.iacr.org/2022/1002)
-- [PESCA: A Privacy-Enhancing Smart-Contract Architecture](https://eprint.iacr.org/2022/1119)
+- [Paras - A Private NFT Protocol](https://eprint.iacr.org/2022/976)
 
 #### Projects
 
@@ -82,8 +88,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A virtual machine that comes with Algebraic Execution Tables (AET)
   and Arithmetic Intermediate Representations (AIR) for use in
   combination with a STARK proof system.
+- [Bundle Generator](https://github.com/Alcibiades-Capital/mev_bundle_generator).
+  A MEV bundle generator written in Rust.
 - [Plonky2 & more](https://github.com/mir-protocol/plonky2).
   A SNARK implementation based on techniques from PLONK and FRI.
+- [Automerge RS](https://github.com/automerge/automerge-rs).
+  Rust implementation of Automerge.
+- [Zero-Knowledge University](https://zku.one/)
 
 &nbsp;
 
@@ -943,7 +954,9 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [zksync-closed_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-08-01..2022-08-31
 [zksync-open_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 
+- [Project Registration Is Now Open for zkSync 2.0 Mainnet Alpha](https://blog.matter-labs.io/project-registration-is-now-open-for-zksync-2-0-mainnet-alpha-43616acd422d)
 - [zkSync 2.0 Update: Dynamic Fees Milestone Completed](https://blog.matter-labs.io/zksync-2-0-update-dynamic-fees-milestone-completed-c6620a3d2618)
+- [The Ethereum Merge: How It Affects zkSync](https://blog.matter-labs.io/the-ethereum-merge-how-it-affects-zksync-ba3f00b8542b)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
@@ -983,6 +996,10 @@ Sep 18-21 | Leuven, Belgium
 Sep 28-29 | Online, NYC, US
 
 [SmartCon 2022](https://smartcon.chain.link/)
+
+Sep 30 - Oct 2 | Berlin, Germany
+
+[RustFi Hackathon](https://rustfi.keyrock.com/)
 
 Oct 7-16 | Bogota, Colombia
 

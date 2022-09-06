@@ -22,6 +22,7 @@ Thanks to contributors:
 [Paul],
 [Piotr Dziubecki],
 [Rodairos],
+[Hunter Trujillo],
 
 _TODO_
 
@@ -38,6 +39,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [Paul]: https://github.com/ChengYueJia
 [Piotr Dziubecki]: https://github.com/piotr-dziubecki
 [Rodairos]: https://github.com/rodairos
+[Hunter Trujillo]: https://github.com/cryptoquick
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -73,6 +75,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Orbis Specification Language: a type theory for zk-SNARK programming](https://eprint.iacr.org/2022/1003)
 - [Zswap: zk-SNARK Based Non-Interactive Multi-Asset Swaps](https://eprint.iacr.org/2022/1002)
 - [PESCA: A Privacy-Enhancing Smart-Contract Architecture](https://eprint.iacr.org/2022/1119)
+- [Pikachu: Securing PoS Blockchains from Long-Range Attacks by Checkpointing into Bitcoin PoW using Taproot](https://arxiv.org/abs/2208.05408)
 
 #### Projects
 
@@ -738,6 +741,12 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [bdk-open_issues-3]: https://github.com/bitcoindevkit/bdk-ffi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 [bdk-open_issues-4]: https://github.com/bitcoindevkit/rust-electrum-client/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 
+- [BDK 0.21 is out](https://twitter.com/bitcoindevkit/status/1558113984028491784)
+- [Summer of Bitcoin - Improving coin selection in BDK](https://blog.summerofbitcoin.org/improving-coin-selection-bdk/)
+- [Verify signatures after creating them (BIP 340)](https://github.com/bitcoindevkit/bdk/pull/718)
+- [Separate balances by pending / maturity](https://github.com/bitcoindevkit/bdk/pull/640)
+- [Specify Taproot spend paths](https://github.com/bitcoindevkit/bdk/pull/645)
+
 #### [Bitmask](https://github.com/diba-io/bitmask-core)
 
 4 merged PRs ([1][bitmask-merged-prs-1]),
@@ -778,6 +787,9 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [ldk-open_issues-1]: https://github.com/lightningdevkit/rust-lightning/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 [ldk-open_issues-2]: https://github.com/lightningdevkit/ldk-c-bindings/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 
+- [Announcing Rapid Gossip Sync](https://twitter.com/lightningdevkit/status/1564689476059906050)
+- [Onion Messages with Reply Paths](https://github.com/lightningdevkit/rust-lightning/pull/1652)
+
 #### [LNP/BP](https://github.com/LNP-BP)
 
 0 merged PRs,
@@ -785,6 +797,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 1 open issues ([1][lnp/bp-open_issues-1])
 
 [lnp/bp-open_issues-1]: https://github.com/BP-WG/descriptor-wallet/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
+
+- [Presentation at Baltic Honey Badger 2022](https://twitter.com/lnp_bp/status/1566116669415739392)
 
 #### [LNP WG](https://github.com/LNP-WG)
 
@@ -847,6 +861,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [rust_bitcoin-open_issues-3]: https://github.com/rust-bitcoin/rust-miniscript/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 [rust_bitcoin-open_issues-4]: https://github.com/rust-bitcoin/rust-bitcoincore-rpc/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 [rust_bitcoin-open_issues-5]: https://github.com/rust-bitcoin/bitcoin_hashes/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
+
+- [rust-bitcoin 0.29 released](https://github.com/rust-bitcoin/rust-bitcoin/blob/110b5d89630d705e5d5ed0541230923eb4fc600f/CHANGELOG.md#029---2022-07-20-edition-2018-release)
 
 #### [Rust Simplicity](https://github.com/ElementsProject/rust-simplicity)
 
@@ -1036,5 +1052,3 @@ Want to be included in the next issue? Feel free to submit a PR to the
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 
 [ribtg]: https://t.me/rustinblockchain
-
-

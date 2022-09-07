@@ -665,6 +665,9 @@ Bold entries here are especially relevant to blockchain projects.
 [secret_network-open_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 [secret_network-open_issues-2]: https://github.com/scrtlabs/secret-toolkit/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 
+- [Beyond ZK: The Definitive Guide to Web3 Privacy (Part 1)](https://scrt.network/blog/beyond-zk-guide-to-web3-privacy-part-1)
+- [Secret Deep Dive: Unlocking Web3 Streaming with Secret NFTs](https://scrt.network/blog/secret-deep-dive-unlocking-web3-movies-with-secret-nfts)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 502 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2], [3][solana-merged-prs-3]),
@@ -679,6 +682,10 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 [solana-open_issues-3]: https://github.com/solana-labs/solana-accountsdb-plugin-postgres/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
+
+- [Monthly Community Update | August 2022](https://solana.com/news/monthly-community-update-august-2022)
+- [Validator Health Report: August 2022](https://solana.com/news/validator-health-report-august-2022)
+- [8/2/2022 Slope Wallet Incident Update](https://solana.com/news/8-2-2022-application-wallet-incident)
 
 #### [Subspace Labs](https://github.com/subspace)
 

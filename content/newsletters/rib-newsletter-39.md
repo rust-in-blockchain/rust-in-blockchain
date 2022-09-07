@@ -1,10 +1,12 @@
 ---
-title: "RiB Newsletter #39 - _TODO_"
+title: "RiB Newsletter #39"
 description: "August 2022"
 date: 2022-09-07
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #39 edition of Rust in Blockchain.
+This month we spotlight `automerge-rs`.
+Automerge is a popular JavaScript library for working with conflict-free replicated datatypes (CRDTs)."
 ---
 
 Welcome to the #39 edition of Rust in Blockchain, the monthly
@@ -21,14 +23,12 @@ Dan Shields,
 [djddo],
 [Eli Corrales],
 Ganzaro,
+[Hunter Trujillo],
 Mayoeba Yabureru,
 [Paul],
 [Piotr Dziubecki],
 [Rodairos],
-[Hunter Trujillo],
-
-_TODO_
-
+[Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -55,10 +55,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [automerge-rs](https://github.com/automerge/automerge-rs).
 
-[Automerge] is popular JavaScript library for working with [conflict-free replicated datatypes][crdts] (CRDTs).
+[Automerge] is a popular JavaScript library for working with [conflict-free replicated datatypes][crdts] (CRDTs).
 CRDTs allow multiple parties to independently make changes to a shared data structure,
 while guaranteeing that those changes can all be resolved unambiguously in the future.
-The most commonly-undestood use of CRDTs is in collaborative document editing.
+The most commonly-understood use of CRDTs is in collaborative document editing.
 Automerge is network-protocol agnostic and can be used in asynchronous contexts.
 
 `automerge-rs` is a re-implementation, by the original authors, in Rust,
@@ -107,7 +107,7 @@ and is wasm-compatible.
   and Arithmetic Intermediate Representations (AIR) for use in
   combination with a STARK proof system.
 - [Bundle Generator](https://github.com/Alcibiades-Capital/mev_bundle_generator).
-  A MEV bundle generator written in Rust.
+  An MEV bundle generator written in Rust.
 - [Plonky2 & more](https://github.com/mir-protocol/plonky2).
   A SNARK implementation based on techniques from PLONK and FRI.
 - [Automerge RS](https://github.com/automerge/automerge-rs).

@@ -76,7 +76,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
-- [PESCA: A Privacy-Enhancing Smart-Contract Architecture](https://eprint.iacr.org/2022/1119)
 - [The inspection model for zero-knowledge proofs and efficient Zerocash with secp256k1 keys](https://eprint.iacr.org/2022/1079)
 - [Orbis Specification Language: a type theory for zk-SNARK programming](https://eprint.iacr.org/2022/1003)
 - [Orion: Zero Knowledge Proof with Linear Prover Time](https://eprint.iacr.org/2022/1010)

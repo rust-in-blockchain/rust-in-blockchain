@@ -717,6 +717,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
+Lots of activity in BDK and LDK this week. Be sure to scroll down to their respective sections for links to details on the new developments. LNP/BP also did a number of talks recently, but no recordings have been published yet. Also, rust-bitcoin 0.29 was released, with BIP-152 support, and it's now using Rust 2018 and enables clippy support in CI, which will make it easier to make contributions in the future.
+
 For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 [ribtc]: https://t.me/rust_in_bitcoin
@@ -746,6 +748,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 - [Verify signatures after creating them (BIP 340)](https://github.com/bitcoindevkit/bdk/pull/718)
 - [Separate balances by pending / maturity](https://github.com/bitcoindevkit/bdk/pull/640)
 - [Specify Taproot spend paths](https://github.com/bitcoindevkit/bdk/pull/645)
+- [Add method to override dust limit](https://github.com/bitcoindevkit/bdk/issues/689)
+- [Add hardware wallet support](https://github.com/bitcoindevkit/bdk/pull/682)
 
 #### [Bitmask](https://github.com/diba-io/bitmask-core)
 

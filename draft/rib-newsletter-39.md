@@ -17,8 +17,11 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+Dan Shields,
 [djddo],
 [Eli Corrales],
+Ganzaro,
+Mayoeba Yabureru,
 [Paul],
 [Piotr Dziubecki],
 [Rodairos],
@@ -68,13 +71,18 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Decentralized Application (dApp) Blockchain Tutorials (NEAR,Solana,Substrate)](https://github.com/elicorrales/blockchain-tutorials)
 - [Sin7Y Tech Review(29): Design Principles of Private Transactions in Aleo & Zcash](https://hackmd.io/@sin7y/rkxFXLkgs)
 - [The different types of ZK-EVMs](https://vitalik.ca/general/2022/08/04/zkevm.html)
+- [How consensus and data availability impact decentralized scalability of blockchains](https://kabat.substack.com/p/how-consensus-and-data-availability)
+- [On-chain trusted setup ceremony](https://a16zcrypto.com/on-chain-trusted-setup-ceremony/)
 
 #### Papers
 
+- [PESCA: A Privacy-Enhancing Smart-Contract Architecture](https://eprint.iacr.org/2022/1119)
 - [The inspection model for zero-knowledge proofs and efficient Zerocash with secp256k1 keys](https://eprint.iacr.org/2022/1079)
 - [Orbis Specification Language: a type theory for zk-SNARK programming](https://eprint.iacr.org/2022/1003)
+- [Orion: Zero Knowledge Proof with Linear Prover Time](https://eprint.iacr.org/2022/1010)
 - [Zswap: zk-SNARK Based Non-Interactive Multi-Asset Swaps](https://eprint.iacr.org/2022/1002)
 - [PESCA: A Privacy-Enhancing Smart-Contract Architecture](https://eprint.iacr.org/2022/1119)
+- [Paras - A Private NFT Protocol](https://eprint.iacr.org/2022/976)
 - [Pikachu: Securing PoS Blockchains from Long-Range Attacks by Checkpointing into Bitcoin PoW using Taproot](https://arxiv.org/abs/2208.05408)
 
 #### Projects
@@ -85,8 +93,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A virtual machine that comes with Algebraic Execution Tables (AET)
   and Arithmetic Intermediate Representations (AIR) for use in
   combination with a STARK proof system.
+- [Bundle Generator](https://github.com/Alcibiades-Capital/mev_bundle_generator).
+  A MEV bundle generator written in Rust.
 - [Plonky2 & more](https://github.com/mir-protocol/plonky2).
   A SNARK implementation based on techniques from PLONK and FRI.
+- [Automerge RS](https://github.com/automerge/automerge-rs).
+  Rust implementation of Automerge.
+- [Zero-Knowledge University](https://zku.one/)
 
 &nbsp;
 
@@ -97,6 +110,26 @@ Bold entries here are especially relevant to blockchain projects.
 
 [RustSec]: https://rustsec.org/advisories/
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
+
+- [RUSTSEC-2022-0045: `oqs` - Post-Quantum Key Encapsulation Mechanism SIKE broken](https://rustsec.org/advisories/RUSTSEC-2022-0045.html).
+- [RUSTSEC-2022-0050: `interledger-packet` is unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0050.html).
+  - interledger-rs appears to be no more.
+- [RUSTSEC-2022-0049: `iana-time-zone` - Use after free in MacOS / iOS implementation](https://rustsec.org/advisories/RUSTSEC-2022-0049.html).
+- [RUSTSEC-2022-0053: `mapr` is unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0053.html).
+- **[RUSTSEC-2022-0051: `lz4-sys` vulnerability in lz4-sys](https://rustsec.org/advisories/RUSTSEC-2022-0051.html).**
+- [RUSTSEC-2022-0052: `os_socketaddr` unsoundness](https://rustsec.org/advisories/RUSTSEC-2022-0052.html).
+- [CVE-2022-36124: `apache-avro` - Apache Avro Rust SDK's Reader could consume memory beyond allowed constraints](https://github.com/advisories/GHSA-wcm8-86x6-8mv3).
+- [CVE-2022-35724: `apache-avro` - Apache Avro Rust SDK vulnerable to reader looping in cycle endlessly, consuming CPU](https://github.com/advisories/GHSA-v456-chpw-6mmw).
+- [CVE-2022-36125: `apache-avro` - Apache Avro Rust SDK corrupted data read can cause crash](https://github.com/advisories/GHSA-3w5g-989p-35r8).
+- **[GHSA-9qxh-258v-666c: `owning_ref` - multiple soundness issues](https://github.com/advisories/GHSA-9qxh-258v-666c).**
+  - This popular crate appears to be completely unsound and should not be used.
+- [GHSA-qrqq-9c63-xfrg: `tower-http` - tower-http's improper validation of Windows paths could lead to directory traversal attack](https://github.com/advisories/GHSA-qrqq-9c63-xfrg).
+- [GHSA-2jq9-6xx7-3h29: `temporary` - uninitialized memory](https://github.com/advisories/GHSA-2jq9-6xx7-3h29).
+- **[GHSA-xpp3-xrff-w6rh: `rust-rocksdb` - out-of-bounds read](https://github.com/advisories/GHSA-xpp3-xrff-w6rh).**
+- [GHSA-h864-m8vm-3xvj: oqs's Post-Quantum Signature scheme Rainbow level I parametersets broken](https://github.com/advisories/GHSA-h864-m8vm-3xvj).
+- [CVE-2022-36008: `frontier` - Incorrect parsing of EVM reversion exit reason in RPC](https://github.com/advisories/GHSA-mjvm-mhgc-q4gp).
+- [CVE-2022-25888: `opcua` - Uncontrolled Resource Consumption in opcua](https://github.com/advisories/GHSA-8mx2-gqx9-rm7f).
+- [CVE-2022-25903: `opcua` - opcua Vulnerable to Out-of-bounds Write](https://github.com/advisories/GHSA-hgxq-hcrm-c5pm).
 
 &nbsp;
 
@@ -656,6 +689,9 @@ Bold entries here are especially relevant to blockchain projects.
 [secret_network-open_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 [secret_network-open_issues-2]: https://github.com/scrtlabs/secret-toolkit/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 
+- [Beyond ZK: The Definitive Guide to Web3 Privacy (Part 1)](https://scrt.network/blog/beyond-zk-guide-to-web3-privacy-part-1)
+- [Secret Deep Dive: Unlocking Web3 Streaming with Secret NFTs](https://scrt.network/blog/secret-deep-dive-unlocking-web3-movies-with-secret-nfts)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 502 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2], [3][solana-merged-prs-3]),
@@ -670,6 +706,10 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 [solana-open_issues-3]: https://github.com/solana-labs/solana-accountsdb-plugin-postgres/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
+
+- [Monthly Community Update | August 2022](https://solana.com/news/monthly-community-update-august-2022)
+- [Validator Health Report: August 2022](https://solana.com/news/validator-health-report-august-2022)
+- [8/2/2022 Slope Wallet Incident Update](https://solana.com/news/8-2-2022-application-wallet-incident)
 
 #### [Subspace Labs](https://github.com/subspace)
 
@@ -963,7 +1003,9 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [zksync-closed_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-08-01..2022-08-31
 [zksync-open_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2022-08-01..2022-08-31
 
+- [Project Registration Is Now Open for zkSync 2.0 Mainnet Alpha](https://blog.matter-labs.io/project-registration-is-now-open-for-zksync-2-0-mainnet-alpha-43616acd422d)
 - [zkSync 2.0 Update: Dynamic Fees Milestone Completed](https://blog.matter-labs.io/zksync-2-0-update-dynamic-fees-milestone-completed-c6620a3d2618)
+- [The Ethereum Merge: How It Affects zkSync](https://blog.matter-labs.io/the-ethereum-merge-how-it-affects-zksync-ba3f00b8542b)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
@@ -1003,6 +1045,10 @@ Sep 18-21 | Leuven, Belgium
 Sep 28-29 | Online, NYC, US
 
 [SmartCon 2022](https://smartcon.chain.link/)
+
+Sep 30 - Oct 2 | Berlin, Germany
+
+[RustFi Hackathon](https://rustfi.keyrock.com/)
 
 Oct 7-16 | Bogota, Colombia
 

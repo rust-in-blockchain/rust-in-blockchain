@@ -70,6 +70,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Sin7Y Tech Review(29): Design Principles of Private Transactions in Aleo & Zcash](https://hackmd.io/@sin7y/rkxFXLkgs)
 - [The different types of ZK-EVMs](https://vitalik.ca/general/2022/08/04/zkevm.html)
 - [How consensus and data availability impact decentralized scalability of blockchains](https://kabat.substack.com/p/how-consensus-and-data-availability)
+- [On-chain trusted setup ceremony](https://a16zcrypto.com/on-chain-trusted-setup-ceremony/)
 
 #### Papers
 

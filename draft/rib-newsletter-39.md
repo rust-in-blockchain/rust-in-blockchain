@@ -53,6 +53,20 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[automerge-rs](https://github.com/automerge/automerge-rs).
+
+[Automerge] is popular JavaScript library for working with [conflict-free replicated datatypes][crdts] (CRDTs).
+CRDTs allow multiple parties to independently make changes to a shared data structure,
+while guaranteeing that those changes can all be resolved unambiguously in the future.
+The most commonly-undestood use of CRDTs is in collaborative document editing.
+Automerge is network-protocol agnostic and can be used in asynchronous contexts.
+
+`automerge-rs` is a re-implementation, by the original authors, in Rust,
+and is wasm-compatible.
+
+[Automerge]: https://automerge.org/
+[crdts]: https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type
+
 &nbsp;
 
 
@@ -97,7 +111,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Plonky2 & more](https://github.com/mir-protocol/plonky2).
   A SNARK implementation based on techniques from PLONK and FRI.
 - [Automerge RS](https://github.com/automerge/automerge-rs).
-  Rust implementation of Automerge.
+  Rust implementation of Automerge, the conflict free replicated datatype (CRDT) system.
 - [Zero-Knowledge University](https://zku.one/)
 
 &nbsp;

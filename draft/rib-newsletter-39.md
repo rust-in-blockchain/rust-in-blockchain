@@ -108,6 +108,26 @@ Bold entries here are especially relevant to blockchain projects.
 [RustSec]: https://rustsec.org/advisories/
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
 
+- [RUSTSEC-2022-0045: `oqs` - Post-Quantum Key Encapsulation Mechanism SIKE broken](https://rustsec.org/advisories/RUSTSEC-2022-0045.html).
+- [RUSTSEC-2022-0050: `interledger-packet` is unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0050.html).
+  interledge-rs appears to be no more.
+- [RUSTSEC-2022-0049: `iana-time-zone` - Use after free in MacOS / iOS implementation](https://rustsec.org/advisories/RUSTSEC-2022-0049.html).
+- [RUSTSEC-2022-0053: `mapr` is unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0053.html).
+- **[RUSTSEC-2022-0051: `lz4-sys` vulnerability in lz4-sys](https://rustsec.org/advisories/RUSTSEC-2022-0051.html).**
+- [RUSTSEC-2022-0052: `os_socketaddr` unsoundness](https://rustsec.org/advisories/RUSTSEC-2022-0052.html).
+- [CVE-2022-36124: `apache-avro` - Apache Avro Rust SDK's Reader could consume memory beyond allowed constraints](https://github.com/advisories/GHSA-wcm8-86x6-8mv3).
+- [CVE-2022-35724: `apache-avro` - Apache Avro Rust SDK vulnerable to reader looping in cycle endlessly, consuming CPU](https://github.com/advisories/GHSA-v456-chpw-6mmw).
+- [CVE-2022-36125: `apache-avro` - Apache Avro Rust SDK corrupted data read can cause crash](https://github.com/advisories/GHSA-3w5g-989p-35r8).
+- **[GHSA-9qxh-258v-666c: `owning_ref` - multiple soundness issues](https://github.com/advisories/GHSA-9qxh-258v-666c).**
+  - This popular crate appears to be completely unsound and should not be used.
+- [GHSA-qrqq-9c63-xfrg: `tower-http` - tower-http's improper validation of Windows paths could lead to directory traversal attack](https://github.com/advisories/GHSA-qrqq-9c63-xfrg).
+- [GHSA-2jq9-6xx7-3h29: `temporary` - uninitialized memory](https://github.com/advisories/GHSA-2jq9-6xx7-3h29).
+- **[GHSA-xpp3-xrff-w6rh: `rust-rocksdb` - out-of-bounds read](https://github.com/advisories/GHSA-xpp3-xrff-w6rh).**
+- [GHSA-h864-m8vm-3xvj: oqs's Post-Quantum Signature scheme Rainbow level I parametersets broken](https://github.com/advisories/GHSA-h864-m8vm-3xvj).
+- [CVE-2022-36008: `frontier` - Incorrect parsing of EVM reversion exit reason in RPC](https://github.com/advisories/GHSA-mjvm-mhgc-q4gp).
+- [CVE-2022-25888: `opcua` - Uncontrolled Resource Consumption in opcua](https://github.com/advisories/GHSA-8mx2-gqx9-rm7f).
+- [CVE-2022-25903: `opcua` - opcua Vulnerable to Out-of-bounds Write](https://github.com/advisories/GHSA-hgxq-hcrm-c5pm).
+
 &nbsp;
 
 ## Most Active in August

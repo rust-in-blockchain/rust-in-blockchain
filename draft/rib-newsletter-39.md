@@ -110,7 +110,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 - [RUSTSEC-2022-0045: `oqs` - Post-Quantum Key Encapsulation Mechanism SIKE broken](https://rustsec.org/advisories/RUSTSEC-2022-0045.html).
 - [RUSTSEC-2022-0050: `interledger-packet` is unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0050.html).
-  interledge-rs appears to be no more.
+  - interledger-rs appears to be no more.
 - [RUSTSEC-2022-0049: `iana-time-zone` - Use after free in MacOS / iOS implementation](https://rustsec.org/advisories/RUSTSEC-2022-0049.html).
 - [RUSTSEC-2022-0053: `mapr` is unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0053.html).
 - **[RUSTSEC-2022-0051: `lz4-sys` vulnerability in lz4-sys](https://rustsec.org/advisories/RUSTSEC-2022-0051.html).**

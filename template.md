@@ -66,6 +66,7 @@ Bold entries here are especially relevant to blockchain projects.
 [GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
 
 <!-- https://github.com/rustsec/advisory-db/pulls -->
+<!-- https://osv.dev/list?page=2&ecosystem=crates.io -->
 
 
 &nbsp;

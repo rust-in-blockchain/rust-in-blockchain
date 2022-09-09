@@ -48,9 +48,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Sin7Y Tech Review(30):Thoughts on removing Memory constraints in the ZKEVM](https://hackmd.io/@sin7y/S1Hb6FOej)
 
 #### Papers
 
+- [RedShift: Transparent SNARKs from List Polynomial Commitments](https://eprint.iacr.org/2019/1400)
+- [The Generals’ Scuttlebutt: Byzantine-Resilient Gossip Protocols](https://eprint.iacr.org/2022/541)
 
 #### Projects
 

@@ -54,6 +54,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Triton VM](https://github.com/TritonVM/triton-vm).
+  A virtual machine that comes with Algebraic Execution Tables (AET)
+  and Arithmetic Intermediate Representations (AIR) for use in
+  combination with a STARK proof system.
 
 &nbsp;
 
@@ -129,6 +133,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
 #### [Nervos](https://github.com/nervosnetwork)
+
+- [A Journey to the Absolute Limit: CKB-VM's LLVM AOT engine](https://xuejie.space/2022_09_08_a_journey_to_the_limit/)
 
 #### [Oasis](https://github.com/oasisprotocol)
 

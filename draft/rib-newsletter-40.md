@@ -48,6 +48,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Smart Contract Development — Move vs. Rust](https://medium.com/@kklas/smart-contract-development-move-vs-rust-4d8f84754a8f)
 - [Sin7Y Tech Review(30):Thoughts on removing Memory constraints in the ZKEVM](https://hackmd.io/@sin7y/S1Hb6FOej)
 
 #### Papers

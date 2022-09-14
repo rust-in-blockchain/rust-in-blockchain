@@ -56,6 +56,9 @@ repos = [
 "anoma/ferveo",
 "anoma/masp",
 "anoma/plonkup-hash",
+"anoma/namada",
+"anoma/vamp-ir",
+"anoma/taiga",
 ]
 ```
 

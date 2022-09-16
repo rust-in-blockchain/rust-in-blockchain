@@ -159,6 +159,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Subspace Labs](https://github.com/subspace)
 
+- [Gemini II Incentivized Testnet goes LIVE next week!](https://kill-the-newsletter.com/alternates/3pr8q0z6o0481nma.html)
+
 #### [Sui](https://github.com/MystenLabs)
 
 #### [TezEdge](https://github.com/tezedge)

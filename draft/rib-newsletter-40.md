@@ -53,11 +53,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Smart Contract Development — Move vs. Rust](https://medium.com/@kklas/smart-contract-development-move-vs-rust-4d8f84754a8f)
 - [Sin7Y Tech Review(30):Thoughts on removing Memory constraints in the ZKEVM](https://hackmd.io/@sin7y/S1Hb6FOej)
 - [Ed25519 Deep Dive Addendum](https://cendyne.dev/posts/2022-09-11-ed25519-deep-dive-addendum.html)
+- [Zero Knowledge Canon, part 1 & 2](https://a16zcrypto.com/zero-knowledge-canon/)
 
 #### Papers
 
 - [RedShift: Transparent SNARKs from List Polynomial Commitments](https://eprint.iacr.org/2019/1400)
 - [The Generals’ Scuttlebutt: Byzantine-Resilient Gossip Protocols](https://eprint.iacr.org/2022/541)
+- [Accountable Light Client Systems for PoS Blockchains](https://eprint.iacr.org/2022/1205)
+- [Arithmetization of Functional Program Execution via Interaction Nets in Halo 2](https://eprint.iacr.org/2022/1211)
+- [Knowledge Encryption and Its Applications to Simulatable Protocols With Low Round-Complexity](https://eprint.iacr.org/2022/1193)
 
 #### Projects
 

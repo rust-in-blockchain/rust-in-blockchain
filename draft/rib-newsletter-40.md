@@ -18,6 +18,7 @@ industry topics.
 
 Thanks to contributors:
 [Christopher Goes],
+Mike C,
 
 _TODO_
 
@@ -54,6 +55,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Sin7Y Tech Review(30):Thoughts on removing Memory constraints in the ZKEVM](https://hackmd.io/@sin7y/S1Hb6FOej)
 - [Ed25519 Deep Dive Addendum](https://cendyne.dev/posts/2022-09-11-ed25519-deep-dive-addendum.html)
 - [Zero Knowledge Canon, part 1 & 2](https://a16zcrypto.com/zero-knowledge-canon/)
+- [Area-52: Save the Cosmos While Learning CosmWasm and Rust Smart Contracts](https://blog.archway.io/area-52-save-the-cosmos-1c013d529cbb)
 
 #### Papers
 

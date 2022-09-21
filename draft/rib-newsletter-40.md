@@ -18,6 +18,7 @@ industry topics.
 
 Thanks to contributors:
 [Christopher Goes],
+[djddo],
 Mike C,
 
 _TODO_
@@ -31,6 +32,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [Christopher Goes]: https://github.com/cwgoes
+[djddo]: https://github.com/djddo
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

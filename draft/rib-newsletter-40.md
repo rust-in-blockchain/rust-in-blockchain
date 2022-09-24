@@ -19,6 +19,7 @@ industry topics.
 Thanks to contributors:
 [Christopher Goes],
 [djddo],
+[Hadi Hosseini],
 Mike C,
 
 _TODO_
@@ -33,6 +34,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 [Christopher Goes]: https://github.com/cwgoes
 [djddo]: https://github.com/djddo
+[Hadi Hosseini]: https://github.com/perlish
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

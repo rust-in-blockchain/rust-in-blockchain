@@ -304,6 +304,9 @@ Company name | Location A, B, Remote
 
 -->
 
+Blockstream | Remote
+- [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
+- [Senior Product Designer](https://grnh.se/87bf94551us)
 
 
 More jobs can be found at [Job Board][page-jobboard].

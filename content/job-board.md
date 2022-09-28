@@ -33,7 +33,7 @@ Aurora | Remote
 - [Blockchain/EVM Engineer](https://docs.google.com/document/d/1VkaXInjgSczOL_R3aKMOnXKv7lFvvL1z__SlZQLfR78/edit?usp=sharing)
 
 Blockstream | Remote
-- [Junior Operations Manager](https://grnh.se/f1c289141us)
+- [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
 - [Senior Product Designer](https://grnh.se/87bf94551us)
 
 Bolt Labs | US, Remote

@@ -18,6 +18,7 @@ industry topics.
 
 Thanks to contributors:
 [Christopher Goes],
+[dandanlen],
 [djddo],
 [Hadi Hosseini],
 Mike C,
@@ -33,6 +34,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [Christopher Goes]: https://github.com/cwgoes
+[dandanlen]: https://github.com/dandanlen
 [djddo]: https://github.com/djddo
 [Hadi Hosseini]: https://github.com/perlish
 [Brian Anderson]: https://github.com/brson

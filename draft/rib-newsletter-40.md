@@ -310,6 +310,11 @@ Blockstream | Remote
 - [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
 - [Senior Product Designer](https://grnh.se/87bf94551us)
 
+Chainflip Labs | Berlin
+- [Software Engineer (Rust)](https://angel.co/company/chainflip/jobs/1644220-software-engineer-rust)
+- [Blockchain Support Engineer](https://angel.co/company/chainflip/jobs/2403942-blockchain-support-engineer)
+- [Ecosystem Development Manager](https://angel.co/company/chainflip/jobs/2339895-ecosystem-development-manager)
+
 
 More jobs can be found at [Job Board][page-jobboard].
 

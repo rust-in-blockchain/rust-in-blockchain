@@ -48,6 +48,11 @@ Casper Labs | Remote
 - [Rust Engineer](https://casperlabs.io/careers/rust-engineer)
 - [Director of Product Marketing](https://casperlabs.io/careers/rust-engineer)
 
+Chainflip Labs | Berlin
+- [Software Engineer (Rust)](https://angel.co/company/chainflip/jobs/1644220-software-engineer-rust)
+- [Blockchain Support Engineer](https://angel.co/company/chainflip/jobs/2403942-blockchain-support-engineer)
+- [Ecosystem Development Manager](https://angel.co/company/chainflip/jobs/2339895-ecosystem-development-manager)
+
 DEX Labs | Remote
 - [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb-rust-engineer)
 

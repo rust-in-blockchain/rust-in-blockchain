@@ -67,6 +67,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Execution and Parallelism for DAG-Based BFT Consensus](https://blog.chain.link/execution-and-parallelism-for-dag-based-bft-consensus/)
 - [BFT on a DAG](https://blog.chain.link/bft-on-a-dag/)
 - [ZK White Paper: Efficient ZK Proofs for Keccak](https://blog.polygon.technology/zk-white-paper-efficient-zk-proofs-for-keccak/)
+- [SNARK Security and Performance](https://a16zcrypto.com/snark-security-and-performance/)
 
 #### Papers
 
@@ -138,6 +139,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Filecoin](https://github.com/filecoin-project)
 
 #### [Findora](https://github.com/FindoraNetwork)
+
+- [Release v0.3.30 Is on Anvil Testnet](https://medium.com/findorafoundation/findora-increases-decentralization-fdfd8a49cfc4)
 
 #### [Fluence](https://github.com/fluencelabs)
 

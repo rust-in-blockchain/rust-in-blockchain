@@ -72,11 +72,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Papers
 
 - [RedShift: Transparent SNARKs from List Polynomial Commitments](https://eprint.iacr.org/2019/1400)
-- [The Generals’ Scuttlebutt: Byzantine-Resilient Gossip Protocols](https://eprint.iacr.org/2022/541)
 - [Accountable Light Client Systems for PoS Blockchains](https://eprint.iacr.org/2022/1205)
 - [Arithmetization of Functional Program Execution via Interaction Nets in Halo 2](https://eprint.iacr.org/2022/1211)
 - [Knowledge Encryption and Its Applications to Simulatable Protocols With Low Round-Complexity](https://eprint.iacr.org/2022/1193)
 - [Maximal Extractable Value (MEV) Protection on a DAG](https://arxiv.org/abs/2208.00940)
+- [No More Attacks on Proof-of-Stake Ethereum?](https://eprint.iacr.org/2022/1171)
+
 
 #### Projects
 

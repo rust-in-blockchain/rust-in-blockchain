@@ -994,9 +994,17 @@ Oct 28-30 | Lisbon, Portugal
 
 [ETH Lisbon](https://www.ethlisbon.org/)
 
+Oct 31-Nov 6 | San Francisco, USA
+
+[San Francisco Blockchain Week](https://sfblockchainweek.io/)
+
 Nov 3 | San Francisco, USA
 
 [Ethereum hackathon: ETH San Francisco 2022](https://nftevening.com/event/eth-san-francisco-2022-san-francisco/)
+
+Nov 3 | San Francisco, USA
+
+[Polkadot Summit](https://www.polkadotsummit.com/)
 
 Nov 7-10 | Chicago, USA
 

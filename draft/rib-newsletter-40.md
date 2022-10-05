@@ -111,7 +111,7 @@ Bold entries here are especially relevant to blockchain projects.
 - [CVE-2022-36113: `cargo` - Cargo extracting malicious crates can corrupt arbitrary files](https://github.com/advisories/GHSA-rfj2-q3h3-hm5j).
 - [CVE-2022-36086: `linked_list_allocator` - Vulnerable to out-of-bound writes on `Heap` initialization and `Heap::extend`](https://github.com/advisories/GHSA-xg8p-34w2-j49j).
 - [CVE-2022-39215: `tauri` - readDir Endpoint Scope can be Bypassed With Symbolic Links](https://github.com/advisories/GHSA-28m8-9j7v-x499).
-- [GHSA-v8gq-5grq-9728: `mozjpeg` - DecompressScanlines::read_scanlines is Unsound](mozjpeg DecompressScanlines::read_scanlines is Unsound).
+- [GHSA-v8gq-5grq-9728: `mozjpeg` - DecompressScanlines::read_scanlines is Unsound](https://github.com/advisories/GHSA-v8gq-5grq-9728).
 - [GHSA-p75v-367r-2v23: `cell-project` - used incorrect variance when projecting through `&Cell<T>`](https://github.com/advisories/GHSA-p75v-367r-2v23).
 - **[CVE-2022-39974: `wasm3` - WASM3 Improper Input Validation vulnerability](https://github.com/advisories/GHSA-crf8-h2wq-2h9x).**
 - [GHSA-28r9-pq4c-wp3c: `personnummer` - vulnerable to Improper Input Validation](https://github.com/advisories/GHSA-28r9-pq4c-wp3c).

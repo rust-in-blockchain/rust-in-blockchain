@@ -68,6 +68,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [BFT on a DAG](https://blog.chain.link/bft-on-a-dag/)
 - [ZK White Paper: Efficient ZK Proofs for Keccak](https://blog.polygon.technology/zk-white-paper-efficient-zk-proofs-for-keccak/)
 - [SNARK Security and Performance](https://a16zcrypto.com/snark-security-and-performance/)
+- [Trustless Bridging II: Byzantine Fault Tolerance](https://medium.com/composable-finance/trustless-bridging-ii-byzantine-fault-tolerance-591e8b2d196e)
 
 #### Papers
 
@@ -77,7 +78,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Knowledge Encryption and Its Applications to Simulatable Protocols With Low Round-Complexity](https://eprint.iacr.org/2022/1193)
 - [Maximal Extractable Value (MEV) Protection on a DAG](https://arxiv.org/abs/2208.00940)
 - [No More Attacks on Proof-of-Stake Ethereum?](https://eprint.iacr.org/2022/1171)
-
+- [Efficient Proofs of Software Exploitability for Real-world Processors](https://eprint.iacr.org/2022/1223)
+- [Flashproofs: Efficient Zero-Knowledge Arguments of Range and Polynomial Evaluation with Transparent Setup](https://eprint.iacr.org/2022/1251)
+- [An ECDSA Nullifier Scheme for Unique Pseudonymity within Zero Knowledge Proofs](https://eprint.iacr.org/2022/1255)
+- [zkBridge: Trustless Cross-chain Bridges Made Practical](https://rdi.berkeley.edu/zkp/zkBridge/zkBridge.html)
 
 #### Projects
 
@@ -202,6 +206,8 @@ Bold entries here are especially relevant to blockchain projects.
 [chainsafe-closed_issues-2]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-09-01..2022-09-30
 [chainsafe-open_issues-1]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2022-09-01..2022-09-30
 
+- [How Does The Mina Protocol Achieve Consensus?](https://blog.chainsafe.io/how-does-the-mina-protocol-achieve-consensus-f9551675048d)
+
 #### [COMIT](https://github.com/comit-network)
 
 4 merged PRs ([1][comit-merged-prs-1], [2][comit-merged-prs-2]),
@@ -268,6 +274,9 @@ Bold entries here are especially relevant to blockchain projects.
 [dfinity-open_issues-3]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-09-01..2022-09-30
 [dfinity-open_issues-4]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2022-09-01..2022-09-30
 [dfinity-open_issues-5]: https://github.com/dfinity/experimental-minting-tool/issues?q=is%3Aissue+is%3Aopen+created%3A2022-09-01..2022-09-30
+
+- [Good Practices for Canister Smart Contract Development in Motoko](https://medium.com/dfinity/good-practices-for-canister-smart-contract-development-in-motoko-c0b0713eee42)
+- [Beyond Oracles: Direct HTTPS Outcalls From Canister Smart Contracts on the Internet Computer](https://medium.com/dfinity/beyond-oracles-direct-https-outcalls-from-canister-smart-contracts-on-the-internet-computer-2e4a5bcbee43)
 
 #### [Dusk Network](https://github.com/dusk-network)
 
@@ -633,6 +642,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 - [Polkadot Roadmap Roundup](https://medium.com/polkadot-network/polkadot-roadmap-roundup-4ee64577a9ae)
 - [Polkadot DevCamp Intake #2](https://medium.com/polkadot-network/polkadot-devcamp-intake-2-ddebc5fb9096)
+- [The First KSM<>DOT Bridge](https://medium.com/composable-finance/the-first-ksm-dot-bridge-be038fdd40a0)
 
 #### [Radix](https://github.com/radixdlt)
 

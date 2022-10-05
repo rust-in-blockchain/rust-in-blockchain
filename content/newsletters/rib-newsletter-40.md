@@ -4,7 +4,9 @@ description: "September 2022"
 date: 2022-10-05
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #40 edition of Rust in Blockchain.
+This month we spotlight `spiral-rs`,
+a library for private information retrieval via fully homomorphic encryption composition."
 ---
 
 Welcome to the #40 edition of Rust in Blockchain, the monthly
@@ -23,9 +25,7 @@ Thanks to contributors:
 [Hadi Hosseini],
 [Hunter Trujillo],
 Mike C,
-
-_TODO_
-
+[Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.

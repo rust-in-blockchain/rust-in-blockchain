@@ -1050,6 +1050,9 @@ Chainflip Labs | Berlin
 - [Blockchain Support Engineer](https://angel.co/company/chainflip/jobs/2403942-blockchain-support-engineer)
 - [Ecosystem Development Manager](https://angel.co/company/chainflip/jobs/2339895-ecosystem-development-manager)
 
+Stellar Development Foundation | USA
+- [Senior Smart Contract Engineer (San Francisco)](https://boards.greenhouse.io/stellar/jobs/4623748004).
+- [Senior Smart Contract Engineer (New York)](https://boards.greenhouse.io/stellar/jobs/4623749004).
 
 More jobs can be found at [Job Board][page-jobboard].
 

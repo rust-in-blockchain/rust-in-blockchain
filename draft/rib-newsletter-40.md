@@ -49,6 +49,21 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[spiral-rs](https://github.com/spiralprivacy/clients/tree/main/spiral-rs).
+
+Spiral is a library for
+_private information retrieval via fully homomorphic encryption composation_,
+or "PIE via FHE composition",
+described in 2021 in ["Spiral: Fast, High-Rate Single-Server PIR via FHE Composition"](https://eprint.iacr.org/2022/368.pdf).
+It allows an untrusted server to perform database queries without revealing which data is being requested.
+
+There are two live demonstrations:
+[Spiral Block Explorer](https://btc.usespiral.com),
+which appears to be a fully-developed product,
+and [Wikipedia over Spiral](https://spiralwiki.com/),
+a research demo.
+
+
 &nbsp;
 
 

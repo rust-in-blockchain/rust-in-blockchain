@@ -52,6 +52,7 @@ Chainflip Labs | Berlin
 - [Software Engineer (Rust)](https://angel.co/company/chainflip/jobs/1644220-software-engineer-rust)
 - [Blockchain Support Engineer](https://angel.co/company/chainflip/jobs/2403942-blockchain-support-engineer)
 - [Ecosystem Development Manager](https://angel.co/company/chainflip/jobs/2339895-ecosystem-development-manager)
+- [Senior Full Stack Engineer](https://angel.co/company/chainflip/jobs/2424045-senior-fullstack-engineer-for-web3)
 
 DEX Labs | Remote
 - [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb-rust-engineer)
@@ -155,9 +156,6 @@ Start9 Labs | Denver, USA / Remote
 - [Backend Developer (Rust)](https://start9.com/latest/about/jobs#backend-developer-rust)
 - [Frontend Developer (JS)](https://start9.com/latest/about/jobs#frontend-developer-js)
 - [Product Designer](https://start9.com/latest/about/jobs#product-designer)
-
-Stellar Development Foundation | USA / CAN / Remote
-- [Senior Engineering Manager, Smart Contracts](https://boards.greenhouse.io/stellar/jobs/4606832004)
 
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)

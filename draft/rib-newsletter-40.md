@@ -1049,6 +1049,7 @@ Chainflip Labs | Berlin
 - [Software Engineer (Rust)](https://angel.co/company/chainflip/jobs/1644220-software-engineer-rust)
 - [Blockchain Support Engineer](https://angel.co/company/chainflip/jobs/2403942-blockchain-support-engineer)
 - [Ecosystem Development Manager](https://angel.co/company/chainflip/jobs/2339895-ecosystem-development-manager)
+- [Senior Full Stack Engineer](https://angel.co/company/chainflip/jobs/2424045-senior-fullstack-engineer-for-web3)
 
 Stellar Development Foundation | USA
 - [Senior Smart Contract Engineer (San Francisco)](https://boards.greenhouse.io/stellar/jobs/4623748004).

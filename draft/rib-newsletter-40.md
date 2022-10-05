@@ -114,7 +114,11 @@ a research demo.
   A framework for generalized shielded state transitions.
 - [Circomspect](https://github.com/trailofbits/circomspect).
   A static analyzer and linter for the Circom programming language.
-- [Spiral Block Explorer](https://btc.usespiral.com) - A public block explorer that uses homomorphic encryption to look up addresses without revealing them, using [spiral-rs](https://github.com/spiralprivacy/clients).
+- [Spiral Block Explorer](https://btc.usespiral.com).
+  A public block explorer that uses homomorphic encryption to look up
+  addresses without revealing them, using [spiral-rs](https://github.com/spiralprivacy/clients).
+- [huff-snark-verifier](https://github.com/whitenois3/huff-snark-verifier).
+  An optimized Groth16 SNARK verification smart contract generator for EVM-based blockchains.
 
 &nbsp;
 
@@ -709,6 +713,8 @@ Bold entries here are especially relevant to blockchain projects.
 [secret_network-closed_issues-2]: https://github.com/scrtlabs/secret-toolkit/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-09-01..2022-09-30
 [secret_network-closed_issues-3]: https://github.com/scrtlabs/snip20-reference-impl/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-09-01..2022-09-30
 [secret_network-open_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2022-09-01..2022-09-30
+
+- [Shockwave Delta Mainnet Upgrade is Complete!](https://scrt.network/blog/shockwave-delta-mainnet-upgrade-complete)
 
 #### [Solana](https://github.com/solana-labs/solana)
 

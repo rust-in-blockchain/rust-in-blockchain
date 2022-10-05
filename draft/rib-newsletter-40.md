@@ -77,7 +77,7 @@ a research demo.
 
 - [Smart Contract Development — Move vs. Rust](https://medium.com/@kklas/smart-contract-development-move-vs-rust-4d8f84754a8f)
 - [First impressions of the Move programming language](https://brson.github.io/2022/09/21/move-impressions)
-- [Sin7Y Tech Review(30):Thoughts on removing Memory constraints in the ZKEVM](https://hackmd.io/@sin7y/S1Hb6FOej)
+- [Sin7Y Tech Review(30): Thoughts on removing Memory constraints in the ZKEVM](https://hackmd.io/@sin7y/S1Hb6FOej)
 - [Ed25519 Deep Dive Addendum](https://cendyne.dev/posts/2022-09-11-ed25519-deep-dive-addendum.html)
 - [Zero Knowledge Canon, part 1 & 2](https://a16zcrypto.com/zero-knowledge-canon/)
 - [Area-52: Save the Cosmos While Learning CosmWasm and Rust Smart Contracts](https://blog.archway.io/area-52-save-the-cosmos-1c013d529cbb)

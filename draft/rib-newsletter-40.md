@@ -21,6 +21,7 @@ Thanks to contributors:
 [dandanlen],
 [djddo],
 [Hadi Hosseini],
+[Hunter Trujillo],
 Mike C,
 
 _TODO_
@@ -37,6 +38,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [dandanlen]: https://github.com/dandanlen
 [djddo]: https://github.com/djddo
 [Hadi Hosseini]: https://github.com/perlish
+[Hunter Trujillo]: https://github.com/cryptoquick
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -91,6 +93,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   combination with a STARK proof system.
 - [Taiga](https://github.com/anoma/taiga).
   A framework for generalized shielded state transitions.
+- [Spiral Block Explorer](https://btc.usespiral.com) - A public block explorer that uses homomorphic encryption to look up addresses without revealing them, using [spiral-rs](https://github.com/spiralprivacy/clients).
 
 &nbsp;
 
@@ -750,6 +753,14 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
+The Spiral project was published and is a very exciting implementation of a public block explorer that can keep addresses looked up private using homomorphic encryption. The Fedimint team is growing, BDK and LDK continue to make progress, in addition to the teams working on various RGB projects. BDK has released a new [blog post](https://bitcoindevkit.org/blog/road-to-bdk-1/) detailing their intention to stabilize the API and mark a 1.0 release. It was an auspicious month for prolific Rust Bitcoin developer Dr. Maxim Orlovsky, as his contribution to the Bitcoin Improvement Proposals was accepted as [BIP-372: Pay-to-contract tweak fields for PSBT](https://github.com/bitcoin/bips/blob/master/bip-0372.mediawiki) which outlines how [pay-to-contract](https://bitcoinops.org/en/topics/pay-to-contract-outputs/) fields can be encoded in PSBTs.
+
+This month, the following projects were added to the running list of Rust in Bitcoin projects kept in a pinned message in the Telegram group:
+
+- https://github.com/menonsamir/spiral-rs
+- https://github.com/laanwj/rust-clightning-rpc
+- https://crates.io/crates/tonic_openssl_lnd
+
 For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 [ribtc]: https://t.me/rust_in_bitcoin
@@ -771,6 +782,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [bdk-open_issues-1]: https://github.com/bitcoindevkit/bdk/issues?q=is%3Aissue+is%3Aopen+created%3A2022-09-01..2022-09-30
 [bdk-open_issues-2]: https://github.com/bitcoindevkit/bdk-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2022-09-01..2022-09-30
 [bdk-open_issues-3]: https://github.com/bitcoindevkit/bdk-ffi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-09-01..2022-09-30
+
+- [The Road to BDK 1.0](https://bitcoindevkit.org/blog/road-to-bdk-1/)
 
 #### [Bitmask](https://github.com/diba-io/bitmask-core)
 
@@ -886,6 +899,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [rust_bitcoin-open_issues-4]: https://github.com/rust-bitcoin/rust-bitcoincore-rpc/issues?q=is%3Aissue+is%3Aopen+created%3A2022-09-01..2022-09-30
 [rust_bitcoin-open_issues-5]: https://github.com/rust-bitcoin/rust-bip39/issues?q=is%3Aissue+is%3Aopen+created%3A2022-09-01..2022-09-30
 [rust_bitcoin-open_issues-6]: https://github.com/rust-bitcoin/bitcoin_hashes/issues?q=is%3Aissue+is%3Aopen+created%3A2022-09-01..2022-09-30
+
+- [Add API method absolute::LockTime::is_satisfied_by_lock](https://github.com/rust-bitcoin/rust-bitcoin/pull/1258) - Improves a method to better compare locktimes
 
 #### [Rust Simplicity](https://github.com/ElementsProject/rust-simplicity)
 
@@ -1067,5 +1082,3 @@ Want to be included in the next issue? Feel free to submit a PR to the
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 
 [ribtg]: https://t.me/rustinblockchain
-
-

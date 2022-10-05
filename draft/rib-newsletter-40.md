@@ -52,7 +52,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [spiral-rs](https://github.com/spiralprivacy/clients/tree/main/spiral-rs).
 
 Spiral is a library for
-_private information retrieval via fully homomorphic encryption composation_,
+_private information retrieval via fully homomorphic encryption composition_,
 or "PIR via FHE composition",
 described in 2021 in ["Spiral: Fast, High-Rate Single-Server PIR via FHE Composition"](https://eprint.iacr.org/2022/368.pdf).
 It allows an untrusted server to perform database queries without revealing which data is being requested.

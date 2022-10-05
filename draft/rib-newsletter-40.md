@@ -82,7 +82,9 @@ a research demo.
 - [Zero Knowledge Canon, part 1 & 2](https://a16zcrypto.com/zero-knowledge-canon/)
 - [Area-52: Save the Cosmos While Learning CosmWasm and Rust Smart Contracts](https://blog.archway.io/area-52-save-the-cosmos-1c013d529cbb)
 - [Execution and Parallelism for DAG-Based BFT Consensus](https://blog.chain.link/execution-and-parallelism-for-dag-based-bft-consensus/)
-- [BFT on a DAG](https://blog.chain.link/bft-on-a-dag/)
+- [BFT on a DAG](https://blog.chain.link/bft-on-a-dag/).
+  A description of recent consensus protocols that perform local ordering of DAGs for high throughput,
+  as exemplified by Narwhal (used by the Sui blockchain).
 - [ZK White Paper: Efficient ZK Proofs for Keccak](https://blog.polygon.technology/zk-white-paper-efficient-zk-proofs-for-keccak/)
 - [SNARK Security and Performance](https://a16zcrypto.com/snark-security-and-performance/)
 - [Trustless Bridging II: Byzantine Fault Tolerance](https://medium.com/composable-finance/trustless-bridging-ii-byzantine-fault-tolerance-591e8b2d196e)
@@ -94,7 +96,8 @@ a research demo.
 - [Accountable Light Client Systems for PoS Blockchains](https://eprint.iacr.org/2022/1205)
 - [Arithmetization of Functional Program Execution via Interaction Nets in Halo 2](https://eprint.iacr.org/2022/1211)
 - [Knowledge Encryption and Its Applications to Simulatable Protocols With Low Round-Complexity](https://eprint.iacr.org/2022/1193)
-- [Maximal Extractable Value (MEV) Protection on a DAG](https://arxiv.org/abs/2208.00940)
+- [Maximal Extractable Value (MEV) Protection on a DAG](https://arxiv.org/abs/2208.00940).
+  Describes Fino, a Narwhal-like DAG protocol with additional MEV protection.
 - [No More Attacks on Proof-of-Stake Ethereum?](https://eprint.iacr.org/2022/1171)
 - [Efficient Proofs of Software Exploitability for Real-world Processors](https://eprint.iacr.org/2022/1223)
 - [Flashproofs: Efficient Zero-Knowledge Arguments of Range and Polynomial Evaluation with Transparent Setup](https://eprint.iacr.org/2022/1251)

@@ -156,9 +156,6 @@ Start9 Labs | Denver, USA / Remote
 - [Frontend Developer (JS)](https://start9.com/latest/about/jobs#frontend-developer-js)
 - [Product Designer](https://start9.com/latest/about/jobs#product-designer)
 
-Stellar Development Foundation | USA / CAN / Remote
-- [Senior Engineering Manager, Smart Contracts](https://boards.greenhouse.io/stellar/jobs/4606832004)
-
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
 - [Protocol Engineer (Consensus)](https://jobs.lever.co/subspacelabs/d5d62ccb-eaaf-43f4-83ad-11ebff2ce3a0)

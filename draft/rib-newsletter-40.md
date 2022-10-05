@@ -69,6 +69,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [ZK White Paper: Efficient ZK Proofs for Keccak](https://blog.polygon.technology/zk-white-paper-efficient-zk-proofs-for-keccak/)
 - [SNARK Security and Performance](https://a16zcrypto.com/snark-security-and-performance/)
 - [Trustless Bridging II: Byzantine Fault Tolerance](https://medium.com/composable-finance/trustless-bridging-ii-byzantine-fault-tolerance-591e8b2d196e)
+- [The Rise of Fully Homomorphic Encryption](https://queue.acm.org/detail.cfm?id=3561800)
 
 #### Papers
 
@@ -82,6 +83,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Flashproofs: Efficient Zero-Knowledge Arguments of Range and Polynomial Evaluation with Transparent Setup](https://eprint.iacr.org/2022/1251)
 - [An ECDSA Nullifier Scheme for Unique Pseudonymity within Zero Knowledge Proofs](https://eprint.iacr.org/2022/1255)
 - [zkBridge: Trustless Cross-chain Bridges Made Practical](https://rdi.berkeley.edu/zkp/zkBridge/zkBridge.html)
+- [ZEBRA: Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi](https://eprint.iacr.org/2022/1286)
+- [Bool Network: An Open, Distributed, Secure Cross-chain Notary Platform](https://eprint.iacr.org/2022/1290)
+
 
 #### Projects
 
@@ -91,6 +95,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   combination with a STARK proof system.
 - [Taiga](https://github.com/anoma/taiga).
   A framework for generalized shielded state transitions.
+- [Circomspect](https://github.com/trailofbits/circomspect).
+  A static analyzer and linter for the Circom programming language.
 
 &nbsp;
 

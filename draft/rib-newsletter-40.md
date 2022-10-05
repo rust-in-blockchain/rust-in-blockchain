@@ -100,6 +100,23 @@ Bold entries here are especially relevant to blockchain projects.
 
 <!-- https://github.com/rustsec/advisory-db/pulls -->
 
+- **[RUSTSEC-2022-0054: `wee_alloc` - Unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0054.html).**
+  - This allocator has often been used for wasm targets.
+    It has memory leaks.
+    Modern Rust uses [`dlmalloc-rs`](https://github.com/alexcrichton/dlmalloc-rs) by default on wasm and is fine for most purposes.
+- [RUSTSEC-2022-0055: `axum-core` - Vulnerability in axum-core](https://rustsec.org/advisories/RUSTSEC-2022-0055.html).
+- [RUSTSEC-2022-0056: `clipboard` - Unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0056.html).
+- [RUSTSEC-2022-0057: `badge` - Unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0057.html).
+- [CVE-2022-36114: `cargo` - Cargo extracting malicious crates can fill the file system](https://github.com/advisories/GHSA-2hvr-h6gw-qrxp).
+- [CVE-2022-36113: `cargo` - Cargo extracting malicious crates can corrupt arbitrary files](https://github.com/advisories/GHSA-rfj2-q3h3-hm5j).
+- [CVE-2022-36086: `linked_list_allocator` - Vulnerable to out-of-bound writes on `Heap` initialization and `Heap::extend`](https://github.com/advisories/GHSA-xg8p-34w2-j49j).
+- [CVE-2022-39215: `tauri` - readDir Endpoint Scope can be Bypassed With Symbolic Links](https://github.com/advisories/GHSA-28m8-9j7v-x499).
+- [GHSA-v8gq-5grq-9728: `mozjpeg` - DecompressScanlines::read_scanlines is Unsound](mozjpeg DecompressScanlines::read_scanlines is Unsound).
+- [GHSA-p75v-367r-2v23: `cell-project` - used incorrect variance when projecting through `&Cell<T>`](https://github.com/advisories/GHSA-p75v-367r-2v23).
+- **[CVE-2022-39974: `wasm3` - WASM3 Improper Input Validation vulnerability](https://github.com/advisories/GHSA-crf8-h2wq-2h9x).**
+- [GHSA-28r9-pq4c-wp3c: `personnummer` - vulnerable to Improper Input Validation](https://github.com/advisories/GHSA-28r9-pq4c-wp3c).
+- [CVE-2022-39252: `matrix-sdk-crypto` - Contains potential impersonation via room key forward responses](https://github.com/advisories/GHSA-vp68-2wrm-69qm).
+
 
 &nbsp;
 

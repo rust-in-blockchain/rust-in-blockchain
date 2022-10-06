@@ -94,23 +94,6 @@ repos = [
 ]
 ```
 
-### ChainSafe
-
-Media:
-- https://medium.com/chainsafe-systems
-
-GitHub:
-- https://github.com/ChainSafe
-
-```toml
-repos = [
-"ChainSafe/mina-rs",
-"ChainSafe/api3-rust",
-"ChainSafe/forest",
-"ChainSafe/filecoindot",
-]
-```
-
 ### COMIT
 
 Media:
@@ -302,6 +285,8 @@ repos = [
 "filecoin-project/rust-fil-proofs",
 "filecoin-project/rust-gpu-tools",
 "filecoin-project/taupipp",
+"ChainSafe/forest",
+"ChainSafe/filecoindot",
 ]
 ```
 
@@ -502,6 +487,20 @@ repos = [
 "maidsafe/sn_consensus",
 "maidsafe/bls_dkg",
 "maidsafe/self_encryption",
+]
+```
+
+### Mina
+
+Media:
+- https://minaprotocol.com/
+
+GitHub:
+- https://github.com/MinaProtocol
+
+```toml
+repos = [
+"ChainSafe/mina-rs",
 ]
 ```
 

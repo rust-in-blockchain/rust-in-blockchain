@@ -87,8 +87,6 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Casper](https://github.com/casper-network)
 
-#### [ChainSafe](https://github.com/ChainSafe)
-
 #### [COMIT](https://github.com/comit-network)
 
 #### [Concordium](https://github.com/Concordium)
@@ -124,6 +122,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [IOTA](https://github.com/iotaledger)
 
 #### [Maidsafe](https://github.com/maidsafe)
+
+#### [Mina](https://github.com/MinaProtocol)
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 

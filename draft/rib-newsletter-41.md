@@ -48,6 +48,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Introducing Noir: The Universal Language of Zero-Knowledge](https://medium.com/@aztecnetwork/ff43f38d86d9)
 
 #### Papers
 

@@ -34,7 +34,7 @@ Aurora | Remote
 
 Blockstream | Remote
 - [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
-- [Senior Product Designer](https://grnh.se/87bf94551us)
+- [Senior Product Designer -(Contract)](https://grnh.se/a4824d641us)
 
 Bolt Labs | US, Remote
 - [Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1pPcX7Pt)

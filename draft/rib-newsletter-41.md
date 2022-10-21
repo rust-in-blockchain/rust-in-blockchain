@@ -18,8 +18,11 @@ industry topics.
 
 Thanks to contributors:
 
+[djddo],
+
 _TODO_
 
+[Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -28,6 +31,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[djddo]: https://github.com/djddo
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -239,6 +243,9 @@ Company name | Location A, B, Remote
 
 -->
 
+Blockstream | Remote
+- [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
+- [Senior Product Designer -(Contract)](https://grnh.se/a4824d641us)
 
 
 More jobs can be found at [Job Board][page-jobboard].

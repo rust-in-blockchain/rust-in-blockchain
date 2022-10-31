@@ -53,6 +53,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Introducing Noir: The Universal Language of Zero-Knowledge](https://medium.com/@aztecnetwork/ff43f38d86d9)
+- [Blockchain Consensus Mechanisms Compared](https://halborn.com/blockchain-consensus-mechanisms-compared)
+- [Explained: The BNB Chain Hack (October 2022)](https://halborn.com/explained-the-bnb-chain-hack-october-2022)
+- [MEV Resistance on a DAG](https://blog.chain.link/mev-resistance-on-a-dag/)
 
 #### Papers
 
@@ -156,6 +159,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Zcash](https://github.com/zcash)
 
+- [New release 5.3.0](https://electriccoin.co/blog/new-release-5-3-0)
 
 &nbsp;
 
@@ -213,6 +217,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [Rust Web3](https://github.com/tomusdrw/rust-web3)
 
 #### [zkSync](https://github.com/matter-labs/zksync)
+
+- [Baby Alpha Has Arrived!](https://blog.matter-labs.io/baby-alpha-has-arrived-5b10798bc623)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 

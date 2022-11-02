@@ -17,12 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
-[djddo],
-
-_TODO_
-
-[Brian Anderson], and [Aimee Zhu].
+[djddo], Hunter Beast, maxim, [Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -36,7 +31,6 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [Aimee Zhu]: https://github.com/Aimeedeer
 
 &nbsp;
-
 
 ## Project Spotlight
 
@@ -75,9 +69,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [FairPoS: Input Fairness in Proof-of-Stake with Adaptive Security](https://eprint.iacr.org/2022/1442)
 - [Eagle: Efficient Privacy Preserving Smart Contracts](https://eprint.iacr.org/2022/1435)
 - [An efficient verifiable state for zk-EVM and beyond from the Anemoi hash function](https://eprint.iacr.org/2022/1487)
+- Report: [Validity Rollups on Bitcoin](https://bitcoinrollups.org/)
 
 #### Projects
 
+- [Cartesi Rollups](https://github.com/cartesi/rollups).
+  It contains the on-chain and off-chain pieces that are used to deploy, launch
+  and interact with Cartesi Rollups DApps.
 - [zkcreds-rs](https://github.com/rozbb/zkcreds-rs).
   A cryptographic library for designing anonymous credential systems
   in a flexible, issuer-agnostic, and efficient manner using general-purpose zero-knowledge proofs. 
@@ -1008,7 +1006,7 @@ Company name | Location A, B, Remote
 
 Blockstream | Remote
 - [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
-- [Senior Product Designer -(Contract)](https://grnh.se/a4824d641us)
+- [Senior Product Designer (Contract)](https://grnh.se/a4824d641us)
 
 
 More jobs can be found at [Job Board][page-jobboard].
@@ -1023,5 +1021,3 @@ Want to be included in the next issue? Feel free to submit a PR to the
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 
 [ribtg]: https://t.me/rustinblockchain
-
-

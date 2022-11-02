@@ -61,6 +61,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Public Randomness and Randomness Beacons](https://a16zcrypto.com/public-randomness-and-randomness-beacons/)
 - [Explained: The BNB Chain Hack (October 2022)](https://halborn.com/explained-the-bnb-chain-hack-october-2022)
 - [Security Analysis of Avalanche Consensus](https://medium.com/avalancheavax/security-analysis-of-avalanche-consensus-39543d09af4a)
+- [Beyond IBC](https://maven11.substack.com/p/beyond-ibc)
 
 #### Papers
 
@@ -148,6 +149,9 @@ Bold entries here are especially relevant to blockchain projects.
 [aptos-closed_issues-1]: https://github.com/aptos-labs/aptos-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [aptos-open_issues-1]: https://github.com/aptos-labs/aptos-core/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
 
+- [The Making of the Aptos Gas Schedule](https://medium.com/aptoslabs/the-making-of-the-aptos-gas-schedule-508d5686a350)
+- [Aptos Autumn is Here](https://medium.com/aptoslabs/aptos-autumn-is-here-92a8d904eb49)
+
 #### [Casper](https://github.com/casper-network)
 
 15 merged PRs ([1][casper-merged-prs-1], [2][casper-merged-prs-2]),
@@ -231,6 +235,8 @@ Bold entries here are especially relevant to blockchain projects.
 [dfinity-open_issues-3]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [dfinity-open_issues-4]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
 
+- [Building Effective Rust Canister Smart Contracts: Useful Patterns](https://medium.com/dfinity/building-effective-rust-canister-smart-contracts-patterns-and-pitfalls-d019221061b2)
+
 #### [Dusk Network](https://github.com/dusk-network)
 
 15 merged PRs ([1][dusk_network-merged-prs-1], [2][dusk_network-merged-prs-2], [3][dusk_network-merged-prs-3], [4][dusk_network-merged-prs-4], [5][dusk_network-merged-prs-5], [6][dusk_network-merged-prs-6]),
@@ -311,6 +317,8 @@ Bold entries here are especially relevant to blockchain projects.
 [findora-merged-prs-3]: https://github.com/FindoraNetwork/bulletproofs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [findora-merged-prs-4]: https://github.com/FindoraNetwork/storage/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [findora-closed_issues-1]: https://github.com/FindoraNetwork/platform/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-31%20-author:app/dependabot
+
+- [EVM Privacy with Findora](https://medium.com/findorafoundation/evm-privacy-with-findora-e127753e8044)
 
 #### [Fluence](https://github.com/fluencelabs)
 
@@ -626,6 +634,7 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [solana-open_issues-3]: https://github.com/solana-labs/solana-accountsdb-plugin-postgres/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
 
+- [Porting the Solana eBPF JIT compiler to ARM64](https://blog.trailofbits.com/2022/10/12/solana-jit-compiler-ebpf-arm64/)
 - [Stake², or How To Cheat The Staking Mechanism - Exploring Solana Core Part 2](https://blog.neodyme.io/posts/solana_core_2/)
 
 #### [Subspace Labs](https://github.com/subspace)
@@ -891,6 +900,7 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [zksync-open_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
 
 - [Baby Alpha Has Arrived!](https://blog.matter-labs.io/baby-alpha-has-arrived-5b10798bc623)
+- [zkSync End-to-End Prover Is Now Live on Testnet](https://blog.matter-labs.io/milestone-3-zksync-end-to-end-prover-is-now-live-on-testnet-9ee4fdc1874f)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 

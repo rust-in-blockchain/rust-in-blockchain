@@ -304,7 +304,7 @@ repos = [
 "FindoraNetwork/zei",
 "FindoraNetwork/platform",
 "FindoraNetwork/findora-scanner",
-"FindoraNetwork/bp",
+"FindoraNetwork/bulletproofs",
 "FindoraNetwork/findora-exporter",
 "FindoraNetwork/abcf",
 "FindoraNetwork/bs3",
@@ -562,19 +562,20 @@ GitHub:
 
 ``` toml
 repos = [
-"nervosnetwork/godwoken",
 "nervosnetwork/ckb",
-"nervosnetwork/godwoken-scripts",
 "nervosnetwork/mercury",
 "nervosnetwork/ckb-vm",
-"nervosnetwork/godwoken-tests",
 "nervosnetwork/ckb-cli",
 "nervosnetwork/molecule",
 "nervosnetwork/capsule",
 "nervosnetwork/ckb-indexer",
 "nervosnetwork/overlord",
+"godwokenrises/godwoken",
+"godwokenrises/godwoken-tests",
+"godwokenrises/godwoken-scripts",
 ]
 ```
+
 ### Oasis
 
 Media:

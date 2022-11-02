@@ -93,6 +93,24 @@ Bold entries here are especially relevant to blockchain projects.
 <!-- https://osv.dev/list?page=2&ecosystem=crates.io -->
 
 
+- [RUSTSEC-2022-0058: `inconceivable` - Security notice](https://rustsec.org/advisories/RUSTSEC-2022-0058.html).
+- [RUSTSEC-2022-0059: `openssl-src` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0059.html).
+  - Related to custom ciphers.
+- [RUSTSEC-2022-0060: `orbtk` - Unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0060.html).
+- **[RUSTSEC-2022-0061: `parity-wasm` - Unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0061.html).**
+  - Parity is switching to [`wasm-tools`](https://github.com/bytecodealliance/wasm-tools).
+- [RUSTSEC-2022-0062: `matrix-sdk` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0062.html).
+- [RUSTSEC-2022-0063: `linked_list_allocator` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0063.html).
+- **[RUSTSEC-2022-0064: `openssl-src` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0064.html).**
+  - Buffer overflow from email parsing during authentication.
+- **[RUSTSEC-2022-0065: `openssl-src` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0065.html).**
+  - Buffer overflow during certificate verification
+- [RUSTSEC-2022-0066: `conduit-hyper` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0066.html).
+- [CVE-2021-21235: `kamadak-exif` vulnerable to Infinite loop when parsing PNG files](https://github.com/advisories/GHSA-px9g-8hgv-jvg2).
+- [CVE-2022-3929: `slack-morphism` - Exposure of sensitive Slack webhook URLs in debug logs and traces](https://github.com/advisories/GHSA-4mjx-2gh5-ph8h).
+- **[CVE-2022-39354: `evm` - Incorrect is_static parameter for custom stateful precompiles in SputnikVM](https://github.com/advisories/GHSA-hhc4-47rh-cr34).**
+
+
 &nbsp;
 
 ## Most Active in October

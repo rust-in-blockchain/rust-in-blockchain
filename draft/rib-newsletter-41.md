@@ -1000,7 +1000,7 @@ Company name | Location A, B, Remote
 
 Blockstream | Remote
 - [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
-- [Senior Product Designer -(Contract)](https://grnh.se/a4824d641us)
+- [Senior Product Designer (Contract)](https://grnh.se/a4824d641us)
 
 
 More jobs can be found at [Job Board][page-jobboard].
@@ -1015,5 +1015,3 @@ Want to be included in the next issue? Feel free to submit a PR to the
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 
 [ribtg]: https://t.me/rustinblockchain
-
-

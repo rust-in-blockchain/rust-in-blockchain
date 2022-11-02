@@ -47,9 +47,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
 - [Blockchain Consensus Mechanisms Compared](https://halborn.com/blockchain-consensus-mechanisms-compared)
@@ -97,6 +94,31 @@ Bold entries here are especially relevant to blockchain projects.
 &nbsp;
 
 ## Most Active in October
+
+[Sui](https://github.com/MystenLabs):
+433 merged PRs,
+193 closed issues,
+119 open issues
+
+[Parity](https://github.com/paritytech):
+423 merged PRs,
+256 closed issues,
+118 open issues 
+
+[Solana](https://github.com/solana-labs/solana):
+423 merged PRs,
+86 closed issues,
+73 open issues
+
+[Aptos](https://github.com/aptos-labs):
+381 merged PRs,
+52 closed issues,
+93 open issues
+
+[Fuel](https://github.com/FuelLabs):
+316 merged PRs,
+236 closed issues,
+143 open issues
 
 &nbsp;
 

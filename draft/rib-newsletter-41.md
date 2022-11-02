@@ -64,6 +64,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments](https://eprint.iacr.org/2021/599)
 - [Flexible Anonymous Transactions (FLAX): Towards Privacy-Preserving and Composable Decentralized Finance](https://eprint.iacr.org/2021/1249)
+- [Byzantine Consensus under Fully Fluctuating Participation](https://eprint.iacr.org/2022/1448)
+- [Transparent Batchable Time-lock Puzzles and Applications to Byzantine Consensus](https://eprint.iacr.org/2022/1421)
 
 #### Projects
 

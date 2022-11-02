@@ -49,11 +49,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
-- [Blockchain Consensus Mechanisms Compared](https://halborn.com/blockchain-consensus-mechanisms-compared)
+- [Blockchain Consensus Mechanisms Compared](https://halborn.com/blockchain-consensus-mechanisms-compared).
+  Just an easy to understand basic overview.
 - [Creating wasm-opt Rust bindings with cxx](https://brson.github.io/2022/10/26/creating-wasm-opt-rust-bindings-with-cxx)
-- [Introducing Noir: The Universal Language of Zero-Knowledge](https://medium.com/@aztecnetwork/ff43f38d86d9)
+- [Introducing Noir: The Universal Language of Zero-Knowledge](https://medium.com/@aztecnetwork/ff43f38d86d9).
+  We have spotlighted this project previously.
 - [Polygon zkEVM Architecture](https://wiki.polygon.technology/docs/zkEVM/overview/)
-- [MEV Resistance on a DAG](https://blog.chain.link/mev-resistance-on-a-dag/)
+- [MEV Resistance on a DAG](https://blog.chain.link/mev-resistance-on-a-dag/).
+  A good explanation of the new generation of high-throughput DAG-based consensus protocols like Narwhal / Tusk.
+  This one introduces [Fino](https://arxiv.org/abs/2208.00940).
 - [Secure Randomness: From Zero to Verifiable Delay Functions, Part 1](https://blog.neodyme.io/posts/secure-randomness-part-1/)
 - [Public Randomness and Randomness Beacons](https://a16zcrypto.com/public-randomness-and-randomness-beacons/)
 - [Explained: The BNB Chain Hack (October 2022)](https://halborn.com/explained-the-bnb-chain-hack-october-2022)
@@ -83,6 +87,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   Pure Rust implementation of drand/tlock scheme. It provides
   time-based encryption and decryption capabilities by relying on a
   drand threshold network and identity-based encryption (IBE). 
+- [fastcrypto](https://github.com/MystenLabs/fastcrypto).
+  MystenLabs' crypto library.
 
 &nbsp;
 
@@ -100,16 +106,16 @@ Bold entries here are especially relevant to blockchain projects.
 
 - [RUSTSEC-2022-0058: `inconceivable` - Security notice](https://rustsec.org/advisories/RUSTSEC-2022-0058.html).
 - [RUSTSEC-2022-0059: `openssl-src` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0059.html).
-  - Related to custom ciphers.
+  Related to custom ciphers.
 - [RUSTSEC-2022-0060: `orbtk` - Unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0060.html).
 - **[RUSTSEC-2022-0061: `parity-wasm` - Unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0061.html).**
-  - Parity is switching to [`wasm-tools`](https://github.com/bytecodealliance/wasm-tools).
+  Parity is switching to [`wasm-tools`](https://github.com/bytecodealliance/wasm-tools).
 - [RUSTSEC-2022-0062: `matrix-sdk` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0062.html).
 - [RUSTSEC-2022-0063: `linked_list_allocator` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0063.html).
 - **[RUSTSEC-2022-0064: `openssl-src` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0064.html).**
-  - Buffer overflow from email parsing during authentication.
+  Buffer overflow from email parsing during authentication.
 - **[RUSTSEC-2022-0065: `openssl-src` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0065.html).**
-  - Buffer overflow during certificate verification
+  Buffer overflow during certificate verification
 - [RUSTSEC-2022-0066: `conduit-hyper` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0066.html).
 - [CVE-2021-21235: `kamadak-exif` vulnerable to Infinite loop when parsing PNG files](https://github.com/advisories/GHSA-px9g-8hgv-jvg2).
 - [CVE-2022-3929: `slack-morphism` - Exposure of sensitive Slack webhook URLs in debug logs and traces](https://github.com/advisories/GHSA-4mjx-2gh5-ph8h).

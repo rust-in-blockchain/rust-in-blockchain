@@ -52,16 +52,32 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
-- [Introducing Noir: The Universal Language of Zero-Knowledge](https://medium.com/@aztecnetwork/ff43f38d86d9)
 - [Blockchain Consensus Mechanisms Compared](https://halborn.com/blockchain-consensus-mechanisms-compared)
-- [Explained: The BNB Chain Hack (October 2022)](https://halborn.com/explained-the-bnb-chain-hack-october-2022)
+- [Creating wasm-opt Rust bindings with cxx](https://brson.github.io/2022/10/26/creating-wasm-opt-rust-bindings-with-cxx)
+- [Introducing Noir: The Universal Language of Zero-Knowledge](https://medium.com/@aztecnetwork/ff43f38d86d9)
+- [Polygon zkEVM Architecture](https://wiki.polygon.technology/docs/zkEVM/overview/)
 - [MEV Resistance on a DAG](https://blog.chain.link/mev-resistance-on-a-dag/)
+- [Secure Randomness: From Zero to Verifiable Delay Functions, Part 1](https://blog.neodyme.io/posts/secure-randomness-part-1/)
+- [Public Randomness and Randomness Beacons](https://a16zcrypto.com/public-randomness-and-randomness-beacons/)
+- [Explained: The BNB Chain Hack (October 2022)](https://halborn.com/explained-the-bnb-chain-hack-october-2022)
+- [Security Analysis of Avalanche Consensus](https://medium.com/avalancheavax/security-analysis-of-avalanche-consensus-39543d09af4a)
 
 #### Papers
 
+- [Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments](https://eprint.iacr.org/2021/599)
+- [Flexible Anonymous Transactions (FLAX): Towards Privacy-Preserving and Composable Decentralized Finance](https://eprint.iacr.org/2021/1249)
 
 #### Projects
 
+- [zkcreds-rs](https://github.com/rozbb/zkcreds-rs).
+  A cryptographic library for designing anonymous credential systems
+  in a flexible, issuer-agnostic, and efficient manner using general-purpose zero-knowledge proofs. 
+- [zk-timelock](https://github.com/timoth-y/zk-timelock).
+  Arkworks circuits for verifiable time-lock encryption.
+- [rs-tlock](https://github.com/timoth-y/tlock-rs).
+  Pure Rust implementation of drand/tlock scheme. It provides
+  time-based encryption and decryption capabilities by relying on a
+  drand threshold network and identity-based encryption (IBE). 
 
 &nbsp;
 
@@ -143,11 +159,17 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Parity](https://github.com/paritytech)
 
+- [Polkadot: Blockspace over Blockchains](https://www.rob.tech/polkadot-blockspace-over-blockchains/)
+
 #### [Radix](https://github.com/radixdlt)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
+- [Secret 2.0: Building The Next Generation of Web3 Privacy](https://scrt.network/blog/secret-2-0-building-the-next-generation-of-web3-privacy)
+
 #### [Solana](https://github.com/solana-labs/solana)
+
+- [Stake², or How To Cheat The Staking Mechanism - Exploring Solana Core Part 2](https://blog.neodyme.io/posts/solana_core_2/)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 
@@ -159,6 +181,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Zcash](https://github.com/zcash)
 
+- [Zebra Release Candidate](https://zfnd.org/zebra-release-candidate/)
 - [New release 5.3.0](https://electriccoin.co/blog/new-release-5-3-0)
 
 &nbsp;

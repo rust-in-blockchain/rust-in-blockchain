@@ -64,8 +64,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments](https://eprint.iacr.org/2021/599)
 - [Flexible Anonymous Transactions (FLAX): Towards Privacy-Preserving and Composable Decentralized Finance](https://eprint.iacr.org/2021/1249)
+- [The DAG KNIGHT Protocol: A Parameterless Generalization of Nakamoto Consensus](https://eprint.iacr.org/2022/1494)
 - [Byzantine Consensus under Fully Fluctuating Participation](https://eprint.iacr.org/2022/1448)
 - [Transparent Batchable Time-lock Puzzles and Applications to Byzantine Consensus](https://eprint.iacr.org/2022/1421)
+- [BG: A Modular Treatment of BFT Consensus](https://eprint.iacr.org/2022/1433)
+- [FairPoS: Input Fairness in Proof-of-Stake with Adaptive Security](https://eprint.iacr.org/2022/1442)
+- [Eagle: Efficient Privacy Preserving Smart Contracts](https://eprint.iacr.org/2022/1435)
+- [An efficient verifiable state for zk-EVM and beyond from the Anemoi hash function](https://eprint.iacr.org/2022/1487)
 
 #### Projects
 
@@ -332,7 +337,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Findora](https://github.com/FindoraNetwork)
 
-58 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2], [3][findora-merged-prs-3], [4][findora-merged-prs-4]),
+98 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2], [3][findora-merged-prs-3], [4][findora-merged-prs-4], [5][findora-merged-prs-5]),
 6 closed issues ([1][findora-closed_issues-1]),
 0 open issues
 
@@ -340,6 +345,7 @@ Bold entries here are especially relevant to blockchain projects.
 [findora-merged-prs-2]: https://github.com/FindoraNetwork/findora-scanner/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [findora-merged-prs-3]: https://github.com/FindoraNetwork/bulletproofs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [findora-merged-prs-4]: https://github.com/FindoraNetwork/storage/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
+[findora-merged-prs-5]: https://github.com/FindoraNetwork/noah/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [findora-closed_issues-1]: https://github.com/FindoraNetwork/platform/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-31%20-author:app/dependabot
 
 - [EVM Privacy with Findora](https://medium.com/findorafoundation/evm-privacy-with-findora-e127753e8044)
@@ -903,6 +909,9 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [lighthouse-merged-prs-2]: https://github.com/sigp/discv5/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
+
+- [Medium-priority release: Day Rick](https://github.com/sigp/lighthouse/releases/tag/v3.2.1)
+- [Medium-priority release: Night Summer](https://github.com/sigp/lighthouse/releases/tag/v3.2.0)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 

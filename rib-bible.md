@@ -309,6 +309,7 @@ repos = [
 "FindoraNetwork/abcf",
 "FindoraNetwork/bs3",
 "FindoraNetwork/storage",
+"FindoraNetwork/noah",
 ]
 ```
 

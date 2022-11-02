@@ -258,7 +258,25 @@ Dec 1-2 | Online
 
 -->
 
+Nov 3 | San Francisco, USA
 
+[Ethereum hackathon: ETH San Francisco 2022](https://nftevening.com/event/eth-san-francisco-2022-san-francisco/)
+
+Nov 3 | San Francisco, USA
+
+[Polkadot Summit](https://www.polkadotsummit.com/)
+
+Nov 7-10 | Chicago, USA
+
+[TCC 2022](https://tcc.iacr.org/2022/)
+
+Nov 10-11 | Dubai, United Arab Emirates
+
+[ICSCB 2022: 16. International Conference on Smart Contracts and Blockchain](https://waset.org/smart-contracts-and-blockchain-conference-in-november-2022-in-dubai)
+
+Nov 14-17 | Istanbul, Turkey
+
+[Istanbul Blockchain Week](https://istanbulblockchainweek.com/)
 
 &nbsp;
 

@@ -19,6 +19,7 @@ industry topics.
 Thanks to contributors:
 
 [djddo],
+[Hunter Trujillo],
 
 _TODO_
 
@@ -32,6 +33,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [djddo]: https://github.com/djddo
+[Hunter Trujillo]: https://github.com/cryptoquick
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -59,6 +61,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Explained: The BNB Chain Hack (October 2022)](https://halborn.com/explained-the-bnb-chain-hack-october-2022)
 - [Security Analysis of Avalanche Consensus](https://medium.com/avalancheavax/security-analysis-of-avalanche-consensus-39543d09af4a)
 - [Beyond IBC](https://maven11.substack.com/p/beyond-ibc)
+- [Major New Cryptowatch Desktop Trading Release using fast Rust-native GUI Framework](https://blog.cryptowat.ch/cryptowatch-desktop-trading/)
 
 #### Papers
 
@@ -66,18 +69,20 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Flexible Anonymous Transactions (FLAX): Towards Privacy-Preserving and Composable Decentralized Finance](https://eprint.iacr.org/2021/1249)
 - [Byzantine Consensus under Fully Fluctuating Participation](https://eprint.iacr.org/2022/1448)
 - [Transparent Batchable Time-lock Puzzles and Applications to Byzantine Consensus](https://eprint.iacr.org/2022/1421)
+- [Validity Rollups on Bitcoin](https://bitcoinrollups.org)
+- [Secure Distributed Key Generation for Discrete-Log Based Cryptosystems](https://link.springer.com/content/pdf/10.1007/3-540-48910-X_21.pdf)
 
 #### Projects
 
 - [zkcreds-rs](https://github.com/rozbb/zkcreds-rs).
   A cryptographic library for designing anonymous credential systems
-  in a flexible, issuer-agnostic, and efficient manner using general-purpose zero-knowledge proofs. 
+  in a flexible, issuer-agnostic, and efficient manner using general-purpose zero-knowledge proofs.
 - [zk-timelock](https://github.com/timoth-y/zk-timelock).
   Arkworks circuits for verifiable time-lock encryption.
 - [rs-tlock](https://github.com/timoth-y/tlock-rs).
   Pure Rust implementation of drand/tlock scheme. It provides
   time-based encryption and decryption capabilities by relying on a
-  drand threshold network and identity-based encryption (IBE). 
+  drand threshold network and identity-based encryption (IBE).
 
 &nbsp;
 
@@ -105,7 +110,7 @@ Bold entries here are especially relevant to blockchain projects.
 [Parity](https://github.com/paritytech):
 423 merged PRs,
 256 closed issues,
-118 open issues 
+118 open issues
 
 [Solana](https://github.com/solana-labs/solana):
 423 merged PRs,
@@ -710,6 +715,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
+It's been a crazy month in the Bitcoin space. In light of the mayhem happening on LND, it bears mentioning, there's two Rust Lightning implementations, LNP and LDK, activity on both listed below. In lighter news, Iris wallet, an Android Bitcoin wallet that supports RGB tokens was released, and it makes use of rgb-lib, behind Kotlin language bindings using `rust-ffi`. LDK releases 0.0.112, a largely incremental release to meet expanding use-cases as the project matures. BDK 0.23 was released shortly after last newsletter, and they're now gearing up for an 0.24 release containing support for rust-bitcoin 0.29, as mentioned in [RiB #39](https://rustinblockchain.org/newsletters/rib-newsletter-39/#rust-in-bitcoin). The Fedimint team is working hard on new features, including [an experimental web interface](https://github.com/justinmoon/webimint), and a 2nd-generation key generation system based on Discrete-Log Cryptography, which should be more secure. Finally, bitmask-core 0.4 was published, with support for Taproot P2TR addresses, and also LNDHub support.
+
 For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 [ribtc]: https://t.me/rust_in_bitcoin
@@ -733,7 +740,7 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [bdk-open_issues-3]: https://github.com/bitcoindevkit/bdk-ffi/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [bdk-open_issues-4]: https://github.com/bitcoindevkit/rust-electrum-client/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
 
-#### [Bitmask](https://github.com/diba-io/bitmask-core)
+#### [BitMask](https://github.com/diba-io/bitmask-core)
 
 7 merged PRs ([1][bitmask-merged-prs-1]),
 2 closed issues ([1][bitmask-closed_issues-1]),
@@ -751,6 +758,16 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 [electrs-merged-prs-1]: https://github.com/romanz/electrs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [electrs-closed_issues-1]: https://github.com/romanz/electrs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-31%20-author:app/dependabot
+
+#### [Fedimint](https://github.com/fedimint)
+
+> Fedimint is a bitcoin banking protocol. Highlights from the last month include:
+
+- Distributed key generation so federation setup has no single point of failure ( https://github.com/fedimint/fedimint/pull/600)
+- Modularization so that developers don't have to fork the repo to modify functionality (https://github.com/fedimint/fedimint/issues/673)
+- Proper database transactions (https://github.com/fedimint/fedimint/pull/791)
+- Improved connection to Lighting Network (https://github.com/fedimint/fedimint/pull/709)
+- Deriving our anonymous IOUs from a cryptographic seed to enable safer recovery schemes (https://github.com/fedimint/fedimint/pull/811)
 
 #### [LDK](https://github.com/lightningdevkit/rust-lightning)
 
@@ -990,5 +1007,3 @@ Want to be included in the next issue? Feel free to submit a PR to the
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 
 [ribtg]: https://t.me/rustinblockchain
-
-

@@ -17,13 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
-[djddo],
-[Hunter Trujillo],
-
-_TODO_
-
-[Brian Anderson], and [Aimee Zhu].
+[djddo], Hunter Beast, maxim, [Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -39,10 +33,20 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 &nbsp;
 
-
 ## Project Spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+[tlock-rs](https://github.com/timoth-y/tlock-rs)
+and
+[zk-timelock](https://github.com/timoth-y/zk-timelock).
+
+These projects, both by the same author,
+implement _timelock_ encryption,
+by which data can be encrypted and then only decrypted after a certain moment.
+It relies on the [drand](https://github.com/drand)
+randomness beacon.
+
 
 &nbsp;
 
@@ -51,11 +55,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
-- [Blockchain Consensus Mechanisms Compared](https://halborn.com/blockchain-consensus-mechanisms-compared)
+- [Blockchain Consensus Mechanisms Compared](https://halborn.com/blockchain-consensus-mechanisms-compared).
+  Just an easy to understand basic overview.
 - [Creating wasm-opt Rust bindings with cxx](https://brson.github.io/2022/10/26/creating-wasm-opt-rust-bindings-with-cxx)
-- [Introducing Noir: The Universal Language of Zero-Knowledge](https://medium.com/@aztecnetwork/ff43f38d86d9)
+- [Introducing Noir: The Universal Language of Zero-Knowledge](https://medium.com/@aztecnetwork/ff43f38d86d9).
+  We have spotlighted this project previously.
 - [Polygon zkEVM Architecture](https://wiki.polygon.technology/docs/zkEVM/overview/)
-- [MEV Resistance on a DAG](https://blog.chain.link/mev-resistance-on-a-dag/)
+- [MEV Resistance on a DAG](https://blog.chain.link/mev-resistance-on-a-dag/).
+  A good explanation of the new generation of high-throughput DAG-based consensus protocols like Narwhal / Tusk.
+  This one introduces [Fino](https://arxiv.org/abs/2208.00940).
 - [Secure Randomness: From Zero to Verifiable Delay Functions, Part 1](https://blog.neodyme.io/posts/secure-randomness-part-1/)
 - [Public Randomness and Randomness Beacons](https://a16zcrypto.com/public-randomness-and-randomness-beacons/)
 - [Explained: The BNB Chain Hack (October 2022)](https://halborn.com/explained-the-bnb-chain-hack-october-2022)
@@ -65,15 +73,22 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
-- [Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments](https://eprint.iacr.org/2021/599)
-- [Flexible Anonymous Transactions (FLAX): Towards Privacy-Preserving and Composable Decentralized Finance](https://eprint.iacr.org/2021/1249)
-- [Byzantine Consensus under Fully Fluctuating Participation](https://eprint.iacr.org/2022/1448)
-- [Transparent Batchable Time-lock Puzzles and Applications to Byzantine Consensus](https://eprint.iacr.org/2022/1421)
-- [Validity Rollups on Bitcoin](https://bitcoinrollups.org)
-- [Secure Distributed Key Generation for Discrete-Log Based Cryptosystems](https://link.springer.com/content/pdf/10.1007/3-540-48910-X_21.pdf)
-
+  - [Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments](https://eprint.iacr.org/2021/599)
+  - [Flexible Anonymous Transactions (FLAX): Towards Privacy-Preserving and Composable Decentralized Finance](https://eprint.iacr.org/2021/1249)
++ - [The DAG KNIGHT Protocol: A Parameterless Generalization of Nakamoto Consensus](https://eprint.iacr.org/2022/1494)
+  - [Byzantine Consensus under Fully Fluctuating Participation](https://eprint.iacr.org/2022/1448)
+  - [Transparent Batchable Time-lock Puzzles and Applications to Byzantine Consensus](https://eprint.iacr.org/2022/1421)
+- - [Secure Distributed Key Generation for Discrete-Log Based Cryptosystems](https://link.springer.com/content/pdf/10.1007/3-540-48910-X_21.pdf)
+ -- [BG: A Modular Treatment of BFT Consensus](https://eprint.iacr.org/2022/1433)
+ -- [FairPoS: Input Fairness in Proof-of-Stake with Adaptive Security](https://eprint.iacr.org/2022/1442)
+ -- [Eagle: Efficient Privacy Preserving Smart Contracts](https://eprint.iacr.org/2022/1435)
+ -- [An efficient verifiable state for zk-EVM and beyond from the Anemoi hash function](https://eprint.iacr.org/2022/1487)
+ -- Report: [Validity Rollups on Bitcoin](https://bitcoinrollups.org/)
 #### Projects
 
+- [Cartesi Rollups](https://github.com/cartesi/rollups).
+  It contains the on-chain and off-chain pieces that are used to deploy, launch
+  and interact with Cartesi Rollups DApps.
 - [zkcreds-rs](https://github.com/rozbb/zkcreds-rs).
   A cryptographic library for designing anonymous credential systems
   in a flexible, issuer-agnostic, and efficient manner using general-purpose zero-knowledge proofs.
@@ -96,6 +111,24 @@ Bold entries here are especially relevant to blockchain projects.
 
 <!-- https://github.com/rustsec/advisory-db/pulls -->
 <!-- https://osv.dev/list?page=2&ecosystem=crates.io -->
+
+
+- [RUSTSEC-2022-0058: `inconceivable` - Security notice](https://rustsec.org/advisories/RUSTSEC-2022-0058.html).
+- [RUSTSEC-2022-0059: `openssl-src` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0059.html).
+  Related to custom ciphers.
+- [RUSTSEC-2022-0060: `orbtk` - Unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0060.html).
+- **[RUSTSEC-2022-0061: `parity-wasm` - Unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0061.html).**
+  Parity is switching to [`wasm-tools`](https://github.com/bytecodealliance/wasm-tools).
+- [RUSTSEC-2022-0062: `matrix-sdk` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0062.html).
+- [RUSTSEC-2022-0063: `linked_list_allocator` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0063.html).
+- **[RUSTSEC-2022-0064: `openssl-src` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0064.html).**
+  Buffer overflow from email parsing during authentication.
+- **[RUSTSEC-2022-0065: `openssl-src` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0065.html).**
+  Buffer overflow during certificate verification
+- [RUSTSEC-2022-0066: `conduit-hyper` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0066.html).
+- [CVE-2021-21235: `kamadak-exif` vulnerable to Infinite loop when parsing PNG files](https://github.com/advisories/GHSA-px9g-8hgv-jvg2).
+- [CVE-2022-3929: `slack-morphism` - Exposure of sensitive Slack webhook URLs in debug logs and traces](https://github.com/advisories/GHSA-4mjx-2gh5-ph8h).
+- **[CVE-2022-39354: `evm` - Incorrect is_static parameter for custom stateful precompiles in SputnikVM](https://github.com/advisories/GHSA-hhc4-47rh-cr34).**
 
 
 &nbsp;
@@ -337,7 +370,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Findora](https://github.com/FindoraNetwork)
 
-58 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2], [3][findora-merged-prs-3], [4][findora-merged-prs-4]),
+98 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2], [3][findora-merged-prs-3], [4][findora-merged-prs-4], [5][findora-merged-prs-5]),
 6 closed issues ([1][findora-closed_issues-1]),
 0 open issues
 
@@ -345,6 +378,7 @@ Bold entries here are especially relevant to blockchain projects.
 [findora-merged-prs-2]: https://github.com/FindoraNetwork/findora-scanner/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [findora-merged-prs-3]: https://github.com/FindoraNetwork/bulletproofs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [findora-merged-prs-4]: https://github.com/FindoraNetwork/storage/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
+[findora-merged-prs-5]: https://github.com/FindoraNetwork/noah/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [findora-closed_issues-1]: https://github.com/FindoraNetwork/platform/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-31%20-author:app/dependabot
 
 - [EVM Privacy with Findora](https://medium.com/findorafoundation/evm-privacy-with-findora-e127753e8044)
@@ -750,6 +784,16 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [bitmask-closed_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [bitmask-open_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
 
+#### [Fedimint](https://github.com/fedimint)
+
+77 merged PRs ([1][fedimint-merged-prs-1]),
+11 closed issues ([1][fedimint-closed_issues-1]),
+25 open issues ([1][fedimint-open_issues-1])
+
+[fedimint-merged-prs-1]: https://github.com/fedimint/fedimint/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-30%20-author:app/dependabot
+[fedimint-closed_issues-1]: https://github.com/fedimint/fedimint/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-30%20-author:app/dependabot
+[fedimint-open_issues-1]: https://github.com/fedimint/fedimint/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-30%20-author:app/dependabot
+
 #### [Electrs](https://github.com/romanz/electrs)
 
 5 merged PRs ([1][electrs-merged-prs-1]),
@@ -921,6 +965,9 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
 
+- [Medium-priority release: Day Rick](https://github.com/sigp/lighthouse/releases/tag/v3.2.1)
+- [Medium-priority release: Night Summer](https://github.com/sigp/lighthouse/releases/tag/v3.2.0)
+
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
 1 merged PRs ([1][rust_ethereum-merged-prs-1]),
@@ -992,7 +1039,7 @@ Company name | Location A, B, Remote
 
 Blockstream | Remote
 - [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
-- [Senior Product Designer -(Contract)](https://grnh.se/a4824d641us)
+- [Senior Product Designer (Contract)](https://grnh.se/a4824d641us)
 
 
 More jobs can be found at [Job Board][page-jobboard].

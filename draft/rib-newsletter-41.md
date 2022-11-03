@@ -73,17 +73,18 @@ randomness beacon.
 
 #### Papers
 
-  - [Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments](https://eprint.iacr.org/2021/599)
-  - [Flexible Anonymous Transactions (FLAX): Towards Privacy-Preserving and Composable Decentralized Finance](https://eprint.iacr.org/2021/1249)
-+ - [The DAG KNIGHT Protocol: A Parameterless Generalization of Nakamoto Consensus](https://eprint.iacr.org/2022/1494)
-  - [Byzantine Consensus under Fully Fluctuating Participation](https://eprint.iacr.org/2022/1448)
-  - [Transparent Batchable Time-lock Puzzles and Applications to Byzantine Consensus](https://eprint.iacr.org/2022/1421)
-- - [Secure Distributed Key Generation for Discrete-Log Based Cryptosystems](https://link.springer.com/content/pdf/10.1007/3-540-48910-X_21.pdf)
- -- [BG: A Modular Treatment of BFT Consensus](https://eprint.iacr.org/2022/1433)
- -- [FairPoS: Input Fairness in Proof-of-Stake with Adaptive Security](https://eprint.iacr.org/2022/1442)
- -- [Eagle: Efficient Privacy Preserving Smart Contracts](https://eprint.iacr.org/2022/1435)
- -- [An efficient verifiable state for zk-EVM and beyond from the Anemoi hash function](https://eprint.iacr.org/2022/1487)
- -- Report: [Validity Rollups on Bitcoin](https://bitcoinrollups.org/)
+- [Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments](https://eprint.iacr.org/2021/599)
+- [Flexible Anonymous Transactions (FLAX): Towards Privacy-Preserving and Composable Decentralized Finance](https://eprint.iacr.org/2021/1249)
+- [The DAG KNIGHT Protocol: A Parameterless Generalization of Nakamoto Consensus](https://eprint.iacr.org/2022/1494)
+- [Byzantine Consensus under Fully Fluctuating Participation](https://eprint.iacr.org/2022/1448)
+- [Transparent Batchable Time-lock Puzzles and Applications to Byzantine Consensus](https://eprint.iacr.org/2022/1421)
+- [Secure Distributed Key Generation for Discrete-Log Based Cryptosystems](https://link.springer.com/content/pdf/10.1007/3-540-48910-X_21.pdf)
+- [BG: A Modular Treatment of BFT Consensus](https://eprint.iacr.org/2022/1433)
+- [FairPoS: Input Fairness in Proof-of-Stake with Adaptive Security](https://eprint.iacr.org/2022/1442)
+- [Eagle: Efficient Privacy Preserving Smart Contracts](https://eprint.iacr.org/2022/1435)
+- [An efficient verifiable state for zk-EVM and beyond from the Anemoi hash function](https://eprint.iacr.org/2022/1487)
+- Report: [Validity Rollups on Bitcoin](https://bitcoinrollups.org/)
+
 #### Projects
 
 - [Cartesi Rollups](https://github.com/cartesi/rollups).
@@ -786,6 +787,14 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 #### [Fedimint](https://github.com/fedimint)
 
+> Fedimint is a Bitcoin banking protocol. Highlights from the last month include:
+
+- Distributed key generation so federation setup has no single point of failure ( https://github.com/fedimint/fedimint/pull/600)
+- Modularization so that developers don't have to fork the repo to modify functionality (https://github.com/fedimint/fedimint/issues/673)
+- Proper database transactions (https://github.com/fedimint/fedimint/pull/791)
+- Improved connection to Lighting Network (https://github.com/fedimint/fedimint/pull/709)
+- Deriving our anonymous IOUs from a cryptographic seed to enable safer recovery schemes (https://github.com/fedimint/fedimint/pull/811)
+
 77 merged PRs ([1][fedimint-merged-prs-1]),
 11 closed issues ([1][fedimint-closed_issues-1]),
 25 open issues ([1][fedimint-open_issues-1])
@@ -802,16 +811,6 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 [electrs-merged-prs-1]: https://github.com/romanz/electrs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [electrs-closed_issues-1]: https://github.com/romanz/electrs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-31%20-author:app/dependabot
-
-#### [Fedimint](https://github.com/fedimint)
-
-> Fedimint is a bitcoin banking protocol. Highlights from the last month include:
-
-- Distributed key generation so federation setup has no single point of failure ( https://github.com/fedimint/fedimint/pull/600)
-- Modularization so that developers don't have to fork the repo to modify functionality (https://github.com/fedimint/fedimint/issues/673)
-- Proper database transactions (https://github.com/fedimint/fedimint/pull/791)
-- Improved connection to Lighting Network (https://github.com/fedimint/fedimint/pull/709)
-- Deriving our anonymous IOUs from a cryptographic seed to enable safer recovery schemes (https://github.com/fedimint/fedimint/pull/811)
 
 #### [LDK](https://github.com/lightningdevkit/rust-lightning)
 

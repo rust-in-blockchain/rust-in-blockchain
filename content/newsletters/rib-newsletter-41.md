@@ -1,10 +1,11 @@
 ---
 title: "RiB Newsletter #41"
 description: "October 2022"
-date: 2021-11-02
+date: 2022-11-02
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #41 edition of Rust in Blockchain.
+This month we spotlight `tlock-rs` and `zk-timelock`, which implement _timelock_ encryption."
 ---
 
 Welcome to the #41 edition of Rust in Blockchain, the monthly
@@ -752,7 +753,24 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
-It's been a crazy month in the Bitcoin space. In light of the mayhem happening on LND, it bears mentioning, there's two Rust Lightning implementations, LNP and LDK, activity on both listed below. In lighter news, [Iris wallet](https://github.com/RGB-Tools/iris-wallet-android), an Android Bitcoin wallet that supports RGB tokens was released, and it makes use of [rgb-lib](https://github.com/RGB-Tools/rgb-lib), behind Kotlin language bindings using `rust-ffi`. LDK releases 0.0.112, a largely incremental release to meet expanding use-cases as the project matures. BDK 0.23 was released shortly after last newsletter, and they're now gearing up for an 0.24 release containing support for rust-bitcoin 0.29, as mentioned in [RiB #39](https://rustinblockchain.org/newsletters/rib-newsletter-39/#rust-in-bitcoin). The Fedimint team is working hard on new features, including [an experimental web interface](https://github.com/justinmoon/webimint), and a 2nd-generation key generation system based on Discrete-Log Cryptography, which should be more secure. Finally, bitmask-core 0.4 was published, with support for Taproot P2TR addresses, and also LNDHub support.
+It's been a crazy month in the Bitcoin space. In light of the mayhem
+happening on LND, it bears mentioning there are two Rust Lightning
+implementations, LNP and LDK, activity on both listed below. In
+lighter news, [Iris wallet](https://github.com/RGB-Tools/iris-wallet-android),
+an Android Bitcoin wallet that supports RGB tokens was released, and it makes use
+of [rgb-lib](https://github.com/RGB-Tools/rgb-lib), behind Kotlin
+language bindings using `rust-ffi`. LDK released 0.0.112, a largely
+incremental release to meet expanding use-cases as the project
+matures. BDK 0.23 was released shortly after last newsletter, and
+they're now gearing up for a 0.24 release containing support for
+rust-bitcoin 0.29, as mentioned in [RiB
+#39](https://rustinblockchain.org/newsletters/rib-newsletter-39/#rust-in-bitcoin). The
+Fedimint team is working hard on new features, including [an
+experimental web interface](https://github.com/justinmoon/webimint),
+and a 2nd-generation key generation system based on discrete-log
+cryptography, which should be more secure. Finally, bitmask-core 0.4
+was published, with support for Taproot P2TR addresses, and also
+LNDHub support.
 
 For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
@@ -789,14 +807,6 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 #### [Fedimint](https://github.com/fedimint)
 
-> Fedimint is a Bitcoin banking protocol. Highlights from the last month include:
-
-- Distributed key generation so federation setup has no single point of failure ( https://github.com/fedimint/fedimint/pull/600)
-- Modularization so that developers don't have to fork the repo to modify functionality (https://github.com/fedimint/fedimint/issues/673)
-- Proper database transactions (https://github.com/fedimint/fedimint/pull/791)
-- Improved connection to Lighting Network (https://github.com/fedimint/fedimint/pull/709)
-- Deriving our anonymous IOUs from a cryptographic seed to enable safer recovery schemes (https://github.com/fedimint/fedimint/pull/811)
-
 77 merged PRs ([1][fedimint-merged-prs-1]),
 11 closed issues ([1][fedimint-closed_issues-1]),
 25 open issues ([1][fedimint-open_issues-1])
@@ -804,6 +814,13 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [fedimint-merged-prs-1]: https://github.com/fedimint/fedimint/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-30%20-author:app/dependabot
 [fedimint-closed_issues-1]: https://github.com/fedimint/fedimint/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-30%20-author:app/dependabot
 [fedimint-open_issues-1]: https://github.com/fedimint/fedimint/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-30%20-author:app/dependabot
+
+Fedimint is a Bitcoin banking protocol. Highlights from the last month include:
+- [Distributed key generation so federation setup has no single point of failure](https://github.com/fedimint/fedimint/pull/600)
+- [Modularization so that developers don't have to fork the repo to modify functionality](https://github.com/fedimint/fedimint/issues/673)
+- [Proper database transactions](https://github.com/fedimint/fedimint/pull/791)
+- [Improved connection to Lighting Network](https://github.com/fedimint/fedimint/pull/709)
+- [Deriving our anonymous IOUs from a cryptographic seed to enable safer recovery schemes](https://github.com/fedimint/fedimint/pull/811)
 
 #### [Electrs](https://github.com/romanz/electrs)
 

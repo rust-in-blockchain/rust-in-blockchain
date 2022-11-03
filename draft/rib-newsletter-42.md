@@ -1,16 +1,16 @@
 ---
-title: "RiB Newsletter #29 - _TODO_"
-description: "October 2021"
-date: 2021-11-03
+title: "RiB Newsletter #42"
+description: "November 2022"
+date: 2022-12-07
 categories:
   - "newsletters"
 summary: "_TODO_"
 ---
 
-Welcome to the #29 edition of Rust in Blockchain, the monthly
+Welcome to the #42 edition of Rust in Blockchain, the monthly
 newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
-[Previous: #28](/newsletters/rib-newsletter-28/).
+[Previous: #41](/newsletters/rib-newsletter-41/).
 
 &nbsp;
 

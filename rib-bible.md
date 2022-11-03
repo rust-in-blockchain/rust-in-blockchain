@@ -792,7 +792,7 @@ repos = [
 ]
 ```
 
-### Bitmask
+### BitMask
 
 Media:
 - https://bitmask.app

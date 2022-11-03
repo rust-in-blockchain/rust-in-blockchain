@@ -36,6 +36,17 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[tlock-rs](https://github.com/timoth-y/tlock-rs)
+and
+[zk-timelock](https://github.com/timoth-y/zk-timelock).
+
+These projects, both by the same author,
+implement _timelock_ encryption,
+by which data can be encrypted and then only decrypted after a certain moment.
+It relies on the [drand](https://github.com/drand)
+randomness beacon.
+
+
 &nbsp;
 
 

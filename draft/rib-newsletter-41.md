@@ -17,7 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-[djddo], Hunter Beast, maxim, [Brian Anderson], and [Aimee Zhu].
+[djddo], [Hunter Trujillo], maxim, [Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -99,6 +99,8 @@ randomness beacon.
   Pure Rust implementation of drand/tlock scheme. It provides
   time-based encryption and decryption capabilities by relying on a
   drand threshold network and identity-based encryption (IBE).
+- [fastcrypto](https://github.com/MystenLabs/fastcrypto).
+  MystenLabs' crypto library.
 
 &nbsp;
 

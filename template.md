@@ -166,6 +166,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 #### [Electrs](https://github.com/romanz/electrs)
 
+#### [Fedimint](https://github.com/fedimint/fedimint)
+
 #### [Internet2](https://github.com/internet2-wg/)
 
 #### [LDK](https://github.com/lightningdevkit/rust-lightning)

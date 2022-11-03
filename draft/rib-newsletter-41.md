@@ -771,6 +771,16 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [bitmask-closed_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-31%20-author:app/dependabot
 [bitmask-open_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-31%20-author:app/dependabot
 
+#### [Fedimint](https://github.com/fedimint)
+
+77 merged PRs ([1][fedimint-merged-prs-1]),
+11 closed issues ([1][fedimint-closed_issues-1]),
+25 open issues ([1][fedimint-open_issues-1])
+
+[fedimint-merged-prs-1]: https://github.com/fedimint/fedimint/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-10-01..2022-10-30%20-author:app/dependabot
+[fedimint-closed_issues-1]: https://github.com/fedimint/fedimint/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-10-01..2022-10-30%20-author:app/dependabot
+[fedimint-open_issues-1]: https://github.com/fedimint/fedimint/issues?q=is%3Aissue+is%3Aopen+created%3A2022-10-01..2022-10-30%20-author:app/dependabot
+
 #### [Electrs](https://github.com/romanz/electrs)
 
 5 merged PRs ([1][electrs-merged-prs-1]),

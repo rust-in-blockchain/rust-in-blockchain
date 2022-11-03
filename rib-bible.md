@@ -542,7 +542,7 @@ repos = [
 "near/near-blake2",
 "near/core-contracts",
 "near/near-lake-framework-rs",
-"near/near-lake-indexer"
+"near/near-lake-indexer",
 "near/borsh-rs",
 "near/near-indexer-for-explorer",
 "near/wasmer",
@@ -814,6 +814,18 @@ GitHub:
 ```toml
 repos = [
 "romanz/electrs",
+]
+```
+
+### Fedimint
+
+GitHub:
+- https://github.com/fedimint
+
+```toml
+repos = [
+"fedimint/fedimint",
+"fedimint/hbbft",
 ]
 ```
 

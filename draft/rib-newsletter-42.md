@@ -51,6 +51,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [Folding Schemes with Selective Verification](https://eprint.iacr.org/2022/1576)
+- [Practical Settlement Bounds for Longest-Chain Consensus](https://eprint.iacr.org/2022/1571)
 
 #### Projects
 

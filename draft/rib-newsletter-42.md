@@ -56,6 +56,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [avalanche-types](https://github.com/ava-labs/avalanche-types-rs).
+  Avalanche primitive types in Rust.
+  It provides an SDK library for developing subnets in Rust and ther are two VMs,
+  [timestampvm-rs](https://github.com/ava-labs/timestampvm-rs) and
+  [spacesvm-rs](https://github.com/ava-labs/spacesvm-rs), are built with the SDK.
+  Doc: [How to Build a Simple Rust VM](https://docs.avax.network/subnets/create-a-simple-rust-vm).
 
 &nbsp;
 
@@ -108,6 +114,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Filecoin](https://github.com/filecoin-project)
 
 #### [Findora](https://github.com/FindoraNetwork)
+
+- [Postmortem Report | Nov 15, 2022](https://medium.com/findorafoundation/findora-incident-postmortem-0-3-30-d844a476c21b)
 
 #### [Fluence](https://github.com/fluencelabs)
 

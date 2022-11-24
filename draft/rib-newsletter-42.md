@@ -18,6 +18,7 @@ industry topics.
 
 Thanks to contributors:
 
+[Dominic Wörner],
 _TODO_
 
 Thank you for your help!
@@ -28,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Dominic Wörner]: https://github.com/domwoe
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

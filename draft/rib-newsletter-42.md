@@ -50,6 +50,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [CESC ‘22: Field Notes from the Zero Knowledge Workshop](https://a16zcrypto.com/cesc-22-field-notes-from-the-zkp-workshop/)
 
 #### Papers
 
@@ -58,6 +59,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Helios](https://github.com/a16z/helios).
+  A fast, secure, and portable light client for Ethereum.
+  Blog post: [Building Helios: Fully trustless access to Ethereum](https://a16zcrypto.com/building-helios-ethereum-light-client/)
 - [avalanche-types](https://github.com/ava-labs/avalanche-types-rs).
   Avalanche primitive types in Rust.
   It provides an SDK library for developing subnets in Rust and ther are two VMs,

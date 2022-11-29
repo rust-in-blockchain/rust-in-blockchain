@@ -51,6 +51,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [CESC ‘22: Field Notes from the Zero Knowledge Workshop](https://a16zcrypto.com/cesc-22-field-notes-from-the-zkp-workshop/)
+- [Minority Corruption Resilience in Byzantine Generals With Unknown and Fluctuating Participation](https://blog.chain.link/minority-corruption-resilience-in-byzantine-generals-with-unknown-and-fluctuating-participation/)
+- [Upgradable Smart Contracts: What They Are and How To Deploy Your Own](https://blog.chain.link/upgradable-smart-contracts/)
+- [Designing Secure Access Control For Smart Contracts](https://halborn.com/designing-secure-access-control-for-smart-contracts/)
 
 #### Papers
 
@@ -134,6 +137,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Helium](https://github.com/helium)
 
 #### [Holochain](https://github.com/holochain/)
+
+- [Hackathon, Tool Upgrades, hREA](https://blog.holochain.org/hackathon-tool-upgrades-hrea/)
 
 #### [IOTA](https://github.com/iotaledger)
 
@@ -242,7 +247,9 @@ Dec 1-2 | Online
 
 -->
 
+Dec 15 | Online
 
+[Secret Summit 2022](https://scrt.network/summit)
 
 &nbsp;
 

@@ -54,6 +54,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Minority Corruption Resilience in Byzantine Generals With Unknown and Fluctuating Participation](https://blog.chain.link/minority-corruption-resilience-in-byzantine-generals-with-unknown-and-fluctuating-participation/)
 - [Upgradable Smart Contracts: What They Are and How To Deploy Your Own](https://blog.chain.link/upgradable-smart-contracts/)
 - [Designing Secure Access Control For Smart Contracts](https://halborn.com/designing-secure-access-control-for-smart-contracts/)
+- [Specialized Zero-Knowledge Proof failures](https://blog.trailofbits.com/2022/11/29/specialized-zero-knowledge-proof-failures/)
 
 #### Papers
 
@@ -159,6 +160,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Radix](https://github.com/radixdlt)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
+
+- [Notice: Successful Resolution of xAPIC Vulnerability on Secret Network](https://scrt.network/blog/notice-successful-resolution-of-xapic-vulnerability)
 
 #### [Solana](https://github.com/solana-labs/solana)
 

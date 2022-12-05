@@ -160,15 +160,17 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 [ribtc]: https://t.me/rust_in_bitcoin
 
+#### [AluVM](https://github.com/AluVM)
+
 #### [BDK](https://github.com/bitcoindevkit/bdk)
 
 #### [BitMask](https://github.com/diba-io/bitmask-core)
 
+#### [Cyphernet](https://github.com/Cyphernet-WG)
+
 #### [Electrs](https://github.com/romanz/electrs)
 
 #### [Fedimint](https://github.com/fedimint/fedimint)
-
-#### [Internet2](https://github.com/internet2-wg/)
 
 #### [LDK](https://github.com/lightningdevkit/rust-lightning)
 

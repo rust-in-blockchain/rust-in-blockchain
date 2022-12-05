@@ -774,6 +774,18 @@ repos = [
 
 ## Rust in Bitcoin
 
+### AluVM
+
+GitHub:
+- https://github.com/AluVM
+
+```toml
+repos = [
+"AluVM/rust-aluvm",
+"AluVM/aluasm",
+]
+```
+
 ### BDK
 
 Media:
@@ -806,6 +818,20 @@ repos = [
 ]
 ```
 
+### Cyphernet
+
+GitHub:
+- https://github.com/Cyphernet-WG
+
+```toml
+repos = [
+"Cyphernet-WG/rust-internet2",
+"Cyphernet-WG/rust-microservices",
+"Cyphernet-WG/rust-cyphernet",
+"Cyphernet-WG/rust-netservices",
+]
+```
+
 ### Electrs
 
 GitHub:
@@ -826,20 +852,6 @@ GitHub:
 repos = [
 "fedimint/fedimint",
 "fedimint/hbbft",
-]
-```
-
-### Internet2
-
-GitHub:
-- https://github.com/Internet2-WG
-
-```toml
-repos = [
-"Internet2-WG/rust-aluvm",
-"Internet2-WG/rust-internet2",
-"Internet2-WG/rust-microservices",
-"Internet2-WG/stenc",
 ]
 ```
 
@@ -1096,6 +1108,6 @@ GitHub:
 ``` toml
 repos = [
 "matter-labs/zksync",
-"matter-labs/compiler-solidity",
+"matter-labs/franklin-crypto",
 ]
 ```

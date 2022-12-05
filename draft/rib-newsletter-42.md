@@ -55,11 +55,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Upgradable Smart Contracts: What They Are and How To Deploy Your Own](https://blog.chain.link/upgradable-smart-contracts/)
 - [Designing Secure Access Control For Smart Contracts](https://halborn.com/designing-secure-access-control-for-smart-contracts/)
 - [Specialized Zero-Knowledge Proof failures](https://blog.trailofbits.com/2022/11/29/specialized-zero-knowledge-proof-failures/)
+- [Unique Pseudonymity on Ethereum: Verifiably Deterministic Signatures on ECDSA](https://blog.aayushg.com/posts/nullifier/)
 
 #### Papers
 
 - [Folding Schemes with Selective Verification](https://eprint.iacr.org/2022/1576)
 - [Practical Settlement Bounds for Longest-Chain Consensus](https://eprint.iacr.org/2022/1571)
+- [An Auditable Confidentiality Protocol for Blockchain Transactions](https://eprint.iacr.org/2022/1672)
 
 #### Projects
 

@@ -255,8 +255,11 @@ repos = [
 "EspressoSystems/reef",
 "EspressoSystems/seahorse",
 "EspressoSystems/cap",
+"EspressoSystems/HotShot",
+"EspressoSystems/espresso",
+"EspressoSystems/espresso-systems-common",
+"EspressoSystems/atomicstore",
 ]
-
 ```
 
 ### Filecoin

@@ -63,6 +63,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [HotShot](https://github.com/EspressoSystems/HotShot).
+  A BFT consensus protocol based off of HotStuff, with the addition of proof-of-stake and VRF committee elections.
 - [Helios](https://github.com/a16z/helios).
   A fast, secure, and portable light client for Ethereum.
   Blog post: [Building Helios: Fully trustless access to Ethereum](https://a16zcrypto.com/building-helios-ethereum-light-client/)
@@ -138,6 +140,9 @@ Bold entries here are especially relevant to blockchain projects.
 [aleo-open_issues-1]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [aleo-open_issues-2]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [aleo-open_issues-3]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+
+- [Introducing Provers in Aleo Testnet 3](https://www.aleo.org/post/launching-testnet-3-2-provers)
+- [Testnet 3 Incentives Kickoff](https://www.aleo.org/post/testnet-3-incentives-kickoff)
 
 #### [Anoma](https://github.com/anoma)
 
@@ -274,21 +279,34 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Espresso Systems](https://github.com/EspressoSystems)
 
-18 merged PRs ([1][espresso_systems-merged-prs-1], [2][espresso_systems-merged-prs-2], [3][espresso_systems-merged-prs-3], [4][espresso_systems-merged-prs-4]),
-12 closed issues ([1][espresso_systems-closed_issues-1], [2][espresso_systems-closed_issues-2], [3][espresso_systems-closed_issues-3]),
-15 open issues ([1][espresso_systems-open_issues-1], [2][espresso_systems-open_issues-2], [3][espresso_systems-open_issues-3], [4][espresso_systems-open_issues-4])
+55 merged PRs ([1][espresso_systems-merged-prs-1], [2][espresso_systems-merged-prs-2], [3][espresso_systems-merged-prs-3], [4][espresso_systems-merged-prs-4], [5][espresso_systems-merged-prs-5], [6][espresso_systems-merged-prs-6], [7][espresso_systems-merged-prs-7]),
+92 closed issues ([1][espresso_systems-closed_issues-1], [2][espresso_systems-closed_issues-2], [3][espresso_systems-closed_issues-3], [4][espresso_systems-closed_issues-4], [5][espresso_systems-closed_issues-5]),
+79 open issues ([1][espresso_systems-open_issues-1], [2][espresso_systems-open_issues-2], [3][espresso_systems-open_issues-3], [4][espresso_systems-open_issues-4], [5][espresso_systems-open_issues-5], [6][espresso_systems-open_issues-6], [7][espresso_systems-open_issues-7], [8][espresso_systems-open_issues-8])
 
 [espresso_systems-merged-prs-1]: https://github.com/EspressoSystems/jellyfish/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [espresso_systems-merged-prs-2]: https://github.com/EspressoSystems/cape/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [espresso_systems-merged-prs-3]: https://github.com/EspressoSystems/reef/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [espresso_systems-merged-prs-4]: https://github.com/EspressoSystems/seahorse/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-11-01..2022-11-30%20-author:app/dependabot
+[espresso_systems-merged-prs-5]: https://github.com/EspressoSystems/HotShot/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-11-01..2022-11-30%20-author:app/dependabot
+[espresso_systems-merged-prs-6]: https://github.com/EspressoSystems/espresso/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-11-01..2022-11-30%20-author:app/dependabot
+[espresso_systems-merged-prs-7]: https://github.com/EspressoSystems/espresso-systems-common/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [espresso_systems-closed_issues-1]: https://github.com/EspressoSystems/jellyfish/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [espresso_systems-closed_issues-2]: https://github.com/EspressoSystems/cape/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [espresso_systems-closed_issues-3]: https://github.com/EspressoSystems/seahorse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-11-01..2022-11-30%20-author:app/dependabot
+[espresso_systems-closed_issues-4]: https://github.com/EspressoSystems/HotShot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-11-01..2022-11-30%20-author:app/dependabot
+[espresso_systems-closed_issues-5]: https://github.com/EspressoSystems/espresso/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [espresso_systems-open_issues-1]: https://github.com/EspressoSystems/jellyfish/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [espresso_systems-open_issues-2]: https://github.com/EspressoSystems/cape/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [espresso_systems-open_issues-3]: https://github.com/EspressoSystems/seahorse/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [espresso_systems-open_issues-4]: https://github.com/EspressoSystems/cap/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+[espresso_systems-open_issues-5]: https://github.com/EspressoSystems/HotShot/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+[espresso_systems-open_issues-6]: https://github.com/EspressoSystems/espresso/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+[espresso_systems-open_issues-7]: https://github.com/EspressoSystems/espresso-systems-common/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+[espresso_systems-open_issues-8]: https://github.com/EspressoSystems/atomicstore/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+
+- [Espresso HotShot: Consensus Designed for Rollups](https://www.espressosys.com/blog/espresso-hotshot-consensus-designed-for-rollups)
+- [Decentralizing Rollups: Announcing the Espresso Sequencer](https://www.espressosys.com/blog/decentralizing-rollups-announcing-the-espresso-sequencer)
+- [Releasing Espresso Testnet 1: Americano](https://www.espressosys.com/blog/releasing-espresso-testnet-1-americano)
 
 #### [Filecoin](https://github.com/filecoin-project)
 

@@ -89,7 +89,32 @@ Bold entries here are especially relevant to blockchain projects.
 
 &nbsp;
 
-## Most Active in October
+## Most Active in November
+
+[Parity](https://github.com/paritytech):
+439 merged PRs,
+186 closed issues,
+124 open issues
+
+[Sui](https://github.com/MystenLabs):
+395 merged PRs,
+160 closed issues,
+170 open issues
+
+[Solana](https://github.com/solana-labs/solana):
+264 merged PRs,
+53 closed issues,
+31 open issues
+
+[Fuel](https://github.com/FuelLabs):
+247 merged PRs,
+165 closed issues,
+137 open issues
+
+[Filecoin](https://github.com/filecoin-project):
+224 merged PRs,
+131 closed issues,
+92 open issues
 
 &nbsp;
 

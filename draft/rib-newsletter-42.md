@@ -47,21 +47,30 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [SGX attacks](https://sgx.fail)
 
 #### Blog Posts
 
-- [CESC ‘22: Field Notes from the Zero Knowledge Workshop](https://a16zcrypto.com/cesc-22-field-notes-from-the-zkp-workshop/)
 - [Minority Corruption Resilience in Byzantine Generals With Unknown and Fluctuating Participation](https://blog.chain.link/minority-corruption-resilience-in-byzantine-generals-with-unknown-and-fluctuating-participation/)
+- [The Latest View on View Synchronization](https://blog.chain.link/view-synchronization/)
+- [Leader Election from Randomness Beacons and Other Strategies](https://a16zcrypto.com/leader-election-from-randomness-beacons-and-other-strategies/)
 - [Upgradable Smart Contracts: What They Are and How To Deploy Your Own](https://blog.chain.link/upgradable-smart-contracts/)
 - [Designing Secure Access Control For Smart Contracts](https://halborn.com/designing-secure-access-control-for-smart-contracts/)
 - [Specialized Zero-Knowledge Proof failures](https://blog.trailofbits.com/2022/11/29/specialized-zero-knowledge-proof-failures/)
 - [Unique Pseudonymity on Ethereum: Verifiably Deterministic Signatures on ECDSA](https://blog.aayushg.com/posts/nullifier/)
+- [Decentralization of ZK Rollups](https://delendum.xyz/2022/11/27/decentralization-of-zk-rollups.html)
+- [Constructing ZK SNARK Circuits](https://jtriley.substack.com/p/constructing-zk-snark-circuits)
+- [How to transform code into arithmetic circuits](https://www.entropy1729.com/how-to-transform-code-into-arithmetic-circuits/)
+- [CESC ‘22: Field Notes from the Zero Knowledge Workshop](https://a16zcrypto.com/cesc-22-field-notes-from-the-zkp-workshop/)
+- [Theory of Cryptography Conference ‘22: Field Notes](https://a16zcrypto.com/theory-of-cryptography-conference-22-field-notes/)
 
 #### Papers
 
 - [Folding Schemes with Selective Verification](https://eprint.iacr.org/2022/1576)
 - [Practical Settlement Bounds for Longest-Chain Consensus](https://eprint.iacr.org/2022/1571)
 - [An Auditable Confidentiality Protocol for Blockchain Transactions](https://eprint.iacr.org/2022/1672)
+- [Linear-map Vector Commitments and their Practical Applications](https://eprint.iacr.org/2022/705)
+
 
 #### Projects
 
@@ -76,6 +85,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   [timestampvm-rs](https://github.com/ava-labs/timestampvm-rs) and
   [spacesvm-rs](https://github.com/ava-labs/spacesvm-rs), are built with the SDK.
   Doc: [How to Build a Simple Rust VM](https://docs.avax.network/subnets/create-a-simple-rust-vm).
+- [decaf377](https://github.com/penumbra-zone/decaf377).
+  A prime-order group designed for use in SNARKs over BLS12-377.
+  Blog: [Introducing Poseidon377, our instantiation of a SNARK-friendly hash](https://penumbra.zone/blog/poseidon377).
+- [miniSTARK](https://github.com/andrewmilson/ministark).
+  GPU accelerated STARK prover and verifier.
+- [Nova-Scotia](https://github.com/nalinbhardwaj/Nova-Scotia).
+  Middleware to compile Circom circuits to Nova prover.
 
 &nbsp;
 
@@ -338,6 +354,8 @@ Bold entries here are especially relevant to blockchain projects.
 [filecoin-open_issues-5]: https://github.com/filecoin-project/rust-fil-proofs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [filecoin-open_issues-6]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 
+- [The Filecoin Spacenet goes live](https://research.protocol.ai/blog/2022/the-filecoin-spacenet-goes-live/)
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 67 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2], [3][findora-merged-prs-3], [4][findora-merged-prs-4]),
@@ -402,6 +420,8 @@ Bold entries here are especially relevant to blockchain projects.
 [fuel-open_issues-8]: https://github.com/FuelLabs/fuels-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [fuel-open_issues-9]: https://github.com/FuelLabs/fuelup/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [fuel-open_issues-10]: https://github.com/FuelLabs/sway/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+
+- [The Fuel Virtual Machine Architecture](https://jtriley.substack.com/p/the-fuel-virtual-machine-architecture)
 
 #### [Golem](https://github.com/golemfactory)
 

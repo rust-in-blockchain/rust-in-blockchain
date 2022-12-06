@@ -87,7 +87,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   Doc: [How to Build a Simple Rust VM](https://docs.avax.network/subnets/create-a-simple-rust-vm).
 - [decaf377](https://github.com/penumbra-zone/decaf377).
   A prime-order group designed for use in SNARKs over BLS12-377.
-  Blog: [Introducing Poseidon377, our instantiation of a SNARK-friendly hash](https://penumbra.zone/blog/poseidon377).
+  Blog post: [Introducing Poseidon377, our instantiation of a SNARK-friendly hash](https://penumbra.zone/blog/poseidon377).
 - [miniSTARK](https://github.com/andrewmilson/ministark).
   GPU accelerated STARK prover and verifier.
 - [Nova-Scotia](https://github.com/nalinbhardwaj/Nova-Scotia).
@@ -470,6 +470,7 @@ Bold entries here are especially relevant to blockchain projects.
 [holochain-open_issues-2]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 
 - [Hackathon, Tool Upgrades, hREA](https://blog.holochain.org/hackathon-tool-upgrades-hrea/)
+- [Holochain Beta Approaching](https://blog.holochain.org/holochain-beta-approaching/)
 
 #### [IOTA](https://github.com/iotaledger)
 
@@ -663,6 +664,9 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-closed_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+
+- [Neon Synthetic Load Test Report](https://medium.com/neon-labs/neon-synthetic-load-test-report-d53212711556)
+- [Neon EVM Set to Go Live on Mainnet](https://medium.com/neon-labs/neon-evm-set-to-go-live-on-mainnet-welcome-to-a-new-era-of-ethereum-scalability-on-solana-63b25bcc77a3)
 
 #### [Subspace Labs](https://github.com/subspace)
 

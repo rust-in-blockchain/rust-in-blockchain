@@ -92,6 +92,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   GPU accelerated STARK prover and verifier.
 - [Nova-Scotia](https://github.com/nalinbhardwaj/Nova-Scotia).
   Middleware to compile Circom circuits to Nova prover.
+- [Olavm](https://github.com/Sin7Y/olavm).
+  A pure Rust Olavm implementation.
+  Blog post: [Hello, OlaVM!](https://hackmd.io/@sin7y/H1yPj_J8i).
 
 &nbsp;
 
@@ -268,6 +271,8 @@ Bold entries here are especially relevant to blockchain projects.
 [dfinity-open_issues-2]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [dfinity-open_issues-3]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [dfinity-open_issues-4]: https://github.com/dfinity/vessel/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+
+- [How to Migrate Canister Smart Contracts from Motoko to Rust](https://medium.com/dfinity/how-to-migrate-canister-smart-contracts-from-motoko-to-rust-3446a4b0c2ff)
 
 #### [Dusk Network](https://github.com/dusk-network)
 

@@ -12,6 +12,51 @@ newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #41](/newsletters/rib-newsletter-41/).
 
+It was a bonanza of a month for blockchain Rust,
+with many new projects appearing
+and blogging about their work,
+including
+a new HotStuff derivative, [HotShot],
+a new Ethereum light client, [Helios],
+a new Ethereum full node implementation, [reth],
+a new ZKVM, [OlaVM],
+and a [Rust SDK for Avalanche][ava].
+We also heard more about the [Plonky2 zero-knowledge prover][p2].
+
+[HotShot]: https://www.espressosys.com/blog/espresso-hotshot-consensus-designed-for-rollups
+[Helios]: https://a16zcrypto.com/building-helios-ethereum-light-client/
+[reth]: https://www.paradigm.xyz/2022/12/reth
+[OlaVM]: https://hackmd.io/@sin7y/H1yPj_J8i
+[ava]: https://medium.com/avalancheavax/rust-vm-sdk-build-custom-virtual-machines-on-avalanche-using-rust-8334f2ae3c0b
+
+
+
+[p2]: https://polygon.technology/blog/plonky2-a-deep-dive
+
+
+In recent months we've also noticed a steady trickle of security advisories
+relevant to Rust blockchains, with [new advisories this month][natm]
+for `wasmtime` and `libp2p`.
+We hope everybody is running [`cargo-audit`] regularly,
+but note that `cargo-audit` references only the [RustSec advisory
+database][rsad], and _some vulnerabilities reported to the [GitHub advisory
+database][ghad] are not in the RustSec advisory database_. Neither the `wasmtime`
+nor `libp2p` advisories published this month are currently in the RustSec
+database.
+
+[natm]: #security-advisories
+[`cargo-audit`]: https://crates.io/crates/cargo-audit
+[rsad]: https://github.com/RustSec/advisory-db
+[ghad]: https://github.com/advisories?query=ecosystem%3Arust
+
+In other security news,
+Secret Network's trusted execution environment [was completely compromised][sgx1].
+Fortunately it was done by whitehat researchers,
+but it's more bad news about SGX and secure enclaves.
+
+[sgx1]: https://sgx.fail/
+
+
 &nbsp;
 
 ## Thanks
@@ -64,6 +109,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [CESC ‘22: Field Notes from the Zero Knowledge Workshop](https://a16zcrypto.com/cesc-22-field-notes-from-the-zkp-workshop/)
 - [Theory of Cryptography Conference ‘22: Field Notes](https://a16zcrypto.com/theory-of-cryptography-conference-22-field-notes/)
 - [Parse, don't validate — correctness in smart contract development](https://dev.to/0xtko/parse-dont-validate-correctness-in-smart-contract-development-1h5f)
+- [Plonky2: A deep dive](https://polygon.technology/blog/plonky2-a-deep-dive).
+  More about the zero knolwedge prover from [Mir protocol](https://github.com/mir-protocol).
 
 #### Papers
 
@@ -79,6 +126,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [HotShot](https://github.com/EspressoSystems/HotShot).
   A BFT consensus protocol based off of HotStuff, with the addition of proof-of-stake and VRF committee elections.
+  Blog: [Espresso HotShot: Consensus Designed for Rollups](https://www.espressosys.com/blog/espresso-hotshot-consensus-designed-for-rollups).
 - [Helios](https://github.com/a16z/helios).
   A fast, secure, and portable light client for Ethereum.
   Blog post: [Building Helios: Fully trustless access to Ethereum](https://a16zcrypto.com/building-helios-ethereum-light-client/)
@@ -87,6 +135,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   It provides an SDK library for developing subnets in Rust and ther are two VMs,
   [timestampvm-rs](https://github.com/ava-labs/timestampvm-rs) and
   [spacesvm-rs](https://github.com/ava-labs/spacesvm-rs), are built with the SDK.
+  Blog: [Rust VM SDK: Build Custom Virtual Machines on Avalanche using Rust](https://medium.com/avalancheavax/rust-vm-sdk-build-custom-virtual-machines-on-avalanche-using-rust-8334f2ae3c0b).
   Doc: [How to Build a Simple Rust VM](https://docs.avax.network/subnets/create-a-simple-rust-vm).
 - [decaf377](https://github.com/penumbra-zone/decaf377).
   A prime-order group designed for use in SNARKs over BLS12-377.
@@ -95,8 +144,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   GPU accelerated STARK prover and verifier.
 - [Nova-Scotia](https://github.com/nalinbhardwaj/Nova-Scotia).
   Middleware to compile Circom circuits to Nova prover.
-- [Olavm](https://github.com/Sin7Y/olavm).
-  A pure Rust Olavm implementation.
+- [OlaVM](https://github.com/Sin7Y/olavm).
+  A new ZKVM.
   Blog post: [Hello, OlaVM!](https://hackmd.io/@sin7y/H1yPj_J8i).
 - [reth](https://github.com/paradigmxyz/reth).
   A new Ethereum full node implementation in Rust.
@@ -678,7 +727,8 @@ Bold entries here are especially relevant to blockchain projects.
 [secret_network-closed_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [secret_network-closed_issues-2]: https://github.com/scrtlabs/secret-toolkit/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-11-01..2022-11-30%20-author:app/dependabot
 
-- [Notice: Successful Resolution of xAPIC Vulnerability on Secret Network](https://scrt.network/blog/notice-successful-resolution-of-xapic-vulnerability)
+- [Notice: Successful Resolution of xAPIC Vulnerability on Secret Network](https://scrt.network/blog/notice-successful-resolution-of-xapic-vulnerability).
+  Secret Network's TEE was completely compromised. More at the [researcher's site](https://sgx.fail/).
 
 #### [Solana](https://github.com/solana-labs/solana)
 

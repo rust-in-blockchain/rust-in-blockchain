@@ -81,10 +81,22 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
-[OlaVM](https://github.com/Sin7Y/olavm).
+[avalanche-types](https://github.com/ava-labs/avalanche-types-rs).
 
-As described in their [recent blog post](https://hackmd.io/@sin7y/H1yPj_J8i),
-OlaVM is a zero-knowledge virtual machine
+The behavior of Avalanch subnets is defined by customized VMs,
+which communicate with the Avalanche node over RPC.
+Avalanche VMs are typically written in Go.
+This is an official SDK for developing Avalanche VMs in Rust.
+
+It was announced recently in a blog,
+[Rust VM SDK: Build Custom Virtual Machines on Avalanche using Rust](https://medium.com/avalancheavax/rust-vm-sdk-build-custom-virtual-machines-on-avalanche-using-rust-8334f2ae3c0b),
+and there is documentation available:
+[How to Build a Simple Rust VM](https://docs.avax.network/subnets/create-a-simple-rust-vm).
+
+There are two example VMs using the SDK:
+
+- [timestampvm-rs](https://github.com/ava-labs/timestampvm-rs)
+- [spacesvm-rs](https://github.com/ava-labs/spacesvm-rs)
 
 &nbsp;
 
@@ -138,13 +150,6 @@ OlaVM is a zero-knowledge virtual machine
 - [Helios](https://github.com/a16z/helios).
   A fast, secure, and portable light client for Ethereum.
   Blog post: [Building Helios: Fully trustless access to Ethereum](https://a16zcrypto.com/building-helios-ethereum-light-client/)
-- [avalanche-types](https://github.com/ava-labs/avalanche-types-rs).
-  Avalanche primitive types in Rust.
-  It provides an SDK library for developing subnets in Rust and there are two VMs,
-  [timestampvm-rs](https://github.com/ava-labs/timestampvm-rs) and
-  [spacesvm-rs](https://github.com/ava-labs/spacesvm-rs), are built with the SDK.
-  - Blog: [Rust VM SDK: Build Custom Virtual Machines on Avalanche using Rust](https://medium.com/avalancheavax/rust-vm-sdk-build-custom-virtual-machines-on-avalanche-using-rust-8334f2ae3c0b).
-  - Doc: [How to Build a Simple Rust VM](https://docs.avax.network/subnets/create-a-simple-rust-vm).
 - [decaf377](https://github.com/penumbra-zone/decaf377).
   A prime-order group designed for use in SNARKs over BLS12-377.
   Blog post: [Introducing Poseidon377, our instantiation of a SNARK-friendly hash](https://penumbra.zone/blog/poseidon377).

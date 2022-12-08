@@ -51,8 +51,8 @@ database.
 
 In other security news,
 Secret Network's trusted execution environment [was completely compromised][sgx1].
-Fortunately it was done by whitehat researchers.
-but it's only the latest bad news about SGX and secure enclaves.
+Fortunately it was done by whitehat researchers,
+but it's more bad news about SGX and secure enclaves.
 
 [sgx1]: https://sgx.fail/
 

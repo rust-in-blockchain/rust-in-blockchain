@@ -111,6 +111,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Parse, don't validate — correctness in smart contract development](https://dev.to/0xtko/parse-dont-validate-correctness-in-smart-contract-development-1h5f)
 - [Plonky2: A deep dive](https://polygon.technology/blog/plonky2-a-deep-dive).
   More about the zero knolwedge prover from [Mir protocol](https://github.com/mir-protocol).
+- [DLC on Lightning](https://medium.com/crypto-garage/dlc-on-lightning-cb5d191f6e64)
+  - A description of the first [discreet log contract](https://dci.mit.edu/smart-contracts)
+    on the Lightning network, written with [`rust-dlc`](https://github.com/p2pderivatives/rust-dlc/tree/feature/split-tx-manager-2).
+- These two recent posts provide a good overview of the ecosystems building on Bitcoin,
+  some of which are developed in Rust:
+  - [Building on Bitcoin: a Comparison of Bitcoin Projects](https://www.hiro.so/blog/building-on-bitcoin-project-comparison).
+  - [A Guide to Web3 Programming Languages for Bitcoin Apps](https://www.hiro.so/blog/bitcoin-ecosystem-a-guide-to-programming-languages-for-bitcoin-smart-contracts).
 
 #### Papers
 
@@ -150,6 +157,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [reth](https://github.com/paradigmxyz/reth).
   A new Ethereum full node implementation in Rust.
   Blog post: [Introducing Reth](https://www.paradigm.xyz/2022/12/reth).
+- [Shinobi](https://github.com/shinobi-protocol/secret-btc).
+  A private bridge from Bitcoin to Secret Network.
 
 &nbsp;
 
@@ -937,6 +946,9 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [rgb-open_issues-1]: https://github.com/RGB-WG/rgb-core/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [rgb-open_issues-2]: https://github.com/RGB-WG/rgb-node/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [rgb-open_issues-3]: https://github.com/RGB-WG/rust-rgb20/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+
+- [Contractum](https://www.contractum.org/).
+  A new smart contract language for RGB.
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 

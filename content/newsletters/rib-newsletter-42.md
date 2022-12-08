@@ -59,7 +59,6 @@ but it's more bad news about SGX and secure enclaves.
 ## Thanks
 
 Thanks to contributors:
-
 [Dominic Wörner],
 Hunter Trujillo,
 Tko,

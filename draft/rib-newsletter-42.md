@@ -19,8 +19,8 @@ industry topics.
 Thanks to contributors:
 
 [Dominic Wörner],
-_TODO_
-
+Tko,
+[Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -63,6 +63,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [How to transform code into arithmetic circuits](https://www.entropy1729.com/how-to-transform-code-into-arithmetic-circuits/)
 - [CESC ‘22: Field Notes from the Zero Knowledge Workshop](https://a16zcrypto.com/cesc-22-field-notes-from-the-zkp-workshop/)
 - [Theory of Cryptography Conference ‘22: Field Notes](https://a16zcrypto.com/theory-of-cryptography-conference-22-field-notes/)
+- [Parse, don't validate — correctness in smart contract development](https://dev.to/0xtko/parse-dont-validate-correctness-in-smart-contract-development-1h5f)
 
 #### Papers
 
@@ -571,6 +572,8 @@ Bold entries here are especially relevant to blockchain projects.
 [near-open_issues-4]: https://github.com/near/near-lake-framework-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [near-open_issues-5]: https://github.com/near/borsh-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [near-open_issues-6]: https://github.com/near/wasmer/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+
+- [Auditing Projects on the NEAR Blockchain: From Zero to Hero](https://blog.pessimistic.io/auditing-projects-on-the-near-blockchain-from-zero-to-hero-9c5400507c80)
 
 #### [Nervos](https://github.com/nervosnetwork)
 

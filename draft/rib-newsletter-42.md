@@ -140,7 +140,7 @@ OlaVM is a zero-knowledge virtual machine
   Blog post: [Building Helios: Fully trustless access to Ethereum](https://a16zcrypto.com/building-helios-ethereum-light-client/)
 - [avalanche-types](https://github.com/ava-labs/avalanche-types-rs).
   Avalanche primitive types in Rust.
-  It provides an SDK library for developing subnets in Rust and ther are two VMs,
+  It provides an SDK library for developing subnets in Rust and there are two VMs,
   [timestampvm-rs](https://github.com/ava-labs/timestampvm-rs) and
   [spacesvm-rs](https://github.com/ava-labs/spacesvm-rs), are built with the SDK.
   - Blog: [Rust VM SDK: Build Custom Virtual Machines on Avalanche using Rust](https://medium.com/avalancheavax/rust-vm-sdk-build-custom-virtual-machines-on-avalanche-using-rust-8334f2ae3c0b).

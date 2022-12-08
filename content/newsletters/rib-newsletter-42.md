@@ -85,7 +85,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [avalanche-types](https://github.com/ava-labs/avalanche-types-rs).
 
-The behavior of Avalanch subnets is defined by customized VMs,
+The behavior of Avalanche subnets is defined by customized VMs,
 which communicate with the Avalanche node over RPC.
 Avalanche VMs are typically written in Go.
 This is an official SDK for developing Avalanche VMs in Rust.

@@ -1055,6 +1055,10 @@ Dec 15 | Online
 
 [Secret Summit 2022](https://scrt.network/summit)
 
+Feb 24 — Mar 5, 2023 | Denver, USA
+
+[ETHDenver 2023](https://www.ethdenver.com)
+
 &nbsp;
 
 ## Careers

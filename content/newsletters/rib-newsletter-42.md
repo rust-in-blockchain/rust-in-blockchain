@@ -4,7 +4,8 @@ description: "November 2022"
 date: 2022-12-07
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #41 edition of Rust in Blockchain.
+This month we spotlight `avalanche-types`, an official SDK for developing Avalanche VMs in Rust."
 ---
 
 Welcome to the #42 edition of Rust in Blockchain, the monthly
@@ -60,6 +61,7 @@ but it's more bad news about SGX and secure enclaves.
 Thanks to contributors:
 
 [Dominic Wörner],
+Hunter Trujillo,
 Tko,
 [Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
@@ -123,7 +125,7 @@ There are two example VMs using the SDK:
 - [Theory of Cryptography Conference ‘22: Field Notes](https://a16zcrypto.com/theory-of-cryptography-conference-22-field-notes/)
 - [Parse, don't validate — correctness in smart contract development](https://dev.to/0xtko/parse-dont-validate-correctness-in-smart-contract-development-1h5f)
 - [Plonky2: A deep dive](https://polygon.technology/blog/plonky2-a-deep-dive).
-  More about the zero knolwedge prover from [Mir protocol](https://github.com/mir-protocol).
+  More about the zero-knowledge prover from [Mir protocol](https://github.com/mir-protocol).
 - [DLC on Lightning](https://medium.com/crypto-garage/dlc-on-lightning-cb5d191f6e64).
   A description of the first [discreet log contract](https://dci.mit.edu/smart-contracts)
   on the Lightning network, written with [`rust-dlc`](https://github.com/p2pderivatives/rust-dlc/tree/feature/split-tx-manager-2).
@@ -146,10 +148,10 @@ There are two example VMs using the SDK:
 
 - [HotShot](https://github.com/EspressoSystems/HotShot).
   A BFT consensus protocol based off of HotStuff, with the addition of proof-of-stake and VRF committee elections.
-  Blog: [Espresso HotShot: Consensus Designed for Rollups](https://www.espressosys.com/blog/espresso-hotshot-consensus-designed-for-rollups).
+  Blog post: [Espresso HotShot: Consensus Designed for Rollups](https://www.espressosys.com/blog/espresso-hotshot-consensus-designed-for-rollups).
 - [Helios](https://github.com/a16z/helios).
   A fast, secure, and portable light client for Ethereum.
-  Blog post: [Building Helios: Fully trustless access to Ethereum](https://a16zcrypto.com/building-helios-ethereum-light-client/)
+  Blog post: [Building Helios: Fully trustless access to Ethereum](https://a16zcrypto.com/building-helios-ethereum-light-client/).
 - [decaf377](https://github.com/penumbra-zone/decaf377).
   A prime-order group designed for use in SNARKs over BLS12-377.
   Blog post: [Introducing Poseidon377, our instantiation of a SNARK-friendly hash](https://penumbra.zone/blog/poseidon377).
@@ -159,7 +161,7 @@ There are two example VMs using the SDK:
   Middleware to compile Circom circuits to Nova prover.
 - [OlaVM](https://github.com/Sin7Y/olavm).
   A new ZKVM.
-  Blog post: [Hello, OlaVM!](https://hackmd.io/@sin7y/H1yPj_J8i).
+  Blog post: [Hello, OlaVM!](https://hackmd.io/@sin7y/H1yPj_J8i)
 - [reth](https://github.com/paradigmxyz/reth).
   A new Ethereum full node implementation in Rust.
   Blog post: [Introducing Reth](https://www.paradigm.xyz/2022/12/reth).
@@ -1104,7 +1106,7 @@ Company name | Location A, B, Remote
 
 
 
-More jobs can be found at [Job Board][page-jobboard].
+Jobs can be found at [Job Board][page-jobboard].
 
 [page-jobboard]: https://rustinblockchain.org/job-board/
 

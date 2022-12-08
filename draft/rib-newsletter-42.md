@@ -14,7 +14,7 @@ industry topics.
 
 It was a bonanza of a month for blockchain Rust,
 with many new projects appearing
-and (sometimes) blogging about their work,
+and blogging about their work,
 including
 a new HotStuff derivative, [HotShot],
 a new Ethereum light client, [Helios],

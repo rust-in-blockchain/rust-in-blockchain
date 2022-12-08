@@ -28,13 +28,9 @@ We also heard more about the [Plonky2 zero-knowledge prover][p2].
 [reth]: https://www.paradigm.xyz/2022/12/reth
 [OlaVM]: https://hackmd.io/@sin7y/H1yPj_J8i
 [ava]: https://medium.com/avalancheavax/rust-vm-sdk-build-custom-virtual-machines-on-avalanche-using-rust-8334f2ae3c0b
-
-
-
 [p2]: https://polygon.technology/blog/plonky2-a-deep-dive
 
-
-In recent months we've also noticed a steady trickle of security advisories
+In recent months we've noticed a steady trickle of security advisories
 relevant to Rust blockchains, with [new advisories this month][natm]
 for `wasmtime` and `libp2p`.
 We hope everybody is running [`cargo-audit`] regularly,
@@ -111,9 +107,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Parse, don't validate — correctness in smart contract development](https://dev.to/0xtko/parse-dont-validate-correctness-in-smart-contract-development-1h5f)
 - [Plonky2: A deep dive](https://polygon.technology/blog/plonky2-a-deep-dive).
   More about the zero knolwedge prover from [Mir protocol](https://github.com/mir-protocol).
-- [DLC on Lightning](https://medium.com/crypto-garage/dlc-on-lightning-cb5d191f6e64)
-  - A description of the first [discreet log contract](https://dci.mit.edu/smart-contracts)
-    on the Lightning network, written with [`rust-dlc`](https://github.com/p2pderivatives/rust-dlc/tree/feature/split-tx-manager-2).
+- [DLC on Lightning](https://medium.com/crypto-garage/dlc-on-lightning-cb5d191f6e64).
+  A description of the first [discreet log contract](https://dci.mit.edu/smart-contracts)
+  on the Lightning network, written with [`rust-dlc`](https://github.com/p2pderivatives/rust-dlc/tree/feature/split-tx-manager-2).
 - These two recent posts provide a good overview of the ecosystems building on Bitcoin,
   some of which are developed in Rust:
   - [Building on Bitcoin: a Comparison of Bitcoin Projects](https://www.hiro.so/blog/building-on-bitcoin-project-comparison).

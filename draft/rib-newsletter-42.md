@@ -70,7 +70,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Practical Settlement Bounds for Longest-Chain Consensus](https://eprint.iacr.org/2022/1571)
 - [An Auditable Confidentiality Protocol for Blockchain Transactions](https://eprint.iacr.org/2022/1672)
 - [Linear-map Vector Commitments and their Practical Applications](https://eprint.iacr.org/2022/705)
-
+- [Ligero: Lightweight Sublinear Arguments Without a Trusted Setup](https://eprint.iacr.org/2022/1608)
+- [Extensible Decentralized Secret Sharing and Application to Schnorr Signatures](https://eprint.iacr.org/2022/1551)
+- [Vortex: Building a Lattice-based SNARK scheme with Transparent Setup](https://eprint.iacr.org/2022/1633)
 
 #### Projects
 
@@ -95,6 +97,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Olavm](https://github.com/Sin7Y/olavm).
   A pure Rust Olavm implementation.
   Blog post: [Hello, OlaVM!](https://hackmd.io/@sin7y/H1yPj_J8i).
+- [reth](https://github.com/paradigmxyz/reth).
+  A new Ethereum full node implementation in Rust.
+  Blog post: [Introducing Reth](https://www.paradigm.xyz/2022/12/reth).
 
 &nbsp;
 
@@ -360,6 +365,7 @@ Bold entries here are especially relevant to blockchain projects.
 [filecoin-open_issues-6]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 
 - [The Filecoin Spacenet goes live](https://research.protocol.ai/blog/2022/the-filecoin-spacenet-goes-live/)
+- Paper: [Temporary Block Withholding Attacks on Filecoin's Expected Consensus](https://eprint.iacr.org/2022/1629)
 
 #### [Findora](https://github.com/FindoraNetwork)
 

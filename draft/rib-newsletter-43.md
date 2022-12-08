@@ -48,6 +48,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [An audited implementation of Poseidon377, a SNARK-friendly hash function used in Penumbra (private DEX)](https://twitter.com/penumbrazone/status/1599891715770425370)
+
+- [Accelerating Penumbra's Merkle Tree by up to 4,000,000x](https://penumbra.zone/blog/tiered-commitment-tree/)
+
 
 #### Papers
 

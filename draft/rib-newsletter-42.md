@@ -135,8 +135,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   It provides an SDK library for developing subnets in Rust and ther are two VMs,
   [timestampvm-rs](https://github.com/ava-labs/timestampvm-rs) and
   [spacesvm-rs](https://github.com/ava-labs/spacesvm-rs), are built with the SDK.
-  Blog: [Rust VM SDK: Build Custom Virtual Machines on Avalanche using Rust](https://medium.com/avalancheavax/rust-vm-sdk-build-custom-virtual-machines-on-avalanche-using-rust-8334f2ae3c0b).
-  Doc: [How to Build a Simple Rust VM](https://docs.avax.network/subnets/create-a-simple-rust-vm).
+  - Blog: [Rust VM SDK: Build Custom Virtual Machines on Avalanche using Rust](https://medium.com/avalancheavax/rust-vm-sdk-build-custom-virtual-machines-on-avalanche-using-rust-8334f2ae3c0b).
+  - Doc: [How to Build a Simple Rust VM](https://docs.avax.network/subnets/create-a-simple-rust-vm).
 - [decaf377](https://github.com/penumbra-zone/decaf377).
   A prime-order group designed for use in SNARKs over BLS12-377.
   Blog post: [Introducing Poseidon377, our instantiation of a SNARK-friendly hash](https://penumbra.zone/blog/poseidon377).

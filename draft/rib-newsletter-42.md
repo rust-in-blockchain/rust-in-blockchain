@@ -35,8 +35,8 @@ relevant to Rust blockchains, with [new advisories this month][natm]
 for `wasmtime` and `libp2p`.
 We hope everybody is running [`cargo-audit`] regularly,
 but note that `cargo-audit` references only the [RustSec advisory
-database][rsad], and _some vulnerabilities reported to the [GitHub advisory
-database][ghad] are not in the RustSec advisory database_. Neither the `wasmtime`
+database][rsad], and some vulnerabilities reported to the [GitHub advisory
+database][ghad] are not in the RustSec advisory database. Neither the `wasmtime`
 nor `libp2p` advisories published this month are currently in the RustSec
 database.
 
@@ -80,6 +80,11 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 ## Project Spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+[OlaVM](https://github.com/Sin7Y/olavm).
+
+As described in their [recent blog post](https://hackmd.io/@sin7y/H1yPj_J8i),
+OlaVM is a zero-knowledge virtual machine
 
 &nbsp;
 

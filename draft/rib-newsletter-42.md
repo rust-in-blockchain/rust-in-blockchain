@@ -112,8 +112,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   on the Lightning network, written with [`rust-dlc`](https://github.com/p2pderivatives/rust-dlc/tree/feature/split-tx-manager-2).
 - These two recent posts provide a good overview of the ecosystems building on Bitcoin,
   some of which are developed in Rust:
-  - [Building on Bitcoin: a Comparison of Bitcoin Projects](https://www.hiro.so/blog/building-on-bitcoin-project-comparison).
-  - [A Guide to Web3 Programming Languages for Bitcoin Apps](https://www.hiro.so/blog/bitcoin-ecosystem-a-guide-to-programming-languages-for-bitcoin-smart-contracts).
+  - [Building on Bitcoin: a Comparison of Bitcoin Projects](https://www.hiro.so/blog/building-on-bitcoin-project-comparison)
+  - [A Guide to Web3 Programming Languages for Bitcoin Apps](https://www.hiro.so/blog/bitcoin-ecosystem-a-guide-to-programming-languages-for-bitcoin-smart-contracts)
 
 #### Papers
 
@@ -169,20 +169,20 @@ Bold entries here are especially relevant to blockchain projects.
 <!-- https://github.com/rustsec/advisory-db/pulls -->
 <!-- https://osv.dev/list?page=2&ecosystem=crates.io -->
 
-- [RUSTSEC-2022-0067: `lzf` - Unsoundness](https://rustsec.org/advisories/RUSTSEC-2022-0067.html).
-- [RUSTSEC-2021-0145: `atty` - Unsoundness](https://rustsec.org/advisories/RUSTSEC-2021-0145.html).
-- [RUSTSEC-2022-0068: `capnp` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0068.html).
-- [RUSTSEC-2022-0069: `hyper-staticfile` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0069.html).
-- **[RUSTSEC-2022-0070: `secp256k1` - Unsoundness](https://rustsec.org/advisories/RUSTSEC-2022-0070.html).**
-  - Related to usage of `Secp256k1::preallocated_gen_new`.
-- [GHSA-9mfc-chwf-7whf: `ckb` - Large dep group requires a lot of resources to process but the cost to commit the transaction is very low](https://github.com/advisories/GHSA-9mfc-chwf-7whf).
-- [GHSA-7fw6-6mfj-g3q2: `ckb` - Transaction header_deps validation issue (network forking)](https://github.com/advisories/GHSA-7fw6-6mfj-g3q2).
-- [GHSA-mcmr-49x3-4jqm: `ckb` - type_id script resume may randomly fail](https://github.com/advisories/GHSA-mcmr-49x3-4jqm).
-- [CVE-2022-41874: `tauri` - Tauri Filesystem Scope can be Partially Bypassed](https://github.com/advisories/GHSA-q9wv-22m9-vhqh).
-- **[CVE-2022-39392: `wasmtime` - out of bounds read/write with zero-memory-pages configuration](https://github.com/advisories/GHSA-44mr-8vmm-wjhg).**
-- **[CVE-2022-39393: `wasmtime` - may have data leakage between instances in the pooling allocator](https://github.com/advisories/GHSA-wh6w-3828-g9qf).**
-- [CVE-2022-39397: `alyun-oss-client` - Leakage Aliyun KeySecret](https://github.com/advisories/GHSA-3w3h-7xgx-grwc).
-- **[CVE-2022-23486: `libp2p` - DoS vulnerability from lack of resource management](https://github.com/advisories/GHSA-jvgw-gccv-q5p8).**
+- [RUSTSEC-2022-0067: `lzf` - Unsoundness](https://rustsec.org/advisories/RUSTSEC-2022-0067.html)
+- [RUSTSEC-2021-0145: `atty` - Unsoundness](https://rustsec.org/advisories/RUSTSEC-2021-0145.html)
+- [RUSTSEC-2022-0068: `capnp` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0068.html)
+- [RUSTSEC-2022-0069: `hyper-staticfile` - Vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0069.html)
+- **[RUSTSEC-2022-0070: `secp256k1` - Unsoundness](https://rustsec.org/advisories/RUSTSEC-2022-0070.html)**.
+  Related to usage of `Secp256k1::preallocated_gen_new`.
+- [GHSA-9mfc-chwf-7whf: `ckb` - Large dep group requires a lot of resources to process but the cost to commit the transaction is very low](https://github.com/advisories/GHSA-9mfc-chwf-7whf)
+- [GHSA-7fw6-6mfj-g3q2: `ckb` - Transaction header_deps validation issue (network forking)](https://github.com/advisories/GHSA-7fw6-6mfj-g3q2)
+- [GHSA-mcmr-49x3-4jqm: `ckb` - type_id script resume may randomly fail](https://github.com/advisories/GHSA-mcmr-49x3-4jqm)
+- [CVE-2022-41874: `tauri` - Tauri Filesystem Scope can be Partially Bypassed](https://github.com/advisories/GHSA-q9wv-22m9-vhqh)
+- **[CVE-2022-39392: `wasmtime` - out of bounds read/write with zero-memory-pages configuration](https://github.com/advisories/GHSA-44mr-8vmm-wjhg)**
+- **[CVE-2022-39393: `wasmtime` - may have data leakage between instances in the pooling allocator](https://github.com/advisories/GHSA-wh6w-3828-g9qf)**
+- [CVE-2022-39397: `alyun-oss-client` - Leakage Aliyun KeySecret](https://github.com/advisories/GHSA-3w3h-7xgx-grwc)
+- **[CVE-2022-23486: `libp2p` - DoS vulnerability from lack of resource management](https://github.com/advisories/GHSA-jvgw-gccv-q5p8)**
 
 
 &nbsp;

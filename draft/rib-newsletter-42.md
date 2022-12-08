@@ -358,6 +358,8 @@ Bold entries here are especially relevant to blockchain projects.
 [dusk_network-open_issues-1]: https://github.com/dusk-network/rusk/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [dusk_network-open_issues-2]: https://github.com/dusk-network/wallet-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 
+- [Testnet DayLight | Release Cycle Update #12](https://dusk.network/news/testnet-daylight-release-cycle-update-12)
+
 #### [Elrond](https://github.com/ElrondNetwork)
 
 95 merged PRs ([1][elrond-merged-prs-1], [2][elrond-merged-prs-2], [3][elrond-merged-prs-3], [4][elrond-merged-prs-4]),
@@ -430,6 +432,7 @@ Bold entries here are especially relevant to blockchain projects.
 [filecoin-open_issues-6]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 
 - [The Filecoin Spacenet goes live](https://research.protocol.ai/blog/2022/the-filecoin-spacenet-goes-live/)
+- [Filecoin Network v17 Shark Upgrade](https://filecoin.io/blog/posts/filecoin-network-v17-shark-upgrade/)
 - Paper: [Temporary Block Withholding Attacks on Filecoin's Expected Consensus](https://eprint.iacr.org/2022/1629)
 
 #### [Findora](https://github.com/FindoraNetwork)
@@ -498,6 +501,7 @@ Bold entries here are especially relevant to blockchain projects.
 [fuel-open_issues-10]: https://github.com/FuelLabs/sway/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 
 - [The Fuel Virtual Machine Architecture](https://jtriley.substack.com/p/the-fuel-virtual-machine-architecture)
+- [Exploring the FuelVM](https://medium.com/blockchain-capital-blog/exploring-the-fuelvm-86cf9ccdc159)
 
 #### [Golem](https://github.com/golemfactory)
 
@@ -646,6 +650,8 @@ Bold entries here are especially relevant to blockchain projects.
 [nervos-open_issues-1]: https://github.com/nervosnetwork/ckb/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [nervos-open_issues-2]: https://github.com/nervosnetwork/ckb-vm/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 
+- [CKB Soft Fork process & Light Client Soft Fork](https://www.nervos.org/blog/ckb-soft-fork-process-light-client-soft-fork)
+
 #### [Oasis](https://github.com/oasisprotocol)
 
 9 merged PRs ([1][oasis-merged-prs-1]),
@@ -766,6 +772,10 @@ Bold entries here are especially relevant to blockchain projects.
 [sui-merged-prs-1]: https://github.com/MystenLabs/sui/pulls?q=is%3Apr+is%3Aclosed+merged%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [sui-closed_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [sui-open_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+
+- [Cryptography in Sui: Agility](https://tech.mystenlabs.com/cryptography-in-sui-agility/)
+- [Cryptography in Sui](https://tech.mystenlabs.com/cryptography-in-sui/)
+- [Building the Capy Prototype on Sui](https://tech.mystenlabs.com/building-the-capy-prototype-on-sui/)
 
 #### [Zcash](https://github.com/zcash)
 
@@ -1016,6 +1026,9 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [lighthouse-closed_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aclosed+closed%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
 [lighthouse-open_issues-2]: https://github.com/sigp/discv5/issues?q=is%3Aissue+is%3Aopen+created%3A2022-11-01..2022-11-30%20-author:app/dependabot
+
+- [Optimising Attestation Packing](https://lighthouse-blog.sigmaprime.io/optimising-attestation-packing.html)
+- [Lighthouse Update #41](https://lighthouse-blog.sigmaprime.io/update-41.html)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 

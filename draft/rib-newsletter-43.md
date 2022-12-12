@@ -85,6 +85,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Aptos](https://github.com/aptos-labs)
 
+- [Securing Move](https://medium.com/aptoslabs/securing-move-f81099f5e08c)
+
 #### [Casper](https://github.com/casper-network)
 
 #### [COMIT](https://github.com/comit-network)
@@ -140,6 +142,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 #### [Solana](https://github.com/solana-labs/solana)
+
+- [Neon EVM’s Mainnet Launch: Community Update](https://medium.com/neon-labs/neon-evms-mainnet-launch-community-update-eeef3aea02a2)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 

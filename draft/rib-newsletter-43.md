@@ -17,9 +17,8 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
+[Erwan],
 _TODO_
-
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -28,6 +27,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Erwan]: https://github.com/erwanor
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

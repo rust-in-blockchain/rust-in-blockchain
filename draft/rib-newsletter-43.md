@@ -48,16 +48,25 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
-- [An audited implementation of Poseidon377, a SNARK-friendly hash function used in Penumbra (private DEX)](https://twitter.com/penumbrazone/status/1599891715770425370)
+- [Solutions to Delay Attacks on Rollups](https://offchain.medium.com/solutions-to-delay-attacks-on-rollups-434f9d05a07a)
+- [ZK Email](https://blog.aayushg.com/posts/zkemail/)
+- [What are zk-SNARKs?](https://halborn.com/what-are-zk-snarks/)
 
+<!-- todo: old posts
+
+- [An audited implementation of Poseidon377, a SNARK-friendly hash function used in Penumbra (private DEX)](https://twitter.com/penumbrazone/status/1599891715770425370)
 - [Accelerating Penumbra's Merkle Tree by up to 4,000,000x](https://penumbra.zone/blog/tiered-commitment-tree/)
 
-
+-->
+ 
 #### Papers
 
+- [SuperNova: Proving universal machine executions without universal circuits](https://eprint.iacr.org/2022/1758)
 
 #### Projects
 
+- [zkOS](https://github.com/starkoracles/zkos).
+  A new cross-proof-system execution layer.
 
 &nbsp;
 
@@ -85,11 +94,13 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Aleo](https://github.com/AleoHQ)
 
+
 #### [Anoma](https://github.com/anoma)
 
 #### [Aptos](https://github.com/aptos-labs)
 
 - [Securing Move](https://medium.com/aptoslabs/securing-move-f81099f5e08c)
+- [The Path to 10x Lower Gas Fees on Aptos with Community-Driven Feedback](https://medium.com/aptoslabs/the-path-to-10x-lower-gas-fees-on-aptos-with-community-driven-feedback-7cca875a513f)
 
 #### [Casper](https://github.com/casper-network)
 
@@ -111,6 +122,9 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Filecoin](https://github.com/filecoin-project)
 
+- [Hacking the Filecoin Ethereum Virtual Machine (FEVM)](https://filecoin.io/blog/posts/hacking-the-filecoin-ethereum-virtual-machine-fevm/)
+- [Business Models on the FVM](https://medium.com/tldrfilecoin/business-models-on-the-fvm-23cd71fdd3f1)
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 #### [Fluence](https://github.com/fluencelabs)
@@ -125,21 +139,30 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Holochain](https://github.com/holochain/)
 
+- [Dependencies In Progress For Beta-RC](https://blog.holochain.org/dependencies-in-progress-for-beta-rc/)
+
 #### [IOTA](https://github.com/iotaledger)
 
 #### [Maidsafe](https://github.com/maidsafe)
 
 #### [Mina](https://github.com/MinaProtocol)
 
+- [Solving for Blockchain’s Critical Security Flaw](https://minaprotocol.com/blog/solving-for-blockchains-security-flaw)
+- [How to Design a Compliant, Privacy-Preserving Fiat Stablecoin via Zero-Knowledge Proofs](https://www.etonec.com/post/how-to-design-a-compliant-privacy-preserving-fiat-stablecoin-via-zero-knowledge-proofs)
+
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
+
+- [NEAR 2022: A Year in Review](https://near.org/blog/near-2022-a-year-in-review/)
 
 #### [Nervos](https://github.com/nervosnetwork)
 
 #### [Oasis](https://github.com/oasisprotocol)
 
 #### [Parity](https://github.com/paritytech)
+
+- [Polkadot 2022 Roundup](https://medium.com/polkadot-network/polkadot-2022-roundup-d98ccf69df50)
 
 #### [Radix](https://github.com/radixdlt)
 
@@ -148,12 +171,15 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Solana](https://github.com/solana-labs/solana)
 
 - [Neon EVM’s Mainnet Launch: Community Update](https://medium.com/neon-labs/neon-evms-mainnet-launch-community-update-eeef3aea02a2)
+- [Detailed Post-Mortem and Next Steps](https://raydium.medium.com/detailed-post-mortem-and-next-steps-d6d6dd461c3e)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 
 #### [Subspace Labs](https://github.com/subspace)
 
 #### [Sui](https://github.com/MystenLabs)
+
+- [Cryptography in Sui: Cross-chain Signature Verification](https://tech.mystenlabs.com/cryptography-in-sui-cross-chain-signature-verification/)
 
 #### [TezEdge](https://github.com/tezedge)
 
@@ -221,6 +247,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 
+- [A Year of Growth for zkSync](https://blog.matter-labs.io/a-year-of-growth-for-zksync-bb117d1b4f0c)
+
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
 
@@ -237,6 +265,22 @@ Dec 1-2 | Online
 -->
 
 
+Feb 24 — Mar 5 | Denver, USA
+
+[ETHDenver 2023](https://www.ethdenver.com)
+
+Mar 20-24 | Paris, France
+
+[Paris Blockchain Week](https://www.parisblockchainweek.com)
+
+
+Mar 26 | Tokyo, Japan
+
+[FHE.org conference 2023](https://fhe.org/)
+
+Mar 27-29 | Tokyo, Japan
+
+[RWC 2023](https://rwc.iacr.org/2023/)
 
 &nbsp;
 

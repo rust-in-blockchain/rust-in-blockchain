@@ -72,6 +72,16 @@ Bold entries here are especially relevant to blockchain projects.
 <!-- https://github.com/rustsec/advisory-db/pulls -->
 <!-- https://osv.dev/list?page=2&ecosystem=crates.io -->
 
+- [RUSTSEC-2022-0071: `rusoto_credential` is unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0071.html).
+- [RUSTSEC-2022-0072: Vulnerability in `hyper-staticfile`](https://rustsec.org/advisories/RUSTSEC-2022-0072.html).
+- [RUSTSEC-2022-0073: `alloc-cortex-m` is unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0073.html).
+- [RUSTSEC-2022-0074: Unsoundness in prettytable-rs](https://rustsec.org/advisories/RUSTSEC-2022-0074.html).
+- [GHSA-8r76-fr72-j32w: Creator Verification Error when Bubblegum Activate](https://github.com/advisories/GHSA-8r76-fr72-j32w).
+- [GHSA-9v25-r5q2-2p6w: Candy Machine Set Collection During Mint Missing Check](https://github.com/advisories/GHSA-9v25-r5q2-2p6w).
+- [CVE-2022-23523: linux-loader reading beyond EOF could lead to infinite loop](https://github.com/advisories/GHSA-52h2-m2cf-9jh6).
+- **[CVE-2022-23507: Tendermint light client verification not taking into account chain ID](https://github.com/advisories/GHSA-xqqc-c5gw-c5r5).**
+- [CVE-2022-46171: Tauri Filesystem Scope Glob Pattern is too Permissive](https://github.com/advisories/GHSA-6mv3-wm7j-h4w5).
+
 
 &nbsp;
 

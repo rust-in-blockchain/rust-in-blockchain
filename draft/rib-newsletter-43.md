@@ -62,6 +62,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Papers
 
 - [SuperNova: Proving universal machine executions without universal circuits](https://eprint.iacr.org/2022/1758)
+- [SoK: Decentralized Finance (DeFi) Attacks](https://eprint.iacr.org/2022/1773)
+- [Glimpse: On-Demand, Cross-Chain Communication for Efficient DeFi Applications on Bitcoin-based Blockchains](https://eprint.iacr.org/2022/1721)
+- [Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency](https://eprint.iacr.org/2022/1709)
 
 #### Projects
 

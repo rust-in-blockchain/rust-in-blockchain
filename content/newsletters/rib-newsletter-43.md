@@ -67,7 +67,6 @@ though presumably less powerful.
 - [Glimpse: On-Demand, Cross-Chain Communication for Efficient DeFi Applications on Bitcoin-based Blockchains](https://eprint.iacr.org/2022/1721)
 - [Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency](https://eprint.iacr.org/2022/1709)
 - [Asymptotically Optimal Message Dissemination with Applications to Blockchains](https://eprint.iacr.org/2022/1723)
-- [Nonce- and Redundancy-encrypting Modes with Farfalle](https://eprint.iacr.org/2022/1711)
 
 #### Projects
 
@@ -689,7 +688,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
-Happy New Year! Last month, the RGB team released version 0.9 of all their core crates. In 0.10, there's some consensus-breaking changes planned for RGB contracts, and in 0.11, WASM support is planned. [RGB also has a new info site](https://rgb.info/wallets/), in addition to [developer documentation](http://rgb.tech). The RGB project is also busy rewriting their specs in Contractum, and RGB nodes will soon have the ability to run [generalized contract interfaces](https://twitter.com/lnp_bp/status/1606385243203768335). Nostr has started making a really big showing as the social layer for Bitcoin, much like Lightning is Bitcoin's payments layer, and it has an [excellent relay implementation in Rust](https://github.com/scsibug/nostr-rs-relay). There's a new Lightning node that can run within a mobile browser: [mutiny-web](https://github.com/BitcoinDevShop/mutiny-web-poc).
+Happy New Year! Last month, the RGB team released version 0.9 of all their core crates. In 0.10, there are some consensus-breaking changes planned for RGB contracts, and in 0.11, WASM support is planned. [RGB also has a new info site](https://rgb.info/wallets/), in addition to [developer documentation](http://rgb.tech). The RGB project is also busy rewriting their specs in Contractum, and RGB nodes will soon have the ability to run [generalized contract interfaces](https://twitter.com/lnp_bp/status/1606385243203768335). Nostr has started making a really big showing as the social layer for Bitcoin, much like Lightning is Bitcoin's payments layer, and it has an [excellent relay implementation in Rust](https://github.com/scsibug/nostr-rs-relay). There's a new Lightning node that can run within a mobile browser: [mutiny-web](https://github.com/BitcoinDevShop/mutiny-web-poc).
 
 Rust Bitcoin has better methods for calculating tx input and output weight unit calculation, [see this PR](https://github.com/rust-bitcoin/rust-bitcoin/pull/1467/files). It also added the [Kani verifier](https://github.com/model-checking/kani) to prove certain math ops are safe with [this PR](https://github.com/rust-bitcoin/rust-bitcoin/pull/1415/files).
 

@@ -18,6 +18,7 @@ industry topics.
 
 Thanks to contributors:
 [Erwan],
+[Hunter Beast],
 _TODO_
 Thank you for your help!
 
@@ -28,6 +29,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [Erwan]: https://github.com/erwanor
+[Hunter Beast]: https://github.com/cryptoquick
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -65,7 +67,7 @@ though presumably less powerful.
 - [Accelerating Penumbra's Merkle Tree by up to 4,000,000x](https://penumbra.zone/blog/tiered-commitment-tree/)
 
 -->
- 
+
 #### Papers
 
 - [SuperNova: Proving universal machine executions without universal circuits](https://eprint.iacr.org/2022/1758)
@@ -686,7 +688,13 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
-For discussion join the [Rust in Bitcoin Telegram group][ribtc].
+Happy New Year! Last month, the RGB team released version 0.9 of all their core crates. In 0.10, there's some consensus-breaking changes planned for RGB contracts, and in 0.11, WASM support is planned. [RGB also has a new info site](https://rgb.info/wallets/), in addition to [developer documentation](http://rgb.tech). The RGB project is also busy rewriting their specs in Contractum, and RGB nodes will soon have the ability to run [generalized contract interfaces](https://twitter.com/lnp_bp/status/1606385243203768335). Nostr has started making a really big showing as the social layer for Bitcoin, much like Lightning is Bitcoin's payments layer, and it has an [excellent relay implementation in Rust](https://github.com/scsibug/nostr-rs-relay). There's a new Lightning node that can run within a mobile browser: [mutiny-web](https://github.com/BitcoinDevShop/mutiny-web-poc).
+
+Rust Bitcoin has better methods for calculating tx input and output weight unit calculation, [see this PR](https://github.com/rust-bitcoin/rust-bitcoin/pull/1467/files). It also added the [Kani verifier](https://github.com/model-checking/kani) to prove certain math ops are safe with [this PR](https://github.com/rust-bitcoin/rust-bitcoin/pull/1415/files).
+
+LDK released version 0.113, and they're hard at work towards getting support for BOLT-12 Offers ("invoice requests") implemented.
+
+For discussion join the [Rust in Bitcoin Telegram group][ribtc]. We've gotten a lot of newcomers lately! Definitely feel free to introduce yourself and ask questions.
 
 [ribtc]: https://t.me/rust_in_bitcoin
 

@@ -54,6 +54,7 @@ though presumably less powerful.
 
 #### Blog Posts
 
+- [Accelerating zk-SNARKs - MSM and NTT algorithms on FPGAs with Hardcaml](https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/)
 - [Solutions to Delay Attacks on Rollups](https://offchain.medium.com/solutions-to-delay-attacks-on-rollups-434f9d05a07a)
 - [ZK Email](https://blog.aayushg.com/posts/zkemail/)
 - [What are zk-SNARKs?](https://halborn.com/what-are-zk-snarks/)

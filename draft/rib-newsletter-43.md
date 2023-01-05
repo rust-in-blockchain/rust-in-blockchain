@@ -38,6 +38,13 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[anemo](https://github.com/mystenlabs/anemo).
+
+This is the p2p networking library used by Sui,
+running over QUIC.
+It looks to be much simpler than [rust-libp2p](https://github.com/libp2p/rust-libp2p),
+though presumably less powerful.
+
 &nbsp;
 
 

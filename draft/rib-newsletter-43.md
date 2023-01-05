@@ -4,7 +4,8 @@ description: "December 2022"
 date: 2023-01-04
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #43 edition of Rust in Blockchain,
+This month we spotlight `anemo`, the p2p networking library used by Sui, running over QUIC."
 ---
 
 Welcome to the #43 edition of Rust in Blockchain, the monthly
@@ -18,7 +19,8 @@ industry topics.
 
 Thanks to contributors:
 [Erwan],
-_TODO_
+[Hunter Beast],
+[Brian Anderson], and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -28,6 +30,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [Erwan]: https://github.com/erwanor
+[Hunter Beast]: https://github.com/cryptoquick
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -38,8 +41,14 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
-&nbsp;
+[anemo](https://github.com/mystenlabs/anemo).
 
+This is the p2p networking library used by Sui,
+running over QUIC.
+It looks to be much simpler than [rust-libp2p](https://github.com/libp2p/rust-libp2p),
+though presumably less powerful.
+
+&nbsp;
 
 ## Interesting Things
 
@@ -50,7 +59,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [What are zk-SNARKs?](https://halborn.com/what-are-zk-snarks/)
 - [An audited implementation of Poseidon377, a SNARK-friendly hash function used in Penumbra (private DEX)](https://twitter.com/penumbrazone/status/1599891715770425370)
 - [Accelerating Penumbra's Merkle Tree by up to 4,000,000x](https://penumbra.zone/blog/tiered-commitment-tree/)
- 
+
 #### Papers
 
 - [SuperNova: Proving universal machine executions without universal circuits](https://eprint.iacr.org/2022/1758)
@@ -535,6 +544,8 @@ Bold entries here are especially relevant to blockchain projects.
 [nervos-open_issues-2]: https://github.com/nervosnetwork/molecule/issues?q=is%3Aissue+is%3Aopen+created%3A2022-12-01..2022-12-31%20-author:app/dependabot
 [nervos-open_issues-3]: https://github.com/godwokenrises/godwoken/issues?q=is%3Aissue+is%3Aopen+created%3A2022-12-01..2022-12-31%20-author:app/dependabot
 
+- [Nervos, Beyond Account Abstraction](https://www.nervos.org/blog/nervos-beyond-account-abstraction)
+
 #### [Oasis](https://github.com/oasisprotocol)
 
 11 merged PRs ([1][oasis-merged-prs-1], [2][oasis-merged-prs-2]),
@@ -624,6 +635,8 @@ Bold entries here are especially relevant to blockchain projects.
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2022-12-01..2022-12-31%20-author:app/dependabot
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2022-12-01..2022-12-31%20-author:app/dependabot
 
+- [Looking forward: What the Solana community will tackle in 2023 and beyond](https://solana.com/news/looking-forward-what-the-solana-community-will-tackle-in-2023-and-beyond)
+- [Solana Network Upgrades](https://solana.com/news/solana-network-upgrades)
 - [Neon EVM’s Mainnet Launch: Community Update](https://medium.com/neon-labs/neon-evms-mainnet-launch-community-update-eeef3aea02a2)
 - [Detailed Post-Mortem and Next Steps](https://raydium.medium.com/detailed-post-mortem-and-next-steps-d6d6dd461c3e)
 - [Solana rBPF Vulnerability Case Study](https://blog.audit.haechi.io/solana_rbpf_vulnerability_casestudy)
@@ -676,7 +689,13 @@ Bold entries here are especially relevant to blockchain projects.
 
 ### Rust in Bitcoin
 
-For discussion join the [Rust in Bitcoin Telegram group][ribtc].
+Happy New Year! Last month, the RGB team released version 0.9 of all their core crates. In 0.10, there's some consensus-breaking changes planned for RGB contracts, and in 0.11, WASM support is planned. [RGB also has a new info site](https://rgb.info/wallets/), in addition to [developer documentation](http://rgb.tech). The RGB project is also busy rewriting their specs in Contractum, and RGB nodes will soon have the ability to run [generalized contract interfaces](https://twitter.com/lnp_bp/status/1606385243203768335). Nostr has started making a really big showing as the social layer for Bitcoin, much like Lightning is Bitcoin's payments layer, and it has an [excellent relay implementation in Rust](https://github.com/scsibug/nostr-rs-relay). There's a new Lightning node that can run within a mobile browser: [mutiny-web](https://github.com/BitcoinDevShop/mutiny-web-poc).
+
+Rust Bitcoin has better methods for calculating tx input and output weight unit calculation, [see this PR](https://github.com/rust-bitcoin/rust-bitcoin/pull/1467/files). It also added the [Kani verifier](https://github.com/model-checking/kani) to prove certain math ops are safe with [this PR](https://github.com/rust-bitcoin/rust-bitcoin/pull/1415/files).
+
+LDK released version 0.113, and they're hard at work towards getting support for BOLT-12 Offers ("invoice requests") implemented.
+
+For discussion join the [Rust in Bitcoin Telegram group][ribtc]. We've gotten a lot of newcomers lately! Definitely feel free to introduce yourself and ask questions.
 
 [ribtc]: https://t.me/rust_in_bitcoin
 

@@ -43,21 +43,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
 - [Solutions to Delay Attacks on Rollups](https://offchain.medium.com/solutions-to-delay-attacks-on-rollups-434f9d05a07a)
 - [ZK Email](https://blog.aayushg.com/posts/zkemail/)
 - [What are zk-SNARKs?](https://halborn.com/what-are-zk-snarks/)
-
-<!-- todo: old posts
-
 - [An audited implementation of Poseidon377, a SNARK-friendly hash function used in Penumbra (private DEX)](https://twitter.com/penumbrazone/status/1599891715770425370)
 - [Accelerating Penumbra's Merkle Tree by up to 4,000,000x](https://penumbra.zone/blog/tiered-commitment-tree/)
-
--->
  
 #### Papers
 
@@ -65,6 +57,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [SoK: Decentralized Finance (DeFi) Attacks](https://eprint.iacr.org/2022/1773)
 - [Glimpse: On-Demand, Cross-Chain Communication for Efficient DeFi Applications on Bitcoin-based Blockchains](https://eprint.iacr.org/2022/1721)
 - [Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency](https://eprint.iacr.org/2022/1709)
+- [Asymptotically Optimal Message Dissemination with Applications to Blockchains](https://eprint.iacr.org/2022/1723)
+- [Nonce- and Redundancy-encrypting Modes with Farfalle](https://eprint.iacr.org/2022/1711)
 
 #### Projects
 
@@ -632,6 +626,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 - [Neon EVM’s Mainnet Launch: Community Update](https://medium.com/neon-labs/neon-evms-mainnet-launch-community-update-eeef3aea02a2)
 - [Detailed Post-Mortem and Next Steps](https://raydium.medium.com/detailed-post-mortem-and-next-steps-d6d6dd461c3e)
+- [Solana rBPF Vulnerability Case Study](https://blog.audit.haechi.io/solana_rbpf_vulnerability_casestudy)
 
 #### [Subspace Labs](https://github.com/subspace)
 
@@ -674,6 +669,8 @@ Bold entries here are especially relevant to blockchain projects.
 [zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2022-12-01..2022-12-31%20-author:app/dependabot
 [zcash-open_issues-3]: https://github.com/zcash/incrementalmerkletree/issues?q=is%3Aissue+is%3Aopen+created%3A2022-12-01..2022-12-31%20-author:app/dependabot
 [zcash-open_issues-4]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2022-12-01..2022-12-31%20-author:app/dependabot
+
+- [ZecSec: Security Audit Process](https://zecsec.com/posts/security-audit-process/)
 
 &nbsp;
 

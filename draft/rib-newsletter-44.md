@@ -54,6 +54,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [AES Encryption circuit](https://github.com/lambdaclass/AES_zero_knowledge_proof_circuit)
 
 &nbsp;
 

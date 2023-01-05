@@ -4,7 +4,7 @@ description: "November 2022"
 date: 2022-12-07
 categories:
   - "newsletters"
-summary: "Welcome to the #41 edition of Rust in Blockchain.
+summary: "Welcome to the #42 edition of Rust in Blockchain.
 This month we spotlight `avalanche-types`, an official SDK for developing Avalanche VMs in Rust."
 ---
 

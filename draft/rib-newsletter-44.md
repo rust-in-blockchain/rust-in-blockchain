@@ -111,6 +111,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Filecoin](https://github.com/filecoin-project)
 
+- [The FVM Imaginarium](https://filecoin.io/blog/posts/the-fvm-imaginarium-magmo-brings-state-channels-to-the-filecoin-virtual-machine/)
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 #### [Fluence](https://github.com/fluencelabs)
@@ -213,6 +215,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
+- [High-priority release: v3.4.0 (Stealy)](https://github.com/sigp/lighthouse/releases/tag/v3.4.0)
+
 #### [Mir Protocol](https://github.com/mir-protocol)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
@@ -220,6 +224,9 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [Rust Web3](https://github.com/tomusdrw/rust-web3)
 
 #### [Starkware](https://github.com/starkware-libs)
+
+- [Papyrus: An Open-Source StarkNet Full Node](https://medium.com/starkware/papyrus-an-open-source-starknet-full-node-396f7cd90202)
+- [Cairo 1.0 is Here](https://medium.com/starkware/cairo-1-0-is-here-7e1ac8377038)
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 

@@ -54,7 +54,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
-- [AES Encryption circuit](https://github.com/lambdaclass/AES_zero_knowledge_proof_circuit)
+- [AES Encryption circuit](https://github.com/lambdaclass/AES_zero_knowledge_proof_circuit).
+  ZK-Snark circuit to prove that a given ciphertext is the correct AES-128 encryption using a certain secret key.
+- [papyrus](https://github.com/starkware-libs/papyrus).
+  A StarkNet full node written in Rust.
+- [TFHE-rs](https://github.com/zama-ai/tfhe-rs).
+  A pure Rust implementation of TFHE for boolean and small integer arithmetics over encrypted data.
 
 &nbsp;
 
@@ -207,6 +212,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [Foundry](https://github.com/foundry-rs/foundry)
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
+
+#### [Mir Protocol](https://github.com/mir-protocol)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 

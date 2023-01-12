@@ -1074,6 +1074,26 @@ repos = [
 ]
 ```
 
+### Mir Protocol
+
+Media:
+- https://mirprotocol.org/
+
+GitHub:
+- https://github.com/mir-protocol
+
+``` toml
+repos = [
+"mir-protocol/plonky2",
+"mir-protocol/eth_trie_utils",
+"mir-protocol/evm-tests",
+"mir-protocol/plonky2-semaphore",
+"mir-protocol/r1cs",
+"mir-protocol/r1cs-zkinterface",
+"mir-protocol/r1cs-bellman",
+]
+```
+
 ### Rust Ethereum
 
 GitHub:

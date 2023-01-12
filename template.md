@@ -207,6 +207,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
+#### [Mir Protocol](https://github.com/mir-protocol)
+
 #### [Rust Ethereum](https://github.com/rust-ethereum)
 
 #### [Rust Web3](https://github.com/tomusdrw/rust-web3)

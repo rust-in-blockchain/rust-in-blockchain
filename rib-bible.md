@@ -1067,7 +1067,7 @@ Media:
 GitHub:
 - https://github.com/sigp/lighthouse
 
-``` toml
+```toml
 repos = [
 "sigp/lighthouse",
 "sigp/discv5",
@@ -1082,7 +1082,7 @@ Media:
 GitHub:
 - https://github.com/mir-protocol
 
-``` toml
+```toml
 repos = [
 "mir-protocol/plonky2",
 "mir-protocol/eth_trie_utils",
@@ -1116,6 +1116,19 @@ GitHub:
 ```toml
 repos = [
 "tomusdrw/rust-web3",
+]
+```
+
+### Starkware
+
+GitHub:
+- https://github.com/starkware-libs
+
+```toml
+repos = [
+"starkware-libs/cairo",
+"starkware-libs/papyrus",
+"starkware-libs/starknet-api",
 ]
 ```
 

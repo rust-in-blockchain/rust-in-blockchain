@@ -35,9 +35,17 @@ GitHub:
 ```toml
 repos = [
 "AleoHQ/aleo",
+"AleoHQ/aleo-std",
+"AleoHQ/aleo-setup-integration-test",
+"AleoHQ/aleo_vm_lambda",
+"AleoHQ/leo",
+"AleoHQ/mpmc-bus",
 "AleoHQ/snarkOS",
 "AleoHQ/snarkVM",
-"AleoHQ/leo",
+"AleoHQ/tracing-bridge",
+"AleoHQ/wagyu",
+"AleoHQ/wagyu-zcash-parameters",
+"AleoHQ/welcome",
 ]
 ```
 

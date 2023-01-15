@@ -17,9 +17,11 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
+[gcharang],
+[Kadan Stadelmann],
+[Vid Kersic],
 _TODO_
-
+[Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -28,6 +30,10 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+
+[gcharang]: https://github.com/gcharang
+[Kadan Stadelmann]: https://github.com/ca333
+[Vid Kersic]: https://github.com/Vid201
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -60,6 +66,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A StarkNet full node written in Rust.
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs).
   A pure Rust implementation of TFHE for boolean and small integer arithmetics over encrypted data.
+- [aa-bundler](https://github.com/Vid201/aa-bundler).
+  EIP-4337 (Account Abstraction) - Bundler implementation in Rust.
 
 &nbsp;
 

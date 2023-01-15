@@ -68,6 +68,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A pure Rust implementation of TFHE for boolean and small integer arithmetics over encrypted data.
 - [aa-bundler](https://github.com/Vid201/aa-bundler).
   EIP-4337 (Account Abstraction) - Bundler implementation in Rust.
+- [merkle_patricia_tree](https://github.com/lambdaclass/merkle_patricia_tree).
+  Patricia Merkle Tree implementation in Rust.
+- [starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust).
+  A Rust implementation of Starknet.
 
 &nbsp;
 

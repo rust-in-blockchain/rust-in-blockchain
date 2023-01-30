@@ -54,6 +54,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Generating secure randomness on Ethereum using SNARKs](https://www.paradigm.xyz/2023/01/eth-rng)
 
 #### Papers
 
@@ -72,6 +73,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   Patricia Merkle Tree implementation in Rust.
 - [starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust).
   A Rust implementation of Starknet.
+- [heimdall-rs](https://github.com/Jon-Becker/heimdall-rs).
+  An advanced EVM toolkit which aims to make dealing with smart contracts on EVM based chains easier.
 
 &nbsp;
 

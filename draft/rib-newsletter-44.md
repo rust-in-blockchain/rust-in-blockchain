@@ -48,7 +48,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 Holochain is a peer-to-peer application protocol and runtime that uses Rust throughout its entire codebase. dApp code is written using a Rust SDK, compiled to WebAssembly, and distributed to end-users.
 
-Holochain reached a maturity milestone in January with its 0.1.0 beta release, which comes with a six-month freeze on all breaking changees. They've also recently released the first version of a CLI-driven [dApp scaffolding tool](https://github.com/holochain/scaffolding/) similar to Rails' scaffolder.
+Holochain reached a maturity milestone in January with its 0.1.0 beta release, which comes with a six-month freeze on breaking changes. They've also recently released the first version of a CLI-driven [dApp scaffolding tool](https://github.com/holochain/scaffolding/) similar to Rails' scaffolder.
 
 ## Interesting Things
 

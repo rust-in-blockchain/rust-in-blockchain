@@ -1013,7 +1013,7 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 Feb 15-17 | Barcelona, Spain | [European Blockchain Convention 2023](https://eblockchainconvention.com/)
 
-Feb 24 — Mar 5 | Denver, USA | [ETHDenver 2023](https://www.ethdenver.com)
+Feb 24 - Mar 5 | Denver, USA | [ETHDenver 2023](https://www.ethdenver.com)
 
 Mar 9-19 | Online | [Holochain Dev Training for Rust Developers](https://www.holochain.org/holochain-developer-training-2/)
 

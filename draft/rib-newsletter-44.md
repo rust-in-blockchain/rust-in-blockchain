@@ -414,7 +414,6 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Holochain](https://github.com/holochain/)
 
-
 81 merged PRs ([1][holochain-merged-prs-1], [2][holochain-merged-prs-2], [3][holochain-merged-prs-3], [4][holochain-merged-prs-4]),
 16 closed issues ([1][holochain-closed_issues-1], [2][holochain-closed_issues-2]),
 6 open issues ([1][holochain-open_issues-1], [2][holochain-open_issues-2])
@@ -429,6 +428,7 @@ Bold entries here are especially relevant to blockchain projects.
 [holochain-open_issues-2]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aopen+created%3A2023-01-01..2023-01-31%20-author:app/dependabot
 
 - [Holochain 0.1.0 Is Here](https://blog.holochain.org/holochain-0-1-0-is-here/)
+- [Holochain Beta Released](https://blog.holochain.org/holochain-beta-released/)
 
 #### [IOTA](https://github.com/iotaledger)
 
@@ -973,6 +973,10 @@ Feb 15-17 | Barcelona, Spain
 Feb 24 — Mar 5 | Denver, USA
 
 [ETHDenver 2023](https://www.ethdenver.com)
+
+Mar 9-19 | Online
+
+[Holochain Dev Training for Rust Developers](https://www.holochain.org/holochain-developer-training-2/)
 
 Mar 13 - Apr 7 | Ho Chi Minh City, Vietnam
 

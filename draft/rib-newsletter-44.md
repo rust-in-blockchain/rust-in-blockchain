@@ -69,16 +69,21 @@ It appears to be a different Rust implementation than the previous [mina-rs](htt
 
 #### Blog Posts
 
+- [Harnessing the eBPF Verifier](https://blog.trailofbits.com/2023/01/19/ebpf-verifier-harness/)
 - [Consensus canon](https://a16zcrypto.com/consensus-canon/)
 - [Generating secure randomness on Ethereum using SNARKs](https://www.paradigm.xyz/2023/01/eth-rng)
-- [Cross-Chain Bridge Bugs: A Growing Problem](https://halborn.com/cross-chain-bridge-bugs-a-growing-problem/)
+- [How to transform code into arithmetic circuits](https://www.notamonadtutorial.com/how-to-transform-code-into-arithmetic-circuits/)
 - [Role of Aggregators and Subcommittees](https://stonecoldpat.substack.com/p/role-of-aggregators-and-subcommittees)
 - [Epochs, Slots and Beacon Blocks](https://stonecoldpat.substack.com/p/epochs-slots-and-beacon-blocks)
-
+- [Cross-Chain Bridge Bugs: A Growing Problem](https://halborn.com/cross-chain-bridge-bugs-a-growing-problem/)
 
 #### Papers
 
 - [The Tip5 Hash Function for Recursive STARKs](https://eprint.iacr.org/2023/107)
+- [Fair Delivery of Decentralised Randomness Beacon](https://eprint.iacr.org/2023/103)
+- [Flyover: A Repayment Protocol for Fast Bitcoin Transfers over Federated Pegs](https://eprint.iacr.org/2023/086)
+- [Single-tiered hybrid PoW consensus protocol to encourage decentralization in bitcoin](https://eprint.iacr.org/2023/084)
+- [Specialized Proof of Confidential Knowledge (SPoCK)](https://eprint.iacr.org/2023/082)
 
 #### Projects
 
@@ -109,6 +114,8 @@ It appears to be a different Rust implementation than the previous [mina-rs](htt
   hashing messages in any length.
 - [starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust).
   A Rust implementation of Starknet by LambdaClass.
+- [Aurora Engine](https://github.com/aurora-is-near/aurora-engine).
+  EVM on the NEAR Protocol.
 
 &nbsp;
 
@@ -220,6 +227,8 @@ Bold entries here are especially relevant to blockchain projects.
 [aptos-closed_issues-1]: https://github.com/aptos-labs/aptos-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-01-01..2023-01-31%20-author:app/dependabot
 [aptos-open_issues-1]: https://github.com/aptos-labs/aptos-core/issues?q=is%3Aissue+is%3Aopen+created%3A2023-01-01..2023-01-31%20-author:app/dependabot
 
+- [Governance-based contract upgrades on Aptos](https://wormholecrypto.medium.com/governance-based-contract-upgrades-on-aptos-51dbb0a7969)
+
 #### [Casper](https://github.com/casper-network)
 
 62 merged PRs ([1][casper-merged-prs-1], [2][casper-merged-prs-2]),
@@ -330,6 +339,8 @@ Bold entries here are especially relevant to blockchain projects.
 [espresso_systems-closed_issues-3]: https://github.com/EspressoSystems/HotShot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-01-01..2023-01-31%20-author:app/dependabot
 [espresso_systems-open_issues-1]: https://github.com/EspressoSystems/jellyfish/issues?q=is%3Aissue+is%3Aopen+created%3A2023-01-01..2023-01-31%20-author:app/dependabot
 [espresso_systems-open_issues-2]: https://github.com/EspressoSystems/HotShot/issues?q=is%3Aissue+is%3Aopen+created%3A2023-01-01..2023-01-31%20-author:app/dependabot
+
+- [Open Sourcing HyperPlonk](https://www.espressosys.com/blog/open-sourcing-hyperplonk)
 
 #### [Filecoin](https://github.com/filecoin-project)
 

@@ -17,10 +17,10 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[camilahanada],
 [gcharang],
 [Kadan Stadelmann],
 [Vid Kersic],
-_TODO_
 [Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
@@ -31,6 +31,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 
+[camilahanada]: https://github.com/camilahanada
 [gcharang]: https://github.com/gcharang
 [Kadan Stadelmann]: https://github.com/ca333
 [Vid Kersic]: https://github.com/Vid201
@@ -947,7 +948,7 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-open_issues-2]: https://github.com/starkware-libs/papyrus/issues?q=is%3Aissue+is%3Aopen+created%3A2023-01-01..2023-01-31%20-author:app/dependabot
 
 - [Papyrus: An Open-Source StarkNet Full Node](https://medium.com/starkware/papyrus-an-open-source-starknet-full-node-396f7cd90202).
-  The source code:[papyrus](https://github.com/starkware-libs/papyrus).
+  The source code [papyrus](https://github.com/starkware-libs/papyrus).
 - [Cairo 1.0 is Here](https://medium.com/starkware/cairo-1-0-is-here-7e1ac8377038)
 
 

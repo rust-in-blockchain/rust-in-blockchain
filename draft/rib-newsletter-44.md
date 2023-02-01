@@ -89,6 +89,23 @@ Bold entries here are especially relevant to blockchain projects.
 <!-- https://github.com/rustsec/advisory-db/pulls -->
 <!-- https://osv.dev/list?page=2&ecosystem=crates.io -->
 
+- [RUSTSEC-2023-0001: `tokio` - vulnerability](https://rustsec.org/advisories/RUSTSEC-2023-0001.html).
+- **[RUSTSEC-2022-0075: `wasmtime` - vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0075.html).**
+- **[RUSTSEC-2022-0076: `wasmtime` - vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0076.html).**
+- [RUSTSEC-2022-0077: `claim` - unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0077.html).
+- [RUSTSEC-2022-0078: `bumpalo` - unsoundness](https://rustsec.org/advisories/RUSTSEC-2022-0078.html).
+- [RUSTSEC-2022-0079: `elf_rs` - vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0079.html).
+- [RUSTSEC-2021-0146: `twoway` - unmaintained](https://rustsec.org/advisories/RUSTSEC-2021-0146.html).
+- **[RUSTSEC-2022-0080: `parity-util-mem` - unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0080.html).**
+  - It contains unpatched undefined behavior.
+- [RUSTSEC-2022-0081: `json` - unmaintained](https://rustsec.org/advisories/RUSTSEC-2022-0081.html).
+- [RUSTSEC-2023-0003: `libgit2-sys` - vulnerability](https://rustsec.org/advisories/RUSTSEC-2023-0003.html).
+- [RUSTSEC-2022-0082: `warp` - vulnerability](https://rustsec.org/advisories/RUSTSEC-2022-0082.html).
+- [RUSTSEC-2021-0147: `daemonize` - unmaintained](https://rustsec.org/advisories/RUSTSEC-2021-0147.html).
+- [CVE-2023-22895: `bzip2` - bzip2 allows attackers to cause a denial of service via a large file that triggers an integer overflow](https://github.com/advisories/GHSA-96jv-r488-c2rj).
+- [CVE-2022-46176: `cargo` - Cargo did not verify SSH host keys](https://github.com/advisories/GHSA-r5w3-xm58-jv6j).
+- [CVE-2022-45299: `webbrowser-rs` - webbrowser-rs allows attackers to access arbitrary files via supplying a crafted URL](https://github.com/advisories/GHSA-m589-mv4q-p7rj).
+- [CVE-2023-22499: `deno` - Deno is vulnerable to race condition via interactive permission prompt spoofing](https://github.com/advisories/GHSA-mc52-jpm2-cqh6).
 
 &nbsp;
 

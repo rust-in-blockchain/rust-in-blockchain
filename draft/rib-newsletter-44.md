@@ -82,6 +82,8 @@ It appears to be a different Rust implementation than the previous [mina-rs](htt
 
 #### Projects
 
+- [Ordinals](https://github.com/casey/ord).
+  A project that "imbues satoshis with numismatic value, allowing them to collected and traded as curios."
 - [AES Encryption circuit](https://github.com/lambdaclass/AES_zero_knowledge_proof_circuit).
   ZK-Snark circuit to prove that a given ciphertext is the correct AES-128 encryption using a certain secret key.
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs).

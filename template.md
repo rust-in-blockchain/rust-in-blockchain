@@ -99,8 +99,6 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Dusk Network](https://github.com/dusk-network)
 
-#### [Elrond](https://github.com/ElrondNetwork)
-
 #### [Espresso Systems](https://github.com/EspressoSystems)
 
 #### [Filecoin](https://github.com/filecoin-project)
@@ -126,6 +124,8 @@ Bold entries here are especially relevant to blockchain projects.
 #### [Mina](https://github.com/MinaProtocol)
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
+
+#### [MultiversX](https://github.com/multiversx)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
@@ -166,7 +166,7 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 #### [BitMask](https://github.com/diba-io/bitmask-core)
 
-#### [Cyphernet](https://github.com/Cyphernet-WG)
+#### [Cyphernet](https://github.com/cyphernet-dao)
 
 #### [Electrs](https://github.com/romanz/electrs)
 

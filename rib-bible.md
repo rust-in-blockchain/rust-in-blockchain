@@ -223,29 +223,6 @@ repos = [
 ]
 ```
 
-### Elrond
-
-Media:
-- https://elrond.com/
-- https://elrond.com/blog/
-
-GitHub:
-- https://github.com/ElrondNetwork
-
-```toml
-repos = [
-"ElrondNetwork/elrond-wasm-rs",
-"ElrondNetwork/sc-dex-rs",
-"ElrondNetwork/sc-nft-marketplace",
-"ElrondNetwork/sc-metabonding-rs",
-"ElrondNetwork/sc-bridge-elrond",
-"ElrondNetwork/sc-chainlink-rs",
-"ElrondNetwork/sc-delegation-rs",
-"ElrondNetwork/sc-savings-account-rs",
-]
-
-```
-
 ### Espresso
 
 Media:
@@ -537,6 +514,27 @@ repos	= [
 "mobilecoinfoundation/fog",
 ]
 
+```
+
+### MultiversX
+
+Media:
+- https://multiversx.com/
+
+GitHub:
+- https://github.com/multiversx
+
+```toml
+repos = [
+"multiversx/mx-sdk-rs",
+"multiversx/mx-exchange-sc",
+"multiversx/mx-nft-marketplace-sc",
+"multiversx/mx-metabonding-sc",
+"multiversx/mx-bridge-eth-sc-rs",
+"multiversx/mx-chainlink-sc",
+"multiversx/mx-delegation-sc",
+"multiversx/mx-savings-account-sc",
+]
 ```
 
 ### Near
@@ -838,14 +836,16 @@ repos = [
 ### Cyphernet
 
 GitHub:
-- https://github.com/Cyphernet-WG
+- https://github.com/cyphernet-dao
 
 ```toml
 repos = [
-"Cyphernet-WG/rust-internet2",
-"Cyphernet-WG/rust-microservices",
-"Cyphernet-WG/rust-cyphernet",
-"Cyphernet-WG/rust-netservices",
+"cyphernet-dao/rust-netservices",
+"cyphernet-dao/rust-internet2",
+"cyphernet-dao/rust-microservices",
+"cyphernet-dao/rust-cyphernet",
+"cyphernet-dao/rust-netservices",
+"cyphernet-dao/nsh",
 ]
 ```
 

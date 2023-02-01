@@ -142,6 +142,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Holochain](https://github.com/holochain/)
 
+- [Holochain Beta Released](https://blog.holochain.org/holochain-beta-released/)
+
 #### [IOTA](https://github.com/iotaledger)
 
 #### [Maidsafe](https://github.com/maidsafe)
@@ -260,9 +262,9 @@ Dec 1-2 | Online
 
 -->
 
+Mar 9-19 | Online
 
-
-&nbsp;
+[Holochain Dev Training for Rust Developers](https://www.holochain.org/holochain-developer-training-2/)
 
 ## Careers
 

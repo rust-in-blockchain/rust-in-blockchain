@@ -509,10 +509,16 @@ Media:
 
 GitHub:
 - https://github.com/MinaProtocol
+- https://github.com/openmina
 
 ```toml
 repos = [
 "ChainSafe/mina-rs",
+"openmina/openmina",
+"openmina/mina-p2p-messages-rs",
+"openmina/redux-rs",
+"openmina/alloc-test",
+"openmina/mina-gossip-rs",
 ]
 ```
 

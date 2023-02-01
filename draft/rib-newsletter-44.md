@@ -55,7 +55,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Generating secure randomness on Ethereum using SNARKs](https://www.paradigm.xyz/2023/01/eth-rng)
-- [Holochain Beta Released](https://blog.holochain.org/holochain-beta-released/)
 
 #### Papers
 

@@ -34,6 +34,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [camilahanada]: https://github.com/camilahanada
 [gcharang]: https://github.com/gcharang
 [Kadan Stadelmann]: https://github.com/ca333
+[pdaoust]: https://github.com/pdaoust
 [Vid Kersic]: https://github.com/Vid201
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
@@ -44,6 +45,19 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 ## Project Spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+[openmina](https://github.com/openmina/openmina).
+
+This is a Rust implementation of [Mina](https://github.com/MinaProtocol),
+a blockchain that uses SNARKs to validate the state of the blockchain without storing the blockchain itself.
+The distinguishing feature of this implementation is that it runs as WASM directly in a web browser,
+peering with other nodes via WebRTC and presenting a wallet UI,
+where most wallets require a semi-trusted RPC intermediary.
+
+The ability to run completely in the browser has been a tantalizing promise of Mina,
+but with the primary codebase written in OCaml hadn't previously materialized.
+This implementation was described recently in [a blog post](https://medium.com/openmina/introducing-the-web-node-an-in-browser-mina-node-that-verifies-blocks-and-transfers-funds-ebc59a57e79a).
+It appears to be a different Rust implementation than the previous [mina-rs](https://github.com/MinaProtocol/mina-rs).
 
 &nbsp;
 
@@ -444,6 +458,11 @@ Bold entries here are especially relevant to blockchain projects.
 [holochain-closed_issues-2]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-01-01..2023-01-31%20-author:app/dependabot
 [holochain-open_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2023-01-01..2023-01-31%20-author:app/dependabot
 [holochain-open_issues-2]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aopen+created%3A2023-01-01..2023-01-31%20-author:app/dependabot
+
+Holochain reached a maturity milestone in January with its 0.1.0 beta release,
+which comes with a six-month freeze on breaking changes.
+They've also recently released the first version of a CLI-driven [dApp scaffolding tool](https://github.com/holochain/scaffolding/)
+similar to Rails' scaffolder.
 
 - [Holochain 0.1.0 Is Here](https://blog.holochain.org/holochain-0-1-0-is-here/)
 - [Holochain Beta Released](https://blog.holochain.org/holochain-beta-released/)

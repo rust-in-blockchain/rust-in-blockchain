@@ -64,9 +64,6 @@ It appears to be a different Rust implementation than the previous [mina-rs](htt
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
 - [Harnessing the eBPF Verifier](https://blog.trailofbits.com/2023/01/19/ebpf-verifier-harness/)
@@ -1010,67 +1007,37 @@ If we've missed any other notable Rust Ethereum projects or ecosystems, feel fre
 
 <!--
 
-Dec 1-2 | Online
-
-[Event Sample](https://event.sample)
+Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
-Feb 15-17 | Barcelona, Spain
+Feb 15-17 | Barcelona, Spain | [European Blockchain Convention 2023](https://eblockchainconvention.com/)
 
-[European Blockchain Convention 2023](https://eblockchainconvention.com/)
+Feb 24 — Mar 5 | Denver, USA | [ETHDenver 2023](https://www.ethdenver.com)
 
-Feb 24 — Mar 5 | Denver, USA
+Mar 9-19 | Online | [Holochain Dev Training for Rust Developers](https://www.holochain.org/holochain-developer-training-2/)
 
-[ETHDenver 2023](https://www.ethdenver.com)
+Mar 13 - Apr 7 | Ho Chi Minh City, Vietnam | [ZK Spring Residency in Vietnam](https://0xparc.org/blog/2023-spring-residency)
 
-Mar 9-19 | Online
+Mar 20-24 | Paris, France | [Paris Blockchain Week](https://www.parisblockchainweek.com)
 
-[Holochain Dev Training for Rust Developers](https://www.holochain.org/holochain-developer-training-2/)
+Mar 26 | Tokyo, Japan | [FHE.org conference 2023](https://fhe.org/)
 
-Mar 13 - Apr 7 | Ho Chi Minh City, Vietnam
+Mar 27-29 | Tokyo, Japan | [RWC 2023](https://rwc.iacr.org/2023/)
 
-[ZK Spring Residency in Vietnam](https://0xparc.org/blog/2023-spring-residency)
+Apr 4 | Lisbon, Portugal | [zkSummit9](https://www.zksummit.com/)
 
-Mar 20-24 | Paris, France
+May 1-5 | Bol, Brač, Croatia | [Financial Cryptography and Data Security 2023](https://fc23.ifca.ai/)
 
-[Paris Blockchain Week](https://www.parisblockchainweek.com)
+May 20-21 | Amsterdam, Netherlands | [ETHDam](https://www.ethdam.com/)
 
-Mar 26 | Tokyo, Japan
+Jun 3-5 | Prague, Czech Republic | [Gateway to Cosmos 2023](https://gateway.events/)
 
-[FHE.org conference 2023](https://fhe.org/)
+Jun 17-20 | Paris, France | [EthCC](https://www.ethcc.io/)
 
-Mar 27-29 | Tokyo, Japan
+Aug 28-30 | Palo Alto, CA, US | [The Science of Blockchain Conference 2023](https://cbr.stanford.edu/sbc23/)
 
-[RWC 2023](https://rwc.iacr.org/2023/)
-
-Apr 4 | Lisbon, Portugal
-
-[zkSummit9](https://www.zksummit.com/)
-
-May 1-5 | Bol, Brač, Croatia
-
-[Financial Cryptography and Data Security 2023](https://fc23.ifca.ai/)
-
-May 20-21 | Amsterdam, Netherlands
-
-[ETHDam](https://www.ethdam.com/)
-
-Jun 3-5 | Prague, Czech Republic
-
-[Gateway to Cosmos 2023](https://gateway.events/)
-
-Jun 17-20 | Paris, France
-
-[EthCC](https://www.ethcc.io/)
-
-Aug 28-30 | Palo Alto, CA, US
-
-[The Science of Blockchain Conference 2023](https://cbr.stanford.edu/sbc23/)
-
-Sep 11-13 | Berlin, Germany
-
-[DappCon](https://www.dappcon.io/)
+Sep 11-13 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
 
 &nbsp;
 

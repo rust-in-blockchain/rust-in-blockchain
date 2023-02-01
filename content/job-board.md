@@ -26,16 +26,10 @@ Aurora | Remote
 - [Blockchain/Bridge Engineer](https://docs.google.com/document/d/1xXMEeQffOv2rfPT4jpipwkjo4osmfyAp4eEl51j3dt4/edit?usp=sharing)
 - [Blockchain/EVM Engineer](https://docs.google.com/document/d/1VkaXInjgSczOL_R3aKMOnXKv7lFvvL1z__SlZQLfR78/edit?usp=sharing)
 
-Blockstream | Remote
-- [Senior Network Engineer](https://grnh.se/6ac8f7f11us)
-
 Bolt Labs | US, Remote
 - [Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1pPcX7Pt)
 - [Senior Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/HytKoEmwY)
 - [Blockchain Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1l5QGguY)
-
-Chainflip Labs | Berlin
-- [Senior Full Stack Engineer](https://angel.co/company/chainflip/jobs/2424045-senior-fullstack-engineer-for-web3)
 
 DEX Labs | Remote
 - [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb-rust-engineer)
@@ -54,21 +48,10 @@ Fractal Protocol | Remote or Berlin
 - [Rust and Blockchain Engineer](https://gist.github.com/juliosantos/ba6d01ffab39b5c06ea459d88b1f735f)
 
 Fuel Labs | Remote
-- [Senior Compiler/Language Engineer [Rust]](https://jobs.lever.co/fuellabs/5c5e0c29-2657-4046-ae24-0e3674361450)
 - [Senior Protocol Engineer [Rust]](https://jobs.lever.co/fuellabs/11f95c0b-e2bb-4e13-bea2-7348b2a491fc)
-
-Hubble (Solana, DeFi) | London, Remote
-- [Smart contracts engineer](https://hubble.markets/careers)
-- [Senior frontend engineer](https://hubble.markets/careers)
-- [DevOps engineer](https://hubble.markets/careers)
 
 HashCloak | Toronto, Remote
 - [Junior Research Engineer (MPC)](https://hackmd.io/@hashcloak/HJz2Xn3Z9)
-
-IO Global (IOHK) | Remote
-- [Software Engineer - Rust (Jormungandr)](https://apply.workable.com/io-global/j/9278186849/)
-- [Technical Architect (Rust) - Lead Governance](https://apply.workable.com/io-global/j/C2F607EEF5/)
-- [Technical Architect (Catalyst)](https://apply.workable.com/io-global/j/3DDB40A962/)
 
 Jet Protocol | Remote
 - [Rust Blockchain Engineer](https://docs.google.com/document/d/1GXuk2LPxoYxIdQGwsL9IZ34B7WjlgkdJBgY7QBgBIn0)
@@ -98,7 +81,6 @@ Oxygen | Dubai or Remote
 Parity Technologies | Berlin or Remote
 - [Full Stack Engineer - Common Good Parachains](https://boards.greenhouse.io/parity/jobs/5213777003)
 - [Director of Engineering](https://boards.greenhouse.io/parity/jobs/5245306003)
-- [Engineering Manager](https://boards.greenhouse.io/parity/jobs/5075263003)
 - [DevSecOps Lead](https://boards.greenhouse.io/parity/jobs/5095368003)
 
 Polygon Zero | Remote
@@ -108,18 +90,13 @@ Solana | (Probably) Remote
 - [Front End Engineer](https://solana.com/frontend-eng-jd.pdf)
 
 Stellar | Remote
-- [Senior Engineering Manager, Core Protocol](https://boards.greenhouse.io/stellar/jobs/4383777004)
 - [Senior Smart Contract Engineer](https://boards.greenhouse.io/stellar/jobs/4623750004)
 
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
-- [Protocol Engineer (Consensus)](https://jobs.lever.co/subspacelabs/d5d62ccb-eaaf-43f4-83ad-11ebff2ce3a0)
-- [P2P Network Engineer](https://jobs.lever.co/subspacelabs/6b2c3833-0bbb-409e-9484-049679390756)
-- [WASM Execution Engineer](https://jobs.lever.co/subspacelabs/9d8f9b6d-4141-4782-923a-2872a06c723e)
 
 The Graph | Remote
 - [Rust Engineer](https://thegraph.com/jobs/rust-engineer)
 
 Trail of Bits | Remote
 - [Security Consultant, Cryptography](https://jobs.lever.co/trailofbits/56af8506-3205-4c7b-b28d-ba8292bd1a47)
-- [Security Consultant, Application Security](https://jobs.lever.co/trailofbits/8b7f7fc1-efb0-4e89-b406-784c3a2d77e4)

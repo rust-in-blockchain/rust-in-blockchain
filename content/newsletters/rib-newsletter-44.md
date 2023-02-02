@@ -5,7 +5,7 @@ date: 2023-02-01
 categories:
   - "newsletters"
 summary: "Welcome to the #44 edition of Rust in Blockchain, 
-This month we spotlight `openmina`, a Rust implementation of Mina that uses SNARKs to validate the state of the blockchain without storing the blockchain itself."
+This month we spotlight `openmina`, a Rust implementation of Mina that runs in a browser."
 ---
 
 Welcome to the #44 edition of Rust in Blockchain, the monthly

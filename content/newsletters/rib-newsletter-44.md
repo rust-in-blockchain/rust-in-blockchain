@@ -4,7 +4,8 @@ description: "January 2023"
 date: 2023-02-01
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #44 edition of Rust in Blockchain, 
+This month we spotlight `openmina`, a Rust implementation of Mina that uses SNARKs to validate the state of the blockchain without storing the blockchain itself."
 ---
 
 Welcome to the #44 edition of Rust in Blockchain, the monthly
@@ -20,6 +21,7 @@ Thanks to contributors:
 [camilahanada],
 [gcharang],
 [Kadan Stadelmann],
+[Paul d'Aoust],
 [Vid Kersic],
 [Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
@@ -34,6 +36,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 [camilahanada]: https://github.com/camilahanada
 [gcharang]: https://github.com/gcharang
 [Kadan Stadelmann]: https://github.com/ca333
+[Paul d'Aoust]: https://github.com/pdaoust
 [pdaoust]: https://github.com/pdaoust
 [Vid Kersic]: https://github.com/Vid201
 [Brian Anderson]: https://github.com/brson
@@ -87,7 +90,7 @@ It appears to be a different Rust implementation than the previous [mina-rs](htt
 - [Ordinals](https://github.com/casey/ord).
   A project that "imbues satoshis with numismatic value, allowing them to collected and traded as curios."
 - [AES Encryption circuit](https://github.com/lambdaclass/AES_zero_knowledge_proof_circuit).
-  ZK-Snark circuit to prove that a given ciphertext is the correct AES-128 encryption using a certain secret key.
+  ZK-SNARK circuit to prove that a given ciphertext is the correct AES-128 encryption using a certain secret key.
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs).
   A pure Rust implementation of TFHE for boolean and small integer arithmetics over encrypted data.
 - [aa-bundler](https://github.com/Vid201/aa-bundler).
@@ -95,7 +98,7 @@ It appears to be a different Rust implementation than the previous [mina-rs](htt
 - [merkle_patricia_tree](https://github.com/lambdaclass/merkle_patricia_tree).
   Patricia Merkle Tree implementation in Rust.
 - [heimdall-rs](https://github.com/Jon-Becker/heimdall-rs).
-  An advanced EVM toolkit which aims to make dealing with smart contracts on EVM based chains easier.
+  An advanced EVM toolkit that aims to make dealing with smart contracts on EVM based chains easier.
 - [cosmwasm-vm](https://github.com/ComposableFi/cosmwasm-vm).
   Experimental, minimalistic, no_std friendly abstract virtual machine for CosmWasm contracts execution.
   Blog post: [How we built a generalized CosmWasm VM](https://medium.com/composable-finance/how-we-built-a-generalized-cosmwasm-vm-a0ac70fa8219).
@@ -104,11 +107,11 @@ It appears to be a different Rust implementation than the previous [mina-rs](htt
   Blog post: [ZK System Benchmarking](https://delendum.xyz/2023/01/11/zk-system-benchmarking.html).
 - [ezkl](https://github.com/zkonduit/ezkl).
   A library and command-line tool for doing inference for deep
-  learning models and other computational graphs in a zk-snark.
+  learning models and other computational graphs in a zk-SNARK.
 - [poseidon-circuit](https://github.com/scroll-tech/poseidon-circuit).
-  Poseidon hash circuit and primitives. It integrated several poseidon
-  hash schemes from zcash and iden3 and support sponge progress for
-  hashing messages in any length.
+  Poseidon hash circuit and primitives. It integrated several Poseidon
+  hash schemes from Zcash and iden3 and support sponge progress for
+  hashing messages at any length.
 - [starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust).
   A Rust implementation of Starknet by LambdaClass.
 - [Aurora Engine](https://github.com/aurora-is-near/aurora-engine).

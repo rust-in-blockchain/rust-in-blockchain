@@ -48,6 +48,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [What Is Zero-Knowledge Encryption?](https://blog.chain.link/zero-knowledge-encryption/)
 
 #### Papers
 
@@ -95,6 +96,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [DarkFi](https://dark.fi)
 
+- [DarkFi Testnet v0.1 alpha](https://dark.fi/insights/testnet-v1a.html)
+
 #### [Dfinity](https://github.com/dfinity)
 
 #### [Dusk Network](https://github.com/dusk-network)
@@ -117,11 +120,15 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Holochain](https://github.com/holochain/)
 
+- [Holochain Dev Tools Released](https://blog.holochain.org/holochain-dev-tools-released/)
+
 #### [IOTA](https://github.com/iotaledger)
 
 #### [Maidsafe](https://github.com/maidsafe)
 
 #### [Mina](https://github.com/MinaProtocol)
+
+- [Contributing to open source projects and about learning zero-knowledge proofs](https://www.cryptologie.net/article/585/contributing-to-open-source-projects-and-about-learning-zero-knowledge-proofs/)
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
@@ -216,6 +223,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [Starkware](https://github.com/starkware-libs)
 
 #### [zkSync](https://github.com/matter-labs/zksync)
+
+- [All Aboard zkSync Era Mainnet](https://blog.matter-labs.io/all-aboard-zksync-era-mainnet-8b8964ba7c59)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 

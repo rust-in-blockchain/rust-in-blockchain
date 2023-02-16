@@ -90,7 +90,8 @@ Solana | (Probably) Remote
 - [Front End Engineer](https://solana.com/frontend-eng-jd.pdf)
 
 Stellar | Remote
-- [Senior Smart Contract Engineer](https://boards.greenhouse.io/stellar/jobs/4623750004)
+- [Senior Smart Contract Engineer](https://grnh.se/2e9c16074us)
+- [Rust Engineer](https://grnh.se/ac41479f4us)
 
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)

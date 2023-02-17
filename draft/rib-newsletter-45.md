@@ -17,7 +17,8 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
+[djddo],
+[Rodairos],
 _TODO_
 
 Thank you for your help!
@@ -28,6 +29,8 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[djddo]: https://github.com/djddo
+[Rodairos]: https://github.com/rodairos
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

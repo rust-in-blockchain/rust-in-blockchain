@@ -26,6 +26,9 @@ Aurora | Remote
 - [Blockchain/Bridge Engineer](https://docs.google.com/document/d/1xXMEeQffOv2rfPT4jpipwkjo4osmfyAp4eEl51j3dt4/edit?usp=sharing)
 - [Blockchain/EVM Engineer](https://docs.google.com/document/d/1VkaXInjgSczOL_R3aKMOnXKv7lFvvL1z__SlZQLfR78/edit?usp=sharing)
 
+Blockstream | Remote
+- [Software Engineer, iOS (Native)](https://grnh.se/cc6c514e1us)
+
 Bolt Labs | US, Remote
 - [Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1pPcX7Pt)
 - [Senior Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/HytKoEmwY)

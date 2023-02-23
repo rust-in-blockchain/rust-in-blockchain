@@ -121,6 +121,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Helium](https://github.com/helium)
 
+- [The Next Era of the Helium Network Begins on March 27th](https://blog.helium.com/the-next-era-of-the-helium-network-begins-on-march-27th-6d08f2b048e0)
+
 #### [Holochain](https://github.com/holochain/)
 
 - [Holochain Dev Tools Released](https://blog.holochain.org/holochain-dev-tools-released/)
@@ -225,6 +227,9 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [Starkware](https://github.com/starkware-libs)
 
+- [Cairo 1.0-Alpha.3 — Just released!](https://starkware.medium.com/cairo-1-0-alpha-3-just-released-45ba7f2f995f)
+
+
 #### [zkSync](https://github.com/matter-labs/zksync)
 
 - [All Aboard zkSync Era Mainnet](https://blog.matter-labs.io/all-aboard-zksync-era-mainnet-8b8964ba7c59)
@@ -242,7 +247,7 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
-
+Sep 12-15 | Albuquerque, NM & Online | [RustConf 2023](https://rustconf.com/)
 
 &nbsp;
 

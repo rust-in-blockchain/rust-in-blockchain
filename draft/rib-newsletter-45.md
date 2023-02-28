@@ -51,6 +51,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [What Is a zkEVM?](https://blog.chain.link/zkevm/)
 - [What Is Zero-Knowledge Encryption?](https://blog.chain.link/zero-knowledge-encryption/)
 
 #### Papers
@@ -155,7 +156,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Spacemesh](https://github.com/spacemeshos)
 
-#### [Subspace Labs](https://github.com/subspace)
+#### [Subspace Network](https://github.com/subspace)
 
 #### [Sui](https://github.com/MystenLabs)
 

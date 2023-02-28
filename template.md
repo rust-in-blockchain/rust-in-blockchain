@@ -143,7 +143,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Spacemesh](https://github.com/spacemeshos)
 
-#### [Subspace Labs](https://github.com/subspace)
+#### [Subspace Network](https://github.com/subspace)
 
 #### [Sui](https://github.com/MystenLabs)
 

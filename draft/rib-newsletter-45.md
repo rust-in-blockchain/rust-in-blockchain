@@ -29,6 +29,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[huitseeker]: https://github.com/huitseeker
 [djddo]: https://github.com/djddo
 [Rodairos]: https://github.com/rodairos
 [Brian Anderson]: https://github.com/brson
@@ -53,6 +54,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [What Is a zkEVM?](https://blog.chain.link/zkevm/)
 - [What Is Zero-Knowledge Encryption?](https://blog.chain.link/zero-knowledge-encryption/)
+- [Sangria: a Folding Scheme for PLONK](https://geometry.xyz/notebook/sangria-a-folding-scheme-for-plonk),
+  a way to achieve IVC, similar to Nova, but on top of a Plonk arithmetization instead of R1CS.
 
 #### Papers
 
@@ -276,5 +279,3 @@ Want to be included in the next issue? Feel free to submit a PR to the
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 
 [ribtg]: https://t.me/rustinblockchain
-
-

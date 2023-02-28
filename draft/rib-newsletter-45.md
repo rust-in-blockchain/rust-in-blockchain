@@ -18,9 +18,10 @@ industry topics.
 
 Thanks to contributors:
 [djddo],
+[François Garillot],
 [Rodairos],
-_TODO_
-
+_TODO_,
+[Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -29,8 +30,8 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
-[huitseeker]: https://github.com/huitseeker
 [djddo]: https://github.com/djddo
+[François Garillot]: https://github.com/huitseeker
 [Rodairos]: https://github.com/rodairos
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer

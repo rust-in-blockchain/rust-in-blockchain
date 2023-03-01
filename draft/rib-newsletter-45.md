@@ -85,6 +85,42 @@ Bold entries here are especially relevant to blockchain projects.
 <!-- https://github.com/rustsec/advisory-db/pulls -->
 <!-- https://osv.dev/list?page=2&ecosystem=crates.io -->
 
+- [RUSTSEC-2022-0086: Vulnerability in `slack-morphism`](https://rustsec.org/advisories/RUSTSEC-2022-0086.html).
+- [RUSTSEC-2022-0087: Vulnerability in slack-morphism](https://rustsec.org/advisories/RUSTSEC-2022-0087.html).
+- **[RUSTSEC-2022-0084: Vulnerability in libp2p](https://rustsec.org/advisories/RUSTSEC-2022-0084.html).**
+- [RUSTSEC-2023-0004: Vulnerability in bzip2](https://rustsec.org/advisories/RUSTSEC-2023-0004.html).
+- [RUSTSEC-2022-0085: Vulnerability in matrix-sdk-crypto](https://rustsec.org/advisories/RUSTSEC-2022-0085.html).
+- **[RUSTSEC-2022-0083: Vulnerability in evm](https://rustsec.org/advisories/RUSTSEC-2022-0083.html).**
+- [RUSTSEC-2023-0005: Unsoundness in tokio](https://rustsec.org/advisories/RUSTSEC-2023-0005.html).
+- [RUSTSEC-2020-0166: Security notice about personnummer](https://rustsec.org/advisories/RUSTSEC-2020-0166.html).
+- [RUSTSEC-2022-0088: Vulnerability in tauri](https://rustsec.org/advisories/RUSTSEC-2022-0088.html).
+- [RUSTSEC-2022-0089: Vulnerability in aliyun-oss-client](https://rustsec.org/advisories/RUSTSEC-2022-0089.html).
+- [RUSTSEC-2023-0008: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2023-0008.html).
+  - X.509 Name Constraints Read Buffer Overflow
+- [RUSTSEC-2023-0013: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2023-0013.html).
+  - `NULL` dereference during PKCS7 data verification
+- [RUSTSEC-2023-0010: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2023-0010.html).
+  - Double free after calling `PEM_read_bio_ex`
+- [RUSTSEC-2023-0007: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2023-0007.html).
+  - Timing Oracle in RSA Decryption
+- [RUSTSEC-2023-0012: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2023-0012.html).
+  - `NULL` dereference validating DSA public key
+- [RUSTSEC-2023-0009: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2023-0009.html).
+  - Use-after-free following `BIO_new_NDEF`
+- [RUSTSEC-2023-0006: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2023-0006.html).
+  - X.400 address type confusion in X.509 `GeneralName`
+- [RUSTSEC-2023-0011: Vulnerability in openssl-src](https://rustsec.org/advisories/RUSTSEC-2023-0011.html).
+  - Invalid pointer dereference in `d2i_PKCS7` functions
+- [RUSTSEC-2020-0167: Vulnerability in pnet_packet](https://rustsec.org/advisories/RUSTSEC-2020-0167.html).
+- [RUSTSEC-2023-0014: Unsoundness in cortex-m-rt](https://rustsec.org/advisories/RUSTSEC-2023-0014.html).
+- [RUSTSEC-2022-0090: Vulnerability in libsqlite3-sys](https://rustsec.org/advisories/RUSTSEC-2022-0090.html).
+- [RUSTSEC-2023-0016: Unsoundness in partial_sort](https://rustsec.org/advisories/RUSTSEC-2023-0016.html).
+- [RUSTSEC-2023-0015: Unsoundness in ascii](https://rustsec.org/advisories/RUSTSEC-2023-0015.html).
+- [RUSTSEC-2022-0091: Vulnerability in tauri](https://rustsec.org/advisories/RUSTSEC-2022-0091.html).
+- [CVE-2023-26103: Deno vulnerable to Regular Expression Denial of Service](https://github.com/advisories/GHSA-xr9w-x6gw-c9mj).
+- [GHSA-p2gm-ffr3-w2xw: Nervos CKB vulnerable to low-resource flood DDoS attacks through network message](https://github.com/advisories/GHSA-p2gm-ffr3-w2xw).
+- [GHSA-fjj4-2q73-jvgc: Nervos CKB calculation of program load cycles may be missed when executing in resume mode](https://github.com/advisories/GHSA-fjj4-2q73-jvgc).
+
 
 &nbsp;
 

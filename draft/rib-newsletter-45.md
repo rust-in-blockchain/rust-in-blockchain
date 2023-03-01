@@ -90,6 +90,31 @@ Bold entries here are especially relevant to blockchain projects.
 
 ## Most Active in February
 
+[Sui](https://github.com/MystenLabs):
+471 merged PRs,
+57 closed issues,
+122 open issues
+
+[Solana](https://github.com/solana-labs/solana):
+419 merged PRs,
+125 closed issues,
+35 open issues
+
+[Parity](https://github.com/paritytech):
+414 merged PRs,
+215 closed issues,
+156 open issues
+
+[Fuel](https://github.com/FuelLabs):
+311 merged PRs,
+169 closed issues,
+119 open issues
+
+[Starkware](https://github.com/starkware-libs):
+286 merged PRs,
+37 closed issues,
+6 open issues
+
 &nbsp;
 
 ## Project Updates

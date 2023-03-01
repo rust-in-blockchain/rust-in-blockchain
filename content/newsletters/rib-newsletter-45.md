@@ -4,7 +4,9 @@ description: "February 2023"
 date: 2023-03-01
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #45 edition of Rust in Blockchain,
+This month we spotlight `Nova`, a recursive SNARK,
+and `SuperNova`, a refinement of Nova with more efficient proofs of individual program steps."
 ---
 
 Welcome to the #45 edition of Rust in Blockchain, the monthly

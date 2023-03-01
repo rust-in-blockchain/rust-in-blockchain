@@ -50,11 +50,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [Hello, Stylus](https://offchain.medium.com/hello-stylus-6b18fecc3a22).
+  Arbitrum's new programming enviroment that supports Rust, C, C++ and more.
+  It's not open sourced yet.
 
 #### Blog Posts
 
+- [A walkthrough on the open source Aleo VM implemented with Arkworks and blockchain implemented with Tendermint](https://www.notamonadtutorial.com/open-source-aleo-vm-implemented-with-arkworks-and-blockchain-implemented-with-tendermint/)
 - [What Is a zkEVM?](https://blog.chain.link/zkevm/)
 - [What Is Zero-Knowledge Encryption?](https://blog.chain.link/zero-knowledge-encryption/)
+- [Unveiling OlaVM Proof of Concept: The Next-Generation Full-Featured zkVM](https://medium.com/@sin7y/unveiling-olavm-proof-of-concept-the-next-generation-full-featured-zkvm-5840b27f8e4c)
 - [Sangria: a Folding Scheme for PLONK](https://geometry.xyz/notebook/sangria-a-folding-scheme-for-plonk),
   a way to achieve IVC, similar to Nova, but on top of a Plonk arithmetization instead of R1CS.
 
@@ -63,6 +68,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [Bonsai Starter Template](https://github.com/risc0/bonsai-starter-template).
+  Starter template for writing an application using Bonsai, a general purpose zero-knowledge proof network.
+  
 
 &nbsp;
 
@@ -152,6 +160,8 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Parity](https://github.com/paritytech)
 
+- [ink! 4.0!](https://www.parity.io/we-just-released-ink-4-0)
+
 #### [Radix](https://github.com/radixdlt)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
@@ -233,7 +243,6 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [Starkware](https://github.com/starkware-libs)
 
 - [Cairo 1.0-Alpha.3 — Just released!](https://starkware.medium.com/cairo-1-0-alpha-3-just-released-45ba7f2f995f)
-
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 

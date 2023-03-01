@@ -70,7 +70,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Bonsai Starter Template](https://github.com/risc0/bonsai-starter-template).
   Starter template for writing an application using Bonsai, a general purpose zero-knowledge proof network.
-  
+- [Arti 1.1.1 released](https://blog.torproject.org/arti_111_released/).
+  Arti is Tor implemented as a Rust library.
 
 &nbsp;
 

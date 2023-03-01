@@ -44,6 +44,29 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[microsoft/Nova](https://github.com/microsoft/Nova)
+and
+[jules/supernova](https://github.com/jules/supernova).
+
+Nova is a recursive SNARK,
+and SuperNova is a refinement of Nova
+with more efficient proofs of individual program steps.
+
+In SuperNova the cost of proving a step of the program is proportional only to the
+size of the circuit for that instruction;
+whereas in most SNARKS the cost of proving a single step
+is proportional to the sum of circuit sizes of all possible instructions.
+
+Described in
+["Nova: Recursive Zero-Knowledge Arguments from Folding Schemes"](https://eprint.iacr.org/2021/370)
+and
+["SuperNova: Proving universal machine executions without universal circuits"](https://eprint.iacr.org/2022/1758).
+
+While Nova is a Microsoft project,
+the above SuperNova implementation is not,
+though the Nova author [has plans to publish a SuperNova implementation](https://github.com/microsoft/Nova/issues/120).
+
+
 &nbsp;
 
 

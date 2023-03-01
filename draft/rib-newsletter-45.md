@@ -17,10 +17,10 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[Dennis Zoma],
 [djddo],
 [François Garillot],
 [Rodairos],
-_TODO_,
 [Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
@@ -30,6 +30,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Dennis Zoma]: https://github.com/wottpal
 [djddo]: https://github.com/djddo
 [François Garillot]: https://github.com/huitseeker
 [Rodairos]: https://github.com/rodairos
@@ -65,6 +66,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [Faithful Simulation of Randomized BFT Protocols on Block DAGs](https://eprint.iacr.org/2023/192)
+- [Reputation-based state machine replication](https://eprint.iacr.org/2023/169)
 
 #### Projects
 

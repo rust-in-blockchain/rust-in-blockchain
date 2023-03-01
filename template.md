@@ -188,7 +188,7 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
-#### [Rust Simplicity](https://github.com/ElementsProject/rust-simplicity)
+#### [Rust Simplicity](https://github.com/BlockstreamResearch/rust-simplicity)
 
 #### [Sapio](https://github.com/sapio-lang/sapio)
 

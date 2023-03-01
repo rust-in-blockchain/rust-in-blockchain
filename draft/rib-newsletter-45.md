@@ -1,5 +1,5 @@
 ---
-title: "RiB Newsletter #45 - _TODO_"
+title: "RiB Newsletter #45"
 description: "February 2023"
 date: 2023-03-01
 categories:
@@ -68,6 +68,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Faithful Simulation of Randomized BFT Protocols on Block DAGs](https://eprint.iacr.org/2023/192)
 - [Reputation-based state machine replication](https://eprint.iacr.org/2023/169)
+- [Byzantine-Resilient Multi-Agent Distributed Exact Optimization with Less Data](https://arxiv.org/abs/2302.14570)
 
 #### Projects
 
@@ -75,6 +76,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   Starter template for writing an application using Bonsai, a general purpose zero-knowledge proof network.
 - [Arti 1.1.1 released](https://blog.torproject.org/arti_111_released/).
   Arti is Tor implemented as a Rust library.
+- [SuperNova](https://github.com/jules/supernova).
+  Rust implementation of the SuperNova protocol.
 
 &nbsp;
 
@@ -300,15 +303,17 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Espresso Systems](https://github.com/EspressoSystems)
 
-31 merged PRs ([1][espresso_systems-merged-prs-1], [2][espresso_systems-merged-prs-2], [3][espresso_systems-merged-prs-3]),
-36 closed issues ([1][espresso_systems-closed_issues-1], [2][espresso_systems-closed_issues-2]),
+33 merged PRs ([1][espresso_systems-merged-prs-1], [2][espresso_systems-merged-prs-2], [3][espresso_systems-merged-prs-3], [4][espresso_systems-merged-prs-4]),
+37 closed issues ([1][espresso_systems-closed_issues-1], [2][espresso_systems-closed_issues-2], [3][espresso_systems-closed_issues-3]),
 31 open issues ([1][espresso_systems-open_issues-1], [2][espresso_systems-open_issues-2])
 
 [espresso_systems-merged-prs-1]: https://github.com/EspressoSystems/jellyfish/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-02-01..2023-02-28%20-author:app/dependabot
 [espresso_systems-merged-prs-2]: https://github.com/EspressoSystems/HotShot/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-02-01..2023-02-28%20-author:app/dependabot
 [espresso_systems-merged-prs-3]: https://github.com/EspressoSystems/espresso-systems-common/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-02-01..2023-02-28%20-author:app/dependabot
+[espresso_systems-merged-prs-4]: https://github.com/EspressoSystems/hyperplonk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-02-01..2023-02-28%20-author:app/dependabot
 [espresso_systems-closed_issues-1]: https://github.com/EspressoSystems/HotShot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-02-01..2023-02-28%20-author:app/dependabot
 [espresso_systems-closed_issues-2]: https://github.com/EspressoSystems/espresso-systems-common/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-02-01..2023-02-28%20-author:app/dependabot
+[espresso_systems-closed_issues-3]: https://github.com/EspressoSystems/hyperplonk/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-02-01..2023-02-28%20-author:app/dependabot
 [espresso_systems-open_issues-1]: https://github.com/EspressoSystems/jellyfish/issues?q=is%3Aissue+is%3Aopen+created%3A2023-02-01..2023-02-28%20-author:app/dependabot
 [espresso_systems-open_issues-2]: https://github.com/EspressoSystems/HotShot/issues?q=is%3Aissue+is%3Aopen+created%3A2023-02-01..2023-02-28%20-author:app/dependabot
 

@@ -244,6 +244,7 @@ repos = [
 "EspressoSystems/espresso",
 "EspressoSystems/espresso-systems-common",
 "EspressoSystems/atomicstore",
+"EspressoSystems/hyperplonk",
 ]
 ```
 
@@ -709,7 +710,7 @@ repos = [
 ]
 ```
 
-### Subspace Labs
+### Subspace Network
 
 Media:
 - https://subspace.network
@@ -1008,11 +1009,11 @@ repos = [
 ### Rust Simplicity
 
 GitHub:
-- https://github.com/ElementsProject/rust-simplicity
+- https://github.com/BlockstreamResearch/rust-simplicity
 
 ```toml
 repos = [
-"ElementsProject/rust-simplicity",
+"BlockstreamResearch/rust-simplicity",
 ]
 ```
 

@@ -123,11 +123,15 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Mina](https://github.com/MinaProtocol)
 
+- [zkVMs are cool, but have you heard of zkCPUs?](https://www.cryptologie.net/article/589/zkvms-are-cool-but-have-you-heard-of-zkcpus/)
+
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 #### [MultiversX](https://github.com/multiversx)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
+
+- [Near Announces the Blockchain Operation System](https://near.org/blog/near-announces-the-blockchain-operation-system/)
 
 #### [Nervos](https://github.com/nervosnetwork)
 

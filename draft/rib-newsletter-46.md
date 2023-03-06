@@ -54,6 +54,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [zkPoEX](https://github.com/zkoranges/zkPoEX) enables white hat
+  hackers to report live vulnerabilities in smart contracts while
+  maintaining the confidentiality of the exploit, facilitating
+  efficient communication and collaboration between hackers and
+  project owners for a more secure DeFi ecosystem.
 
 &nbsp;
 

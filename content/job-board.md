@@ -34,6 +34,9 @@ Bolt Labs | US, Remote
 - [Senior Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/HytKoEmwY)
 - [Blockchain Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1l5QGguY)
 
+Chainflip Labs GmbH | Berlin
+- [Senior Rust Engineer](https://angel.co/company/chainflip/jobs/1644220-senior-rust-engineer)
+
 DEX Labs | Remote
 - [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb-rust-engineer)
 

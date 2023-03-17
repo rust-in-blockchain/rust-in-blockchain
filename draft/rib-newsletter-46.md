@@ -17,7 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
+[Andrew Dibble],
 _TODO_
 
 Thank you for your help!
@@ -28,6 +28,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Andrew Dibble]: https://github.com/acdibble
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -253,6 +254,8 @@ Company name | Location A, B, Remote
 
 -->
 
+Chainflip Labs GmbH | Berlin
+- [Senior Rust Engineer](https://angel.co/company/chainflip/jobs/1644220-senior-rust-engineer)
 
 
 More jobs can be found at [Job Board][page-jobboard].

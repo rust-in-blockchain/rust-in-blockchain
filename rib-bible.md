@@ -35,14 +35,13 @@ GitHub:
 ```toml
 repos = [
 "AleoHQ/aleo",
+"AleoHQ/aleo_lambda_blockchain",
 "AleoHQ/aleo-std",
 "AleoHQ/aleo-setup-integration-test",
 "AleoHQ/aleo_vm_lambda",
 "AleoHQ/leo",
-"AleoHQ/mpmc-bus",
 "AleoHQ/snarkOS",
 "AleoHQ/snarkVM",
-"AleoHQ/tracing-bridge",
 "AleoHQ/wagyu",
 "AleoHQ/wagyu-zcash-parameters",
 "AleoHQ/welcome",
@@ -266,7 +265,7 @@ repos = [
 "filecoin-project/filecoin-ffi",
 "filecoin-project/filecoin-phase2",
 "filecoin-project/fvm-evm",
-"filecoin-project/neptune",
+"lurk-lab/neptune",
 "filecoin-project/ref-fvm",
 "filecoin-project/rust-filecoin-proofs-api",
 "filecoin-project/rust-fil-ffi-toolkit",
@@ -1106,6 +1105,17 @@ repos = [
 "mir-protocol/r1cs",
 "mir-protocol/r1cs-zkinterface",
 "mir-protocol/r1cs-bellman",
+]
+```
+
+### Reth
+
+GitHub:
+- https://github.com/paradigmxyz/reth
+
+```toml
+repos = [
+"paradigmxyz/reth",
 ]
 ```
 

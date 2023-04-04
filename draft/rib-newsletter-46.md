@@ -494,6 +494,43 @@ Bold entries here are especially relevant to blockchain projects.
 236 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5], [6][parity-closed_issues-6], [7][parity-closed_issues-7], [8][parity-closed_issues-8], [9][parity-closed_issues-9], [10][parity-closed_issues-10], [11][parity-closed_issues-11], [12][parity-closed_issues-12]),
 172 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5], [6][parity-open_issues-6], [7][parity-open_issues-7], [8][parity-open_issues-8], [9][parity-open_issues-9], [10][parity-open_issues-10], [11][parity-open_issues-11], [12][parity-open_issues-12])
 
+[parity-merged-prs-1]: https://github.com/paritytech/substrate/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-merged-prs-2]: https://github.com/paritytech/polkadot/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-merged-prs-3]: https://github.com/paritytech/cumulus/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-merged-prs-4]: https://github.com/paritytech/parity-signer/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-merged-prs-5]: https://github.com/paritytech/ink/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-merged-prs-6]: https://github.com/paritytech/subxt/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-merged-prs-7]: https://github.com/paritytech/jsonrpsee/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-merged-prs-8]: https://github.com/paritytech/frontier/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-merged-prs-9]: https://github.com/paritytech/cargo-contract/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-merged-prs-10]: https://github.com/paritytech/ink-playground/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-merged-prs-11]: https://github.com/paritytech/metadata-portal/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-merged-prs-12]: https://github.com/paritytech/parity-bridges-common/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-3]: https://github.com/paritytech/cumulus/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-4]: https://github.com/paritytech/parity-signer/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-5]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-6]: https://github.com/paritytech/subxt/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-7]: https://github.com/paritytech/jsonrpsee/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-8]: https://github.com/paritytech/frontier/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-9]: https://github.com/paritytech/cargo-contract/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-10]: https://github.com/paritytech/substrate-contracts-node/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-11]: https://github.com/paritytech/metadata-portal/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-closed_issues-12]: https://github.com/paritytech/parity-bridges-common/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-1]: https://github.com/paritytech/substrate/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-2]: https://github.com/paritytech/polkadot/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-3]: https://github.com/paritytech/cumulus/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-4]: https://github.com/paritytech/parity-signer/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-5]: https://github.com/paritytech/smoldot/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-6]: https://github.com/paritytech/ink/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-7]: https://github.com/paritytech/subxt/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-8]: https://github.com/paritytech/jsonrpsee/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-9]: https://github.com/paritytech/frontier/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-10]: https://github.com/paritytech/cargo-contract/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-11]: https://github.com/paritytech/metadata-portal/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+[parity-open_issues-12]: https://github.com/paritytech/parity-bridges-common/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+
 #### [Radix](https://github.com/radixdlt)
 
 96 merged PRs ([1][radix-merged-prs-1], [2][radix-merged-prs-2], [3][radix-merged-prs-3], [4][radix-merged-prs-4], [5][radix-merged-prs-5]),

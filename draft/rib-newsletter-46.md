@@ -38,6 +38,8 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+Nothing this month.
+
 &nbsp;
 
 
@@ -71,6 +73,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [EZKL](https://github.com/zkonduit/ezkl) is a library and
   command-line tool for doing inference for deep learning models and
   other computational graphs in a zk-snark.
+- [HVM](https://github.com/HigherOrderCO/HVM). Higher-order Virtual Machine,
+  a "pure functional runtime that is lazy, non-garbage-collected and massively parallel.
+  It is also beta-optimal, meaning that, for higher-order computations, it can, in some cases,
+  be exponentially (in the asymptotical sense) faster than alternatives, including Haskell's GHC."
+  A component of [Kindelia](https://github.com/HigherOrderCO/Kindelia).
 
 &nbsp;
 

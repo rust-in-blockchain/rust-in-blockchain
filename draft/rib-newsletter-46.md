@@ -264,6 +264,9 @@ Bold entries here are especially relevant to blockchain projects.
 [filecoin-open_issues-4]: https://github.com/filecoin-project/rust-fil-proofs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 [filecoin-open_issues-5]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 
+- [The Filecoin Virtual Machine (FVM) is live on Mainnet!](https://filecoin.io/blog/posts/fvm-is-live-on-mainnet/)
+- [Refreshing the Filecoin Bug Bounty Program](https://filecoin.io/blog/posts/refreshing-the-filecoin-bug-bounty-program/)
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 48 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2], [3][findora-merged-prs-3]),
@@ -863,6 +866,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-open_issues-2]: https://github.com/starkware-libs/papyrus/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 [starkware-open_issues-3]: https://github.com/starkware-libs/starknet-api/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 
+- [Starknet Alpha v0.11.0: The Transition to Cairo 1.0 Begins](https://medium.com/starkware/starknet-alpha-v0-11-0-the-transition-to-cairo-1-0-begins-30442d494515)
+
 #### [zkSync](https://github.com/matter-labs/zksync)
 
 0 merged PRs,
@@ -885,7 +890,21 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
+Apr 28 - Jun 9 | Online | [Chainlink Hackathon Spring 2023](https://chain.link/hackathon)
 
+May 1-5 | Bol, Brač, Croatia | [Financial Cryptography and Data Security 2023](https://fc23.ifca.ai/)
+
+May 20-21 | Amsterdam, Netherlands | [ETHDam](https://www.ethdam.com/)
+
+Jun 3-5 | Prague, Czech Republic | [Gateway to Cosmos 2023](https://gateway.events/)
+
+Jun 17-20 | Paris, France | [EthCC](https://www.ethcc.io/)
+
+Aug 28-30 | Palo Alto, CA, US | [The Science of Blockchain Conference 2023](https://cbr.stanford.edu/sbc23/)
+
+Sep 11-13 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
+
+Sep 12-15 | Albuquerque, NM & Online | [RustConf 2023](https://rustconf.com/)
 
 &nbsp;
 

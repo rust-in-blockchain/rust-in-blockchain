@@ -18,8 +18,7 @@ industry topics.
 
 Thanks to contributors:
 [Andrew Dibble],
-_TODO_
-
+[Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -124,6 +123,31 @@ Bold entries here are especially relevant to blockchain projects.
 &nbsp;
 
 ## Most Active in March
+
+[Sui](https://github.com/MystenLabs):
+1115 merged PRs,
+167 closed issues,
+102 open issues
+
+[Parity](https://github.com/paritytech):
+504 merged PRs,
+236 closed issues,
+172 open issues
+
+[Aptos](https://github.com/aptos-labs):
+442 merged PRs,
+92 closed issues,
+75 open issues
+
+[Starkware](https://github.com/starkware-libs):
+341 merged PRs,
+24 closed issues,
+12 open issues
+
+[Solana](https://github.com/solana-labs/solana):
+335 merged PRs,
+54 closed issues,
+33 open issues
 
 &nbsp;
 

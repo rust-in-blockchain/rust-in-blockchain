@@ -86,6 +86,40 @@ Bold entries here are especially relevant to blockchain projects.
 <!-- https://github.com/rustsec/advisory-db/pulls -->
 <!-- https://osv.dev/list?page=2&ecosystem=crates.io -->
 
+- [RUSTSEC-2023-0018: Vulnerability in remove_dir_all](https://rustsec.org/advisories/RUSTSEC-2023-0018.html).
+- [RUSTSEC-2023-0017: Unsoundness in maligned](https://rustsec.org/advisories/RUSTSEC-2023-0017.html).
+- [RUSTSEC-2023-0019: kuchiki is unmaintained](https://rustsec.org/advisories/RUSTSEC-2023-0019.html).
+- [RUSTSEC-2021-0149: nphysics2d is unmaintained](https://rustsec.org/advisories/RUSTSEC-2021-0149.html).
+- [RUSTSEC-2021-0148: nphysics3d is unmaintained](https://rustsec.org/advisories/RUSTSEC-2021-0148.html).
+- [RUSTSEC-2021-0150: ncollide3d is unmaintained](https://rustsec.org/advisories/RUSTSEC-2021-0150.html).
+- [RUSTSEC-2023-0020: Unsoundness in const-cstr](https://rustsec.org/advisories/RUSTSEC-2023-0020.html).
+- [RUSTSEC-2020-0168: mach is unmaintained](https://rustsec.org/advisories/RUSTSEC-2020-0168.html).
+- [RUSTSEC-2021-0153: encoding is unmaintained](https://rustsec.org/advisories/RUSTSEC-2021-0153.html).
+- [RUSTSEC-2021-0152: Unsoundness in out-reference](https://rustsec.org/advisories/RUSTSEC-2021-0152.html).
+- [RUSTSEC-2021-0151: ncollide2d is unmaintained](https://rustsec.org/advisories/RUSTSEC-2021-0151.html).
+- [RUSTSEC-2019-0040: boxfnonce is unmaintained](https://rustsec.org/advisories/RUSTSEC-2019-0040.html).
+- [RUSTSEC-2023-0021: Vulnerability in stb_image](https://rustsec.org/advisories/RUSTSEC-2023-0021.html).
+- [RUSTSEC-2022-0092: Unsoundness in rmp-serde](https://rustsec.org/advisories/RUSTSEC-2022-0092.html).
+- **[RUSTSEC-2023-0024: Vulnerability in openssl](https://rustsec.org/advisories/RUSTSEC-2023-0024.html).**
+- **[RUSTSEC-2023-0023: Vulnerability in openssl](https://rustsec.org/advisories/RUSTSEC-2023-0023.html).**
+- **[RUSTSEC-2023-0022: Vulnerability in openssl](https://rustsec.org/advisories/RUSTSEC-2023-0022.html).**
+- [RUSTSEC-2023-0028: buf_redux is unmaintained](https://rustsec.org/advisories/RUSTSEC-2023-0028.html).
+- [RUSTSEC-2023-0026: git-path is unmaintained](https://rustsec.org/advisories/RUSTSEC-2023-0026.html).
+- [RUSTSEC-2023-0025: git-hash is unmaintained](https://rustsec.org/advisories/RUSTSEC-2023-0025.html).
+- [RUSTSEC-2023-0027: Vulnerability in async-nats](https://rustsec.org/advisories/RUSTSEC-2023-0027.html).
+- [RUSTSEC-2023-0029: Vulnerability in nats](https://rustsec.org/advisories/RUSTSEC-2023-0029.html).
+- [RUSTSEC-2023-0030: Vulnerability in versionize](https://rustsec.org/advisories/RUSTSEC-2023-0030.html).
+- [RUSTSEC-2023-0031: Unsoundness in spin](https://rustsec.org/advisories/RUSTSEC-2023-0031.html).
+- [CVE-2023-27477: wasmtime vulnerable to miscompilation of `i8x16.select` with the same inputs on x86_64](https://github.com/advisories/GHSA-xm67-587q-r2vw).
+- [CVE-2023-26489: wasmtime vulnerable to guest-controlled out-of-bounds read/write on x86_64](https://github.com/advisories/GHSA-ff4p-7xrq-q5r8).
+- [CVE-2023-28113: russh may use insecure Diffie-Hellman keys](https://github.com/advisories/GHSA-cqvm-j2r2-hwpg).
+- [CVE-2023-28431: Frontier's modexp precompile is slow for even modulus](https://github.com/advisories/GHSA-fcmm-54jp-7vf6).
+- [CVE-2023-28445: Deno improperly handles resizable ArrayBuffer](https://github.com/advisories/GHSA-c25x-cm9x-qqgx).
+- [CVE-2023-28446: deno: Interactive `run` permission prompt spoofing via improper ANSI neutralization](https://github.com/advisories/GHSA-vq67-rp93-65qf).
+- [CVE-2023-28626: Comrak vulnerable to quadratic runtime issues when parsing Markdown](https://github.com/advisories/GHSA-8hqf-xjwp-p67v).
+- [GHSA-xxmq-4vph-956w: Comrak vulnerable to production of excessive output when parsing Markdown](https://github.com/advisories/GHSA-xxmq-4vph-956w).
+- [CVE-2023-28631: Comrak AST node data is not validated](https://github.com/advisories/GHSA-5r3x-p7xx-x6q5).
+- [CVE-2023-26103: Regular Expression Denial of Service in Deno.upgradeWebSocket API](https://github.com/advisories/GHSA-jc97-h3h9-7xh6).
 
 &nbsp;
 

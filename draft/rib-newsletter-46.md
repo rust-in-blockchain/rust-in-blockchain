@@ -44,14 +44,23 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
+- [Security Considerations for Precompiled Contracts](https://www.kalos.xyz/blog/security-considerations-for-precompiled-contracts)
+- [Writing an LLVM backend for the Move language in Rust](https://brson.github.io/2023/03/12/move-on-llvm)
+- [Settlement Layers? Ethereum Rollups? Sovereign Rollups?](https://stonecoldpat.substack.com/p/settlement-layers-ethereum-rollups)
+- [Using Metal and Rust to make FFT even faster](https://www.notamonadtutorial.com/using-metal-and-rust-to-make-fft-even-faster/)
+- [Bringing Zero-Knowledge Proofs to Penumbra](https://penumbra.zone/blog/zkproofs-intro/)
+- [An Introduction To Zero-knowledge Machine Learning (ZKML)](https://worldcoin.org/blog/engineering/intro-to-zkml)
+- [Codex (and GPT-4) can’t beat humans on smart contract audits](https://blog.trailofbits.com/2023/03/22/codex-and-gpt4-cant-beat-humans-on-smart-contract-audits/)
+- [What is the difference between PBFT, Tendermint, HotStuff, and HotStuff-2?](https://decentralizedthoughts.github.io/2023-04-01-hotstuff-2/)
+- [Risk Analysis of Intel's SGX and Other TEEs](https://zecsec.com/posts/risk-analysis-of-intel-sgx-and-other-tees/)
 
 #### Papers
 
+- [Extended Abstract: HotStuff-2: Optimal Two-Phase Responsive BFT](https://eprint.iacr.org/2023/397)
+- [Simplex Consensus: A Simple and Fast Consensus Protocol](https://eprint.iacr.org/2023/463)
+- [The Cost of Intelligence: Proving Machine Learning Inference with Zero-Knowledge](https://drive.google.com/file/d/1tylpowpaqcOhKQtYolPlqvx6R2Gv4IzE/view)
 
 #### Projects
 
@@ -60,6 +69,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   maintaining the confidentiality of the exploit, facilitating
   efficient communication and collaboration between hackers and
   project owners for a more secure DeFi ecosystem.
+- [EZKL](https://github.com/zkonduit/ezkl) is a library and
+  command-line tool for doing inference for deep learning models and
+  other computational graphs in a zk-snark.
 
 &nbsp;
 
@@ -212,6 +224,9 @@ Bold entries here are especially relevant to blockchain projects.
 [dfinity-open_issues-2]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 [dfinity-open_issues-3]: https://github.com/dfinity/vessel/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 
+- [Chain-Key Bitcoin: A Decentralized Bitcoin Twin](https://medium.com/dfinity/chain-key-bitcoin-a-decentralized-bitcoin-twin-ceb8f4ddf95e)
+- [Understanding the Ethereum Virtual Machine Canister (EVMC): A Beginner’s Guide](https://medium.com/dfinity/understanding-the-ethereum-virtual-machine-canister-evmc-a-beginners-guide-df4fd69c8ad4)
+
 #### [Dusk Network](https://github.com/dusk-network)
 
 12 merged PRs ([1][dusk_network-merged-prs-1], [2][dusk_network-merged-prs-2]),
@@ -323,6 +338,8 @@ Bold entries here are especially relevant to blockchain projects.
 [fuel-open_issues-7]: https://github.com/FuelLabs/fuelup/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 [fuel-open_issues-8]: https://github.com/FuelLabs/sway/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 
+- [Fuel VM Binary Analysis](https://jtriley.substack.com/p/fuel-vm-binary-analysis)
+
 #### [Golem](https://github.com/golemfactory)
 
 25 merged PRs ([1][golem-merged-prs-1], [2][golem-merged-prs-2], [3][golem-merged-prs-3]),
@@ -361,6 +378,8 @@ Bold entries here are especially relevant to blockchain projects.
 [helium-closed_issues-2]: https://github.com/helium/helium-wallet-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
 [helium-open_issues-1]: https://github.com/helium/gateway-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 
+- [An Update on the Helium Network’s Migration to Solana](https://blog.helium.com/an-update-on-the-helium-networks-migration-to-solana-4550e20552a9)
+
 #### [Holochain](https://github.com/holochain/)
 
 100 merged PRs ([1][holochain-merged-prs-1], [2][holochain-merged-prs-2]),
@@ -373,6 +392,8 @@ Bold entries here are especially relevant to blockchain projects.
 [holochain-closed_issues-2]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
 [holochain-open_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 [holochain-open_issues-2]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+
+- [hc CLI: Test, Run, and Package Your hApp](https://blog.holochain.org/hc-cli-test-run-and-package-your-happ/)
 
 #### [IOTA](https://github.com/iotaledger)
 
@@ -616,6 +637,8 @@ Bold entries here are especially relevant to blockchain projects.
 [zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 [zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
 [zcash-open_issues-4]: https://github.com/zcash/orchard/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+
+- [Making Zcash Light Wallets Faster and More Private](https://zecsec.com/posts/making-zcash-light-wallets-faster-and-more-private/)
 
 &nbsp;
 
@@ -876,6 +899,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 [zksync-closed_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-03-01..2023-03-31%20-author:app/dependabot
 [zksync-open_issues-1]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2023-03-01..2023-03-31%20-author:app/dependabot
+
+- [gm zkEVM!](https://blog.matter-labs.io/gm-zkevm-171b12a26b36)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 

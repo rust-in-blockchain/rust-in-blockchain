@@ -4,7 +4,10 @@ description: "March 2023"
 date: 2023-04-05
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #46 edition of Rust in Blockchain.
+This month we spotlight `Kind` and `HVM`.
+Kind is a lazy, functional, but non-garbage-collected language, in the spirit of Haskell.
+It runs on HVM."
 ---
 
 Welcome to the #46 edition of Rust in Blockchain, the monthly

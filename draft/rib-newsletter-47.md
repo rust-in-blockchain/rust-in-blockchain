@@ -1,16 +1,16 @@
 ---
-title: "RiB Newsletter #45 - _TODO_"
-description: "February 2023"
-date: 2023-03-01
+title: "RiB Newsletter #47"
+description: "April 2023"
+date: 2023-05-03
 categories:
   - "newsletters"
 summary: "_TODO_"
 ---
 
-Welcome to the #45 edition of Rust in Blockchain, the monthly
+Welcome to the #47 edition of Rust in Blockchain, the monthly
 newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
-[Previous: #44](/newsletters/rib-newsletter-44/).
+[Previous: #46](/newsletters/rib-newsletter-46/).
 
 &nbsp;
 
@@ -71,7 +71,7 @@ Bold entries here are especially relevant to blockchain projects.
 
 &nbsp;
 
-## Most Active in February
+## Most Active in April
 
 &nbsp;
 

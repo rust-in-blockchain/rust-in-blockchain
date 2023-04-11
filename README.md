@@ -14,8 +14,8 @@ Please make sure you have read
 [Contribute to RiB Community](https://rustinblockchain.org/contributing)
 before contributing.
 
-You are welcomed to open an issue
-if the documentation isn't satisfied your question.
+You are welcome to open an issue
+if the documentation doesn't satisfy your question.
 
 ## Support Rust in Blockchain
 

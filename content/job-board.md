@@ -107,3 +107,9 @@ The Graph | Remote
 
 Trail of Bits | Remote
 - [Security Consultant, Cryptography](https://jobs.lever.co/trailofbits/56af8506-3205-4c7b-b28d-ba8292bd1a47)
+
+Lava | Remote
+- [Systems Engineer](https://docs.google.com/document/d/1IynkOVl1Hz7Dz4ufwEscgx8V0Vo-RcTnp7hIDx4dH18/edit#heading=h.exl9ujed9l69)
+- [Infrastructure Engineer](https://docs.google.com/document/d/1Vfa6mvR6xMaWcja3I1TJgxPUueONk5C0BF7X6AhZOpk/edit#heading=h.ue7eoxw5bjyq)
+- [Frontend Engineer](https://docs.google.com/document/d/1FCRxKxNZ45KO0i2rN2EAKJzhGp3k0mk0JpRBSKrXdeM/edit#heading=h.g57lla8b5oqo)
+- [Lead Designer](https://docs.google.com/document/d/1-PzjV0ur76F2B4rKjjVSUiq13lEB5yvtbqJt8vEBYSs/edit#)

@@ -26,9 +26,6 @@ Aurora | Remote
 - [Blockchain/Bridge Engineer](https://docs.google.com/document/d/1xXMEeQffOv2rfPT4jpipwkjo4osmfyAp4eEl51j3dt4/edit?usp=sharing)
 - [Blockchain/EVM Engineer](https://docs.google.com/document/d/1VkaXInjgSczOL_R3aKMOnXKv7lFvvL1z__SlZQLfR78/edit?usp=sharing)
 
-Blockstream | Remote
-- [Software Engineer, iOS (Native)](https://grnh.se/cc6c514e1us)
-
 Bolt Labs | US, Remote
 - [Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1pPcX7Pt)
 - [Senior Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/HytKoEmwY)
@@ -42,7 +39,7 @@ DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
 - [Software Engineer - Systems](https://boards.greenhouse.io/dfinity/jobs/4408974002)
 
 Equilibrium | Remote
-- [Senior Rust Engineer](https://www.notion.so/Hiring-Senior-Rust-Engineer-e6c94ccc261f426c80a483c7fc642412)
+- [Senior Rust Engineer](https://fluttering-gem-83c.notion.site/Hiring-Senior-Rust-Engineer-e6c94ccc261f426c80a483c7fc642412)
 
 Fluence | Remote
 - [Rust Engineer (AquaVM)](https://docs.google.com/document/d/1941617PiUwIUSccQVS-5UDX8kRitp36mTLBgzVtspfQ/edit?usp=sharing)
@@ -50,14 +47,8 @@ Fluence | Remote
 Fractal Protocol | Remote or Berlin
 - [Rust and Blockchain Engineer](https://gist.github.com/juliosantos/ba6d01ffab39b5c06ea459d88b1f735f)
 
-Fuel Labs | Remote
-- [Senior Protocol Engineer [Rust]](https://jobs.lever.co/fuellabs/11f95c0b-e2bb-4e13-bea2-7348b2a491fc)
-
 HashCloak | Toronto, Remote
 - [Junior Research Engineer (MPC)](https://hackmd.io/@hashcloak/HJz2Xn3Z9)
-
-Jet Protocol | Remote
-- [Rust Blockchain Engineer](https://docs.google.com/document/d/1GXuk2LPxoYxIdQGwsL9IZ34B7WjlgkdJBgY7QBgBIn0)
 
 Massa | Paris, Remote
 - [Lead blockchain Developer](https://massa.net/lead_blockchain_developer.html)
@@ -71,8 +62,8 @@ Massa | Paris, Remote
 - [Lead Support Engineer](https://massa.net/lead_support_engineer.html)
 
 Matter Labs | Berlin/Kiev or Remote
-- [Junior Software Engineer (ACM ICPC/IOI finalists)](https://www.notion.so/Junior-Software-Engineer-ACM-ICPC-IOI-finalists-2d062b60daf941f792ebac1958244f52)
-- [Head of Security (Blockchain)](https://www.notion.so/Head-of-Security-Blockchain-444a7d5f558c412da70c3300815a620a)
+- [Junior Software Engineer (ACM ICPC/IOI finalists)](https://matterlabs.notion.site/Junior-Software-Engineer-ACM-ICPC-IOI-finalists-2d062b60daf941f792ebac1958244f52)
+- [Head of Security (Blockchain)](https://matterlabs.notion.site/Head-of-Security-Blockchain-444a7d5f558c412da70c3300815a620a)
 
 NEAR | Remote
 - [Low-Level Developer, Contract Runtime](https://docs.google.com/document/d/18HEwef-HDPZ2FPYfaHWpsd-kSF8E4zNpeQVulqhfFSk/edit?usp=sharing)
@@ -84,20 +75,15 @@ Oxygen | Dubai or Remote
 Parity Technologies | Berlin or Remote
 - [Full Stack Engineer - Common Good Parachains](https://boards.greenhouse.io/parity/jobs/5213777003)
 - [Director of Engineering](https://boards.greenhouse.io/parity/jobs/5245306003)
-- [DevSecOps Lead](https://boards.greenhouse.io/parity/jobs/5095368003)
 
 Polygon Zero | Remote
 - [Senior Protocol Engineer](https://mirprotocol.org/careers/protocol-engineer)
 
-Solana | (Probably) Remote
-- [Front End Engineer](https://solana.com/frontend-eng-jd.pdf)
-
-Stellar | Remote
-- [Senior Smart Contract Engineer](https://grnh.se/2e9c16074us)
-- [Rust Engineer](https://grnh.se/ac41479f4us)
-
-Subspace Labs | Remote
-- [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
+Stellar | New York, Canada, Remote
+- [Rust Engineer (San Francisco)](https://boards.greenhouse.io/stellar/jobs/4768370004)
+- [Rust Engineer (New York)](https://boards.greenhouse.io/stellar/jobs/4768375004)
+- [Rust Engineer (Remote - USA)](https://boards.greenhouse.io/stellar/jobs/4768379004)
+- [Rust Engineer (Remote - Canada)](https://boards.greenhouse.io/stellar/jobs/4768381004)
 
 The Graph | Remote
 - [Rust Engineer](https://thegraph.com/jobs/rust-engineer)

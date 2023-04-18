@@ -17,7 +17,9 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[Andrew Dibble],
 [Calin Martinconi],
+[Chan De Silva],
 _TODO_
 
 Thank you for your help!
@@ -28,7 +30,9 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Andrew Dibble]: https://github.com/acdibble
 [Calin Martinconi]: https://github.com/martinconic
+[Chan De Silva]: https://github.com/cdsdesilva
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

@@ -79,7 +79,7 @@ Parity Technologies | Berlin or Remote
 Polygon Zero | Remote
 - [Senior Protocol Engineer](https://mirprotocol.org/careers/protocol-engineer)
 
-Stellar | New York, Canada, Remote
+Stellar | USA, Canada, Remote
 - [Rust Engineer (San Francisco)](https://boards.greenhouse.io/stellar/jobs/4768370004)
 - [Rust Engineer (New York)](https://boards.greenhouse.io/stellar/jobs/4768375004)
 - [Rust Engineer (Remote - USA)](https://boards.greenhouse.io/stellar/jobs/4768379004)

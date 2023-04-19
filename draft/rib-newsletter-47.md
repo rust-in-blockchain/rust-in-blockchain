@@ -108,6 +108,9 @@ Bold entries here are especially relevant to blockchain projects.
 
 #### [Filecoin](https://github.com/filecoin-project)
 
+- [Indexer Scalability for Ingest-heavy Workload](https://filecoin.io/blog/posts/indexer-scalability-for-ingest-heavy-workload/)
+- [The FVM Imaginarium: Developer Tooling, Hackathons and other Opportunities for Builders](https://filecoin.io/blog/posts/the-fvm-imaginarium-developer-tooling-hackathons-and-other-opportunities-for-builders/)
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 #### [Fluence](https://github.com/fluencelabs)

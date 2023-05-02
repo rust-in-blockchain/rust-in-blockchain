@@ -53,11 +53,25 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [All you wanted to know about Plonk](https://www.notamonadtutorial.com/all-you-wanted-to-know-about-plonk/)
+- [zkWASM: The Future of Scalable Computation in Blockchain](https://mirror.xyz/hyperoracleblog.eth/FRbMWj85951QWJdEhqGTC-p6TD41583SnZOa47EVsks)
+- [zkWASM, zkOracle and Programmability: Pioneering Scalable and Secure Blockchain Solutions](https://mirror.xyz/hyperoracleblog.eth/g71SJoKEtkIshh5usUm9_1SOlEiwRYifcF7aEE5hBiI)
+- [Hardware Review: GPUs , FPGAs and Zero Knowledge Proofs](https://hackmd.io/@0xMonia/SkQ6-oRz3)
+- [Bridging the Gap: How ZK-SNARKs Bring Transparency to Private ML Models with zkml](https://medium.com/@danieldkang/bridging-the-gap-how-zk-snarks-bring-transparency-to-private-ml-models-with-zkml-e0e59708c2fc)
 
 #### Papers
 
+- [HyperNova: Recursive arguments for customizable constraint systems](https://eprint.iacr.org/2023/573)
 
 #### Projects
+
+- [zkPoEX](https://github.com/zkoranges/zkPoEX) enables white hat
+  hackers to report live vulnerabilities in smart contracts while
+  maintaining the confidentiality of the exploit, facilitating
+  efficient communication and collaboration between hackers and
+  project owners for a more secure DeFi ecosystem.
+  [Blog post: Revolutionizing DeFi Security: ZK Proof of Exploit on RISC Zero](https://www.risczero.com/blog/zkpoex).
+
 
 
 &nbsp;
@@ -103,6 +117,11 @@ Bold entries here are especially relevant to blockchain projects.
 [aleo-open_issues-2]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [aleo-open_issues-3]: https://github.com/AleoHQ/welcome/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 
+- [Fixed-Point Arithmetic in LEO](https://www.aleo.org/post/fixed-point-arithmetic-in-the-zksnark-based-programming-language-leo)
+- [Pioneer the Future of Private Machine Learning with Aleo’s zkML Initiative](https://www.aleo.org/post/pioneer-the-future-of-private-machine-learning-with-aleos-zkml-initiative)
+- [Neural Network Inference with Leo](https://www.aleo.org/post/neural-network-inference-with-the-zksnark-based-programming-language-leo-using-fixed-point-arithmetic)
+- [Loan decisions with neural networks using Leo](https://www.aleo.org/post/loan-decisions-with-neural-networks-using-leo)
+
 #### [Anoma](https://github.com/anoma)
 
 59 merged PRs ([1][anoma-merged-prs-1], [2][anoma-merged-prs-2], [3][anoma-merged-prs-3], [4][anoma-merged-prs-4]),
@@ -131,6 +150,7 @@ Bold entries here are especially relevant to blockchain projects.
 [aptos-open_issues-1]: https://github.com/aptos-labs/aptos-core/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 
 - [Quorum Store: How Consensus Horizontally Scales on the Aptos Blockchain](https://medium.com/aptoslabs/quorum-store-how-consensus-horizontally-scales-on-the-aptos-blockchain-988866f6d5b0)
+- [Aptos Labs brings Web3 to Gaming with its new SDK for Unity developers](https://medium.com/aptoslabs/aptos-labs-brings-web3-to-gaming-with-its-new-sdk-for-unity-developers-e6544bdf9ba9)
 
 #### [Casper](https://github.com/casper-network)
 
@@ -183,6 +203,8 @@ Bold entries here are especially relevant to blockchain projects.
 [conflux-merged-prs-1]: https://github.com/Conflux-Chain/conflux-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [conflux-closed_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [conflux-open_issues-1]: https://github.com/Conflux-Chain/conflux-rust/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
+
+- [Monthly Progress Report — April 2023](https://medium.com/conflux-network/monthly-progress-report-april-2023-e73f87afe461)
 
 #### [DarkFi](https://dark.fi)
 
@@ -238,6 +260,8 @@ Bold entries here are especially relevant to blockchain projects.
 [espresso_systems-closed_issues-2]: https://github.com/EspressoSystems/HotShot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [espresso_systems-open_issues-1]: https://github.com/EspressoSystems/jellyfish/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [espresso_systems-open_issues-2]: https://github.com/EspressoSystems/HotShot/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
+
+- [Sequencer Decentralization and Liveness](https://medium.com/@espressosys/sequencer-decentralization-and-liveness-e5af7f4b25ca)
 
 #### [Filecoin](https://github.com/filecoin-project)
 
@@ -378,6 +402,8 @@ Bold entries here are especially relevant to blockchain projects.
 [holochain-open_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [holochain-open_issues-2]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 
+- [Holochain 0.1 Matures](https://blog.holochain.org/holochain-0-1-matures/)
+
 #### [IOTA](https://github.com/iotaledger)
 
 14 merged PRs ([1][iota-merged-prs-1], [2][iota-merged-prs-2], [3][iota-merged-prs-3], [4][iota-merged-prs-4], [5][iota-merged-prs-5], [6][iota-merged-prs-6], [7][iota-merged-prs-7]),
@@ -393,6 +419,8 @@ Bold entries here are especially relevant to blockchain projects.
 [iota-merged-prs-7]: https://github.com/iotaledger/chronicle.rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [iota-closed_issues-1]: https://github.com/iotaledger/chronicle.rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [iota-open_issues-1]: https://github.com/iotaledger/identity.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
+
+- [Progress Report Q1 2023](https://blog.iota.org/progress-report-q1-2023/)
 
 #### [Maidsafe](https://github.com/maidsafe)
 
@@ -413,6 +441,9 @@ Bold entries here are especially relevant to blockchain projects.
 
 [mina-closed_issues-1]: https://github.com/openmina/openmina/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [mina-open_issues-1]: https://github.com/openmina/openmina/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
+
+- [The State of Zero Knowledge 2023 Report](https://minaprotocol.com/blog/the-state-of-zero-knowledge-2023-report)
+- [Unlocking the Power of Privacy: How Developers Can Leverage Homomorphic Encryption and Zero-Knowledge Proofs](https://blog.o1labs.org/unlocking-the-power-of-privacy-how-developers-can-leverage-homomorphic-encryption-and-6cab3b1e9325)
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
@@ -436,6 +467,8 @@ Bold entries here are especially relevant to blockchain projects.
 [multiversx-merged-prs-2]: https://github.com/multiversx/mx-exchange-sc/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [multiversx-closed_issues-1]: https://github.com/multiversx/mx-sdk-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [multiversx-open_issues-1]: https://github.com/multiversx/mx-sdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
+
+- [MultiversX Rust game-dev tutorial published on CryptoZombies coding school](https://multiversx.com/blog/multiversx-rust-game-dev-tutorial)
 
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
@@ -607,6 +640,9 @@ Bold entries here are especially relevant to blockchain projects.
 [zcash-open_issues-2]: https://github.com/zcash/halo2/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [zcash-open_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [zcash-open_issues-4]: https://github.com/zcash/orchard/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
+
+- [New Release 5.5.0](https://electriccoin.co/blog/new-release-5-5-0/)
+- [Experimental Zebra progress bars](https://zfnd.org/experimental-zebra-progress-bars/)
 
 &nbsp;
 
@@ -870,6 +906,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-open_issues-2]: https://github.com/starkware-libs/papyrus/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [starkware-open_issues-3]: https://github.com/starkware-libs/starknet-api/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 
+- [All roads lead to Giza, Starknet Roadmap and Cairo Book](https://starknet.substack.com/p/all-roads-lead-to-giza-starknet-roadmap)
+
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
 
@@ -883,6 +921,27 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
+May 1-5 | Bol, Brač, Croatia | [Financial Cryptography and Data Security 2023](https://fc23.ifca.ai/)
+
+May 15-20 | Chicago, IL, US | [zkWeek](https://jumpcrypto.com/thepit/zkweek/)
+
+May 19-23 | Montenegro | [EDCON 2023](https://www.edcon.io/)
+
+May 20-21 | Amsterdam, Netherlands | [ETHDam](https://www.ethdam.com/)
+
+Jun 3-5 | Prague, Czech Republic | [Gateway to Cosmos 2023](https://gateway.events/)
+
+Jun 9-10 | Prague, Czech Republic | [ETHPrague](https://ethprague.com/)
+
+Jun 17-20 | Paris, France | [EthCC](https://www.ethcc.io/)
+
+Aug 28-30 | Palo Alto, CA, US | [The Science of Blockchain Conference 2023](https://cbr.stanford.edu/sbc23/)
+
+Sep 5-6 | Seoul, Korea | [Korea Blockchain Week](https://koreablockchainweek.com/)
+
+Sep 11-13 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
+
+Sep 12-15 | Albuquerque, NM & Online | [RustConf 2023](https://rustconf.com/)
 
 
 &nbsp;

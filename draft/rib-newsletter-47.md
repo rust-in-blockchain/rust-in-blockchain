@@ -60,6 +60,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [zkWASM, zkOracle and Programmability: Pioneering Scalable and Secure Blockchain Solutions](https://mirror.xyz/hyperoracleblog.eth/g71SJoKEtkIshh5usUm9_1SOlEiwRYifcF7aEE5hBiI)
 - [Hardware Review: GPUs , FPGAs and Zero Knowledge Proofs](https://hackmd.io/@0xMonia/SkQ6-oRz3)
 - [Bridging the Gap: How ZK-SNARKs Bring Transparency to Private ML Models with zkml](https://medium.com/@danieldkang/bridging-the-gap-how-zk-snarks-bring-transparency-to-private-ml-models-with-zkml-e0e59708c2fc)
+- [Do You Want Quality Code? Learn How to Use Differential Fuzzers!](https://www.notamonadtutorial.com/do-you-want-quality-code-learn-how-to-use-differential-fuzzers/)
 
 #### Papers
 
@@ -72,27 +73,39 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   maintaining the confidentiality of the exploit, facilitating
   efficient communication and collaboration between hackers and
   project owners for a more secure DeFi ecosystem.
-  [Blog post: Revolutionizing DeFi Security: ZK Proof of Exploit on RISC Zero](https://www.risczero.com/blog/zkpoex).
-
-
-
-&nbsp;
-
-## Security Advisories
-
-Monthly security advisories, from [RustSec], and [GitHub Advisories].
-Bold entries here are especially relevant to blockchain projects.
-
-[RustSec]: https://rustsec.org/advisories/
-[GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
-
-<!-- https://github.com/rustsec/advisory-db/pulls -->
-<!-- https://osv.dev/list?page=2&ecosystem=crates.io -->
-
+  Blog post: [Revolutionizing DeFi Security: ZK Proof of Exploit on RISC Zero](https://www.risczero.com/blog/zkpoex).
+- [Ola](https://github.com/Sin7Y/ola-lang). A high-level language for implementing
+  smart contracts. From the outset, it is designed to be a zk-friendly programming language.
+  Blog post: [A Programmable Privacy Platform for Ethereum: Understanding Ola’s Design Principles and Technical Features](https://medium.com/@sin7y/a-programmable-privacy-platform-for-ethereum-understanding-olas-design-principles-and-technical-8a47ff07e725)
 
 &nbsp;
 
 ## Most Active in April
+
+[Sui](https://github.com/MystenLabs):
+759 merged PRs,
+140 closed issues,
+102 open issues
+
+[Parity](https://github.com/paritytech):
+345 merged PRs,
+178 closed issues,
+150 open issues
+
+[Aptos](https://github.com/aptos-labs):
+310 merged PRs,
+71 closed issues,
+54 open issues
+
+[Solana](https://github.com/solana-labs/solana):
+295 merged PRs,
+56 closed issues,
+23 open issues 
+
+[Starkware](https://github.com/starkware-libs):
+290 merged PRs,
+33 closed issues,
+19 open issues
 
 &nbsp;
 
@@ -236,6 +249,7 @@ Bold entries here are especially relevant to blockchain projects.
 [dfinity-open_issues-3]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 
 - [Eliminating Smart Contract Bugs with TLA+](https://medium.com/dfinity/eliminating-smart-contract-bugs-with-tla-e986aeb6da24)
+- [Announcing the Internet Computer BUIDL Bitcoin Hackathon, powered by Encode Club](https://medium.com/dfinity/announcing-the-internet-computer-buidl-bitcoin-hackathon-powered-by-encode-club-70081b8d0406)
 
 #### [Dusk Network](https://github.com/dusk-network)
 
@@ -393,6 +407,7 @@ Bold entries here are especially relevant to blockchain projects.
 [helium-open_issues-1]: https://github.com/helium/gateway-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 
 - [A New Era for Helium Begins with Upgrade to Solana Blockchain](https://blog.helium.com/a-new-era-for-helium-begins-with-upgrade-to-solana-blockchain-88b742276ec1)
+- [It’s here: The Helium Network Migrates to Solana Today](https://blog.helium.com/its-here-the-helium-network-migrates-to-solana-today-6b24d05ba57d)
 
 #### [Holochain](https://github.com/holochain/)
 
@@ -534,7 +549,11 @@ Bold entries here are especially relevant to blockchain projects.
 
 [oasis-merged-prs-1]: https://github.com/oasisprotocol/oasis-sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-04-01..2023-04-30%20-author:app/dependabot
 
+- [4 Ways to Compare Trusted Execution Environments and Zero-Knowledge Proofs](https://medium.com/oasis-protocol-project/4-ways-to-compare-trusted-execution-environments-and-zero-knowledge-proofs-293615b8c1b6)
+- [Oasis March 2023 Engineering Update](https://medium.com/oasis-protocol-project/oasis-march-2023-engineering-update-c302e4dbf0b9)
+
 #### [Parity](https://github.com/paritytech)
+
 345 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6], [7][parity-merged-prs-7], [8][parity-merged-prs-8], [9][parity-merged-prs-9], [10][parity-merged-prs-10], [11][parity-merged-prs-11], [12][parity-merged-prs-12], [13][parity-merged-prs-13]),
 178 closed issues ([1][parity-closed_issues-1], [2][parity-closed_issues-2], [3][parity-closed_issues-3], [4][parity-closed_issues-4], [5][parity-closed_issues-5], [6][parity-closed_issues-6], [7][parity-closed_issues-7], [8][parity-closed_issues-8], [9][parity-closed_issues-9], [10][parity-closed_issues-10], [11][parity-closed_issues-11], [12][parity-closed_issues-12]),
 150 open issues ([1][parity-open_issues-1], [2][parity-open_issues-2], [3][parity-open_issues-3], [4][parity-open_issues-4], [5][parity-open_issues-5], [6][parity-open_issues-6], [7][parity-open_issues-7], [8][parity-open_issues-8], [9][parity-open_issues-9], [10][parity-open_issues-10], [11][parity-open_issues-11])
@@ -621,6 +640,8 @@ Bold entries here are especially relevant to blockchain projects.
 [subspace_network-merged-prs-1]: https://github.com/subspace/subspace/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [subspace_network-closed_issues-1]: https://github.com/subspace/subspace/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [subspace_network-open_issues-1]: https://github.com/subspace/subspace/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
+
+- [Dilithium: Subspace Consensus v2](https://blog.subspace.network/dilithium-the-subspace-consensus-v2-3c5df0759e72)
 
 #### [Sui](https://github.com/MystenLabs)
 
@@ -921,6 +942,7 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 - [All roads lead to Giza, Starknet Roadmap and Cairo Book](https://starknet.substack.com/p/all-roads-lead-to-giza-starknet-roadmap)
 - [What are Storage Proofs and how can they improve Oracles?](https://starkware.medium.com/what-are-storage-proofs-and-how-can-they-improve-oracles-e0379108720a)
+- [StarkEx V5.0 for Spot Trading is Here!](https://medium.com/starkware/starkex-v5-0-for-spot-trading-is-here-41bfe90e25a6)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 

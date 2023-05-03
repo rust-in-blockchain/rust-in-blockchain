@@ -76,20 +76,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 &nbsp;
 
-## Security Advisories
-
-Monthly security advisories, from [RustSec], and [GitHub Advisories].
-Bold entries here are especially relevant to blockchain projects.
-
-[RustSec]: https://rustsec.org/advisories/
-[GitHub Advisories]: https://github.com/advisories?query=ecosystem%3Arust
-
-<!-- https://github.com/rustsec/advisory-db/pulls -->
-<!-- https://osv.dev/list?page=2&ecosystem=crates.io -->
-
-
-&nbsp;
-
 ## Most Active in April
 
 &nbsp;

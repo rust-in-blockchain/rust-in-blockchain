@@ -4,7 +4,8 @@ description: "April 2023"
 date: 2023-05-03
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #47 edition of Rust in Blockchain.
+This month we spotlight `zkWasm`, a project that runs a WebAssembly runtime as a ZKSNARK circuit."
 ---
 
 Welcome to the #47 edition of Rust in Blockchain, the monthly
@@ -20,8 +21,7 @@ Thanks to contributors:
 [Andrew Dibble],
 [Calin Martinconi],
 [Chan De Silva],
-_TODO_
-
+[Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -55,10 +55,6 @@ This is similar to [RISC-0](https://www.risczero.com/) (for RISC-V) and the vari
 
 
 ## Interesting Things
-
-#### News
-
-- [MERLIN DEX - REKT](https://rekt.news/merlin-dex-rekt/)
 
 #### Blog Posts
 

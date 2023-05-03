@@ -50,9 +50,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [MERLIN DEX - REKT](https://rekt.news/merlin-dex-rekt/)
 
 #### Blog Posts
 
+- [Exciting times at the intersection of Compilers and Applied Cryptography: CAIRO and MLIR](https://www.notamonadtutorial.com/cairo-and-mlir/)
 - [All you wanted to know about Plonk](https://www.notamonadtutorial.com/all-you-wanted-to-know-about-plonk/)
 - [zkWASM: The Future of Scalable Computation in Blockchain](https://mirror.xyz/hyperoracleblog.eth/FRbMWj85951QWJdEhqGTC-p6TD41583SnZOa47EVsks)
 - [zkWASM, zkOracle and Programmability: Pioneering Scalable and Secure Blockchain Solutions](https://mirror.xyz/hyperoracleblog.eth/g71SJoKEtkIshh5usUm9_1SOlEiwRYifcF7aEE5hBiI)
@@ -233,6 +235,8 @@ Bold entries here are especially relevant to blockchain projects.
 [dfinity-open_issues-2]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [dfinity-open_issues-3]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 
+- [Eliminating Smart Contract Bugs with TLA+](https://medium.com/dfinity/eliminating-smart-contract-bugs-with-tla-e986aeb6da24)
+
 #### [Dusk Network](https://github.com/dusk-network)
 
 9 merged PRs ([1][dusk_network-merged-prs-1], [2][dusk_network-merged-prs-2]),
@@ -363,6 +367,8 @@ Bold entries here are especially relevant to blockchain projects.
 [golem-open_issues-1]: https://github.com/golemfactory/yagna/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [golem-open_issues-2]: https://github.com/golemfactory/ya-runtime-vm/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 
+- [Golem Portal has been launched!](https://blog.golemproject.net/)
+
 #### [Grin](https://github.com/mimblewimble/grin)
 
 2 merged PRs ([1][grin-merged-prs-1]),
@@ -385,6 +391,8 @@ Bold entries here are especially relevant to blockchain projects.
 [helium-closed_issues-1]: https://github.com/helium/gateway-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [helium-closed_issues-2]: https://github.com/helium/helium-wallet-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [helium-open_issues-1]: https://github.com/helium/gateway-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
+
+- [A New Era for Helium Begins with Upgrade to Solana Blockchain](https://blog.helium.com/a-new-era-for-helium-begins-with-upgrade-to-solana-blockchain-88b742276ec1)
 
 #### [Holochain](https://github.com/holochain/)
 
@@ -494,6 +502,9 @@ Bold entries here are especially relevant to blockchain projects.
 [near-open_issues-2]: https://github.com/near/near-sdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [near-open_issues-3]: https://github.com/near/near-lake-framework-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [near-open_issues-4]: https://github.com/near/near-indexer-for-explorer/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
+
+- [NEAR Blockchain Operating System is Now Live on Near.org](https://pages.near.org/blog/near-blockchain-operating-system-is-now-live-on-near-org/)
+- [NEAR Foundation Launches NEAR Horizon](https://pages.near.org/blog/near-foundation-launches-near-horizon/)
 
 #### [Nervos](https://github.com/nervosnetwork)
 
@@ -620,6 +631,8 @@ Bold entries here are especially relevant to blockchain projects.
 [sui-merged-prs-1]: https://github.com/MystenLabs/sui/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [sui-closed_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [sui-open_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
+
+- [Subset-optimized BLS Multi-signature with Key Aggregation](https://tech.mystenlabs.com/new-bls-aggregation-for-proof-of-stake/)
 
 #### [Zcash](https://github.com/zcash)
 
@@ -907,6 +920,7 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-open_issues-3]: https://github.com/starkware-libs/starknet-api/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 
 - [All roads lead to Giza, Starknet Roadmap and Cairo Book](https://starknet.substack.com/p/all-roads-lead-to-giza-starknet-roadmap)
+- [What are Storage Proofs and how can they improve Oracles?](https://starkware.medium.com/what-are-storage-proofs-and-how-can-they-improve-oracles-e0379108720a)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 

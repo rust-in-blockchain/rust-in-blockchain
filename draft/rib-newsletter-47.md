@@ -43,6 +43,14 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[zkWasm](https://github.com/DelphinusLab/zkWasm).
+
+zkWasm is a project that runs a WebAssembly runtime as a ZKSNARK circuit.
+This should eventually allow for proofs of execution for programs targeting wasm
+so that e.g. validators don't all have to re-execute the same transactions;
+they instead just verify the proof that someone executed the transaction correctly.
+This is similar to [RISC-0](https://www.risczero.com/) (for RISC-V) and the various zero-knowledge EVMs.
+
 &nbsp;
 
 

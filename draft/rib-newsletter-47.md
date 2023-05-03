@@ -78,6 +78,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   smart contracts. From the outset, it is designed to be a zk-friendly programming language.
   Blog post: [A Programmable Privacy Platform for Ethereum: Understanding Ola’s Design Principles and Technical Features](https://medium.com/@sin7y/a-programmable-privacy-platform-for-ethereum-understanding-olas-design-principles-and-technical-8a47ff07e725)
 
+
 &nbsp;
 
 ## Most Active in April

@@ -266,6 +266,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [dusk_network-open_issues-1]: https://github.com/dusk-network/plonk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 [dusk_network-open_issues-2]: https://github.com/dusk-network/rusk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-04-01..2023-04-30%20-author:app/dependabot
 
+- [Testnet DayLight | Release Cycle Update #19](https://dusk.network/news/testnet-daylight-release-cycle-update-19)
+
 #### [Espresso Systems](https://github.com/EspressoSystems)
 
 34 merged PRs ([1][espresso_systems-merged-prs-1], [2][espresso_systems-merged-prs-2]),
@@ -677,6 +679,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [New Release 5.5.0](https://electriccoin.co/blog/new-release-5-5-0/)
 - [Experimental Zebra progress bars](https://zfnd.org/experimental-zebra-progress-bars/)
+- [A Simple Threat Model for Zcash Shielded Hardware Wallets](https://zecsec.com/posts/threat-model-for-zcash-hardware-wallets/)
 
 &nbsp;
 

@@ -50,6 +50,9 @@ Fractal Protocol | Remote or Berlin
 HashCloak | Toronto, Remote
 - [Junior Research Engineer (MPC)](https://hackmd.io/@hashcloak/HJz2Xn3Z9)
 
+Holochain | Americas Centric, Remote
+- [RUST Developer – Holo Americas](https://holo.host/careers/rust-developer)
+
 Massa | Paris, Remote
 - [Lead blockchain Developer](https://massa.net/lead_blockchain_developer.html)
 - [Senior Blockchain Developer](https://massa.net/senior_blockchain_developer.html)

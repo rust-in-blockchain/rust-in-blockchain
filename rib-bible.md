@@ -34,7 +34,7 @@ GitHub:
 
 ```toml
 repos = [
-"AleoHQ/aleo",
+"AleoHQ/sdk",
 "AleoHQ/aleo_lambda_blockchain",
 "AleoHQ/aleo-std",
 "AleoHQ/aleo-setup-integration-test",
@@ -318,7 +318,7 @@ repos = [
 "fluencelabs/registry",
 "fluencelabs/trust-graph",
 "fluencelabs/aqua-ipfs",
-"fluencelabs/rust-peer",
+"fluencelabs/nox",
 ]
 ```
 

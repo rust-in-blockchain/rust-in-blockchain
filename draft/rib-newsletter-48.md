@@ -44,9 +44,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
 - [Stylus in Action: Lifecycle of a Stylus Contract](https://offchain.medium.com/stylus-in-action-lifecycle-of-a-stylus-contract-630f492ff85c)
@@ -57,8 +54,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
-
-#### Projects
+- [Arithmetization of predicates into Halo 2 using application specific trace types](https://eprint.iacr.org/2023/666)
+- [Simplex Consensus: A Simple and Fast Consensus Protocol](https://eprint.iacr.org/2023/463)
+- [ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path](https://eprint.iacr.org/2023/679)
+- [SoK: Distributed Randomness Beacons](https://eprint.iacr.org/2023/728)
+- [How to Design Fair Protocols in the Multi-Blockchain Setting](https://eprint.iacr.org/2023/762)
+- [Private Proof-of-Stake Blockchains using Differentially-private Stake Distortion](https://eprint.iacr.org/2023/787)
 
 
 &nbsp;
@@ -833,11 +834,15 @@ Jun 17-20 | Paris, France | [EthCC](https://www.ethcc.io/)
 
 Jun 28-29 | Copenhagen, Denmark | [Polkadot Decoded](https://polkadot.network/ecosystem/events/decoded-2023/)
 
+Jul 30-Aug 1 | Barcelona, Spain | [Zcon 4](https://zfnd.org/zcon4/)
+
 Aug 28-30 | Palo Alto, CA, US | [The Science of Blockchain Conference 2023](https://cbr.stanford.edu/sbc23/)
 
 Sep 5-6 | Seoul, Korea | [Korea Blockchain Week](https://koreablockchainweek.com/)
 
 Sep 11-13 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
+
+Sep 12-13 | Singapore | [DeCompute 2023](https://www.decompute.xyz/)
 
 Sep 12-15 | Albuquerque, NM & Online | [RustConf 2023](https://rustconf.com/)
 

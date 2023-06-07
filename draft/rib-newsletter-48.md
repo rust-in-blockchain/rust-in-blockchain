@@ -66,6 +66,31 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Most Active in May
 
+[Sui](https://github.com/MystenLabs):
+494 merged PRs,
+138 closed issues,
+50 open issues
+
+[Parity](https://github.com/paritytech):
+465 merged PRs,
+186 closed issues,
+135 open issues
+
+[Solana](https://github.com/solana-labs/solana):
+334 merged PRs,
+73 closed issues,
+27 open issues
+
+[Reth](https://github.com/paradigmxyz/reth):
+305 merged PRs,
+132 closed issues,
+45 open issues
+
+[Aptos](https://github.com/aptos-labs):
+293 merged PRs,
+64 closed issues,
+40 open issues
+
 &nbsp;
 
 ## Project Updates

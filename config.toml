@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Rust in Blockchain ❤ rib.rs"
 theme = "mainroad"
 paginate = "6"
-googleAnalytics = "UA-140591727-1" 
+googleAnalytics = "G-0BDHKQL58C"
 publishDir = "../rust-in-blockchain.github.io"
 relativeURLs = true
 

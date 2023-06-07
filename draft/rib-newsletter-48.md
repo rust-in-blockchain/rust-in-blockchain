@@ -824,9 +824,11 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 Jun 9-10 | Prague, Czech Republic | [ETHPrague](https://ethprague.com/)
 
-Jun 11- Jul 3 | Online | [Pragma Cairo 1.0 Hackathon](https://taikai.network/pragma-oracle/hackathons/Cairo1hackathon)
+Jun 11-Jul 3 | Online | [Pragma Cairo 1.0 Hackathon](https://taikai.network/pragma-oracle/hackathons/Cairo1hackathon)
 
 Jun 17-20 | Paris, France | [EthCC](https://www.ethcc.io/)
+
+Jun 28-29 | Copenhagen, Denmark | [Polkadot Decoded](https://polkadot.network/ecosystem/events/decoded-2023/)
 
 Aug 28-30 | Palo Alto, CA, US | [The Science of Blockchain Conference 2023](https://cbr.stanford.edu/sbc23/)
 
@@ -836,6 +838,9 @@ Sep 11-13 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
 
 Sep 12-15 | Albuquerque, NM & Online | [RustConf 2023](https://rustconf.com/)
 
+Sep 26-28 | Madrid, Spain | [Stellar Meridian](https://meridian.stellar.org/)
+
+Oct 30-Nov 3 | Amsterdam, Netherlands | [Solana Breakpoint](https://solana.com/breakpoint)
 
 &nbsp;
 

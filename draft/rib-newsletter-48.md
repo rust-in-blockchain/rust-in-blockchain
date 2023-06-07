@@ -93,6 +93,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [aleo-open_issues-3]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
 [aleo-open_issues-4]: https://github.com/AleoHQ/welcome/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
 
+- [Announcing the Aleo Bug Bounty Program](https://www.aleo.org/post/announcing-the-aleo-bug-bounty-program)
+- [Announcing the Aleo Tooling & Infrastructure Grants Program](https://www.aleo.org/post/announcing-the-aleo-tooling-infrastructure-grants-program)
+
 #### [Anoma](https://github.com/anoma)
 
 84 merged PRs ([1][anoma-merged-prs-1], [2][anoma-merged-prs-2], [3][anoma-merged-prs-3], [4][anoma-merged-prs-4]),

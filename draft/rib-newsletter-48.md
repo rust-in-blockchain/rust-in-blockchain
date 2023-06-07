@@ -801,6 +801,18 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 -->
 
 
+Jun 9-10 | Prague, Czech Republic | [ETHPrague](https://ethprague.com/)
+
+Jun 17-20 | Paris, France | [EthCC](https://www.ethcc.io/)
+
+Aug 28-30 | Palo Alto, CA, US | [The Science of Blockchain Conference 2023](https://cbr.stanford.edu/sbc23/)
+
+Sep 5-6 | Seoul, Korea | [Korea Blockchain Week](https://koreablockchainweek.com/)
+
+Sep 11-13 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
+
+Sep 12-15 | Albuquerque, NM & Online | [RustConf 2023](https://rustconf.com/)
+
 
 &nbsp;
 
@@ -813,7 +825,6 @@ Company name | Location A, B, Remote
 - [Job 2](https://job.two)
 
 -->
-
 
 Holochain | Americas Centric, Remote
 - [RUST Developer – Holo Americas](https://holo.host/careers/rust-developer)

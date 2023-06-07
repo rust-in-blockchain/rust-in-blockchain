@@ -49,6 +49,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Stylus in Action: Lifecycle of a Stylus Contract](https://offchain.medium.com/stylus-in-action-lifecycle-of-a-stylus-contract-630f492ff85c)
+- [ZK app developers should be able to see down to the constraints](https://www.zksecurity.xyz/blog/posts/noname/)
+- [Where's Waldo on RISC Zero](https://www.risczero.com/blog/waldo)
+- [Using Continuations to Prove Any EVM Transaction](https://www.risczero.com/blog/continuations)
+
 
 #### Papers
 
@@ -238,6 +243,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [filecoin-open_issues-2]: https://github.com/filecoin-project/ref-fvm/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
 [filecoin-open_issues-3]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
 
+- [Introducing Filecoin Data Tools (FDT)](https://filecoin.io/blog/posts/introducing-filecoin-data-tools-fdt/)
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 43 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2], [3][findora-merged-prs-3], [4][findora-merged-prs-4]),
@@ -305,6 +312,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [golem-open_issues-1]: https://github.com/golemfactory/yagna/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
 [golem-open_issues-2]: https://github.com/golemfactory/ya-relay/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
 [golem-open_issues-3]: https://github.com/golemfactory/ya-runtime-vm/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
+
+- [Golem Network Introduces 0.12.1 Patch Release, Addressing Critical Bug Fixes and Enhancing User Experience](https://blog.golemproject.net/golem-network-introduces-0-12-1-patch-release/)
 
 #### [Grin](https://github.com/mimblewimble/grin)
 
@@ -545,6 +554,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [sui-closed_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-05-01..2023-05-31%20-author:app/dependabot
 [sui-open_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
 
+
+- [Groth-Sahai Proofs: Zero to Hero](https://tech.mystenlabs.com/groth-sahai-proofs-zero-to-hero/)
+- [Sui Lutris: The distributed system protocol at the heart of Sui](https://tech.mystenlabs.com/sui-lutris-the-distributed-system-protocol-at-the-heart-of-sui/)
+
 #### [Zcash](https://github.com/zcash)
 
 87 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3], [4][zcash-merged-prs-4], [5][zcash-merged-prs-5]),
@@ -754,6 +767,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [lighthouse-closed_issues-2]: https://github.com/sigp/discv5/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-05-01..2023-05-31%20-author:app/dependabot
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
 
+- [Unbundling attacks on MEV relays using RPC](https://lighthouse-blog.sigmaprime.io/mev-unbundling-rpc.html)
+
 #### [Mir Protocol](https://github.com/mir-protocol)
 
 46 merged PRs ([1][mir_protocol-merged-prs-1], [2][mir_protocol-merged-prs-2]),
@@ -787,6 +802,12 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-closed_issues-2]: https://github.com/starkware-libs/papyrus/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-05-01..2023-05-31%20-author:app/dependabot
 [starkware-open_issues-1]: https://github.com/starkware-libs/cairo/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
 
+- [Under the hood of Cairo 1.0: Exploring Sierra](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-1220f6dbcf9)
+- [Scarb: Simplifying Cairo1 Package Management](https://medium.com/@0xasten/scarb-simplifying-cairo1-package-management-1c43ceae7bc7)
+- [From Solidity to Cairo 1.0 (WIP)](https://lead-archeology-a38.notion.site/From-Solidity-to-Cairo-1-0-WIP-07097d7de1ad45d9b7c6c63f60b7141c)
+- [Exploring the Use Cases of Cheap Computation](https://medium.com/starkware/exploring-the-use-cases-of-cheap-computation-1ab6254e7895)
+- [Scaling Ethereum Efficiently](https://starkware.medium.com/scaling-ethereum-efficiently-d91a8a908cab)
+
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
 
@@ -802,6 +823,8 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 
 Jun 9-10 | Prague, Czech Republic | [ETHPrague](https://ethprague.com/)
+
+Jun 11- Jul 3 | Online | [Pragma Cairo 1.0 Hackathon](https://taikai.network/pragma-oracle/hackathons/Cairo1hackathon)
 
 Jun 17-20 | Paris, France | [EthCC](https://www.ethcc.io/)
 

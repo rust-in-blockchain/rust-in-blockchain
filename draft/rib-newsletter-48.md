@@ -194,6 +194,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [dfinity-open_issues-1]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
 [dfinity-open_issues-2]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
 
+- [Exchange Rate Canister — A Smart Contract with Oracle Capabilities](https://medium.com/dfinity/exchange-rate-canister-a-smart-contract-with-oracle-capabilities-f30694753c89)
+
 #### [Dusk Network](https://github.com/dusk-network)
 
 15 merged PRs ([1][dusk_network-merged-prs-1], [2][dusk_network-merged-prs-2]),
@@ -458,6 +460,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [oasis-merged-prs-1]: https://github.com/oasisprotocol/oasis-sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-05-01..2023-05-31%20-author:app/dependabot
 [oasis-open_issues-1]: https://github.com/oasisprotocol/oasis-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-05-01..2023-05-31%20-author:app/dependabot
+
+- [Oasis April 2023 Engineering Update](https://oasisprotocol.org/blog/april-2023-engineering-update)
 
 #### [Parity](https://github.com/paritytech)
 

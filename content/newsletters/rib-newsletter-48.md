@@ -4,7 +4,7 @@ description: "May 2023"
 date: 2023-06-07
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #48 edition of Rust in Blockchain."
 ---
 
 Welcome to the #48 edition of Rust in Blockchain, the monthly

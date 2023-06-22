@@ -97,6 +97,5 @@ relativeURLs = true
   # Enable parts of social widget
   twitter = "rust_blockchain"
   telegram = "rustinblockchain"
-  reddit = "RustInBlockchain"
   github = "rust-in-blockchain"
   email = "hi@rib.rs"

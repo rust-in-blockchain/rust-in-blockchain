@@ -22,16 +22,6 @@
 		</div>
 		{{- end }}
 
-		{{- with .Site.Params.widgets.social.reddit }}
-		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="Reddit" rel="noopener noreferrer"
-				href="https://www.reddit.com/r/{{ . }}" target="_blank">
-				{{ partial "svg/reddit.svg" (dict "class" "widget-social__link-icon") }}
-				<span>Reddit</span>
-			</a>
-		</div>
-		{{- end }}
-
 		{{- with .Site.Params.widgets.social.github }}
 		<div class="widget-social__item widget__item">
 			<a class="widget-social__link widget__link btn" title="GitHub" rel="noopener noreferrer"

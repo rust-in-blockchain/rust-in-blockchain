@@ -698,6 +698,22 @@ repos = [
 ]
 ```
 
+### Soroban
+
+GitHub:
+- https://github.com/stellar
+
+```toml
+repos = [
+"stellar/rs-soroban-sdk",
+"stellar/rs-soroban-env",
+"stellar/soroban-tools",
+"stellar/soroban-examples",
+"stellar/scaffold-soroban",
+"stellar/rpciege-soroban"
+]
+```
+
 ### Spacemesh
 
 GitHub:

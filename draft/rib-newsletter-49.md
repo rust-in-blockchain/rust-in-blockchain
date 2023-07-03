@@ -220,6 +220,24 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 -->
 
 
+Jul 30-Aug 1 | Barcelona, Spain | [Zcon 4](https://zfnd.org/zcon4/)
+
+Aug 28-30 | Palo Alto, CA, US | [The Science of Blockchain Conference 2023](https://cbr.stanford.edu/sbc23/)
+
+Sep 5-6 | Seoul, Korea | [Korea Blockchain Week](https://koreablockchainweek.com/)
+
+Sep 11-13 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
+
+Sep 12-13 | Singapore | [DeCompute 2023](https://www.decompute.xyz/)
+
+Sep 12-15 | Albuquerque, NM & Online | [RustConf 2023](https://rustconf.com/)
+
+Sep 26-28 | Madrid, Spain | [Stellar Meridian](https://meridian.stellar.org/)
+
+Oct 5-6 | US - Virtual Eastern | [Blockchain Security Summit 2023](https://www.sans.org/cyber-security-training-events/blockchain-summit-2023/)
+
+Oct 30-Nov 3 | Amsterdam, Netherlands | [Solana Breakpoint](https://solana.com/breakpoint)
+
 
 &nbsp;
 

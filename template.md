@@ -127,6 +127,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Solana](https://github.com/solana-labs/solana)
 
+#### [Soroban](https://github.com/stellar)
+
 #### [Spacemesh](https://github.com/spacemeshos)
 
 #### [Subspace Network](https://github.com/subspace)

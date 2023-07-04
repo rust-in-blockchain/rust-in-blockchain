@@ -44,17 +44,18 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-#### News
-
-
-#### Blog Posts
-
-
 #### Papers
 
+- [SoK: Data Sovereignty](https://eprint.iacr.org/2023/967)
+- [Concurrent Asynchronous Byzantine Agreement in Expected-Constant Rounds, Revisited](https://eprint.iacr.org/2023/1003)
+- [EDEN - a practical, SNARK-friendly combinator VM and ISA](https://eprint.iacr.org/2023/1021)
+- [VSS from Distributed ZK Proofs and Applications](https://eprint.iacr.org/2023/992)
 
 #### Projects
 
+- [Orion](https://github.com/gizatechxyz/orion).
+  ONNX Runtime in Cairo 1.0 for verifiable ML inference using STARK.
+  Blog post: [Introducing Orion: A verifiable, extensible framework to superpower web3 & AI](https://mirror.xyz/gizatech.eth/EtbskbyzVMIhGhgX_xl1yjTOMKW66jjujIr_HcfO2YQ)
 
 &nbsp;
 
@@ -886,8 +887,11 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
+Jul 17-20 | Paris, France | [Ethereum Community Conference (EthCC) 6](https://www.ethcc.io/)
 
 Jul 30-Aug 1 | Barcelona, Spain | [Zcon 4](https://zfnd.org/zcon4/)
+
+Aug 2 | Barcelona, Spain | [ZKProof 5.5](https://zkproof.org/events/zkproof-5-5-barcelona/)
 
 Aug 28-30 | Palo Alto, CA, US | [The Science of Blockchain Conference 2023](https://cbr.stanford.edu/sbc23/)
 
@@ -898,6 +902,8 @@ Sep 11-13 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
 Sep 12-13 | Singapore | [DeCompute 2023](https://www.decompute.xyz/)
 
 Sep 12-15 | Albuquerque, NM & Online | [RustConf 2023](https://rustconf.com/)
+
+Sep 20 | London, UK | [zkSummit10](https://www.zksummit.com/)
 
 Sep 26-28 | Madrid, Spain | [Stellar Meridian](https://meridian.stellar.org/)
 

@@ -214,6 +214,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [dfinity-open_issues-2]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [dfinity-open_issues-3]: https://github.com/dfinity/vessel/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 
+- [Announcing the Motoko Dev Server: live-reloading for Web3 dapps](https://medium.com/dfinity/announcing-the-motoko-dev-server-live-reloading-for-web3-dapps-20363088afb4)
+- [A Glimpse into Motoko and AgorApp embeddable IDE](https://medium.com/dfinity/a-glimpse-into-motoko-and-agorapp-embeddable-ide-dc872826cd82)
+- [Gaming and Metaverse — announcing the next edition of ICP.Lab for builders.](https://medium.com/dfinity/gaming-and-metaverse-announcing-the-next-edition-of-icp-lab-for-builders-8493d182f3d4)
+
 #### [Dusk Network](https://github.com/dusk-network)
 
 15 merged PRs ([1][dusk_network-merged-prs-1], [2][dusk_network-merged-prs-2], [3][dusk_network-merged-prs-3]),
@@ -263,6 +267,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [filecoin-open_issues-2]: https://github.com/filecoin-project/ref-fvm/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [filecoin-open_issues-3]: https://github.com/filecoin-project/rust-fil-proofs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [filecoin-open_issues-4]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+
+- [Filecoin Virtual Machine (FVM) Builder Cohort Launches to Mainnet](https://filecoin.io/blog/posts/filecoin-virtual-machine-fvm-builder-cohort-launches-to-mainnet/)
+- [100 Days of FVM](https://filecoin.io/blog/posts/100-days-of-fvm/)
 
 #### [Findora](https://github.com/FindoraNetwork)
 
@@ -351,6 +358,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [helium-merged-prs-3]: https://github.com/helium/helium-crypto-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [helium-closed_issues-1]: https://github.com/helium/gateway-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
 
+- [Got SOL? Helium Transactions on Solana Explained!](https://blog.helium.com/got-sol-helium-transactions-on-solana-explained-e254827e929f)
+
 #### [Holochain](https://github.com/holochain/)
 
 74 merged PRs ([1][holochain-merged-prs-1], [2][holochain-merged-prs-2]),
@@ -375,6 +384,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [iota-merged-prs-4]: https://github.com/iotaledger/stronghold.rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [iota-merged-prs-5]: https://github.com/iotaledger/chronicle.rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [iota-closed_issues-1]: https://github.com/iotaledger/identity.rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
+
+- [Q2 2023 Progress Report](https://blog.iota.org/q2-2023-progress-report/)
 
 #### [Maidsafe](https://github.com/maidsafe)
 
@@ -514,6 +525,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [parity-open_issues-13]: https://github.com/paritytech/ink-playground/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [parity-open_issues-14]: https://github.com/paritytech/parity-bridges-common/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 
+- [XCM v3: Breaking New Ground for Web3 Interoperability](https://medium.com/polkadot-network/xcm-v3-breaking-new-ground-for-web3-interoperability-5fe6e7ebfaa8)
+
 #### [Radix](https://github.com/radixdlt)
 
 119 merged PRs ([1][radix-merged-prs-1]),
@@ -588,6 +601,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [sui-closed_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [sui-open_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 
+- [Introducing Capy Trading Bot](https://tech.mystenlabs.com/introducing-capy-trading-bot/)
+
 #### [Zcash](https://github.com/zcash)
 
 108 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3], [4][zcash-merged-prs-4], [5][zcash-merged-prs-5]),
@@ -606,6 +621,27 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [zcash-open_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [zcash-open_issues-2]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [zcash-open_issues-3]: https://github.com/zcash/pasta_curves/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+
+#### [zkSync Era](https://github.com/matter-labs)
+
+5 merged PRs ([1][zksync_era-merged-prs-1], [2][zksync_era-merged-prs-2], [3][zksync_era-merged-prs-3]),
+12 closed issues ([1][zksync_era-closed_issues-1], [2][zksync_era-closed_issues-2], [3][zksync_era-closed_issues-3], [4][zksync_era-closed_issues-4]),
+21 open issues ([1][zksync_era-open_issues-1], [2][zksync_era-open_issues-2], [3][zksync_era-open_issues-3], [4][zksync_era-open_issues-4])
+
+[zksync_era-merged-prs-1]: https://github.com/matter-labs/zksync-era/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-06-01..2023-06-30%20-author:app/dependabot
+[zksync_era-merged-prs-2]: https://github.com/matter-labs/foundry-zksync/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-06-01..2023-06-30%20-author:app/dependabot
+[zksync_era-merged-prs-3]: https://github.com/matter-labs/era-compiler-llvm-builder/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-06-01..2023-06-30%20-author:app/dependabot
+[zksync_era-closed_issues-1]: https://github.com/matter-labs/zksync-era/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
+[zksync_era-closed_issues-2]: https://github.com/matter-labs/foundry-zksync/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
+[zksync_era-closed_issues-3]: https://github.com/matter-labs/era-compiler-solidity/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
+[zksync_era-closed_issues-4]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
+[zksync_era-open_issues-1]: https://github.com/matter-labs/zksync-era/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+[zksync_era-open_issues-2]: https://github.com/matter-labs/foundry-zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+[zksync_era-open_issues-3]: https://github.com/matter-labs/era-compiler-solidity/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+[zksync_era-open_issues-4]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+
+- [Introduction to Hyperchains](https://blog.matter-labs.io/introduction-to-hyperchains-fdb33414ead7)
+- [Introducing the ZK Stack](https://blog.matter-labs.io/introducing-the-zk-stack-c24240c2532a)
 
 &nbsp;
 
@@ -833,6 +869,9 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-closed_issues-1]: https://github.com/starkware-libs/cairo/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [starkware-closed_issues-2]: https://github.com/starkware-libs/papyrus/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [starkware-open_issues-1]: https://github.com/starkware-libs/cairo/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+
+- [Cairo Roadmap: Join the Ride](https://medium.com/starkware/cairo-roadmap-join-the-ride-23f31dcad172)
+- [Moving from Solidity to Cairo](https://starkware.medium.com/moving-from-solidity-to-cairo-7d44f9723c68)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 

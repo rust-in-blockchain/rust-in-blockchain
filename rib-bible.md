@@ -1170,7 +1170,7 @@ repos = [
 ]
 ```
 
-### zkSync
+### zkSync Era
 
 Media:
 - https://medium.com/matter-labs
@@ -1181,7 +1181,23 @@ GitHub:
 
 ``` toml
 repos = [
+"matter-labs/zksync-era",
+"matter-labs/foundry-zksync",
+"matter-labs/era-zk_evm",
+"matter-labs/era-zkevm_tester",
+"matter-labs/era-zkevm_test_harness",
+"matter-labs/era-zkEVM-assembly",
+"matter-labs/era-zkevm_opcode_defs",
+"matter-labs/era-compiler-llvm-builder",
+"matter-labs/era-compiler-llvm-context",
+"matter-labs/era-compiler-tester",
+"matter-labs/era-compiler-vyper",
+"matter-labs/era-compiler-solidity",
+"matter-labs/era-compiler-common",
+"matter-labs/era-sync_vm",
+"matter-labs/era-heavy-ops-service",
+"matter-labs/era-circuit_testing",
 "matter-labs/zksync",
-"matter-labs/franklin-crypto",
+"matter-labs/rescue-poseidon",
 ]
 ```

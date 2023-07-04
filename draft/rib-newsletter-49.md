@@ -56,6 +56,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Orion](https://github.com/gizatechxyz/orion).
   ONNX Runtime in Cairo 1.0 for verifiable ML inference using STARK.
   Blog post: [Introducing Orion: A verifiable, extensible framework to superpower web3 & AI](https://mirror.xyz/gizatech.eth/EtbskbyzVMIhGhgX_xl1yjTOMKW66jjujIr_HcfO2YQ)
+- [Locutus](https://github.com/freenet/locutus).
+  A software platform for writing create decentralized applications.
 
 &nbsp;
 
@@ -113,6 +115,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [aleo-open_issues-2]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [aleo-open_issues-3]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [aleo-open_issues-4]: https://github.com/AleoHQ/welcome/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+
+- [Launching Aleo Deploy Incentives](https://www.aleo.org/post/launching-aleo-deploy-incentives)
 
 #### [Anoma](https://github.com/anoma)
 
@@ -234,6 +238,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [dusk_network-open_issues-2]: https://github.com/dusk-network/rusk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [dusk_network-open_issues-3]: https://github.com/dusk-network/wallet-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 
+- [Testnet DayLight | Release Cycle Update #22](https://dusk.network/news/release-cycle-update-22)
+- [The Three Pillars of Dusk](https://dusk.network/news/the-3-pillars-of-dusk)
+
 #### [Espresso Systems](https://github.com/EspressoSystems)
 
 50 merged PRs ([1][espresso_systems-merged-prs-1], [2][espresso_systems-merged-prs-2]),
@@ -322,6 +329,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [fuel-open_issues-5]: https://github.com/FuelLabs/fuelup/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [fuel-open_issues-6]: https://github.com/FuelLabs/sway/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 
+- [Sway Summer Online Hackathon](https://fuel-labs.ghost.io/sway-summer-online-hackathon/)
+- [Introducing Fuel’s New Grants Program: Sparking Further Innovation in the Modular Ecosystem](https://fuel-labs.ghost.io/introducing-fuels-new-grants-program/)
+
 #### [Golem](https://github.com/golemfactory)
 
 19 merged PRs ([1][golem-merged-prs-1], [2][golem-merged-prs-2], [3][golem-merged-prs-3]),
@@ -337,6 +347,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [golem-open_issues-2]: https://github.com/golemfactory/ya-client/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [golem-open_issues-3]: https://github.com/golemfactory/ya-relay/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [golem-open_issues-4]: https://github.com/golemfactory/ya-runtime-vm/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+
+- [Yagna 0.12.2 Patch Release: Restoring Functionality and Addressing Rinkeby Shutdown](https://blog.golemproject.net/yagna-0-12-2-patch-release/)
 
 #### [Grin](https://github.com/mimblewimble/grin)
 
@@ -372,6 +384,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [holochain-closed_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [holochain-open_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [holochain-open_issues-2]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+
+- [Holochain 0.1.5 Released](https://blog.holochain.org/holochain-0-1-5-released/)
 
 #### [IOTA](https://github.com/iotaledger)
 
@@ -451,6 +465,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [near-open_issues-6]: https://github.com/near/near-lake-indexer/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [near-open_issues-7]: https://github.com/near/borsh-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 
+- [Blockchain Scaling Approaches: NEAR Sharding vs. Layer 2s](https://pages.near.org/blog/blockchain-scaling-approaches-near-sharding-vs-layer-2s/)
+- [Encode x NEAR Horizon Bootcamp: Your Mission to Master Web3 Rust Contracts](https://pages.near.org/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/)
+- [The Fast Rainbow Bridge for NEAR to Ethereum Token Transfers is Live!](https://medium.com/nearprotocol/the-fast-rainbow-bridge-for-near-to-ethereum-token-transfers-is-live-7ccaea4eb35e)
+
 #### [Nervos](https://github.com/nervosnetwork)
 
 47 merged PRs ([1][nervos-merged-prs-1], [2][nervos-merged-prs-2], [3][nervos-merged-prs-3], [4][nervos-merged-prs-4], [5][nervos-merged-prs-5]),
@@ -478,6 +496,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [oasis-merged-prs-1]: https://github.com/oasisprotocol/oasis-sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [oasis-open_issues-1]: https://github.com/oasisprotocol/oasis-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+
+- [Oasis May 2023 Engineering Update](https://oasisprotocol.org/blog/may-2023-engineering-update)
 
 #### [Parity](https://github.com/paritytech)
 
@@ -548,6 +568,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [secret_network-open_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [secret_network-open_issues-2]: https://github.com/scrtlabs/secret-toolkit/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 
+- [Secret Feature: 1RPC](https://scrt.network/blog/secret-feature-1rpc)
+- [Secret Network is now supported on Babylon Testnet](https://scrt.network/blog/babylon-chain-testnet)
+- [Privacy-as-a-Service Showcase: BIDSHOP](https://scrt.network/blog/paas-showcase-bidshop)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 404 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2], [3][solana-merged-prs-3]),
@@ -581,6 +605,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [soroban-open_issues-2]: https://github.com/stellar/rs-soroban-env/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [soroban-open_issues-3]: https://github.com/stellar/soroban-tools/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [soroban-open_issues-4]: https://github.com/stellar/soroban-examples/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
+
+- [Soroban’s Technical Design Decisions & Learnings from Ethereum](https://www.stellar.org/developers-blog/sorobans-technical-design-decisions-learnings-from-ethereum)
+- [Announcing the Soroban Security Bug Bounty](https://www.stellar.org/developers-blog/soroban-security-bug-bounty)
 
 #### [Subspace Network](https://github.com/subspace)
 
@@ -886,6 +913,10 @@ If we've missed any other notable Rust Ethereum projects or ecosystems, feel fre
 Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
+
+Jul 6-Aug 6 | Online | [Sway Summer Online Hackathon](https://dorahacks.io/hackathon/sway-summer-hackathon?ref=fuel-labs.ghost.io)
+
+Jul 10 | Online | [Encode x NEAR Horizon Eight-week Coding Bootcamp](https://www.encode.club/encode-near-horizon-bootcamp)
 
 Jul 17-20 | Paris, France | [Ethereum Community Conference (EthCC) 6](https://www.ethcc.io/)
 

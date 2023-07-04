@@ -387,16 +387,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [maidsafe-closed_issues-1]: https://github.com/maidsafe/safe_network/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [maidsafe-open_issues-1]: https://github.com/maidsafe/safe_network/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 
-#### [Mina](https://github.com/MinaProtocol)
-
-0 merged PRs,
-4 closed issues ([1][mina-closed_issues-1]),
-5 open issues ([1][mina-open_issues-1], [2][mina-open_issues-2])
-
-[mina-closed_issues-1]: https://github.com/openmina/openmina/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
-[mina-open_issues-1]: https://github.com/openmina/openmina/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
-[mina-open_issues-2]: https://github.com/openmina/mina-p2p-messages-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
-
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 22 merged PRs ([1][mobilecoin-merged-prs-1]),

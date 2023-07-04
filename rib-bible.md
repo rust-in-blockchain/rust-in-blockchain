@@ -35,10 +35,8 @@ GitHub:
 ```toml
 repos = [
 "AleoHQ/sdk",
-"AleoHQ/aleo_lambda_blockchain",
 "AleoHQ/aleo-std",
 "AleoHQ/aleo-setup-integration-test",
-"AleoHQ/aleo_vm_lambda",
 "AleoHQ/leo",
 "AleoHQ/snarkOS",
 "AleoHQ/snarkVM",
@@ -710,7 +708,6 @@ repos = [
 "stellar/soroban-tools",
 "stellar/soroban-examples",
 "stellar/scaffold-soroban",
-"stellar/rpciege-soroban"
 ]
 ```
 

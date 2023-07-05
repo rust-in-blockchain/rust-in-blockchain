@@ -18,8 +18,7 @@ industry topics.
 
 Thanks to contributors:
 [Julian Martinez],
-_TODO_
-
+[Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.

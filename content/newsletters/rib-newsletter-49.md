@@ -4,7 +4,8 @@ description: "June 2023"
 date: 2023-07-05
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #49 edition of Rust in Blockchain.
+This month, we spotlight `Locutus`, a platform for creating decentralized applications on top of a decentralized key-value store."
 ---
 
 Welcome to the #49 edition of Rust in Blockchain, the monthly
@@ -65,7 +66,7 @@ It is not blockchain based.
   ONNX Runtime in Cairo 1.0 for verifiable ML inference using STARK.
   Blog post: [Introducing Orion: A verifiable, extensible framework to superpower web3 & AI](https://mirror.xyz/gizatech.eth/EtbskbyzVMIhGhgX_xl1yjTOMKW66jjujIr_HcfO2YQ)
 - [Locutus](https://github.com/freenet/locutus).
-  A software platform for writing create decentralized applications.
+  A software platform for creating decentralized applications.
 
 &nbsp;
 

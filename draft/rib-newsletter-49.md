@@ -38,6 +38,14 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[Locutus](https://github.com/freenet/locutus).
+
+Locutus is a project created by Freenet.
+It is a platform for creating decentralized applications
+on top of a decentralized key-value store.
+It is not blockchain based.
+
+
 &nbsp;
 
 

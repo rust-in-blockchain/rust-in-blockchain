@@ -49,6 +49,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Concurrent Asynchronous Byzantine Agreement in Expected-Constant Rounds, Revisited](https://eprint.iacr.org/2023/1003)
 - [EDEN - a practical, SNARK-friendly combinator VM and ISA](https://eprint.iacr.org/2023/1021)
 - [VSS from Distributed ZK Proofs and Applications](https://eprint.iacr.org/2023/992)
+- [Automated Analysis of Halo2 Circuits](https://eprint.iacr.org/2023/1051)
 
 #### Projects
 
@@ -897,6 +898,7 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-closed_issues-2]: https://github.com/starkware-libs/papyrus/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-06-01..2023-06-30%20-author:app/dependabot
 [starkware-open_issues-1]: https://github.com/starkware-libs/cairo/issues?q=is%3Aissue+is%3Aopen+created%3A2023-06-01..2023-06-30%20-author:app/dependabot
 
+- [Starknet Quantum Leap: Major Throughput Improvements are Here!](https://medium.com/starkware/starknet-quantum-leap-major-throughput-improvements-are-here-3e4e294ad8cd)
 - [Cairo Roadmap: Join the Ride](https://medium.com/starkware/cairo-roadmap-join-the-ride-23f31dcad172)
 - [Moving from Solidity to Cairo](https://starkware.medium.com/moving-from-solidity-to-cairo-7d44f9723c68)
 

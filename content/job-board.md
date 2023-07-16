@@ -68,6 +68,16 @@ Matter Labs | Berlin/Kiev or Remote
 - [Junior Software Engineer (ACM ICPC/IOI finalists)](https://matterlabs.notion.site/Junior-Software-Engineer-ACM-ICPC-IOI-finalists-2d062b60daf941f792ebac1958244f52)
 - [Head of Security (Blockchain)](https://matterlabs.notion.site/Head-of-Security-Blockchain-444a7d5f558c412da70c3300815a620a)
 
+Mysten Labs | USA (Remote), Greece
+- [Senior Software Engineer, Cryptography](https://jobs.ashbyhq.com/mystenlabs/a3d0da5b-b3cb-45db-9aa8-dc89ba0cee5e)
+- [Senior Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/mystenlabs/e381bd11-ab7e-4f50-a9a9-2b3b00046dba)
+- [Software Engineer, Product Infrastructure](https://jobs.ashbyhq.com/mystenlabs/c283bac8-c74d-4a70-9fe5-6d0926cdf3c1)
+- [Senior Software Engineer, Partner Solutions (Greece)](https://jobs.ashbyhq.com/mystenlabs/1e04e7bf-dff4-481a-8d98-1450d36c6d36)
+- [Software Engineer, Partner Solutions (Greece)](https://jobs.ashbyhq.com/mystenlabs/7a9c9bef-677d-4209-b305-276f31bba4d7)
+- [Senior Software Engineer, Partner Solutions (Japan)](https://jobs.ashbyhq.com/mystenlabs/6d222506-4d77-4a89-85f3-3f2f1fd3aa24)
+- [Senior Software Engineer, Partner Solutions (Korea)](https://jobs.ashbyhq.com/mystenlabs/c9dbeee8-e6ea-4214-8065-becd6ee87d1a)
+- [Software Engineering Manager, Solutions Engineering (Korea)](https://jobs.ashbyhq.com/mystenlabs/dc6fdd50-78b9-4494-953d-5f7804950a78)
+
 NEAR | Remote
 - [Low-Level Developer, Contract Runtime](https://docs.google.com/document/d/18HEwef-HDPZ2FPYfaHWpsd-kSF8E4zNpeQVulqhfFSk/edit?usp=sharing)
 - [Core Engineer](https://docs.google.com/document/d/1b5oJAM37_B2-stUsJ-xtAIsPnqMwdD0wu30ITvylCHk/edit?usp=sharing)

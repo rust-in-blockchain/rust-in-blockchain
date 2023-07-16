@@ -71,6 +71,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aptos](https://github.com/aptos-labs)
 
+- [Aptos Multisig v2 and Econia v4](https://medium.com/econialabs/aptos-multisig-v2-and-econia-v4-757d542238cc)
+
 #### [Casper](https://github.com/casper-network)
 
 #### [COMIT](https://github.com/comit-network)

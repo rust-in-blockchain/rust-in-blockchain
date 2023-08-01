@@ -11,9 +11,6 @@ pager: false
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
 Anoma | Berlin, Remote
-- [Senior Rust Engineer](https://heliax.dev/jobs/senior-rust-engineer/)
-- [Rust P2P Networking Engineer](https://heliax.dev/jobs/rust-p2p-networking-engineer)
-- [Zero-Knowledge Cryptographer & Protocol Developer](https://heliax.dev/jobs/zero-knowledge-cryptographer-protocol-developer/)
 - [Distributed Systems Research Engineer](https://heliax.dev/jobs/distributed-systems-research-engineer/)
 
 Anon | Africa, Remote
@@ -50,9 +47,6 @@ Fractal Protocol | Remote or Berlin
 HashCloak | Toronto, Remote
 - [Junior Research Engineer (MPC)](https://hackmd.io/@hashcloak/HJz2Xn3Z9)
 
-Holochain | Americas Centric, Remote
-- [RUST Developer – Holo Americas](https://holo.host/careers/rust-developer)
-
 Massa | Paris, Remote
 - [Lead blockchain Developer](https://massa.net/lead_blockchain_developer.html)
 - [Senior Blockchain Developer](https://massa.net/senior_blockchain_developer.html)
@@ -85,27 +79,15 @@ NEAR | Remote
 Oxygen | Dubai or Remote
 - [Smart Contract Engineer (Rust)](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
 
-Parity Technologies | Berlin or Remote
-- [Full Stack Engineer - Common Good Parachains](https://boards.greenhouse.io/parity/jobs/5213777003)
-- [Director of Engineering](https://boards.greenhouse.io/parity/jobs/5245306003)
+Parity Technologies | Remote(CET)
+- [Senior/Principal Software Engineer - System Parachains](https://boards.greenhouse.io/parity/jobs/5571459003)
+- [Rust AppSec Engineer](https://boards.greenhouse.io/parity/jobs/5597315003)
 
 Polygon Zero | Remote
 - [Senior Protocol Engineer](https://mirprotocol.org/careers/protocol-engineer)
 
 Stellar | USA, Canada, Remote
-- [Rust Engineer (San Francisco)](https://boards.greenhouse.io/stellar/jobs/4768370004)
-- [Rust Engineer (New York)](https://boards.greenhouse.io/stellar/jobs/4768375004)
-- [Rust Engineer (Remote - USA)](https://boards.greenhouse.io/stellar/jobs/4768379004)
-- [Rust Engineer (Remote - Canada)](https://boards.greenhouse.io/stellar/jobs/4768381004)
+- [Senior Full Stack Software Engineer](https://boards.greenhouse.io/stellar)
 
 The Graph | Remote
 - [Rust Engineer](https://thegraph.com/jobs/rust-engineer)
-
-Trail of Bits | Remote
-- [Security Consultant, Cryptography](https://jobs.lever.co/trailofbits/56af8506-3205-4c7b-b28d-ba8292bd1a47)
-
-Lava | Remote
-- [Systems Engineer](https://docs.google.com/document/d/1IynkOVl1Hz7Dz4ufwEscgx8V0Vo-RcTnp7hIDx4dH18/edit#heading=h.exl9ujed9l69)
-- [Infrastructure Engineer](https://docs.google.com/document/d/1Vfa6mvR6xMaWcja3I1TJgxPUueONk5C0BF7X6AhZOpk/edit#heading=h.ue7eoxw5bjyq)
-- [Frontend Engineer](https://docs.google.com/document/d/1FCRxKxNZ45KO0i2rN2EAKJzhGp3k0mk0JpRBSKrXdeM/edit#heading=h.g57lla8b5oqo)
-- [Lead Designer](https://docs.google.com/document/d/1-PzjV0ur76F2B4rKjjVSUiq13lEB5yvtbqJt8vEBYSs/edit#)

@@ -48,6 +48,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [The zero-knowledge attack of the year might just have happened, or how Nova got broken](https://www.zksecurity.xyz/blog/posts/nova-attack/)
 
 #### Papers
 
@@ -189,6 +190,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [conflux-merged-prs-1]: https://github.com/Conflux-Chain/conflux-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-07-01..2023-07-31%20-author:app/dependabot
 
+- [Monthly Progress Report — July 2023](https://confluxnetwork.medium.com/monthly-progress-report-july-2023-39d330e0fa9e)
+
 #### [DarkFi](https://dark.fi)
 
 2 merged PRs ([1][darkfi-merged-prs-1]),
@@ -250,6 +253,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [espresso_systems-open_issues-1]: https://github.com/EspressoSystems/jellyfish/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [espresso_systems-open_issues-2]: https://github.com/EspressoSystems/HotShot/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 
+- [Releasing the Espresso Sequencer Testnet II: Doppio](https://medium.com/@espressosys/releasing-the-espresso-sequencer-testnet-ii-doppio-bcc46c315c30)
+
 #### [Filecoin](https://github.com/filecoin-project)
 
 135 merged PRs ([1][filecoin-merged-prs-1], [2][filecoin-merged-prs-2], [3][filecoin-merged-prs-3], [4][filecoin-merged-prs-4], [5][filecoin-merged-prs-5], [6][filecoin-merged-prs-6], [7][filecoin-merged-prs-7]),
@@ -273,6 +278,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [filecoin-open_issues-2]: https://github.com/filecoin-project/builtin-actors/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [filecoin-open_issues-3]: https://github.com/filecoin-project/ref-fvm/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [filecoin-open_issues-4]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
+
+- [Monitoring booster-http Retrievals](https://filecoin.io/blog/posts/monitoring-booster-http-retrievals/)
+- [CC Sector Upgrade: Guidelines and Modeling](https://filecoin.io/blog/posts/cc-sector-upgrade-guidelines-and-modeling/)
 
 #### [Findora](https://github.com/FindoraNetwork)
 
@@ -329,6 +337,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [fuel-open_issues-6]: https://github.com/FuelLabs/fuelup/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [fuel-open_issues-7]: https://github.com/FuelLabs/sway/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 
+- [Inside Fuel: Q2 2023](https://fuel-labs.ghost.io/inside-fuel-q2-2023/)
+
 #### [Golem](https://github.com/golemfactory)
 
 26 merged PRs ([1][golem-merged-prs-1], [2][golem-merged-prs-2], [3][golem-merged-prs-3]),
@@ -378,6 +388,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [holochain-closed_issues-2]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [holochain-open_issues-1]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [holochain-open_issues-2]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
+
+- [Bundle Your hApp in a Kangaroo Pouch](https://blog.holochain.org/bundle-your-happ-in-a-kangaroo-pouch/)
 
 #### [IOTA](https://github.com/iotaledger)
 
@@ -599,6 +611,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [sui-closed_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [sui-open_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 
+- [Simple and Meta Oracles on Sui](https://tech.mystenlabs.com/simple-and-meta-oracles-on-sui/)
+
 #### [Zcash](https://github.com/zcash)
 
 79 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3], [4][zcash-merged-prs-4], [5][zcash-merged-prs-5]),
@@ -615,6 +629,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [zcash-closed_issues-3]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [zcash-open_issues-1]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [zcash-open_issues-2]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
+
+- [The Trailing Finality Layer: A stepping stone to proof of stake in Zcash](https://electriccoin.co/blog/the-trailing-finality-layer-a-stepping-stone-to-proof-of-stake-in-zcash/)
 
 &nbsp;
 
@@ -813,6 +829,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [lighthouse-open_issues-2]: https://github.com/sigp/discv5/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 
+- [Lighthouse Update #42](https://lighthouse-blog.sigmaprime.io/update-42.html)
+
 #### [Mir Protocol](https://github.com/mir-protocol)
 
 35 merged PRs ([1][mir_protocol-merged-prs-1], [2][mir_protocol-merged-prs-2]),
@@ -866,6 +884,10 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-closed_issues-3]: https://github.com/starkware-libs/starknet-api/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [starkware-open_issues-1]: https://github.com/starkware-libs/cairo/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [starkware-open_issues-2]: https://github.com/starkware-libs/starknet-api/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
+
+- [Joining Forces: SHARP](https://medium.com/starkware/joining-forces-sharp-cfbd05f4b340)
+- [Paradex: Starknet’s first Appchain](https://medium.com/starkware/paradex-starknets-first-appchain-85a0a760320f)
+- [Harnessing the Beast — Madara and the Revolution of Starknet Appchains](https://medium.com/starkware/harnessing-the-beast-madara-and-the-revolution-of-starknet-appchains-7f76f774072e)
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 

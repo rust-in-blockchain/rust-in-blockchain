@@ -43,22 +43,24 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
+- Can we Obtain Privacy in a Private Proof-of-Stake Blockchain? [Part-I](https://decentralizedthoughts.github.io/2023-07-21-ppos1/), [Part-II](https://decentralizedthoughts.github.io/2023-07-21-ppos2/)
 - [The zero-knowledge attack of the year might just have happened, or how Nova got broken](https://www.zksecurity.xyz/blog/posts/nova-attack/)
+- [ZPU: The Zero-Knowledge Processing Unit](https://medium.com/@ingonyama/zpu-the-zero-knowledge-processing-unit-f886a48e00e0)
 
 #### Papers
 
-
-#### Projects
-
+- [SoK: Public Randomness](https://eprint.iacr.org/2023/1121)
+- [Streebog as a Random Oracle](https://eprint.iacr.org/2023/1075)
+- [Security-Performance Tradeoff in DAG-based Proof-of-Work Blockchain Protocols](https://eprint.iacr.org/2023/1089)
+- [Automated Analysis of Halo2 Circuits](https://eprint.iacr.org/2023/1051)
+- [(Revised) Peer-to-Peer Energy Trading Meets Blockchain: Consensus via Score-Based Bid Assignment](https://eprint.iacr.org/2022/1471)
+- [(Revised) Fast Fully Oblivious Compaction and Shuffling](https://eprint.iacr.org/2022/1333)
 
 &nbsp;
 
-## Most Active in February
+## Most Active in July
 
 [Parity](https://github.com/paritytech):
 376 merged PRs,
@@ -292,6 +294,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [findora-merged-prs-2]: https://github.com/FindoraNetwork/findora-scanner/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [findora-merged-prs-3]: https://github.com/FindoraNetwork/noah/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-07-01..2023-07-31%20-author:app/dependabot
 
+- [What Zero Knowledge Proofs Do for Bridges](https://findora.org/2023/07/what-zero-knowledge-proofs-do-for-bridges/)
+- [The Monthly Rollup: June ’23](https://findora.org/2023/07/the-monthly-rollup-june-23/)
+
 #### [Fluence](https://github.com/fluencelabs)
 
 130 merged PRs ([1][fluence-merged-prs-1], [2][fluence-merged-prs-2], [3][fluence-merged-prs-3], [4][fluence-merged-prs-4], [5][fluence-merged-prs-5], [6][fluence-merged-prs-6], [7][fluence-merged-prs-7]),
@@ -376,6 +381,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [helium-merged-prs-3]: https://github.com/helium/helium-wallet-rs/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [helium-closed_issues-1]: https://github.com/helium/helium-crypto-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [helium-open_issues-1]: https://github.com/helium/gateway-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
+
+- [Helium-Solana migration: The Most Asked Community Questions](https://blog.helium.com/helium-solana-migration-the-most-asked-community-questions-3d107c1b85cd)
 
 #### [Holochain](https://github.com/holochain/)
 
@@ -495,6 +502,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [oasis-closed_issues-1]: https://github.com/oasisprotocol/oasis-sdk/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [oasis-open_issues-1]: https://github.com/oasisprotocol/oasis-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 
+- [Oasis June 2023 Engineering Update](https://oasisprotocol.org/blog/june-2023-engineering-update)
+
 #### [Parity](https://github.com/paritytech)
 
 376 merged PRs ([1][parity-merged-prs-1], [2][parity-merged-prs-2], [3][parity-merged-prs-3], [4][parity-merged-prs-4], [5][parity-merged-prs-5], [6][parity-merged-prs-6], [7][parity-merged-prs-7], [8][parity-merged-prs-8], [9][parity-merged-prs-9], [10][parity-merged-prs-10], [11][parity-merged-prs-11], [12][parity-merged-prs-12], [13][parity-merged-prs-13]),
@@ -557,6 +566,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [secret_network-merged-prs-1]: https://github.com/scrtlabs/SecretNetwork/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [secret_network-closed_issues-1]: https://github.com/scrtlabs/SecretNetwork/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-07-01..2023-07-31%20-author:app/dependabot
 
+- [Announcing Secret Ethereum](https://scrt.network/blog/announcing-secret-ethereum)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 237 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2]),
@@ -571,6 +582,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [solana-open_issues-3]: https://github.com/solana-labs/solana-accountsdb-plugin-postgres/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
+
+- [Network Performance Report: July 2023](https://solana.com/news/network-performance-report-july-2023)
 
 #### [Soroban](https://github.com/stellar)
 
@@ -590,6 +603,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [soroban-open_issues-2]: https://github.com/stellar/rs-soroban-env/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [soroban-open_issues-3]: https://github.com/stellar/soroban-tools/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [soroban-open_issues-4]: https://github.com/stellar/soroban-examples/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
+
+- [Stellar Development Foundation Q2 2023 in Review](https://www.stellar.org/blog/stellar-development-foundation-q2-2023-in-review)
 
 #### [Subspace Network](https://github.com/subspace)
 
@@ -903,6 +918,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [zksync_era-open_issues-2]: https://github.com/matter-labs/foundry-zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 [zksync_era-open_issues-3]: https://github.com/matter-labs/zksync/issues?q=is%3Aissue+is%3Aopen+created%3A2023-07-01..2023-07-31%20-author:app/dependabot
 
+- [Boojum Upgrade: zkSync Era’s New High-performance Proof System for Radical Decentralization](https://zksync.mirror.xyz/HJ2Pj45EJkRdt5Pau-ZXwkV2ctPx8qFL19STM5jdYhc)
+
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
 
@@ -916,7 +933,39 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
+Aug 2 | Barcelona, Spain | [ZKProof 5.5](https://zkproof.org/events/zkproof-5-5-barcelona/)
 
+Aug 28-30 | Palo Alto, CA, US | [The Science of Blockchain Conference 2023](https://cbr.stanford.edu/sbc23/)
+
+Aug 31 | San Francisco, CA, US | [Starknet Summit](https://summit23.starknet.io/)
+
+Sep 5-6 | Seoul, Korea | [Korea Blockchain Week](https://koreablockchainweek.com/)
+
+Sep 11-13 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
+
+Sep 12-13 | Singapore | [DeCompute 2023](https://www.decompute.xyz/)
+
+Sep 12-15 | Albuquerque, NM & Online | [RustConf 2023](https://rustconf.com/)
+
+Sep 15 | Berlin, Germany | [Protocol Berg](https://protocol.berlin/)
+
+Sep 20 | London, UK | [zkSummit10](https://www.zksummit.com/)
+
+Sep 22-24 | New York City, US | [ETHGlobal New York](https://ethglobal.com/events/newyork2023)
+
+Sep 26-28 | Madrid, Spain | [Stellar Meridian](https://meridian.stellar.org/)
+
+Oct 2-4 | Istanbul, Turkey | [Cosmoverse 2023](https://cosmoverse.org/)
+
+Oct 5-6 | US - Virtual Eastern | [Blockchain Security Summit 2023](https://www.sans.org/cyber-security-training-events/blockchain-summit-2023/)
+
+Oct 30-Nov 3 | Amsterdam, Netherlands | [Solana Breakpoint](https://solana.com/breakpoint)
+
+Nov 7-10 | Lisbon, Portugal | [Nearcon 23](https://near.org/nearcon23.near/widget/Index)
+
+Nov 13-19 | Istanbul, Turkey | [Devconnect](https://devconnect.org/)
+
+Nov 17-19 | Istanbul, Turkey | [ETHGlobal Istanbul](https://ethglobal.com/events/istanbul)
 
 &nbsp;
 

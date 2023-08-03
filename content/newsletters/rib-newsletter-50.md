@@ -4,7 +4,7 @@ description: "July 2023"
 date: 2023-08-02
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #49 edition of Rust in Blockchain."
 ---
 
 Welcome to the #50 edition of Rust in Blockchain, the monthly
@@ -17,9 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
-_TODO_
-
+[Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.

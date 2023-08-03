@@ -4,7 +4,7 @@ description: "July 2023"
 date: 2023-08-02
 categories:
   - "newsletters"
-summary: "Welcome to the #49 edition of Rust in Blockchain."
+summary: "Welcome to the #50 edition of Rust in Blockchain."
 ---
 
 Welcome to the #50 edition of Rust in Blockchain, the monthly

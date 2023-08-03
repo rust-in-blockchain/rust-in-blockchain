@@ -38,6 +38,8 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+None this month.
+
 &nbsp;
 
 

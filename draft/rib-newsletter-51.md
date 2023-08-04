@@ -17,7 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
+[dvnik8006],
 _TODO_
 
 Thank you for your help!
@@ -28,6 +28,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[dvnik8006]: https://github.com/dvnik8006
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -234,7 +235,9 @@ Company name | Location A, B, Remote
 
 -->
 
-
+Nomic Foundation | Remote (EMEA, Americas)
+- [Senior Systems Engineer, Dev Runtimes Library](https://jobs.ashbyhq.com/nomic.foundation/34cda712-64fc-46aa-b65d-d18f6f0c3a92)
+- [Senior Systems Engineer, Compiler as a Service](https://jobs.ashbyhq.com/nomic.foundation/1ef14a5f-6035-45fc-8012-c7243c02c156) 
 
 More jobs can be found at [Job Board][page-jobboard].
 

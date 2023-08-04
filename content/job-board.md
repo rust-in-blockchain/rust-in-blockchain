@@ -10,6 +10,10 @@ pager: false
 
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
+Nomic Foundation | Remote (EMEA, Americas)
+- [Senior Systems Engineer, Dev Runtimes Library](https://jobs.ashbyhq.com/nomic.foundation/34cda712-64fc-46aa-b65d-d18f6f0c3a92)
+- [Senior Systems Engineer, Compiler as a Service](https://jobs.ashbyhq.com/nomic.foundation/1ef14a5f-6035-45fc-8012-c7243c02c156) 
+
 Anoma | Berlin, Remote
 - [Distributed Systems Research Engineer](https://heliax.dev/jobs/distributed-systems-research-engineer/)
 

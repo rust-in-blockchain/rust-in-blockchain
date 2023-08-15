@@ -48,6 +48,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 
 #### Blog Posts
+[What's Next for the DWeb?](https://blog.holochain.org/whats-next-for-the-dweb/)
+[Joins Us and Learn Holochain](https://blog.holochain.org/joins-us-and-learn-holochain/)
+[Web3 (Without Running Your Own Server)](https://www.linkedin.com/pulse/web3-without-running-your-own-server-holochain)
+
 
 
 #### Papers
@@ -103,6 +107,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Helium](https://github.com/helium)
 
 #### [Holochain](https://github.com/holochain/)
+[What's Next for the DWeb?](https://blog.holochain.org/whats-next-for-the-dweb/)
+[The Joy of Missing Out with Holochain at DWeb Camp](https://blog.holochain.org/the-joy-of-missing-out-with-holochain-at-dweb-camp/)
+[Joins Us and Learn Holochain](https://blog.holochain.org/joins-us-and-learn-holochain/)
 
 #### [IOTA](https://github.com/iotaledger)
 

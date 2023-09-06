@@ -17,10 +17,12 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[Alexander],
 [camilahanada],
 [dvnik8006],
-_TODO_
-
+[luxbe],
+[raulk],
+[Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -29,8 +31,11 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[Alexander]: https://github.com/alexs-sh
 [camilahanada]: https://github.com/camilahanada
 [dvnik8006]: https://github.com/dvnik8006
+[luxbe]: https://github.com/luxbe
+[raulk]: https://github.com/raulk
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 

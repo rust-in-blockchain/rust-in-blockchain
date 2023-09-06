@@ -224,6 +224,7 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
+Oct 2-7 | Online | [Holochain Developer Training](https://www.holochain.org/holochain-developer-training-oct-2023)
 
 
 &nbsp;

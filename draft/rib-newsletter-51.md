@@ -343,6 +343,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [helium-open_issues-1]: https://github.com/helium/helium-wallet-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
 
 #### [Holochain](https://github.com/holochain/)
+[What's Next for the DWeb?](https://blog.holochain.org/whats-next-for-the-dweb/)
+[The Joy of Missing Out with Holochain at DWeb Camp](https://blog.holochain.org/the-joy-of-missing-out-with-holochain-at-dweb-camp/)
+[Joins Us and Learn Holochain](https://blog.holochain.org/joins-us-and-learn-holochain/)
 
 93 merged PRs ([1][holochain-merged-prs-1], [2][holochain-merged-prs-2], [3][holochain-merged-prs-3], [4][holochain-merged-prs-4]),
 8 closed issues ([1][holochain-closed_issues-1], [2][holochain-closed_issues-2]),

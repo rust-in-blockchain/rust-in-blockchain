@@ -859,8 +859,33 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
+Sep 11-13 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
+
+Sep 12-13 | Singapore | [DeCompute 2023](https://www.decompute.xyz/)
+
+Sep 12-15 | Albuquerque, NM & Online | [RustConf 2023](https://rustconf.com/)
+
+Sep 15 | Berlin, Germany | [Protocol Berg](https://protocol.berlin/)
+
+Sep 20 | London, UK | [zkSummit10](https://www.zksummit.com/)
+
+Sep 22-24 | New York City, US | [ETHGlobal New York](https://ethglobal.com/events/newyork2023)
+
+Sep 26-28 | Madrid, Spain | [Stellar Meridian](https://meridian.stellar.org/)
+
+Oct 2-4 | Istanbul, Turkey | [Cosmoverse 2023](https://cosmoverse.org/)
+
 Oct 2-7 | Online | [Holochain Developer Training](https://www.holochain.org/holochain-developer-training-oct-2023)
 
+Oct 5-6 | US - Virtual Eastern | [Blockchain Security Summit 2023](https://www.sans.org/cyber-security-training-events/blockchain-summit-2023/)
+
+Oct 30-Nov 3 | Amsterdam, Netherlands | [Solana Breakpoint](https://solana.com/breakpoint)
+
+Nov 7-10 | Lisbon, Portugal | [Nearcon 23](https://near.org/nearcon23.near/widget/Index)
+
+Nov 13-19 | Istanbul, Turkey | [Devconnect](https://devconnect.org/)
+
+Nov 17-19 | Istanbul, Turkey | [ETHGlobal Istanbul](https://ethglobal.com/events/istanbul)
 
 &nbsp;
 

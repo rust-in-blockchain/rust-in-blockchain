@@ -968,16 +968,20 @@ repos = [
 
 ### Nomic
 
+Media:
+- https://www.turbofish.org/blog
+
 GitHub:
 - https://github.com/nomic-io
+- https://github.com/turbofish-org
 
 ```toml
 repos = [
 "nomic-io/nomic",
-"nomic-io/merk",
-"nomic-io/orga",
-"nomic-io/abci2",
-"nomic-io/ed",
+"turbofish-org/merk",
+"turbofish-org/orga",
+"turbofish-org/abci2",
+"turbofish-org/ed",
 ]
 ```
 

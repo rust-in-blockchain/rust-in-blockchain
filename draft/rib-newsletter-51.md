@@ -53,7 +53,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
-- [Introducing Wormhole](https://wormholecrypto.medium.com/introducing-wormhole-32b16d795c01)
 - [Announcing Zeth: the first Type Zero zkEVM](https://www.risczero.com/news/zeth-release)
 
 #### Blog Posts

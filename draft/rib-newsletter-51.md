@@ -48,14 +48,31 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [RUSTSEC-2022-0093: Vulnerability in ed25519-dalek: Double Public Key Signing Function Oracle Attack on `ed25519-dalek`](https://tech.mystenlabs.com/zero-knowledge-range-proofs/)
+- [Introducing Wormhole](https://wormholecrypto.medium.com/introducing-wormhole-32b16d795c01)
+- [Announcing Zeth: the first Type Zero zkEVM](https://www.risczero.com/news/zeth-release)
 
 #### Blog Posts
 
+- [The Engineer’s Guide to Blockchain Finality](https://blog.trailofbits.com/2023/08/23/the-engineers-guide-to-blockchain-finality/)
+- [Detecting boomerang values in zero-knowledge circuits using tag analysis](https://www.zksecurity.xyz/blog/posts/boomerang/)
+- [An incomplete guide to Folding: Nova, Sangria, SuperNova, HyperNova, Protostar](https://taiko.mirror.xyz/tk8LoE-rC2w0MJ4wCWwaJwbq8-Ih8DXnLUf7aJX1FbU)
 
 #### Papers
 
+- [Phoenixx: Linear consensus with random sampling](https://eprint.iacr.org/2023/1262)
+- [Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery](https://eprint.iacr.org/2023/1218)
+- [Jolt: SNARKs for Virtual Machines via Lookups](https://eprint.iacr.org/2023/1217)
+- [SoK: Privacy-Preserving Smart Contract](https://eprint.iacr.org/2023/1226)
+- [Key-Agreement with Perfect Completeness from Random Oracles](https://eprint.iacr.org/2023/1265)
+- [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271)
 
 #### Projects
+
+- [Valida](https://github.com/valida-xyz/valida).
+  A STARK-based VM focused on code reuse, performance, and modularity.
+- [Zeth](https://github.com/risc0/zeth).
+  An open-source ZK block prover for Ethereum built on the RISC Zero zkVM.
 
 
 &nbsp;
@@ -87,6 +104,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [aleo-open_issues-2]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
 [aleo-open_issues-3]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
 [aleo-open_issues-4]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
+
+- [Hello, again](https://aleo.org/post/hello-again/)
 
 #### [Anoma](https://github.com/anoma)
 
@@ -165,6 +184,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [conflux-merged-prs-1]: https://github.com/Conflux-Chain/conflux-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-08-01..2023-08-31%20-author:app/dependabot
 
+- [Monthly Progress Report — August 2023](https://medium.com/conflux-network/monthly-progress-report-august-2023-dc0f6c130f42)
+
 #### [DarkFi](https://dark.fi)
 
 20 merged PRs ([1][darkfi-merged-prs-1]),
@@ -190,6 +211,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [dfinity-open_issues-1]: https://github.com/dfinity/sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
 [dfinity-open_issues-2]: https://github.com/dfinity/agent-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
 [dfinity-open_issues-3]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
+
+- [DFINITY Foundation launches $5 million grant to support Decentralized AI on the Internet Computer Blockchain](https://medium.com/dfinity/dfinity-foundation-launches-5-million-grant-to-support-decentralized-ai-on-the-internet-computer-9bb93b4d68cd)
+- [The Internet Computer: A blockchain that offers stateful decentralized serverless computing](https://medium.com/dfinity/the-internet-computer-a-blockchain-that-offers-stateful-decentralized-serverless-computing-cdbbfdca4b7e)
+- [Weed Out the Bugs with TLA+ Models](https://medium.com/dfinity/weeding-out-the-bugs-with-tla-models-3606045bf24e)
+- [Composite Queries: Horizontal Scaling for Multi Canister Dapps](https://medium.com/dfinity/composite-queries-horizontal-scaling-for-multi-canister-dapps-e766e62bdea9)
 
 #### [Dusk Network](https://github.com/dusk-network)
 
@@ -221,6 +247,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [espresso_systems-closed_issues-2]: https://github.com/EspressoSystems/HotShot/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-08-01..2023-08-31%20-author:app/dependabot
 [espresso_systems-open_issues-1]: https://github.com/EspressoSystems/jellyfish/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
 [espresso_systems-open_issues-2]: https://github.com/EspressoSystems/HotShot/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
+
+- [Opening the Doppio Testnet to the Public](https://medium.com/@espressosys/opening-the-doppio-testnet-to-the-public-904680bd07b1)
 
 #### [Filecoin](https://github.com/filecoin-project)
 
@@ -569,6 +597,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [subspace_network-closed_issues-1]: https://github.com/subspace/subspace/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-08-01..2023-08-31%20-author:app/dependabot
 [subspace_network-open_issues-1]: https://github.com/subspace/subspace/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
 
+- [Ecosystem Update | August 2023](https://blog.subspace.network/ecosystem-update-august-2023-cf60f512814c)
+
 #### [Sui](https://github.com/MystenLabs)
 
 236 merged PRs ([1][sui-merged-prs-1]),
@@ -578,6 +608,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [sui-merged-prs-1]: https://github.com/MystenLabs/sui/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-08-01..2023-08-31%20-author:app/dependabot
 [sui-closed_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-08-01..2023-08-31%20-author:app/dependabot
 [sui-open_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
+
+- [Announcing the Mysten Labs Bug Bounty Program](https://tech.mystenlabs.com/announcing-mysten-labs-bug-bounty-program/)
+- [Ambush Attacks on 160-bit Object IDs and Addresses](https://tech.mystenlabs.com/ambush-attacks-on-160bit-objectids-addresses/)
+- [Zero-Knowledge Range Proofs: Proving Where Your Secret Lies](https://tech.mystenlabs.com/zero-knowledge-range-proofs/)
 
 #### [Zcash](https://github.com/zcash)
 
@@ -784,6 +818,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [lighthouse-open_issues-1]: https://github.com/sigp/lighthouse/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
 [lighthouse-open_issues-2]: https://github.com/sigp/discv5/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
 
+- [Siren - The Lighthouse UI](https://lighthouse-blog.sigmaprime.io/Siren.html)
+
 #### [Mir Protocol](https://github.com/mir-protocol)
 
 37 merged PRs ([1][mir_protocol-merged-prs-1], [2][mir_protocol-merged-prs-2]),
@@ -829,6 +865,9 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-closed_issues-2]: https://github.com/starkware-libs/starknet-api/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-08-01..2023-08-31%20-author:app/dependabot
 [starkware-open_issues-1]: https://github.com/starkware-libs/cairo/issues?q=is%3Aissue+is%3Aopen+created%3A2023-08-01..2023-08-31%20-author:app/dependabot
 
+- [Open-Sourcing the Battle-Tested Stone Prover](https://medium.com/starkware/open-sourcing-the-battle-tested-stone-prover-1fe71aaab3b7)
+- [Volition on Starknet: Your Data, Your Choice](https://medium.com/starkware/volition-on-starknet-your-data-your-choice-374db7d15d9f)
+- [Let the Games Begin: Redefining On-Chain Gaming with Starknet](https://medium.com/starkware/let-the-games-begin-redefining-on-chain-gaming-with-starknet-1e6e6d6c37fa)
 - [Cairo Roadmap: Join the Ride](https://www.cairo-lang.org/cairo-roadmap-join-the-ride/)
 
 #### [zkSync](https://github.com/matter-labs/zksync)
@@ -858,6 +897,8 @@ If we've missed any other notable Rust Ethereum projects or ecosystems, feel fre
 Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
+
+Sep 10-14 | Prague, Czech Republic | [CHES 2023](https://ches.iacr.org/2023/)
 
 Sep 11-13 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
 

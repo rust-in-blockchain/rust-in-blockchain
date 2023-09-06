@@ -53,7 +53,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
-- [RUSTSEC-2022-0093: Vulnerability in ed25519-dalek: Double Public Key Signing Function Oracle Attack on `ed25519-dalek`](https://tech.mystenlabs.com/zero-knowledge-range-proofs/)
+- [RUSTSEC-2022-0093: Vulnerability in ed25519-dalek: Double Public Key Signing Function Oracle Attack on `ed25519-dalek`](https://rustsec.org/advisories/RUSTSEC-2022-0093)
 - [Introducing Wormhole](https://wormholecrypto.medium.com/introducing-wormhole-32b16d795c01)
 - [Announcing Zeth: the first Type Zero zkEVM](https://www.risczero.com/news/zeth-release)
 

@@ -4,7 +4,9 @@ description: "August 2023"
 date: 2023-09-06
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #51 edition of Rust in Blockchain.
+This month, we spotlight `zeth`.
+It builds Ethereum blocks and generates proofs from within the RISC-Zero VM."
 ---
 
 Welcome to the #51 edition of Rust in Blockchain, the monthly

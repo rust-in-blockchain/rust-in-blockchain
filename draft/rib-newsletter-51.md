@@ -83,7 +83,6 @@ Doing so though depends on offloading work to many GPUs.
 - [Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery](https://eprint.iacr.org/2023/1218)
 - [Jolt: SNARKs for Virtual Machines via Lookups](https://eprint.iacr.org/2023/1217)
 - [SoK: Privacy-Preserving Smart Contract](https://eprint.iacr.org/2023/1226)
-- [Key-Agreement with Perfect Completeness from Random Oracles](https://eprint.iacr.org/2023/1265)
 - [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271)
 
 #### Projects

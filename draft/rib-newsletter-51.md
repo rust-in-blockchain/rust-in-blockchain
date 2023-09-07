@@ -53,8 +53,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
-- [RUSTSEC-2022-0093: Vulnerability in ed25519-dalek: Double Public Key Signing Function Oracle Attack on `ed25519-dalek`](https://rustsec.org/advisories/RUSTSEC-2022-0093)
-- [Introducing Wormhole](https://wormholecrypto.medium.com/introducing-wormhole-32b16d795c01)
 - [Announcing Zeth: the first Type Zero zkEVM](https://www.risczero.com/news/zeth-release)
 
 #### Blog Posts
@@ -62,6 +60,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [The Engineer’s Guide to Blockchain Finality](https://blog.trailofbits.com/2023/08/23/the-engineers-guide-to-blockchain-finality/)
 - [Detecting boomerang values in zero-knowledge circuits using tag analysis](https://www.zksecurity.xyz/blog/posts/boomerang/)
 - [An incomplete guide to Folding: Nova, Sangria, SuperNova, HyperNova, Protostar](https://taiko.mirror.xyz/tk8LoE-rC2w0MJ4wCWwaJwbq8-Ih8DXnLUf7aJX1FbU)
+- [Zero-Knowledge Range Proofs: Proving Where Your Secret Lies](https://tech.mystenlabs.com/zero-knowledge-range-proofs/)
 
 #### Papers
 
@@ -78,6 +77,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A STARK-based VM focused on code reuse, performance, and modularity.
 - [Zeth](https://github.com/risc0/zeth).
   An open-source ZK block prover for Ethereum built on the RISC Zero zkVM.
+- [Cuprate](https://github.com/Cuprate/cuprate).
+  A Monero implementation in Rust.
 
 
 &nbsp;

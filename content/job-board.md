@@ -69,7 +69,6 @@ Mysten Labs | USA (Remote), Greece
 - [Senior Software Engineer, Partner Solutions (Greece)](https://jobs.ashbyhq.com/mystenlabs/1e04e7bf-dff4-481a-8d98-1450d36c6d36)
 - [Software Engineer, Partner Solutions (Greece)](https://jobs.ashbyhq.com/mystenlabs/7a9c9bef-677d-4209-b305-276f31bba4d7)
 - [Senior Software Engineer, Partner Solutions (Japan)](https://jobs.ashbyhq.com/mystenlabs/6d222506-4d77-4a89-85f3-3f2f1fd3aa24)
-- [Senior Software Engineer, Partner Solutions (Korea)](https://jobs.ashbyhq.com/mystenlabs/c9dbeee8-e6ea-4214-8065-becd6ee87d1a)
 - [Software Engineering Manager, Solutions Engineering (Korea)](https://jobs.ashbyhq.com/mystenlabs/dc6fdd50-78b9-4494-953d-5f7804950a78)
 
 NEAR | Remote
@@ -85,13 +84,18 @@ Oxygen | Dubai or Remote
 
 Parity Technologies | Remote(CET)
 - [Senior/Principal Software Engineer - System Parachains](https://boards.greenhouse.io/parity/jobs/5571459003)
-- [Rust AppSec Engineer](https://boards.greenhouse.io/parity/jobs/5597315003)
 
 Polygon Zero | Remote
 - [Senior Protocol Engineer](https://mirprotocol.org/careers/protocol-engineer)
 
+Quickwit | Europe
+- [Senior Software Engineer, Rust & distributed systems](https://quickwit.io/jobs/distributed-software-engineer)
+
 Stellar | USA, Canada, Remote
-- [Senior Full Stack Software Engineer](https://boards.greenhouse.io/stellar)
+- [Senior Software Engineer (San Francisco, California)](https://boards.greenhouse.io/stellar/jobs/4911069004)
+- [Senior Software Engineer (Brooklyn, New York)](https://boards.greenhouse.io/stellar/jobs/4923523004)
+- [Senior Software Engineer, Backend (Brooklyn, New York)](https://boards.greenhouse.io/stellar/jobs/4923529004)
+- [Senior Software Engineer, Backend (San Francisco, California)](https://boards.greenhouse.io/stellar/jobs/4923527004)
 
 The Graph | Remote
 - [Rust Engineer](https://thegraph.com/jobs/rust-engineer)

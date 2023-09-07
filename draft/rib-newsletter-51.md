@@ -77,6 +77,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
   A STARK-based VM focused on code reuse, performance, and modularity.
 - [Zeth](https://github.com/risc0/zeth).
   An open-source ZK block prover for Ethereum built on the RISC Zero zkVM.
+- [Cuprate](https://github.com/Cuprate/cuprate).
+  A Monero implementation in Rust.
 
 
 &nbsp;

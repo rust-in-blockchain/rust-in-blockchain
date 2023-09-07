@@ -60,6 +60,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [The Engineer’s Guide to Blockchain Finality](https://blog.trailofbits.com/2023/08/23/the-engineers-guide-to-blockchain-finality/)
 - [Detecting boomerang values in zero-knowledge circuits using tag analysis](https://www.zksecurity.xyz/blog/posts/boomerang/)
 - [An incomplete guide to Folding: Nova, Sangria, SuperNova, HyperNova, Protostar](https://taiko.mirror.xyz/tk8LoE-rC2w0MJ4wCWwaJwbq8-Ih8DXnLUf7aJX1FbU)
+- [Zero-Knowledge Range Proofs: Proving Where Your Secret Lies](https://tech.mystenlabs.com/zero-knowledge-range-proofs/)
 
 #### Papers
 

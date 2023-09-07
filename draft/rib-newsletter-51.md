@@ -46,6 +46,21 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[zeth](https://github.com/risc0/zeth)
+
+This is a [RISC-Zero](https://github.com/risc0) project,
+RISC-Zero being a zero-knowledge VM that generates proofs
+of execution of code translated from RISC-V,
+and that works especially well with Rust.
+
+[Described in their blog](https://www.risczero.com/news/zeth-release),
+this project can build Ethereum blocks from within
+the RISC-Zero VM, generating proofs of their correctness,
+which potentially has applications to ZK rollups.
+
+Doing so though depends on offloading work to many GPUs.
+
+
 &nbsp;
 
 

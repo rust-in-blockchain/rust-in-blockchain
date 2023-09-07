@@ -85,6 +85,31 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Most Active in August
 
+[Parity](https://github.com/paritytech):
+343 merged PRs,
+150 closed issues,
+54 open issues
+
+[Aptos](https://github.com/aptos-labs):
+329 merged PRs,
+29 closed issues,
+42 open issues
+
+[Starkware](https://github.com/starkware-libs):
+308 merged PRs,
+27 closed issues,
+16 open issues
+
+[Solana](https://github.com/solana-labs/solana):
+306 merged PRs,
+107 closed issues,
+34 open issues
+
+[Reth](https://github.com/paradigmxyz/reth):
+278 merged PRs,
+136 closed issues,
+35 open issues
+
 &nbsp;
 
 ## Project Updates

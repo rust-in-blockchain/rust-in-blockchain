@@ -59,8 +59,10 @@ Massa | Paris, Remote
 - [Lead Support Engineer](https://massa.net/lead_support_engineer.html)
 
 Matter Labs | Berlin/Kiev or Remote
-- [Junior Software Engineer (ACM ICPC/IOI finalists)](https://matterlabs.notion.site/Junior-Software-Engineer-ACM-ICPC-IOI-finalists-2d062b60daf941f792ebac1958244f52)
 - [Head of Security (Blockchain)](https://matterlabs.notion.site/Head-of-Security-Blockchain-444a7d5f558c412da70c3300815a620a)
+- [Senior Software Engineer (Consensus Algorithms)](https://jobs.eu.lever.co/matterlabs/250c47c2-534b-4f55-b1e9-af6f72555581)
+- [Senior Protocol Engineer](https://jobs.eu.lever.co/matterlabs/4e44f6ee-e4c2-4da9-981a-e83c9bec9ca5)
+- [Senior Software Engineer (Rust)](https://jobs.eu.lever.co/matterlabs/f37ad7f9-20fc-41db-aa3b-d8463a777634)
 
 Mysten Labs | USA (Remote), Greece
 - [Senior Software Engineer, Cryptography](https://jobs.ashbyhq.com/mystenlabs/a3d0da5b-b3cb-45db-9aa8-dc89ba0cee5e)

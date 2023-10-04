@@ -195,7 +195,7 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
-#### [Mir Protocol](https://github.com/mir-protocol)
+#### [Polygon Zero](https://github.com/0xPolygonZero)
 
 #### [Reth](https://github.com/paradigmxyz/reth)
 

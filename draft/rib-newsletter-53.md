@@ -192,6 +192,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 ### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
+### [CivKit](https://github.com/civkit)
+
 If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free to contribute!
 
 

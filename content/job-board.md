@@ -65,27 +65,20 @@ Matter Labs | Berlin/Kiev or Remote
 - [Senior Software Engineer (Rust)](https://jobs.eu.lever.co/matterlabs/f37ad7f9-20fc-41db-aa3b-d8463a777634)
 
 Mysten Labs | USA (Remote), Greece
-- [Senior Software Engineer, Cryptography](https://jobs.ashbyhq.com/mystenlabs/a3d0da5b-b3cb-45db-9aa8-dc89ba0cee5e)
+- [Senior Software Engineer, Applied Cryptography](https://jobs.ashbyhq.com/mystenlabs/a3d0da5b-b3cb-45db-9aa8-dc89ba0cee5e)
 - [Senior Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/mystenlabs/e381bd11-ab7e-4f50-a9a9-2b3b00046dba)
-- [Software Engineer, Product Infrastructure](https://jobs.ashbyhq.com/mystenlabs/c283bac8-c74d-4a70-9fe5-6d0926cdf3c1)
-- [Senior Software Engineer, Partner Solutions (Greece)](https://jobs.ashbyhq.com/mystenlabs/1e04e7bf-dff4-481a-8d98-1450d36c6d36)
-- [Software Engineer, Partner Solutions (Greece)](https://jobs.ashbyhq.com/mystenlabs/7a9c9bef-677d-4209-b305-276f31bba4d7)
 - [Senior Software Engineer, Partner Solutions (Japan)](https://jobs.ashbyhq.com/mystenlabs/6d222506-4d77-4a89-85f3-3f2f1fd3aa24)
-- [Software Engineering Manager, Solutions Engineering (Korea)](https://jobs.ashbyhq.com/mystenlabs/dc6fdd50-78b9-4494-953d-5f7804950a78)
 
 NEAR | Remote
 - [Low-Level Developer, Contract Runtime](https://docs.google.com/document/d/18HEwef-HDPZ2FPYfaHWpsd-kSF8E4zNpeQVulqhfFSk/edit?usp=sharing)
 - [Core Engineer](https://docs.google.com/document/d/1b5oJAM37_B2-stUsJ-xtAIsPnqMwdD0wu30ITvylCHk/edit?usp=sharing)
 
 Nomic Foundation | Remote (EMEA, Americas)
-- [Senior Systems Engineer, Dev Runtimes Library](https://jobs.ashbyhq.com/nomic.foundation/34cda712-64fc-46aa-b65d-d18f6f0c3a92)
-- [Senior Systems Engineer, Compiler as a Service](https://jobs.ashbyhq.com/nomic.foundation/1ef14a5f-6035-45fc-8012-c7243c02c156) 
+- [Senior Systems Engineer (Rust), EDR](https://jobs.ashbyhq.com/nomic.foundation/34cda712-64fc-46aa-b65d-d18f6f0c3a92)
+- [Senior Systems Engineer (Rust), Slang](https://jobs.ashbyhq.com/nomic.foundation/1ef14a5f-6035-45fc-8012-c7243c02c156) 
 
 Oxygen | Dubai or Remote
 - [Smart Contract Engineer (Rust)](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
-
-Parity Technologies | Remote(CET)
-- [Senior/Principal Software Engineer - System Parachains](https://boards.greenhouse.io/parity/jobs/5571459003)
 
 Polygon Zero | Remote
 - [Senior Protocol Engineer](https://mirprotocol.org/careers/protocol-engineer)
@@ -94,8 +87,6 @@ Quickwit | Europe
 - [Senior Software Engineer, Rust & distributed systems](https://quickwit.io/jobs/distributed-software-engineer)
 
 Stellar | USA, Canada, Remote
-- [Senior Software Engineer (San Francisco, California)](https://boards.greenhouse.io/stellar/jobs/4911069004)
-- [Senior Software Engineer (Brooklyn, New York)](https://boards.greenhouse.io/stellar/jobs/4923523004)
 - [Senior Software Engineer, Backend (Brooklyn, New York)](https://boards.greenhouse.io/stellar/jobs/4923529004)
 - [Senior Software Engineer, Backend (San Francisco, California)](https://boards.greenhouse.io/stellar/jobs/4923527004)
 

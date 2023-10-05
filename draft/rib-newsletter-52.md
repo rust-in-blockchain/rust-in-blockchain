@@ -17,9 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
-_TODO_
-
+[Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -43,17 +41,22 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-#### News
-
-
-#### Blog Posts
-
-
 #### Papers
 
+- [Efficient Agreement Over Byzantine Gossip](https://eprint.iacr.org/2023/1507)
+- [Algebraic Group Model with Oblivious Sampling](https://eprint.iacr.org/2023/1504)
+- [PQ.V.ALU.E: Post-Quantum RISC-V Custom ALU Extensions on Dilithium and Kyber](https://eprint.iacr.org/2023/1505)
+- [zk-Bench: A Toolset for Comparative Evaluation and Performance Benchmarking of SNARKs](https://eprint.iacr.org/2023/1503)
+- [Measuring the Concentration of Control in Contemporary Ethereum](https://eprint.iacr.org/2023/1493)
+- [Meeting in a Convex World: Convex Consensus with Asynchronous Fallback](https://eprint.iacr.org/2023/1364)
+- [FlexiRand: Output Private (Distributed) VRFs and Application to Blockchains](https://eprint.iacr.org/2023/1339)
 
 #### Projects
 
+- [continuation-batcher](https://github.com/DelphinusLab/continuation-batcher).
+  A standalone proof compress & batch tool for zkWASM guest and host circuits.
+- [mina bridge](https://github.com/lambdaclass/mina_bridge).
+  Bridge from Mina to Ethereum.
 
 &nbsp;
 
@@ -108,6 +111,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [aleo-open_issues-3]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [aleo-open_issues-4]: https://github.com/AleoHQ/sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [The power of secrets: Zero-knowledge proofs and game development](https://aleo.org/post//gaming/zkgaming-building-privacy-powered-games-using-snarks/)
+
 #### [Anoma](https://github.com/anoma)
 
 85 merged PRs ([1][anoma-merged-prs-1], [2][anoma-merged-prs-2], [3][anoma-merged-prs-3]),
@@ -122,6 +127,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [anoma-closed_issues-3]: https://github.com/anoma/zkp-compiler-shootout/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [anoma-closed_issues-4]: https://github.com/anoma/masp/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [anoma-open_issues-1]: https://github.com/anoma/namada/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
+
+- [Privacy in Tents: an overview of private solving strategies](https://anoma.net/blog/privacy-in-tents)
+- [An Introduction to Intents and Intent-centric Architectures](https://anoma.net/blog/an-introduction-to-intents-and-intent-centric-architectures)
+- [Typhon's Chimera Chains](https://anoma.net/blog/chimera-chains)
+- [Zexe vs. VeriZexe vs. Taiga](https://anoma.net/blog/zexe-vs-verizexe-vs-taiga)
 
 #### [Aptos](https://github.com/aptos-labs)
 
@@ -220,6 +230,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [dfinity-open_issues-2]: https://github.com/dfinity/cdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [dfinity-open_issues-3]: https://github.com/dfinity/candid/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [Global R&D: September 2023 Edition](https://medium.com/dfinity/global-r-d-september-2023-edition-b8a5a1409c5c)
+- [WebAssembly on the Internet Computer](https://medium.com/dfinity/webassembly-on-the-internet-computer-a1d0c71c5b94)
+- [Securing cross-chain communication from Ethereum to the Internet Computer with an on-chain Light Client](https://medium.com/dfinity/securing-cross-chain-communication-from-ethereum-to-the-internet-computer-with-an-on-chain-light-fedfb4fb24b4)
+
 #### [Dusk Network](https://github.com/dusk-network)
 
 41 merged PRs ([1][dusk_network-merged-prs-1], [2][dusk_network-merged-prs-2], [3][dusk_network-merged-prs-3], [4][dusk_network-merged-prs-4]),
@@ -269,6 +283,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [espresso_systems-open_issues-5]: https://github.com/EspressoSystems/tide-disco/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [espresso_systems-open_issues-6]: https://github.com/EspressoSystems/surf-disco/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [Launching Espresso Systems’ Cortado Testnet to the Public](https://medium.com/@espressosys/launching-espresso-systems-cortado-testnet-to-the-public-6053ad79b8df)
+- [Cortado Testnet Integrates with OP Stack](https://medium.com/@espressosys/cortado-testnet-integrates-with-op-stack-6b29a9600e4e)
+
 #### [Filecoin](https://github.com/filecoin-project)
 
 117 merged PRs ([1][filecoin-merged-prs-1], [2][filecoin-merged-prs-2], [3][filecoin-merged-prs-3], [4][filecoin-merged-prs-4], [5][filecoin-merged-prs-5], [6][filecoin-merged-prs-6], [7][filecoin-merged-prs-7]),
@@ -292,6 +309,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [filecoin-open_issues-3]: https://github.com/filecoin-project/filecoin-ffi/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [filecoin-open_issues-4]: https://github.com/filecoin-project/rust-fil-proofs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [filecoin-open_issues-5]: https://github.com/ChainSafe/forest/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
+
+- [Revolutionizing Filecoin Storage with Synthetic-PoRep: Cutting Overheads and Boosting Efficiency](https://filecoin.io/blog/posts/revolutionizing-filecoin-storage-with-synthetic-porep-cutting-overheads-and-boosting-efficiency/)
 
 #### [Findora](https://github.com/FindoraNetwork)
 
@@ -351,6 +370,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [fuel-open_issues-8]: https://github.com/FuelLabs/sway-standards/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [fuel-open_issues-9]: https://github.com/FuelLabs/releasy/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [Beta-4, Fuel’s Fourth Public Testnet](https://fuel-labs.ghost.io/announcing-beta-4-testnet/)
+
 #### [Golem](https://github.com/golemfactory)
 
 54 merged PRs ([1][golem-merged-prs-1], [2][golem-merged-prs-2], [3][golem-merged-prs-3], [4][golem-merged-prs-4], [5][golem-merged-prs-5], [6][golem-merged-prs-6]),
@@ -403,7 +424,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [helium-open_issues-1]: https://github.com/helium/gateway-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [helium-open_issues-2]: https://github.com/helium/helium-wallet-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [The Power of DePIN: Helium Network and Mycelium Testbed](https://blog.helium.com/the-power-of-depin-helium-network-and-mycelium-testbed-1d3521d8bb1f)
+
 #### [Holochain](https://github.com/holochain/)
+
 139 merged PRs ([1][holochain-merged-prs-1], [2][holochain-merged-prs-2], [3][holochain-merged-prs-3], [4][holochain-merged-prs-4], [5][holochain-merged-prs-5], [6][holochain-merged-prs-6], [7][holochain-merged-prs-7], [8][holochain-merged-prs-8], [9][holochain-merged-prs-9]),
 8 closed issues ([1][holochain-closed_issues-1], [2][holochain-closed_issues-2], [3][holochain-closed_issues-3]),
 9 open issues ([1][holochain-open_issues-1], [2][holochain-open_issues-2], [3][holochain-open_issues-3])
@@ -424,6 +448,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [holochain-open_issues-2]: https://github.com/holochain/scaffolding/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [holochain-open_issues-3]: https://github.com/holochain/launcher/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [Acorn: Under the Surface](https://blog.holochain.org/acorn-under-the-surface/)
+- [Holochain 0.1.6 Maintenance Release](https://blog.holochain.org/holochain-0-1-6-maintenance-release/)
+
 #### [IOTA](https://github.com/iotaledger)
 
 159 merged PRs ([1][iota-merged-prs-1], [2][iota-merged-prs-2], [3][iota-merged-prs-3], [4][iota-merged-prs-4], [5][iota-merged-prs-5]),
@@ -440,6 +467,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [iota-closed_issues-3]: https://github.com/iotaledger/bee/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [iota-open_issues-1]: https://github.com/iotaledger/iota-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [iota-open_issues-2]: https://github.com/iotaledger/chronicle.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
+
+- [IOTA Stardust Upgrade](https://blog.iota.org/iota-stardust-upgrade/)
+- [Five Principles: The Fundamentals That Every DLT Needs](https://blog.iota.org/five-principles-iota20/)
+- [Replacing the Coordinator with a Validator Committee](https://blog.iota.org/replacing-coordinator-with-validator-committee/)
 
 #### [Maidsafe](https://github.com/maidsafe)
 
@@ -492,6 +523,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [multiversx-closed_issues-1]: https://github.com/multiversx/mx-sdk-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [multiversx-open_issues-1]: https://github.com/multiversx/mx-sdk-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [Introducing Agora Of The MultiversX: Protocol Governance Forum](https://multiversx.com/blog/agora-multiversx-protocol-governance-forum)
+
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
 126 merged PRs ([1][near-merged-prs-1], [2][near-merged-prs-2], [3][near-merged-prs-3], [4][near-merged-prs-4], [5][near-merged-prs-5], [6][near-merged-prs-6], [7][near-merged-prs-7], [8][near-merged-prs-8], [9][near-merged-prs-9], [10][near-merged-prs-10], [11][near-merged-prs-11]),
@@ -528,6 +561,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [near-open_issues-8]: https://github.com/near/near-indexer-for-explorer/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [near-open_issues-9]: https://github.com/near/near-lake-indexer/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [near-open_issues-10]: https://github.com/near/bos-loader/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
+
+- [FastAuth SDK Beta Now Available](https://pages.near.org/blog/fastauth-sdk-beta-now-available/)
+- [Announcing Web Push Notifications on B.O.S](https://pages.near.org/blog/announcing-web-push-notifications-on-b-o-s/)
+- [NEAR Protocol BigQuery Public Dataset](https://pages.near.org/blog/near-protocol-bigquery-public-dataset/)
 
 #### [Nervos](https://github.com/nervosnetwork)
 
@@ -657,6 +694,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [parity-open_issues-29]: https://github.com/paritytech/finality-grandpa/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [parity-open_issues-30]: https://github.com/paritytech/metadata-portal/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [Elevating Polkadot’s Performance and Scale with Asynchronous Backing](https://medium.com/polkadot-network/elevating-polkadots-performance-and-scale-with-asynchronous-backing-d2b308ed7aec)
+- [Polkadot Consensus Part 1: Enhanced Economic Security via NPoS](https://medium.com/polkadot-network/polkadot-consensus-part-1-enhanced-economic-security-via-npos-25119b33d868)
+
 #### [Radix](https://github.com/radixdlt)
 
 165 merged PRs ([1][radix-merged-prs-1], [2][radix-merged-prs-2], [3][radix-merged-prs-3], [4][radix-merged-prs-4], [5][radix-merged-prs-5]),
@@ -679,6 +719,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [secret_network-merged-prs-1]: https://github.com/scrtlabs/SecretNetwork/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [Secret Network v1.11 is Live!](https://scrt.network/blog/secret-network-v-1-11-is-live)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 308 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2], [3][solana-merged-prs-3], [4][solana-merged-prs-4]),
@@ -693,6 +735,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [solana-closed_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
+
+- [https://solana.com/news/validator-health-report-october-2023](https://solana.com/news/solana-validators-v1-16-update)
+- [Protocol 20 Upgrade Guide](https://solana.com/news/validator-health-report-october-2023)
 
 #### [Soroban](https://github.com/stellar)
 
@@ -740,6 +785,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [subspace_network-open_issues-1]: https://github.com/subspace/subspace/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [subspace_network-open_issues-2]: https://github.com/subspace/pulsar/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [Wen Subspace | Network Update](https://blog.subspace.network/wen-subspace-network-update-a59669c3649c)
+
 #### [Sui](https://github.com/MystenLabs)
 
 368 merged PRs ([1][sui-merged-prs-1], [2][sui-merged-prs-2]),
@@ -751,6 +798,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [sui-closed_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [sui-closed_issues-2]: https://github.com/MystenLabs/fastcrypto/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [sui-open_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
+
+- [Onboarding Made Simple with zkLogin](https://blog.sui.io/introducing-zklogin-primitive/)
+- [zkLogin Best Practices and Business Considerations for Builders](https://blog.sui.io/zklogin-best-practices-considerations/)
+- [Maintain Sui's Health and Earn Storage Rebates](https://blog.sui.io/deepbook-storage-fund-bot/)
+- [All About Account Abstraction](https://blog.sui.io/account-abstraction-explained/)
 
 #### [Zcash](https://github.com/zcash)
 
@@ -774,6 +826,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [zcash-open_issues-2]: https://github.com/ZcashFoundation/zebra/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [zcash-open_issues-3]: https://github.com/ZcashFoundation/frost/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [Building sustainability and resilience into ‘Dev Fund 2’](https://electriccoin.co/blog/building-sustainability-and-resilience-into-dev-fund-2/)
+- [ECC Transparency Report for Q1 2023](https://electriccoin.co/blog/ecc-transparency-report-for-q1-2023/)
 
 &nbsp;
 
@@ -1014,6 +1068,9 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-open_issues-1]: https://github.com/starkware-libs/cairo/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [starkware-open_issues-2]: https://github.com/starkware-libs/blockifier/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [The What’s What of the Cairo World](https://www.cairo-lang.org/the-whats-what-of-the-cairo-world/)
+- [Safe and Sound — A Deep Dive into STARK Security](https://medium.com/starkware/safe-and-sound-a-deep-dive-into-stark-security-0974af65b2e1)
+
 #### [zkSync](https://github.com/matter-labs/zksync)
 
 164 merged PRs ([1][zksync_era-merged-prs-1], [2][zksync_era-merged-prs-2], [3][zksync_era-merged-prs-3], [4][zksync_era-merged-prs-4], [5][zksync_era-merged-prs-5], [6][zksync_era-merged-prs-6], [7][zksync_era-merged-prs-7], [8][zksync_era-merged-prs-8], [9][zksync_era-merged-prs-9], [10][zksync_era-merged-prs-10], [11][zksync_era-merged-prs-11], [12][zksync_era-merged-prs-12], [13][zksync_era-merged-prs-13], [14][zksync_era-merged-prs-14], [15][zksync_era-merged-prs-15], [16][zksync_era-merged-prs-16], [17][zksync_era-merged-prs-17], [18][zksync_era-merged-prs-18], [19][zksync_era-merged-prs-19], [20][zksync_era-merged-prs-20], [21][zksync_era-merged-prs-21]),
@@ -1065,6 +1122,18 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
+
+Oct 2-7 | Online | [Holochain Developer Training](https://www.holochain.org/holochain-developer-training-oct-2023)
+
+Oct 30-Nov 3 | Amsterdam, Netherlands | [Solana Breakpoint](https://solana.com/breakpoint)
+
+Nov 7-10 | Lisbon, Portugal | [Nearcon 23](https://near.org/nearcon23.near/widget/Index)
+
+Nov 13-19 | Istanbul, Turkey | [Devconnect](https://devconnect.org/)
+
+Nov 16-17 | Hollywood, CA, US and Virtual | [HackFest Summit 2023](https://www.sans.org/cyber-security-training-events/hackfest-summit-2023/)
+
+Nov 17-19 | Istanbul, Turkey | [ETHGlobal Istanbul](https://ethglobal.com/events/istanbul)
 
 
 &nbsp;

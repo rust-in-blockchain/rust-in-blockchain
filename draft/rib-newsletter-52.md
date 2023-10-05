@@ -53,10 +53,23 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- The [Polkadot Blockchain Academy Book](https://polkadot-blockchain-academy.github.io/pba-book/index.html).
+  This is the [recently released](https://forum.polkadot.network/t/opening-polkadot-blockchain-academy-content-to-the-world/3904)
+  course content for the Polkadot Blockchain Academy. Lots of background on blockchain topics that
+  are not Polkadot-specific.
 - [continuation-batcher](https://github.com/DelphinusLab/continuation-batcher).
   A standalone proof compress & batch tool for zkWASM guest and host circuits.
 - [mina bridge](https://github.com/lambdaclass/mina_bridge).
   Bridge from Mina to Ethereum.
+- [Botanix](https://github.com/botanix-labs).
+  A port of Ethereum to run on Bitcoin. Reportedly written in Rust, but no source yet.
+
+#### Videos
+
+- [Proceedings from The Zero Knowledge Summit](https://www.youtube.com/watch?v=9VigkMeh-og).
+- [Awesome Bitcoin Developer Tools: Devimint](https://delvingbitcoin.org/t/awesome-bitcoin-developer-tools-devimint/94).
+  Appears to be written in Rust.
+
 
 &nbsp;
 
@@ -736,8 +749,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [solana-open_issues-1]: https://github.com/solana-labs/solana/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [solana-open_issues-2]: https://github.com/solana-labs/solana-program-library/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
-- [https://solana.com/news/validator-health-report-october-2023](https://solana.com/news/solana-validators-v1-16-update)
+- [Validator Health REport](https://solana.com/news/solana-validators-v1-16-update)
 - [Protocol 20 Upgrade Guide](https://solana.com/news/validator-health-report-october-2023)
+- [Shadow Drive Rust Web API](https://medium.com/@anuj85500/shadow-drive-rust-web-api-2b6e81877215).
+  Shadow Drive is a decentralized storage system for Solana.
+
 
 #### [Soroban](https://github.com/stellar)
 
@@ -893,6 +909,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [fedimint-open_issues-1]: https://github.com/fedimint/fedimint/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [fedimint-open_issues-2]: https://github.com/fedimint/fedimint-custom-modules-example/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
 
+- [Release v0.1.0](https://github.com/fedimint/fedimint/releases/tag/v0.1.0)
+
 #### [LDK](https://github.com/lightningdevkit/rust-lightning)
 
 69 merged PRs ([1][ldk-merged-prs-1], [2][ldk-merged-prs-2], [3][ldk-merged-prs-3], [4][ldk-merged-prs-4]),
@@ -949,6 +967,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [rgb-merged-prs-1]: https://github.com/RGB-WG/rgb-wallet/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [rgb-closed_issues-1]: https://github.com/RGB-WG/rgb-wallet/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-09-01..2023-09-30%20-author:app/dependabot
 [rgb-open_issues-1]: https://github.com/RGB-WG/rgb/issues?q=is%3Aissue+is%3Aopen+created%3A2023-09-01..2023-09-30%20-author:app/dependabot
+
+- [RGB v0.10 becomes stable](https://rgb.tech/blog/release-v0-10-stable/)
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 

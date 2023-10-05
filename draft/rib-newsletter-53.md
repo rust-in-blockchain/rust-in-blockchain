@@ -182,7 +182,7 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 #### [Talaia](https://github.com/talaia-labs/rust-teos)
 
-### [Bitswap](https://github.com/BitSwap-BiFi)
+### [Bitswap BiFi](https://github.com/BitSwap-BiFi)
 
 ### [Strict types](https://github.com/strict-types)
 

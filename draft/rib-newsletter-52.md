@@ -51,10 +51,10 @@ are not Polkadot-specific, including cryptography, game theory, blockchains and 
 
 #### Papers
 
+- [zk-Bench: A Toolset for Comparative Evaluation and Performance Benchmarking of SNARKs](https://eprint.iacr.org/2023/1503)
 - [Efficient Agreement Over Byzantine Gossip](https://eprint.iacr.org/2023/1507)
 - [Algebraic Group Model with Oblivious Sampling](https://eprint.iacr.org/2023/1504)
 - [PQ.V.ALU.E: Post-Quantum RISC-V Custom ALU Extensions on Dilithium and Kyber](https://eprint.iacr.org/2023/1505)
-- [zk-Bench: A Toolset for Comparative Evaluation and Performance Benchmarking of SNARKs](https://eprint.iacr.org/2023/1503)
 - [Measuring the Concentration of Control in Contemporary Ethereum](https://eprint.iacr.org/2023/1493)
 - [Meeting in a Convex World: Convex Consensus with Asynchronous Fallback](https://eprint.iacr.org/2023/1364)
 - [FlexiRand: Output Private (Distributed) VRFs and Application to Blockchains](https://eprint.iacr.org/2023/1339)

@@ -184,6 +184,14 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 ### [Bitswap](https://github.com/BitSwap-BiFi)
 
+### [Strict types](https://github.com/strict-types)
+
+### [Bitcoin Protocol](https://github.com/BP-WG)
+
+### [Rust Payjoin](https://github.com/payjoin/rust-payjoin)
+
+### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
 If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free to contribute!
 
 

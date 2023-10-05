@@ -38,6 +38,12 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+The [Polkadot Blockchain Academy Book](https://polkadot-blockchain-academy.github.io/pba-book/index.html).
+
+This is the [recently released](https://forum.polkadot.network/t/opening-polkadot-blockchain-academy-content-to-the-world/3904)
+course content for the Polkadot Blockchain Academy. Lots of background on topics that
+are not Polkadot-specific, including cryptography, game theory, blockchains and smart contracts.
+
 &nbsp;
 
 
@@ -55,10 +61,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
-- The [Polkadot Blockchain Academy Book](https://polkadot-blockchain-academy.github.io/pba-book/index.html).
-  This is the [recently released](https://forum.polkadot.network/t/opening-polkadot-blockchain-academy-content-to-the-world/3904)
-  course content for the Polkadot Blockchain Academy. Lots of background on blockchain topics that
-  are not Polkadot-specific.
 - [continuation-batcher](https://github.com/DelphinusLab/continuation-batcher).
   A standalone proof compress & batch tool for zkWASM guest and host circuits.
 - [mina bridge](https://github.com/lambdaclass/mina_bridge).

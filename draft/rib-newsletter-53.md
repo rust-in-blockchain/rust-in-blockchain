@@ -182,6 +182,8 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 #### [Talaia](https://github.com/talaia-labs/rust-teos)
 
+### [Bitswap](https://github.com/BitSwap-BiFi)
+
 If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free to contribute!
 
 

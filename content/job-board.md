@@ -35,9 +35,6 @@ DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
 - [Software Engineer, Distributed Systems](https://boards.greenhouse.io/dfinity/jobs/4408999002)
 - [Software Engineer - Systems](https://boards.greenhouse.io/dfinity/jobs/4408974002)
 
-Equilibrium | Remote
-- [Senior Rust Engineer](https://fluttering-gem-83c.notion.site/Hiring-Senior-Rust-Engineer-e6c94ccc261f426c80a483c7fc642412)
-
 Fluence | Remote
 - [Rust Engineer (AquaVM)](https://docs.google.com/document/d/1941617PiUwIUSccQVS-5UDX8kRitp36mTLBgzVtspfQ/edit?usp=sharing)
 
@@ -63,11 +60,6 @@ Matter Labs | Berlin/Kiev or Remote
 - [Senior Software Engineer (Consensus Algorithms)](https://jobs.eu.lever.co/matterlabs/250c47c2-534b-4f55-b1e9-af6f72555581)
 - [Senior Protocol Engineer](https://jobs.eu.lever.co/matterlabs/4e44f6ee-e4c2-4da9-981a-e83c9bec9ca5)
 - [Senior Software Engineer (Rust)](https://jobs.eu.lever.co/matterlabs/f37ad7f9-20fc-41db-aa3b-d8463a777634)
-
-Mysten Labs | USA (Remote), Greece
-- [Senior Software Engineer, Applied Cryptography](https://jobs.ashbyhq.com/mystenlabs/a3d0da5b-b3cb-45db-9aa8-dc89ba0cee5e)
-- [Senior Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/mystenlabs/e381bd11-ab7e-4f50-a9a9-2b3b00046dba)
-- [Senior Software Engineer, Partner Solutions (Japan)](https://jobs.ashbyhq.com/mystenlabs/6d222506-4d77-4a89-85f3-3f2f1fd3aa24)
 
 NEAR | Remote
 - [Low-Level Developer, Contract Runtime](https://docs.google.com/document/d/18HEwef-HDPZ2FPYfaHWpsd-kSF8E4zNpeQVulqhfFSk/edit?usp=sharing)

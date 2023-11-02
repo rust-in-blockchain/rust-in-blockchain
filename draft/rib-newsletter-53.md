@@ -17,6 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[22388o],
 [Anton Kaliaev],
 Ganzaro,
 Vitaliy,
@@ -29,6 +30,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[22388o]: https://github.com/22388o
 [Anton Kaliaev]: https://github.com/melekes
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
@@ -870,6 +872,17 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [bdk-open_issues-3]: https://github.com/bitcoindevkit/rust-esplora-client/issues?q=is%3Aissue+is%3Aopen+created%3A2023-10-01..2023-10-31%20-author:app/dependabot
 [bdk-open_issues-4]: https://github.com/bitcoindevkit/bdk-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2023-10-01..2023-10-31%20-author:app/dependabot
 
+#### [Bitcoin Protocol](https://github.com/BP-WG)
+
+13 merged PRs ([1][bitcoin_protocol-merged-prs-1], [2][bitcoin_protocol-merged-prs-2], [3][bitcoin_protocol-merged-prs-3]),
+1 closed issues ([1][bitcoin_protocol-closed_issues-1]),
+0 open issues
+
+[bitcoin_protocol-merged-prs-1]: https://github.com/BP-WG/bp-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-10-01..2023-10-31%20-author:app/dependabot
+[bitcoin_protocol-merged-prs-2]: https://github.com/BP-WG/bp-wallet/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-10-01..2023-10-31%20-author:app/dependabot
+[bitcoin_protocol-merged-prs-3]: https://github.com/BP-WG/bp-std/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-10-01..2023-10-31%20-author:app/dependabot
+[bitcoin_protocol-closed_issues-1]: https://github.com/BP-WG/bp-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-10-01..2023-10-31%20-author:app/dependabot
+
 #### [BitMask](https://github.com/diba-io/bitmask-core)
 
 17 merged PRs ([1][bitmask-merged-prs-1]),
@@ -879,6 +892,26 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [bitmask-merged-prs-1]: https://github.com/diba-io/bitmask-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-10-01..2023-10-31%20-author:app/dependabot
 [bitmask-closed_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-10-01..2023-10-31%20-author:app/dependabot
 [bitmask-open_issues-1]: https://github.com/diba-io/bitmask-core/issues?q=is%3Aissue+is%3Aopen+created%3A2023-10-01..2023-10-31%20-author:app/dependabot
+
+#### [Bitswap](https://github.com/BitSwap-BiFi)
+
+9 merged PRs ([1][bitswap-merged-prs-1]),
+2 closed issues ([1][bitswap-closed_issues-1]),
+11 open issues ([1][bitswap-open_issues-1])
+
+[bitswap-merged-prs-1]: https://github.com/BitSwap-BiFi/Bitswap-core/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-10-01..2023-10-31%20-author:app/dependabot
+[bitswap-closed_issues-1]: https://github.com/BitSwap-BiFi/Bitswap-core/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-10-01..2023-10-31%20-author:app/dependabot
+[bitswap-open_issues-1]: https://github.com/BitSwap-BiFi/Bitswap-core/issues?q=is%3Aissue+is%3Aopen+created%3A2023-10-01..2023-10-31%20-author:app/dependabot
+
+#### [CivKit](https://github.com/civkit)
+
+5 merged PRs ([1][civkit-merged-prs-1], [2][civkit-merged-prs-2]),
+0 closed issues,
+1 open issues ([1][civkit-open_issues-1])
+
+[civkit-merged-prs-1]: https://github.com/civkit/civkit-node/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-10-01..2023-10-31%20-author:app/dependabot
+[civkit-merged-prs-2]: https://github.com/civkit/orage/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-10-01..2023-10-31%20-author:app/dependabot
+[civkit-open_issues-1]: https://github.com/civkit/civkit-node/issues?q=is%3Aissue+is%3Aopen+created%3A2023-10-01..2023-10-31%20-author:app/dependabot
 
 #### [Electrs](https://github.com/romanz/electrs)
 
@@ -986,17 +1019,16 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [rust_simplicity-merged-prs-1]: https://github.com/BlockstreamResearch/rust-simplicity/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-10-01..2023-10-31%20-author:app/dependabot
 [rust_simplicity-open_issues-1]: https://github.com/BlockstreamResearch/rust-simplicity/issues?q=is%3Aissue+is%3Aopen+created%3A2023-10-01..2023-10-31%20-author:app/dependabot
 
-### [Bitswap BiFi](https://github.com/BitSwap-BiFi)
+#### [Strict Types](https://github.com/strict-types)
 
-### [Strict types](https://github.com/strict-types)
+2 merged PRs ([1][strict_types-merged-prs-1], [2][strict_types-merged-prs-2]),
+1 closed issues ([1][strict_types-closed_issues-1]),
+1 open issues ([1][strict_types-open_issues-1])
 
-### [Bitcoin Protocol](https://github.com/BP-WG)
-
-### [Rust Payjoin](https://github.com/payjoin/rust-payjoin)
-
-### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-
-### [CivKit](https://github.com/civkit)
+[strict_types-merged-prs-1]: https://github.com/strict-types/strict-types/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-10-01..2023-10-31%20-author:app/dependabot
+[strict_types-merged-prs-2]: https://github.com/strict-types/strict-encoding/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-10-01..2023-10-31%20-author:app/dependabot
+[strict_types-closed_issues-1]: https://github.com/strict-types/strict-encoding/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-10-01..2023-10-31%20-author:app/dependabot
+[strict_types-open_issues-1]: https://github.com/strict-types/strict-types/issues?q=is%3Aissue+is%3Aopen+created%3A2023-10-01..2023-10-31%20-author:app/dependabot
 
 If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free to contribute!
 

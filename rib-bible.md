@@ -1166,6 +1166,23 @@ repos = [
 ]
 ```
 
+### Bitcoin Protocol
+
+GitHub:
+- https://github.com/BP-WG
+
+```toml
+repos = [
+'BP-WG/bitcoin_foundation',
+'BP-WG/bp-core',
+'BP-WG/descriptor-wallet',
+'BP-WG/bp-node',
+'BP-WG/bp-wallet',
+'BP-WG/bp-std',
+'BP-WG/bitcoin_hwi',
+]
+```
+
 ### BitMask
 
 Media:
@@ -1177,6 +1194,30 @@ GitHub:
 ```toml
 repos = [
 "diba-io/bitmask-core",
+]
+```
+
+### Bitswap
+
+GitHub:
+- https://github.com/BitSwap-BiFi
+
+```toml
+repos = [
+"BitSwap-BiFi/Bitswap-core",
+]
+```
+
+### CivKit
+
+GitHub:
+- https://github.com/civkit
+
+```toml
+repos = [
+'civkit/civkit-node',
+'civkit/orage',
+'civkit/staking-credentials',
 ]
 ```
 
@@ -1253,12 +1294,6 @@ repos = [
 "LNP-BP/client_side_validation",
 "LNP-BP/rust-lnpbp",
 "LNP-BP/invoices",
-"BP-WG/bp-std",
-"BP-WG/bp-core",
-"BP-WG/bp-wallet",
-"BP-WG/descriptor-wallet",
-"BP-WG/bitcoin_hwi",
-"BP-WG/bitcoin_foundation",
 "rust-amplify/rust-amplify",
 ]
 ```
@@ -1364,6 +1399,17 @@ repos = [
 ]
 ```
 
+### Rust Payjoin
+
+GitHub:
+- https://github.com/payjoin/rust-payjoin
+
+```toml
+repos = [
+"payjoin/rust-payjoin",
+]
+```
+
 ### Rust Simplicity
 
 GitHub:
@@ -1386,6 +1432,20 @@ GitHub:
 ```toml
 repos = [
 "sapio-lang/sapio",
+]
+```
+
+### Strict types
+
+GitHub:
+- https://github.com/strict-types
+
+```toml
+repos = [
+'strict-types/strict-types',
+'strict-types/strict-encoding',
+'strict-types/stenc',
+'strict-types/encoding_derive_helpers',
 ]
 ```
 

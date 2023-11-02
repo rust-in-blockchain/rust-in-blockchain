@@ -152,7 +152,13 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 #### [BDK](https://github.com/bitcoindevkit/bdk)
 
+#### [Bitcoin Protocol](https://github.com/BP-WG)
+
 #### [BitMask](https://github.com/diba-io/bitmask-core)
+
+#### [Bitswap](https://github.com/BitSwap-BiFi)
+
+#### [CivKit](https://github.com/civkit)
 
 #### [Cyphernet](https://github.com/cyphernet-dao)
 
@@ -176,9 +182,13 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
+#### [Rust Payjoin](https://github.com/payjoin/rust-payjoin)
+
 #### [Rust Simplicity](https://github.com/BlockstreamResearch/rust-simplicity)
 
 #### [Sapio](https://github.com/sapio-lang/sapio)
+
+#### [Strict Types](https://github.com/strict-types)
 
 #### [Talaia](https://github.com/talaia-labs/rust-teos)
 

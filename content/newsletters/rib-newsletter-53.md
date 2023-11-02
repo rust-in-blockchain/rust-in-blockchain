@@ -4,7 +4,7 @@ description: "October 2023"
 date: 2023-11-01
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #53 edition of Rust in Blockchain."
 ---
 
 Welcome to the #53 edition of Rust in Blockchain, the monthly

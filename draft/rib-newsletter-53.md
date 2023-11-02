@@ -784,7 +784,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Stellar Development Foundation Q3 2023 in Review](https://stellar.org/blog/foundation-news/stellar-development-foundation-q3-2023-in-review)
 - [Sorobounty Spectacular: Dapp Tutorials You Can Use!](https://stellar.org/blog/developers/sorobounty-spectacular-dapp-tutorials)
-- [Let's Fuzz: Putting Contracts To The Test](https://drive.google.com/file/d/1NT0SdP-1Kc5_hzv9vN7V8KvBAuk3-SMo/view)
+- [Video: Let's Fuzz: Putting Contracts To The Test](https://drive.google.com/file/d/1NT0SdP-1Kc5_hzv9vN7V8KvBAuk3-SMo/view)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 
@@ -1153,6 +1153,8 @@ Nov 13-17 | Istanbul, Turkey | [LabWeek23](https://23.labweek.io/)
 Nov 16-17 | Hollywood, CA, US and Virtual | [HackFest Summit 2023](https://www.sans.org/cyber-security-training-events/hackfest-summit-2023/)
 
 Nov 17-19 | Istanbul, Turkey | [ETHGlobal Istanbul](https://ethglobal.com/events/istanbul)
+
+Nov 20 | Online | [Encode x Solana Bootcamp](https://www.encode.club/encodexsolanabootcamp)
 
 Dec 8-10 | Bengaluru, India | [ETHIndia](https://ethindia.co/)
 

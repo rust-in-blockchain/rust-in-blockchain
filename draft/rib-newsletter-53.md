@@ -34,13 +34,6 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 &nbsp;
 
 
-## Project Spotlight
-
-Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
-
-&nbsp;
-
-
 ## Interesting Things
 
 #### Blog Posts

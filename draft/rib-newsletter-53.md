@@ -18,6 +18,8 @@ industry topics.
 
 Thanks to contributors:
 [Anton Kaliaev],
+Ganzaro,
+Vitaliy,
 [Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 

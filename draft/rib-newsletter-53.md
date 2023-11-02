@@ -56,10 +56,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Better Safe than Sorry: Recovering after Adversarial Majority](https://eprint.iacr.org/2023/1556)
 - [Cornucopia: Distributed randomness beacons at scale](https://eprint.iacr.org/2023/1554)
 
-#### Videos
-
-- [Let's Fuzz: Putting Contracts To The Test](https://drive.google.com/file/d/1NT0SdP-1Kc5_hzv9vN7V8KvBAuk3-SMo/view)
-
 &nbsp;
 
 ## Most Active in October
@@ -788,6 +784,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Stellar Development Foundation Q3 2023 in Review](https://stellar.org/blog/foundation-news/stellar-development-foundation-q3-2023-in-review)
 - [Sorobounty Spectacular: Dapp Tutorials You Can Use!](https://stellar.org/blog/developers/sorobounty-spectacular-dapp-tutorials)
+- [Let's Fuzz: Putting Contracts To The Test](https://drive.google.com/file/d/1NT0SdP-1Kc5_hzv9vN7V8KvBAuk3-SMo/view)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 

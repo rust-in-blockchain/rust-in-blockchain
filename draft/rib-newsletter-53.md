@@ -784,7 +784,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Stellar Development Foundation Q3 2023 in Review](https://stellar.org/blog/foundation-news/stellar-development-foundation-q3-2023-in-review)
 - [Sorobounty Spectacular: Dapp Tutorials You Can Use!](https://stellar.org/blog/developers/sorobounty-spectacular-dapp-tutorials)
-- [Video: Let's Fuzz: Putting Contracts To The Test](https://drive.google.com/file/d/1NT0SdP-1Kc5_hzv9vN7V8KvBAuk3-SMo/view)
+- [Video: Let's Fuzz: Putting Contracts to the Test](https://www.youtube.com/watch?v=Svcg0secLnA).
+  From Stellar Meridian. This version doesn't have a working demo. An extended talk with working demo and Q&A
+  was also [delivered on Discord](https://drive.google.com/file/d/1NT0SdP-1Kc5_hzv9vN7V8KvBAuk3-SMo/view).
 
 #### [Spacemesh](https://github.com/spacemeshos)
 

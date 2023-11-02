@@ -56,6 +56,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Better Safe than Sorry: Recovering after Adversarial Majority](https://eprint.iacr.org/2023/1556)
 - [Cornucopia: Distributed randomness beacons at scale](https://eprint.iacr.org/2023/1554)
 
+#### Projects
+
+- [evm-indexer](https://github.com/eabz/evm-indexer). A scalable SQL indexer for EVM compatible blockchains.
+
+
 &nbsp;
 
 ## Most Active in October

@@ -986,6 +986,18 @@ For discussion join the [Rust in Bitcoin Telegram group][ribtc].
 [rust_simplicity-merged-prs-1]: https://github.com/BlockstreamResearch/rust-simplicity/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-10-01..2023-10-31%20-author:app/dependabot
 [rust_simplicity-open_issues-1]: https://github.com/BlockstreamResearch/rust-simplicity/issues?q=is%3Aissue+is%3Aopen+created%3A2023-10-01..2023-10-31%20-author:app/dependabot
 
+### [Bitswap BiFi](https://github.com/BitSwap-BiFi)
+
+### [Strict types](https://github.com/strict-types)
+
+### [Bitcoin Protocol](https://github.com/BP-WG)
+
+### [Rust Payjoin](https://github.com/payjoin/rust-payjoin)
+
+### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
+### [CivKit](https://github.com/civkit)
+
 If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free to contribute!
 
 

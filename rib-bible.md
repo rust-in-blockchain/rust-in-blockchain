@@ -1173,13 +1173,13 @@ GitHub:
 
 ```toml
 repos = [
-'BP-WG/bitcoin_foundation',
-'BP-WG/bp-core',
-'BP-WG/descriptor-wallet',
-'BP-WG/bp-node',
-'BP-WG/bp-wallet',
-'BP-WG/bp-std',
-'BP-WG/bitcoin_hwi',
+"BP-WG/bitcoin_foundation",
+"BP-WG/bp-core",
+"BP-WG/descriptor-wallet",
+"BP-WG/bp-node",
+"BP-WG/bp-wallet",
+"BP-WG/bp-std",
+"BP-WG/bitcoin_hwi",
 ]
 ```
 
@@ -1215,9 +1215,9 @@ GitHub:
 
 ```toml
 repos = [
-'civkit/civkit-node',
-'civkit/orage',
-'civkit/staking-credentials',
+"civkit/civkit-node",
+"civkit/orage",
+"civkit/staking-credentials",
 ]
 ```
 
@@ -1442,10 +1442,10 @@ GitHub:
 
 ```toml
 repos = [
-'strict-types/strict-types',
-'strict-types/strict-encoding',
-'strict-types/stenc',
-'strict-types/encoding_derive_helpers',
+"strict-types/strict-types",
+"strict-types/strict-encoding",
+"strict-types/stenc",
+"strict-types/encoding_derive_helpers",
 ]
 ```
 

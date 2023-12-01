@@ -113,6 +113,18 @@ repos = [
 ]
 ```
 
+### Chainflip
+
+GitHub:
+- https://github.com/chainflip-io
+
+```toml
+repos = [
+"chainflip-io/chainflip-backend",
+"chainflip-io/rust-zmq",
+]
+```
+
 ### COMIT
 
 Media:

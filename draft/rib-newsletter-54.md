@@ -136,6 +136,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [aptos-open_issues-1]: https://github.com/aptos-labs/aptos-core/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [aptos-open_issues-2]: https://github.com/aptos-labs/aptos-indexer-processors/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 
+- [The Future of Move at Aptos](https://medium.com/aptoslabs/the-future-of-move-at-aptos-17d0656dcc31)
+
 #### [Casper](https://github.com/casper-network)
 
 28 merged PRs ([1][casper-merged-prs-1], [2][casper-merged-prs-2]),
@@ -156,6 +158,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [chainflip-merged-prs-1]: https://github.com/chainflip-io/chainflip-backend/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [chainflip-closed_issues-1]: https://github.com/chainflip-io/chainflip-backend/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [chainflip-open_issues-1]: https://github.com/chainflip-io/chainflip-backend/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
+
+- [Mainnet Pre-Launch Validator Onboarding](https://blog.chainflip.io/genesis-validator-onboarding/)
 
 #### [Concordium](https://github.com/Concordium)
 
@@ -317,6 +321,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [filecoin-open_issues-3]: https://github.com/filecoin-project/builtin-actors/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [filecoin-open_issues-4]: https://github.com/filecoin-project/rust-fil-proofs/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 
+- [Achieving Breakthrough Scalability with InterPlanetary Consensus (IPC)](https://filecoin.io/blog/posts/achieving-breakthrough-scalability-with-interplanetary-consensus-ipc/)
+- [Forest: Unlocking Data Accessibility on the Filecoin Network](https://blog.chainsafe.io/forest-unlocking-data-accessibility-on-the-filecoin-network-2/)
+
 #### [Fluence](https://github.com/fluencelabs)
 
 161 merged PRs ([1][fluence-merged-prs-1], [2][fluence-merged-prs-2], [3][fluence-merged-prs-3], [4][fluence-merged-prs-4], [5][fluence-merged-prs-5], [6][fluence-merged-prs-6], [7][fluence-merged-prs-7], [8][fluence-merged-prs-8], [9][fluence-merged-prs-9], [10][fluence-merged-prs-10]),
@@ -445,6 +452,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [holochain-open_issues-2]: https://github.com/holochain/tx5/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [holochain-open_issues-3]: https://github.com/holochain/lair/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 
+- [Data Commoning with Holochain Pt.1](https://blog.holochain.org/data-commoning-with-holochain-pt-1/)
+
 #### [IOTA](https://github.com/iotaledger)
 
 120 merged PRs ([1][iota-merged-prs-1], [2][iota-merged-prs-2], [3][iota-merged-prs-3], [4][iota-merged-prs-4]),
@@ -462,6 +471,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [iota-open_issues-2]: https://github.com/iotaledger/iota-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [iota-open_issues-3]: https://github.com/iotaledger/iota-sdk-evm/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [iota-open_issues-4]: https://github.com/iotaledger/inx-chronicle/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
+
+- [UTXO vs Accounts: Merging the Best of Both Worlds](https://blog.iota.org/utxo-vs-accounts-iota20/)
+- [An Obvious Choice: Why DAGs Over Blockchains?](https://blog.iota.org/dags-over-blockchains-iota20/)
+- [IOTA Identity 1.0 is Here](https://blog.iota.org/iota-identity-1-0-is-here/)
 
 #### [Maidsafe](https://github.com/maidsafe)
 
@@ -709,6 +722,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 [secret_network-merged-prs-1]: https://github.com/scrtlabs/SecretNetwork/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-11-01..2023-11-30%20-author:app/dependabot
 
+- [Introducing the New SCRT Labs Grants Program](https://scrt.network/blog/scrt-labs-grants-program)
+- [Update: Secret Bridge Migration Timeline](https://scrt.network/blog/bridge-migration-update)
+- [SCRT Labs Delegation Update](https://scrt.network/blog/scrt-labs-delegation-update-2024)
+
 #### [Solana](https://github.com/solana-labs/solana)
 
 289 merged PRs ([1][solana-merged-prs-1], [2][solana-merged-prs-2], [3][solana-merged-prs-3]),
@@ -778,6 +795,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [sui-merged-prs-4]: https://github.com/MystenLabs/mysten-sim/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [sui-closed_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [sui-open_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
+
+- [Get Real-Time Weather Data with the Sui Weather Oracle](https://blog.sui.io/sui-weather-oracle/)
+- [Enhancing the Sui Ecosystem with Space and Time's Proof of SQL](https://blog.sui.io/zklogin-space-time-proof-sql/)
+- [Public report of Sui's zkLogin audit](https://www.zksecurity.xyz/blog/posts/zklogin/)
 
 #### [Zcash](https://github.com/zcash)
 
@@ -1095,6 +1116,10 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-open_issues-1]: https://github.com/starkware-libs/cairo/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [starkware-open_issues-2]: https://github.com/starkware-libs/papyrus/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [starkware-open_issues-3]: https://github.com/starkware-libs/blockifier/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
+
+- [How STARKs work if you don't care about FRI](https://www.cryptologie.net/article/601/how-starks-work-if-you-dont-care-about-fri/)
+- [Cairo's public memory](https://www.cryptologie.net/article/603/cairos-public-memory/)
+- [Herodotus: Proving Ethereum’s State Using Storage Proofs on Starknet](https://medium.com/starkware/herodotus-proving-ethereums-state-using-storage-proofs-on-starknet-e7906525cd21)
 
 #### [zkSync](https://github.com/matter-labs/zksync)
 

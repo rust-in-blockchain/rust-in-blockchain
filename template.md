@@ -215,7 +215,7 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [Starkware](https://github.com/starkware-libs)
 
-#### [zkSync](https://github.com/matter-labs/zksync)
+#### [zkSync Era](https://github.com/matter-labs/zksync-era)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 

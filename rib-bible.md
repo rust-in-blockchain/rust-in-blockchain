@@ -1608,7 +1608,7 @@ Media:
 - https://twitter.com/zksync
 
 GitHub:
-- https://github.com/matter-labs/zksync
+- https://github.com/matter-labs/zksync-era
 
 ``` toml
 repos = [

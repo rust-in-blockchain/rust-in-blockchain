@@ -1188,7 +1188,43 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
+Dec 8-10 | Bengaluru, India | [ETHIndia](https://ethindia.co/)
 
+Feb 2–21, 2024 | Online |[Ethereum Async hackathon: Circuit Breaker](https://ethglobal.com/events/circuitbreaker)
+
+Feb 23-Mar 3, 2024 | Denver, US | [ETHDenver](https://www.ethdenver.com/)
+
+Mar 15-17, 2024 | London, UK | [ETHGlobal London](https://ethglobal.com/events/london2024)
+
+Mar 25–27, 2024 | Toronto, Canada | [RWC 2024](https://rwc.iacr.org/2024/)
+
+Mar 26-28 | London, UK | [Rust Nation](https://www.rustnationuk.com/)
+
+Apr 5-26, 2024 | Online | [Ethereum Async hackathon: Scaling Ethereum 2024](https://ethglobal.com/events/scaling2024)
+
+Apr 8-12, 2024 | Paris, France | [Paris Blockchain Week](https://www.parisblockchainweek.com/)
+
+Apr 22-25, 2024 | Athens, Greece | [EuroSys 2024](https://2024.eurosys.org/about.html)
+
+May 3-5, 2024 | Sydney, Australia | [ETHGlobal Sydney](https://ethglobal.com/events/sydney)
+
+May 18-19, 2024 | Brisbane, Australia | [AI + Web3 Convention](https://web3convention.com/)
+
+May 21-23 2024 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
+
+May 24-26, 2024 | Berlin, Germany | [ETHBerlin](https://ethberlin.org/)
+
+May 29-31, 2024 | Austin, US | [Consensus](https://consensus2024.coindesk.com/)
+
+June 5-6, 2024 | Santa Clara, US | [Blockchain Expo North America](https://blockchain-expo.com/northamerica/)
+
+Jul 4-7, 2024 | Istanbul, Turkey | [Blockchain Expo World](https://blockchainexpoworld.com/)
+
+Jul 12–14, 2024 | Brussels, Belgium | [ETHGlobal Brussels](https://ethglobal.com/events/brussels)
+
+Aug 18-22, 2024 | Santa Barbara, US | [Crypto 2024](https://crypto.iacr.org/2024/)
+
+Aug 28-29, 2024 | Tokyo, Japan | [WebX 2024](https://webx-asia.com/)
 
 &nbsp;
 

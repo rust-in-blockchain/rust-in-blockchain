@@ -109,6 +109,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [aleo-open_issues-2]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [aleo-open_issues-3]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 
+- [How Aleo works: Building the Aleo Network together](https://aleo.org/post/how-aleo-works-building-aleo-network-together/)
+- [Purpose-built for privacy: How zPass architecture & participants create a more secure web](https://aleo.org/post/how-zpass-architecture-participants-create-secure-web/)
+- [Aleo Grants: Solve meaningful world problems with zero-knowledge](https://aleo.org/post/aleo-grants-solve-meaningful-world-problems-with-zero-knowledge/)
+
 #### [Anoma](https://github.com/anoma)
 
 57 merged PRs ([1][anoma-merged-prs-1], [2][anoma-merged-prs-2], [3][anoma-merged-prs-3]),
@@ -499,6 +503,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [mina-closed_issues-1]: https://github.com/openmina/openmina/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [mina-open_issues-1]: https://github.com/openmina/openmina/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 
+- [Re-Launching the Mina Ecosystem Bug Bounty Program](https://minaprotocol.com/blog/re-launching-the-mina-ecosystem-bug-bounty-program)
+
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 22 merged PRs ([1][mobilecoin-merged-prs-1]),
@@ -603,6 +609,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [oasis-merged-prs-3]: https://github.com/oasisprotocol/oasis-sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [oasis-merged-prs-4]: https://github.com/oasisprotocol/emerald-paratime/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [oasis-open_issues-1]: https://github.com/oasisprotocol/oasis-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
+
+- [Unpacking Oasis Nexus: Features, Uses, and Engineering](https://oasisprotocol.org/blog/nexus-features-uses-engineering-explained)
+- [Oasis Network Completes Mainnet “Eden” Upgrade](https://oasisprotocol.org/blog/completed-eden-mainnet-upgrade)
+- [Oasis October 2023 Engineering Update](https://oasisprotocol.org/blog/october-2023-engineering-update)
 
 #### [Parity](https://github.com/paritytech)
 
@@ -758,6 +768,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [soroban-open_issues-2]: https://github.com/stellar/rs-soroban-env/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [soroban-open_issues-3]: https://github.com/stellar/xdrgen/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [soroban-open_issues-4]: https://github.com/stellar/rs-stellar-xdr/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
+
+- [Announcing RPCiege: Siege 5, Space Continuum](https://stellar.org/blog/developers/announcing-rpciege-siege-5-space-continuum)
+- [Sorobanathon Road to Mainnet: A Retrospective](https://stellar.org/blog/developers/sorobanathon-road-to-mainnet-a-retrospective)
+- [Protocol 20: Preparing for Smart Contracts on Stellar](https://stellar.org/blog/developers/protocol-20-preparing-smart-contracts-to-stellar)
+- [Stellar Community Fund: $10M+ in XLM Distributed in 10 Review Rounds](https://stellar.org/blog/ecosystem/stellar-community-fund-usd10m-in-xlm-distributed-in-10-review-rounds)
+- [Stellar Community Fund: A New Era of Community Empowerment Begins](https://stellar.org/blog/ecosystem/stellar-community-fund-a-new-era-of-community-empowerment-begins)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 
@@ -1121,7 +1137,7 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 - [Cairo's public memory](https://www.cryptologie.net/article/603/cairos-public-memory/)
 - [Herodotus: Proving Ethereum’s State Using Storage Proofs on Starknet](https://medium.com/starkware/herodotus-proving-ethereums-state-using-storage-proofs-on-starknet-e7906525cd21)
 
-#### [zkSync](https://github.com/matter-labs/zksync)
+#### [zkSync Era](https://github.com/matter-labs)
 
 290 merged PRs ([1][zksync_era-merged-prs-1], [2][zksync_era-merged-prs-2], [3][zksync_era-merged-prs-3], [4][zksync_era-merged-prs-4], [5][zksync_era-merged-prs-5], [6][zksync_era-merged-prs-6], [7][zksync_era-merged-prs-7], [8][zksync_era-merged-prs-8], [9][zksync_era-merged-prs-9], [10][zksync_era-merged-prs-10], [11][zksync_era-merged-prs-11], [12][zksync_era-merged-prs-12], [13][zksync_era-merged-prs-13], [14][zksync_era-merged-prs-14], [15][zksync_era-merged-prs-15], [16][zksync_era-merged-prs-16], [17][zksync_era-merged-prs-17], [18][zksync_era-merged-prs-18], [19][zksync_era-merged-prs-19], [20][zksync_era-merged-prs-20], [21][zksync_era-merged-prs-21]),
 7 closed issues ([1][zksync_era-closed_issues-1], [2][zksync_era-closed_issues-2]),
@@ -1156,6 +1172,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [zksync_era-open_issues-4]: https://github.com/matter-labs/era-test-node/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [zksync_era-open_issues-5]: https://github.com/matter-labs/era-boojum/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [zksync_era-open_issues-6]: https://github.com/matter-labs/era-boojum-validator-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
+
+- [Uncovering a ZK-EVM Soundness Bug in zkSync Era](https://medium.com/chainlight/uncovering-a-zk-evm-soundness-bug-in-zksync-era-f3bc1b2a66d8)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
@@ -1198,5 +1216,3 @@ Want to be included in the next issue? Feel free to submit a PR to the
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 
 [ribtg]: https://t.me/rustinblockchain
-
-

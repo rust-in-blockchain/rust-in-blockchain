@@ -476,6 +476,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [iota-open_issues-3]: https://github.com/iotaledger/iota-sdk-evm/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [iota-open_issues-4]: https://github.com/iotaledger/inx-chronicle/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 
+- [Accessible Writing: Lowering the Barriers to Entry](https://blog.iota.org/accessible-writing-iota20/)
 - [UTXO vs Accounts: Merging the Best of Both Worlds](https://blog.iota.org/utxo-vs-accounts-iota20/)
 - [An Obvious Choice: Why DAGs Over Blockchains?](https://blog.iota.org/dags-over-blockchains-iota20/)
 - [IOTA Identity 1.0 is Here](https://blog.iota.org/iota-identity-1-0-is-here/)
@@ -1174,6 +1175,7 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [zksync_era-open_issues-6]: https://github.com/matter-labs/era-boojum-validator-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 
 - [Uncovering a ZK-EVM Soundness Bug in zkSync Era](https://medium.com/chainlight/uncovering-a-zk-evm-soundness-bug-in-zksync-era-f3bc1b2a66d8)
+- [Click and Deploy Your Hyperchain! First Cohort of RaaS Providers Live on ZK Stack](https://zksync.mirror.xyz/IqNxihCfIMgtSPTy9orQ-EQWd-qI97fZbWT8moqHV3w)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 

@@ -40,6 +40,18 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[Carbonado](https://github.com/diba-io/carbonado).
+
+This is a resilient data archive format used by the [BitMask](https://github.com/diba-io/bitmask-core/)
+Bitcoin / Lightning / [RGB](https://github.com/RGB-WG/rgb-core)
+wallet.
+
+It uses [bao](https://github.com/oconnor663/bao)
+encoding, a verified streaming format powered by the
+[blake3](https://github.com/BLAKE3-team/BLAKE3)
+cryptographic hash function, that allows partial stream
+verification without re-hashing the entire stream.
+
 &nbsp;
 
 

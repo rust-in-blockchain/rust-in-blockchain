@@ -20,6 +20,9 @@ Thanks to contributors:
 
 _TODO_
 [dandanlen],
+Georgios Delkos,
+Dan Shields,
+Brad Mills,
 [Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 

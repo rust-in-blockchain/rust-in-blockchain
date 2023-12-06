@@ -58,6 +58,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Projects
 
+- [sway-analizer](https://github.com/camden-smallwood/sway-analyzer).
+  A static analyzer for the [Sway](https://github.com/FuelLabs/sway) language,
+  used by the [Fuel](https://github.com/FuelLabs) layer 2 blockchain.
 
 &nbsp;
 
@@ -714,6 +717,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [parity-open_issues-25]: https://github.com/paritytech/scale-encode/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [parity-open_issues-26]: https://github.com/paritytech/scale-decode/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
 [parity-open_issues-27]: https://github.com/paritytech/desub/issues?q=is%3Aissue+is%3Aopen+created%3A2023-11-01..2023-11-30%20-author:app/dependabot
+
+- [News: Partner chains are coming to Cardano](https://iohk.io/en/blog/posts/2023/11/03/partner-chains-are-coming-to-cardano).
+  Substrate on Cardano.
 
 #### [Radix](https://github.com/radixdlt)
 

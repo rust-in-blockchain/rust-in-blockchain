@@ -53,6 +53,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [Analyzing UTXO-Based Blockchain Privacy Threats](https://eprint.iacr.org/2023/1862)
+- [ZKSMT: A VM for Proving SMT Theorems in Zero Knowledge](https://eprint.iacr.org/2023/1762)
 
 #### Projects
 

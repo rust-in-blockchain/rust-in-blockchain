@@ -4,7 +4,8 @@ description: "November 2023"
 date: 2023-12-06
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #54 edition of Rust in Blockchain.
+This month, we spotlight `Carbonado`, a resilient data archive format used by the BitMask."
 ---
 
 Welcome to the #54 edition of Rust in Blockchain, the monthly
@@ -17,8 +18,6 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
-_TODO_
 [dandanlen],
 Georgios Delkos,
 Dan Shields,
@@ -59,12 +58,6 @@ verification without re-hashing the entire stream.
 
 
 ## Interesting Things
-
-#### News
-
-
-#### Blog Posts
-
 
 #### Papers
 

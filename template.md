@@ -73,6 +73,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Casper](https://github.com/casper-network)
 
+#### [Chainflip](https://github.com/chainflip-io)
+
 #### [COMIT](https://github.com/comit-network)
 
 #### [Concordium](https://github.com/Concordium)

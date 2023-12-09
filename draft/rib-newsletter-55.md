@@ -73,6 +73,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Casper](https://github.com/casper-network)
 
+#### [Chainflip](https://github.com/chainflip-io)
+
+- [Swapping Pre Release](https://blog.chainflip.io/swapping-pre-release/)
+
 #### [COMIT](https://github.com/comit-network)
 
 #### [Concordium](https://github.com/Concordium)
@@ -81,13 +85,21 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [DarkFi](https://dark.fi)
 
+- [Development Update Q423](https://dark.fi/insights/development-update-q423.html)
+
 #### [Dfinity](https://github.com/dfinity)
+
+- [RUSTSEC-2023-0073: Infinite decoding loop through specially crafted payload](https://rustsec.org/advisories/RUSTSEC-2023-0073.html)
+- [Internet Computer Zero to Dapp Educate Series Summary](https://medium.com/dfinity/internet-computer-zero-to-dapp-educate-series-summary-dfcc670607b8)
+- [Async-Friendly Performance Counter](https://medium.com/dfinity/async-friendly-performance-counter-dcf928226c2b)
 
 #### [Dusk Network](https://github.com/dusk-network)
 
 #### [Espresso Systems](https://github.com/EspressoSystems)
 
 #### [Filecoin](https://github.com/filecoin-project)
+
+- [Filecoin Network Version 21 Watermelon Upgrade](https://status.filecoin.io/incidents/b3fhgjlqlbjh)
 
 #### [Findora](https://github.com/FindoraNetwork)
 
@@ -96,6 +108,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Fuel](https://github.com/FuelLabs)
 
 #### [Golem](https://github.com/golemfactory)
+
+- [Yagna Updates: Enhancing Network Stability and Introducing a New Payment Driver](https://blog.golemproject.net/yagna-v0-13-2-and-v0-14-0-enhancing-network-stability-and-introducing-a-new-payment-driver/)
 
 #### [Grin](https://github.com/mimblewimble/grin)
 
@@ -123,6 +137,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Radix](https://github.com/radixdlt)
 
+- [Radix Engine Code Audit](https://www.radixdlt.com/blog/radix-engine-code-audit)
+
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
 
 #### [Solana](https://github.com/solana-labs/solana)
@@ -139,6 +155,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Zcash](https://github.com/zcash)
 
+- [A look back: NU5 and network sandblasting](https://electriccoin.co/blog/a-look-back-nu5-and-network-sandblasting/)
 
 &nbsp;
 
@@ -214,6 +231,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [Rust Web3](https://github.com/tomusdrw/rust-web3)
 
 #### [Starkware](https://github.com/starkware-libs)
+
+- [Starknet Launches the ‘Devonomics’ Pilot Program](https://medium.com/starkware/starknet-launches-the-devonomics-pilot-program-22b6b0ed8d5c)
 
 #### [zkSync Era](https://github.com/matter-labs/zksync-era)
 

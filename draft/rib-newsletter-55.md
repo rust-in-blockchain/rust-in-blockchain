@@ -45,7 +45,7 @@ over peer-to-peer QUIC connections.
 Data is verified in transit with blake3 verified streaming
 via the [bao-tree](https://github.com/n0-computer/bao-tree) crate.
 
-[`sendme`](https://github.com/n0-computer/sendme?tab=readme-ov-file)
+[`sendme`](https://github.com/n0-computer/sendme)
 is a simple file transfer program demonstrating
 the use of `iroh`.
 

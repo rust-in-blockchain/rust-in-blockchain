@@ -17,7 +17,9 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+Aulee,
 [Brian Anderson] and [Aimee Zhu].
+
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -35,6 +37,17 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 ## Project Spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+
+[iroh](https://github.com/n0-computer/iroh).
+
+`iroh` is a protocol for syncing and moving bytes
+over peer-to-peer QUIC connections.
+Data is verified in transit with blake3 verified streaming
+via the [bao-tree](https://github.com/n0-computer/bao-tree) crate.
+
+[`sendme`](https://github.com/n0-computer/sendme?tab=readme-ov-file)
+is a simple file transfer program demonstrating
+the use of `iroh`.
 
 &nbsp;
 

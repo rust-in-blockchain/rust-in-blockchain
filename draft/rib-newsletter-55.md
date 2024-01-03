@@ -17,9 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
-_TODO_
-
+[Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -43,9 +41,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 ## Interesting Things
 
-#### News
-
-
 #### Blog Posts
 
 - [Lambdaworks as a drop-in replacement for Winterfell to prove the Miden-VM](https://blog.lambdaclass.com/lambdaworks-as-a-drop-in-replacement-for-winterfell/)
@@ -64,6 +59,31 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 &nbsp;
 
 ## Most Active in December
+
+[Sui](https://github.com/MystenLabs):
+321 merged PRs,
+169 closed issues,
+2 open issues
+
+[Dfinity](https://github.com/dfinity):
+313 merged PRs,
+3 closed issues,
+8 open issues
+
+[Starkware](https://github.com/starkware-libs):
+311 merged PRs,
+8 closed issues,
+9 open issues
+
+[Parity](https://github.com/paritytech):
+288 merged PRs,
+100 closed issues,
+80 open issues
+
+[zkSync Era](https://github.com/matter-labs/zksync-era):
+250 merged PRs,
+6 closed issues,
+15 open issues
 
 &nbsp;
 
@@ -489,6 +509,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [mina-closed_issues-1]: https://github.com/openmina/openmina/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-12-01..2023-12-31%20-author:app/dependabot
 [mina-open_issues-1]: https://github.com/openmina/openmina/issues?q=is%3Aissue+is%3Aopen+created%3A2023-12-01..2023-12-31%20-author:app/dependabot
 
+- [Exploring Three Grant Programs for Mina Developers](https://minaprotocol.com/blog/mina-developers-grants)
+- [Testworld Mission 2.0 Protocol Performance Testing – Program Extension Details](https://minaprotocol.com/blog/testworld-mission-2-0-program-extension-details)
+
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
 39 merged PRs ([1][mobilecoin-merged-prs-1], [2][mobilecoin-merged-prs-2], [3][mobilecoin-merged-prs-3]),
@@ -598,6 +621,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [oasis-merged-prs-2]: https://github.com/oasisprotocol/oasis-sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2023-12-01..2023-12-31%20-author:app/dependabot
 [oasis-closed_issues-1]: https://github.com/oasisprotocol/oasis-sdk/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-12-01..2023-12-31%20-author:app/dependabot
 [oasis-open_issues-1]: https://github.com/oasisprotocol/oasis-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2023-12-01..2023-12-31%20-author:app/dependabot
+
+- [Year in Review: The Oasis Network in 2023](https://oasisprotocol.org/blog/2023-review-yearly-highlights)
+- [Oasis November 2023 Engineering Update](https://oasisprotocol.org/blog/november-2023-engineering-update)
+- [The Eden Upgrade: A Technical Debrief from Oasis Engineering](https://oasisprotocol.org/blog/eden-upgrade-technical-debrief-engineering)
 
 #### [Parity](https://github.com/paritytech)
 
@@ -1168,7 +1195,7 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 Jan 1-Feb 4 | Hong Kong | [The Polkadot Blockchain Academy](https://polkadot.network/development/blockchain-academy/)
 
-Feb 2–21, 2024 | Online |[Ethereum Async hackathon: Circuit Breaker](https://ethglobal.com/events/circuitbreaker)
+Feb 2–21, 2024 | Online | [Ethereum Async hackathon: Circuit Breaker](https://ethglobal.com/events/circuitbreaker)
 
 Feb 23-Mar 3, 2024 | Denver, US | [ETHDenver](https://www.ethdenver.com/)
 

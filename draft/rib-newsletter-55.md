@@ -55,6 +55,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Proof of Compliance for Anonymous, Unlinkable Messages](https://eprint.iacr.org/2023/1900)
 - [COMMON: Order Book with Privacy](https://eprint.iacr.org/2023/1868)
+- [Shoal: Improving DAG-BFT Latency And Robustness](https://arxiv.org/abs/2306.03058). Improvements to Bullshark.
 
 #### Projects
 

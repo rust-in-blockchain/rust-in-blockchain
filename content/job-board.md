@@ -10,9 +10,6 @@ pager: false
 
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
-Anoma | Berlin, Remote
-- [Distributed Systems Research Engineer](https://heliax.dev/jobs/distributed-systems-research-engineer/)
-
 Anon | Africa, Remote
 - [Rust Developer](https://proximal-finch-4f9.notion.site/Rust-Developer-for-Blockchain-03afbedc6cf24b188bf9caff0581b958)
 

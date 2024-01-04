@@ -4,7 +4,8 @@ description: "December 2023"
 date: 2024-01-03
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #55 edition of Rust in Blockchain.
+This month, we spotlight `iroh`, a protocol for syncing and moving bytes over peer-to-peer QUIC connections."
 ---
 
 Welcome to the #55 edition of Rust in Blockchain, the monthly

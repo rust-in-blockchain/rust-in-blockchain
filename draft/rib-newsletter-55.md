@@ -17,7 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-Aulee,
+Aulee, Hunter Beast,
 [Brian Anderson] and [Aimee Zhu].
 
 Thank you for your help!
@@ -69,6 +69,7 @@ the use of `iroh`.
 
 - [arkworks-bridge](https://github.com/martyall/arkworks-bridge).
   Importing R1CS and witness files into arkworks via json.
+- [bria](https://github.com/GaloyMoney/bria). Transaction batching and UTXO management for Bitcoin.
 
 &nbsp;
 

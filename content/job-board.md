@@ -79,5 +79,12 @@ Stellar | USA, Canada, Remote
 - [Senior Software Engineer, Backend (Brooklyn, New York)](https://boards.greenhouse.io/stellar/jobs/4923529004)
 - [Senior Software Engineer, Backend (San Francisco, California)](https://boards.greenhouse.io/stellar/jobs/4923527004)
 
+Subspace Labs | Remote 
+- [Senior Protocol Engineer, Rust (Remote)](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
+
+- [Head of Protocol Engineering, L1 (Remote) ](https://jobs.lever.co/subspacelabs/a94e0052-51ee-4c71-96ab-9e5fc3a35cc1)
+  
+
 The Graph | Remote
 - [Rust Engineer](https://thegraph.com/jobs/rust-engineer)
+

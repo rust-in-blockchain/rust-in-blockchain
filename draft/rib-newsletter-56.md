@@ -17,7 +17,7 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
+[michelletraf],
 _TODO_
 
 Thank you for your help!
@@ -28,6 +28,7 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[michelletraf]: https://github.com/michelletraf-subspace
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -246,7 +247,9 @@ Company name | Location A, B, Remote
 
 -->
 
-
+Subspace Labs | Remote 
+- [Senior Protocol Engineer, Rust (Remote)](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
+- [Head of Protocol Engineering, L1 (Remote) ](https://jobs.lever.co/subspacelabs/a94e0052-51ee-4c71-96ab-9e5fc3a35cc1)
 
 More jobs can be found at [Job Board][page-jobboard].
 

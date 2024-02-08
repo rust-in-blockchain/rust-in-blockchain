@@ -4,10 +4,10 @@ description: "January 2024"
 date: 2024-02-07
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #56 edition of Rust in Blockchain."
 ---
 
-Welcome to the #45 edition of Rust in Blockchain, the monthly
+Welcome to the #56 edition of Rust in Blockchain, the monthly
 newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #55](/newsletters/rib-newsletter-55/).

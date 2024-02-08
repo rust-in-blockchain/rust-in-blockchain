@@ -1242,7 +1242,7 @@ Apr 8-12 | Paris, France | [Paris Blockchain Week](https://www.parisblockchainwe
 
 Apr 10 | Athens, Greece | [zkSummit11](https://www.zksummit.com/)
 
-Apr 11 | Anthens, Greece | [ZK Accelerate](https://lu.ma/f5rwv3b1)
+Apr 11 | Athens, Greece | [ZK Accelerate](https://lu.ma/f5rwv3b1)
 
 Apr 22-25 | Athens, Greece | [EuroSys 2024](https://2024.eurosys.org/about.html)
 

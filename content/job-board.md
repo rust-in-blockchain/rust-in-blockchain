@@ -41,6 +41,9 @@ Fractal Protocol | Remote or Berlin
 HashCloak | Toronto, Remote
 - [Junior Research Engineer (MPC)](https://hackmd.io/@hashcloak/HJz2Xn3Z9)
 
+Jito Labs | USA/Canada, Remote
+- [Senior Smart Contract Engineer (Remote)](https://jobs.lever.co/jito.wtf/b2082212-66c1-4a1d-b5bd-b7acd49f74ec)
+
 Massa | Paris, Remote
 - [Lead blockchain Developer](https://massa.net/lead_blockchain_developer.html)
 - [Senior Blockchain Developer](https://massa.net/senior_blockchain_developer.html)

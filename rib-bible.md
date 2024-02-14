@@ -619,6 +619,32 @@ repos = [
 ]
 ```
 
+### Lurk
+
+Media:
+- https://lurk-lang.org
+- https://blog.lurk-lang.org/posts
+- https://twitter.com/LurkLab
+- https://zulip.lurk-lab.com
+
+GitHub:
+- https://github.com/lurk-lab
+
+```toml
+repos = [
+"lurk-lab/lurk-rs",
+"lurk-lab/arecibo",
+"lurk-lab/neptune",
+"lurk-lab/bellpepper",
+"lurk-lab/bellpepper-gadgets",
+"lurk-lab/grumpkin-msm",
+"lurk-lab/solidity-verifier",
+"lurk-lab/circom-scotia",
+"lurk-lab/abomonation_derive",
+"lurk-lab/elsa",
+]
+```
+
 ### Maidsafe
 
 Media:

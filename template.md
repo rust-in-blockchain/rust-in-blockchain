@@ -107,6 +107,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [IOTA](https://github.com/iotaledger)
 
+#### [Lurk](https://github.com/lurk-lab)
+
 #### [Maidsafe](https://github.com/maidsafe)
 
 #### [Mina](https://github.com/MinaProtocol)

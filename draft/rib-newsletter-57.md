@@ -17,7 +17,8 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-
+[François Garillot]
+[Samuel Burnham],
 _TODO_
 
 Thank you for your help!
@@ -28,6 +29,8 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[François Garillot]: https://github.com/huitseeker
+[Samuel Burnham]: https://github.com/samuelburnham
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -51,6 +54,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Papers
 
+- [Proof of Diligence: Cryptoeconomic Security for Rollups](https://arxiv.org/abs/2402.07241)
+- [Breaking BFT: Quantifying the Cost to Attack Bitcoin and Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4727999)
 
 #### Projects
 
@@ -74,6 +79,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Casper](https://github.com/casper-network)
 
 #### [Chainflip](https://github.com/chainflip-io)
+
+- [Chainflip Development Update — February 8th 2024](https://blog.chainflip.io/dev-update-64/)
 
 #### [COMIT](https://github.com/comit-network)
 
@@ -207,6 +214,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 
 #### [Lighthouse](https://github.com/sigp/lighthouse)
 
+- [New release: Diablo Verde](https://github.com/sigp/lighthouse/releases/tag/v5.0.0). Mainnet Upgrade.
+
 #### [Polygon Zero](https://github.com/0xPolygonZero)
 
 #### [Reth](https://github.com/paradigmxyz/reth)
@@ -218,6 +227,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [Starkware](https://github.com/starkware-libs)
 
 #### [zkSync Era](https://github.com/matter-labs/zksync-era)
+
+- [zkSync Insufficient Proof Verification Bugfix Review](https://medium.com/immunefi/zksync-insufficient-proof-verification-bugfix-review-dcd57944d0e2)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 

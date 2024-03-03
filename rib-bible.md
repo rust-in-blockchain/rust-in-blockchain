@@ -346,7 +346,6 @@ repos = [
 "filecoin-project/rust-fil-logger",
 "filecoin-project/taupipp",
 "filecoin-project/filecoin-phase2",
-"lurk-lab/neptune",
 "ChainSafe/forest",
 "ChainSafe/filecoindot",
 ]

@@ -17,7 +17,8 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
-[François Garillot]
+[François Garillot],
+Ganzaro,
 [Samuel Burnham],
 _TODO_
 
@@ -51,11 +52,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [Master fuzzing with our new Testing Handbook chapter](https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/)
+- [LambdaClass: Our highly subjective view on the history of Zero-Knowledge Proofs](https://blog.lambdaclass.com/our-highly-subjective-view-on-the-history-of-zero-knowledge-proofs/)
 
 #### Papers
 
 - [Proof of Diligence: Cryptoeconomic Security for Rollups](https://arxiv.org/abs/2402.07241)
 - [Breaking BFT: Quantifying the Cost to Attack Bitcoin and Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4727999)
+- [SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs](https://arxiv.org/abs/2402.15293)
+- [Circle STARKs](https://eprint.iacr.org/2024/278)
 
 #### Projects
 
@@ -135,6 +140,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [aptos-closed_issues-2]: https://github.com/aptos-labs/aptos-indexer-processors/issues?q=is%3Aissue+is%3Aclosed+closed%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [aptos-open_issues-1]: https://github.com/aptos-labs/aptos-core/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 
+- [Move Revealed: The Revela Decompiler](https://aptoslabs.medium.com/move-revealed-the-revela-decompiler-b206eaf48b45)
+
 #### [Casper](https://github.com/casper-network)
 
 35 merged PRs ([1][casper-merged-prs-1], [2][casper-merged-prs-2], [3][casper-merged-prs-3]),
@@ -158,6 +165,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [chainflip-merged-prs-1]: https://github.com/chainflip-io/chainflip-backend/pulls?q=is%3Apr+is%3Aclosed+merged%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [chainflip-closed_issues-1]: https://github.com/chainflip-io/chainflip-backend/issues?q=is%3Aissue+is%3Aclosed+closed%3A2024-02-01..2024-02-29%20-author:app/dependabot
 
+- [Chainflip Development Update — March 4th 2024](https://blog.chainflip.io/chainflip-development-update-march-4th-2024/)
 - [Chainflip Development Update — February 8th 2024](https://blog.chainflip.io/dev-update-64/)
 
 #### [COMIT](https://github.com/comit-network)
@@ -195,6 +203,16 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 0 open issues
 
 [conflux-merged-prs-1]: https://github.com/Conflux-Chain/conflux-rust/pulls?q=is%3Apr+is%3Aclosed+merged%3A2024-02-01..2024-02-29%20-author:app/dependabot
+
+- [Monthly Progress Report — February 2024](https://medium.com/conflux-network/monthly-progress-report-february-2024-fe5f2a1664ba)
+
+#### [DarkFi](https://dark.fi)
+
+0 merged PRs,
+0 closed issues,
+0 open issues
+
+- [Public report of Darkfi circuits and crypto audit](https://www.zksecurity.xyz/blog/posts/darkfi/)
 
 #### [Dfinity](https://github.com/dfinity)
 
@@ -302,6 +320,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [filecoin-closed_issues-2]: https://github.com/filecoin-project/builtin-actors/issues?q=is%3Aissue+is%3Aclosed+closed%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [filecoin-open_issues-1]: https://github.com/filecoin-project/ref-fvm/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 
+- [Filecoin News 84](https://filecoin.io/blog/posts/filecoin-news-84/)
+- [Filecoin News 83](https://filecoin.io/blog/posts/filecoin-news-83/)
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 7 merged PRs ([1][findora-merged-prs-1]),
@@ -329,6 +350,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [fluence-merged-prs-11]: https://github.com/fluencelabs/randomx-rust-wrapper/pulls?q=is%3Apr+is%3Aclosed+merged%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [fluence-merged-prs-12]: https://github.com/fluencelabs/spell/pulls?q=is%3Apr+is%3Aclosed+merged%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [fluence-merged-prs-13]: https://github.com/fluencelabs/marine-rs-sdk/pulls?q=is%3Apr+is%3Aclosed+merged%3A2024-02-01..2024-02-29%20-author:app/dependabot
+
+- [Fluence Mainnet Launch at ETH Denver](https://kill-the-newsletter.com/alternates/mgfrwn7jyjvr840e.html)
+- [The Future is Cloudless: Fluence’s DePIN computing platform DAO and FLT token are now live](https://blog.fluence.network/the-future-is-cloudless-fluences-depin-computing-platform-and-flt-token-are-now-live/)
+- [Contributed to open source Web3 in 2023? Check your eligibility for FLT developer reward!](https://blog.fluence.network/flt-developer-reward/)
 
 #### [Fuel](https://github.com/FuelLabs)
 
@@ -368,6 +393,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [fuel-open_issues-8]: https://github.com/FuelLabs/fuel-indexer/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [fuel-open_issues-9]: https://github.com/FuelLabs/forc-wallet/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 
+- [Beta-5: Staging Network Upgrade](https://fuel.mirror.xyz/5JCTjM3jSG84QYLKqQ4idHf6X_zVtwTInQvg7kWhaMA)
+- [The Rollup OS for Ethereum](https://fuel.mirror.xyz/uYMT39LiB538Q61Mgf4bRrsAwApJSeNiG_afDHhOhGs)
+
 #### [Golem](https://github.com/golemfactory)
 
 60 merged PRs ([1][golem-merged-prs-1], [2][golem-merged-prs-2], [3][golem-merged-prs-3], [4][golem-merged-prs-4], [5][golem-merged-prs-5]),
@@ -387,6 +415,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [golem-open_issues-1]: https://github.com/golemfactory/yagna/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [golem-open_issues-2]: https://github.com/golemfactory/ya-runtime-ai/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [golem-open_issues-3]: https://github.com/golemfactory/erc20_payment_lib/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
+
+- [Update on Golem GPU Beta Testing Program](https://blog.golem.network/update-on-golem-gpu-beta-testing-program/)
+- [Reputation System: Experimental Version Roll-Out](https://blog.golem.network/reputation-system-experimental-version-roll-out/)
 
 #### [Grin](https://github.com/mimblewimble/grin)
 
@@ -435,6 +466,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [holochain-open_issues-1]: https://github.com/holochain/scaffolding/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [holochain-open_issues-2]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 
+- [Holochain 0.2 is here!](https://blog.holochain.org/holochain-0-2-is-here/)
+- [A Strange New Contraption](https://blog.holochain.org/a-strange-new-contraption/)
+
 #### [IOTA](https://github.com/iotaledger)
 
 113 merged PRs ([1][iota-merged-prs-1], [2][iota-merged-prs-2], [3][iota-merged-prs-3], [4][iota-merged-prs-4], [5][iota-merged-prs-5]),
@@ -455,6 +489,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [iota-open_issues-1]: https://github.com/iotaledger/iota-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [iota-open_issues-2]: https://github.com/iotaledger/inx-chronicle/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [iota-open_issues-3]: https://github.com/iotaledger/identity.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
+
+- [Introducing the IOTA Legacy Migration Tool](https://blog.iota.org/iota-legacy-migration-tool/)
 
 #### [Lurk](https://github.com/lurk-lab)
 
@@ -675,6 +711,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [parity-open_issues-13]: https://github.com/paritytech/scale-decode/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [parity-open_issues-14]: https://github.com/paritytech/scale-typegen/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 
+- [Nearly Optimal State Merklization (in Polkadot-SDK)](https://www.rob.tech/blog/nearly-optimal-polkadot-merklization/)
+
 #### [Radix](https://github.com/radixdlt)
 
 51 merged PRs ([1][radix-merged-prs-1], [2][radix-merged-prs-2], [3][radix-merged-prs-3], [4][radix-merged-prs-4], [5][radix-merged-prs-5], [6][radix-merged-prs-6]),
@@ -688,6 +726,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [radix-merged-prs-5]: https://github.com/radixdlt/radix-engine-toolkit/pulls?q=is%3Apr+is%3Aclosed+merged%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [radix-merged-prs-6]: https://github.com/radixdlt/official-examples/pulls?q=is%3Apr+is%3Aclosed+merged%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [radix-open_issues-1]: https://github.com/radixdlt/radixdlt-scrypto/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
+
+- [Thoughts on Sui’s MoveVM](https://www.radixdlt.com/blog/thoughts-on-suis-movevm)
+- [How Radix Engine Avoids the Flaws of Sui's MoveVM](https://www.radixdlt.com/blog/how-radix-engine-avoids-the-flaws-of-suis-movevm)
 
 #### [Solana](https://github.com/solana-labs/solana)
 
@@ -721,6 +762,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [soroban-open_issues-2]: https://github.com/stellar/soroban-cli/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [soroban-open_issues-3]: https://github.com/stellar/rs-soroban-env/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [soroban-open_issues-4]: https://github.com/stellar/rs-stellar-xdr/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
+
+- [Validator Guide to Soroban Mainnet Phase 1](https://stellar.org/blog/developers/validator-guide-to-soroban-mainnet-phase-1)
+- [Protocol 20 and Smart Contracts Are Live on Mainnet](https://stellar.org/blog/developers/protocol-20-and-smart-contracts-are-live-on-mainnet)
 
 #### [Spacemesh](https://github.com/spacemeshos)
 
@@ -761,6 +805,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [sui-closed_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aclosed+closed%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [sui-closed_issues-2]: https://github.com/MystenLabs/scion-rs/issues?q=is%3Aissue+is%3Aclosed+closed%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [sui-open_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
+
+- [Shared Object Deletion Now Available On Sui](https://blog.sui.io/ephemeral-shared-objects/)
+- [Enabling Zero Auth Downloads for Node Operators at a Tenth of the Cost](https://blog.sui.io/aws-s3-cloudflare-r2-snapshot/)
+- [Sui Developer Newsletter (#3)](https://sui-23860326.hs-sites.com/sui-dev-newsletter-3)
+- [Videos: MoveDevConf 2024](https://www.youtube.com/playlist?list=PL9t2y-BKvZBRfiyhgCU_jevh_X7-KsrfW)
 
 #### [Zcash](https://github.com/zcash)
 
@@ -1092,6 +1141,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-open_issues-1]: https://github.com/starkware-libs/cairo/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [starkware-open_issues-2]: https://github.com/starkware-libs/blockifier/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 
+- [Stwo Prover: the next-gen of STARK scaling is here](https://medium.com/starkware/stwo-prover-the-next-gen-of-stark-scaling-is-here-f7429e764127)
+
 #### [zkSync Era](https://github.com/matter-labs/zksync-era)
 
 313 merged PRs ([1][zksync_era-merged-prs-1], [2][zksync_era-merged-prs-2], [3][zksync_era-merged-prs-3], [4][zksync_era-merged-prs-4], [5][zksync_era-merged-prs-5], [6][zksync_era-merged-prs-6], [7][zksync_era-merged-prs-7], [8][zksync_era-merged-prs-8], [9][zksync_era-merged-prs-9], [10][zksync_era-merged-prs-10], [11][zksync_era-merged-prs-11], [12][zksync_era-merged-prs-12], [13][zksync_era-merged-prs-13], [14][zksync_era-merged-prs-14], [15][zksync_era-merged-prs-15], [16][zksync_era-merged-prs-16], [17][zksync_era-merged-prs-17], [18][zksync_era-merged-prs-18], [19][zksync_era-merged-prs-19], [20][zksync_era-merged-prs-20], [21][zksync_era-merged-prs-21], [22][zksync_era-merged-prs-22], [23][zksync_era-merged-prs-23]),
@@ -1137,6 +1188,7 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [zksync_era-open_issues-8]: https://github.com/matter-labs/teepot/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 
 - [zkSync Insufficient Proof Verification Bugfix Review](https://medium.com/immunefi/zksync-insufficient-proof-verification-bugfix-review-dcd57944d0e2)
+- [Zero-Knowledge Proofs explained like I'm 5](https://eli5.zksync.io/)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
 
@@ -1151,6 +1203,7 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
+Apr 10-11 | Paris, France | [Sui Basecamp](https://sui.io/basecamp)
 
 
 &nbsp;

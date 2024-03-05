@@ -47,6 +47,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 
 #### Blog Posts
+#### [Holochain: A New Link in Web3]([https://blog.holochain.org/holochain-0-2-is-here/](https://blog.holochain.org/holochain-a-new-link-in-web3/)
+#### [Verifying Energy](https://blog.holochain.org/verifying-energy/)
+
 
 
 #### Papers
@@ -104,6 +107,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Helium](https://github.com/helium)
 
 #### [Holochain](https://github.com/holochain/)
+#### [Holochain 0.2 is here!](https://blog.holochain.org/holochain-0-2-is-here/)
 
 #### [IOTA](https://github.com/iotaledger)
 

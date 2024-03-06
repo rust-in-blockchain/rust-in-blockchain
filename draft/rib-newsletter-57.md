@@ -55,6 +55,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 - [Master fuzzing with our new Testing Handbook chapter](https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/)
 - [LambdaClass: Our highly subjective view on the history of Zero-Knowledge Proofs](https://blog.lambdaclass.com/our-highly-subjective-view-on-the-history-of-zero-knowledge-proofs/)
 - [Starknet and zkSync: A comparative analysis](https://medium.com/nethermind-eth/starknet-and-zksync-a-comparative-analysis-d4648786256b)
+- [Introducing Citrea: Bitcoin’s First ZK Rollup](https://www.blog.citrea.xyz/introducing-citrea/)
 
 #### Papers
 

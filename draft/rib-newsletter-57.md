@@ -54,16 +54,34 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 - [Master fuzzing with our new Testing Handbook chapter](https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/)
 - [LambdaClass: Our highly subjective view on the history of Zero-Knowledge Proofs](https://blog.lambdaclass.com/our-highly-subjective-view-on-the-history-of-zero-knowledge-proofs/)
+- [Starknet and zkSync: A comparative analysis](https://medium.com/nethermind-eth/starknet-and-zksync-a-comparative-analysis-d4648786256b)
 
 #### Papers
 
+- [Distributed Randomness using Weighted VRFs](https://eprint.iacr.org/2024/198)
+- [OCash: Fully Anonymous Payments between Blockchain Light Clients](https://eprint.iacr.org/2024/246)
+- [A Better Proof-of-Work Fork Choice Rule](https://eprint.iacr.org/2024/200)
+- [A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance](https://eprint.iacr.org/2024/304)
+- [Parallel Zero-knowledge Virtual Machine](https://eprint.iacr.org/2024/387)
 - [Proof of Diligence: Cryptoeconomic Security for Rollups](https://arxiv.org/abs/2402.07241)
 - [Breaking BFT: Quantifying the Cost to Attack Bitcoin and Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4727999)
+- [SoK: Decentralized Storage Network](https://eprint.iacr.org/2024/258)
 - [SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs](https://arxiv.org/abs/2402.15293)
 - [Circle STARKs](https://eprint.iacr.org/2024/278)
+- [FRIDA: Data Availability Sampling from FRI](https://eprint.iacr.org/2024/248)
+- [Rollerblade: Replicated Distributed Protocol Emulation on Top of Ledgers](https://eprint.iacr.org/2024/210)
+- [Mastic: Private Weighted Heavy-Hitters and Attribute-Based Metrics](https://eprint.iacr.org/2024/221).
+  Implementation: [Mastic](https://github.com/TrustworthyComputing/mastic)
 
 #### Projects
 
+- [vyper-rs](https://github.com/crypdoughdoteth/vyper-rs).
+  A rust library to interact with the Vyper compiler.
+- [SP1](https://github.com/succinctlabs/sp1).
+  A zkVM that can prove the execution of arbitrary Rust (or any LLVM-compiled language) programs.
+  Blog post: [Introducing SP1: A performant, 100% open-source, contributor-friendly zkVM](https://blog.succinct.xyz/introducing-sp1/).
+- [sp1-reth](https://github.com/succinctlabs/sp1-reth).
+  A performant, type-1 zkEVM written in Rust & SP1.
 
 &nbsp;
 
@@ -116,6 +134,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [aleo-open_issues-1]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [aleo-open_issues-2]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [aleo-open_issues-3]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
+
+- [The Road to Aleo Mainnet](https://aleo.org/post/the-road-to-aleo-mainnet/)
 
 #### [Anoma](https://github.com/anoma)
 

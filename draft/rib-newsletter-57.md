@@ -42,6 +42,22 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[sp1](https://github.com/succinctlabs/sp1).
+
+This project is a zkVM that runs Rust code:
+that is, code written in Rust can be compiled
+to their specialized VM,
+and upon execution a proof is generated;
+later the proof can be used to efficiently verify
+that the specific Rust code was executed with specific inputs and outputs.
+
+It is similar in function to [RISC0](https://github.com/risc0/risc0),
+and its Rust toolchain is said to be derived from RISC0,
+but it uses as different proover, [Plonky3](https://github.com/Plonky3/),
+and is claimed to be comparatively performant.
+
+It is described in [a blog post](https://blog.succinct.xyz/introducing-sp1/).
+
 &nbsp;
 
 

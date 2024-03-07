@@ -341,6 +341,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [filecoin-closed_issues-2]: https://github.com/filecoin-project/builtin-actors/issues?q=is%3Aissue+is%3Aclosed+closed%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [filecoin-open_issues-1]: https://github.com/filecoin-project/ref-fvm/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 
+- [Filecoin CalibrationNet Version 22 Dragon Upgrade](https://status.filecoin.io/incidents/dbnd5ws12dpw)
 - [Filecoin News 84](https://filecoin.io/blog/posts/filecoin-news-84/)
 - [Filecoin News 83](https://filecoin.io/blog/posts/filecoin-news-83/)
 

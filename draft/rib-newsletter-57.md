@@ -503,6 +503,8 @@ It is described in [a blog post](https://blog.succinct.xyz/introducing-sp1/).
 [holochain-open_issues-1]: https://github.com/holochain/scaffolding/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 [holochain-open_issues-2]: https://github.com/holochain/holochain/issues?q=is%3Aissue+is%3Aopen+created%3A2024-02-01..2024-02-29%20-author:app/dependabot
 
+- [Holochain: A New Link in Web3](https://blog.holochain.org/holochain-a-new-link-in-web3/)
+- [Verifying Energy](https://blog.holochain.org/verifying-energy/)
 - [Holochain 0.2 is here!](https://blog.holochain.org/holochain-0-2-is-here/)
 - [A Strange New Contraption](https://blog.holochain.org/a-strange-new-contraption/)
 

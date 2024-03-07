@@ -4,7 +4,8 @@ description: "February 2024"
 date: 2024-03-06
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #57 edition of Rust in Blockchain.
+This month, we spotlight `sp1`, a zkVM that runs Rust code."
 ---
 
 Welcome to the #57 edition of Rust in Blockchain, the monthly
@@ -17,8 +18,10 @@ industry topics.
 ## Thanks
 
 Thanks to contributors:
+[camilahanada],
 [François Garillot],
 Ganzaro,
+[Igor Berlenko],
 [Samuel Burnham],
 [Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
@@ -29,7 +32,9 @@ that is beneficial to the Rust & blockchain community,
 please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
+[camilahanada]: https://github.com/camilahanada
 [François Garillot]: https://github.com/huitseeker
+[Igor Berlenko]: https://github.com/7flash
 [Samuel Burnham]: https://github.com/samuelburnham
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
@@ -61,9 +66,6 @@ It is described in [a blog post](https://blog.succinct.xyz/introducing-sp1/).
 
 
 ## Interesting Things
-
-#### News
-
 
 #### Blog Posts
 

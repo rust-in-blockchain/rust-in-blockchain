@@ -41,6 +41,20 @@ Fractal Protocol | Remote or Berlin
 HashCloak | Toronto, Remote
 - [Junior Research Engineer (MPC)](https://hackmd.io/@hashcloak/HJz2Xn3Z9)
 
+Hyperlane | New York, London
+- [Engineering Manager (New York)](https://jobs.lever.co/Hyperlane/de3e626d-88c7-4ed0-b07e-d4995601e813)
+- [Engineering Manager (London)](https://jobs.lever.co/Hyperlane/fff8314e-9812-4eb9-a1fe-353a7c7c627c)
+- [Tech Lead (New York)](https://jobs.lever.co/Hyperlane/d7bdc595-2f82-4f0a-9c85-7a46fea5efdd)
+- [Tech Lead (London)](https://jobs.lever.co/Hyperlane/d7bdc595-2f82-4f0a-9c85-7a46fea5efdd)
+- [Senior Rust Engineer (New York)](https://jobs.lever.co/Hyperlane/593277eb-e0f2-4d9f-9dbe-22557872a4d1)
+- [Senior Rust Engineer (London)](https://jobs.lever.co/Hyperlane/25b7258d-4f35-44dd-88e1-66268e5abb92)
+- [Senior Software Engineer (New York)](https://jobs.lever.co/Hyperlane/1726838c-d19a-41ea-9e95-1428d654be15)
+- [Senior Software Engineer (London)](https://jobs.lever.co/Hyperlane/1726838c-d19a-41ea-9e95-1428d654be15)
+- [Developer Relations Engineer (New York)](https://jobs.lever.co/Hyperlane/dc6a282f-d101-4cd8-8d4c-a997d9e8ad1b)
+- [Developer Relations Engineer (London)](https://jobs.lever.co/Hyperlane/dc6a282f-d101-4cd8-8d4c-a997d9e8ad1b)
+- [Partner Engineer (New York)](https://jobs.lever.co/Hyperlane/4697cde1-f076-4f5b-b272-6aab7dddc7e1)
+- [Partner Engineer (London)](https://jobs.lever.co/Hyperlane/4697cde1-f076-4f5b-b272-6aab7dddc7e1)
+
 Jito Labs | USA/Canada, Remote
 - [Senior Smart Contract Engineer (Remote)](https://jobs.lever.co/jito.wtf/b2082212-66c1-4a1d-b5bd-b7acd49f74ec)
 
@@ -67,7 +81,7 @@ NEAR | Remote
 
 Nomic Foundation | Remote (EMEA, Americas)
 - [Senior Systems Engineer (Rust), EDR](https://jobs.ashbyhq.com/nomic.foundation/34cda712-64fc-46aa-b65d-d18f6f0c3a92)
-- [Senior Systems Engineer (Rust), Slang](https://jobs.ashbyhq.com/nomic.foundation/1ef14a5f-6035-45fc-8012-c7243c02c156) 
+- [Senior Systems Engineer (Rust), Slang](https://jobs.ashbyhq.com/nomic.foundation/1ef14a5f-6035-45fc-8012-c7243c02c156)
 
 Oxygen | Dubai or Remote
 - [Smart Contract Engineer (Rust)](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
@@ -82,7 +96,7 @@ Stellar | USA, Canada, Remote
 - [Senior Software Engineer, Backend (Brooklyn, New York)](https://boards.greenhouse.io/stellar/jobs/4923529004)
 - [Senior Software Engineer, Backend (San Francisco, California)](https://boards.greenhouse.io/stellar/jobs/4923527004)
 
-Subspace Labs | Remote 
+Subspace Labs | Remote
 - [Senior Protocol Engineer, Rust (Remote)](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
 - [Head of Protocol Engineering, L1 (Remote) ](https://jobs.lever.co/subspacelabs/a94e0052-51ee-4c71-96ab-9e5fc3a35cc1)
 

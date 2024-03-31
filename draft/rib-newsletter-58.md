@@ -75,6 +75,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Chainflip](https://github.com/chainflip-io)
 
+- [Chainflip Development Update — March 21st 2024](https://blog.chainflip.io/dev-update-66/)
+
 #### [COMIT](https://github.com/comit-network)
 
 #### [Concordium](https://github.com/Concordium)
@@ -218,6 +220,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [Rust Web3](https://github.com/tomusdrw/rust-web3)
 
 #### [Starkware](https://github.com/starkware-libs)
+
+- [Stwo Prover: The next-gen of STARK scaling is here](https://starkware.co/resource/stwo-prover-the-next-gen-of-stark-scaling-is-here/)
 
 #### [zkSync Era](https://github.com/matter-labs/zksync-era)
 

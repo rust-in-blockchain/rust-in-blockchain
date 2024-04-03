@@ -38,6 +38,12 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+[`mopro`](https://github.com/oskarth/mopro)
+
+`mopro` is a toolikit for creating, building, testing, and running zero-knowledge
+proofs across multiple platforms and prooving systems.
+
+
 &nbsp;
 
 

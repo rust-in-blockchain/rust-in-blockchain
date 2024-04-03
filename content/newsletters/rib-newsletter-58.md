@@ -1,10 +1,12 @@
 ---
 title: "RiB Newsletter #58"
 description: "March 2024"
-date: 2023-04-03
+date: 2024-04-03
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #58 edition of Rust in Blockchain.
+This month, we spotlight `mopro`, a toolikit for creating, building, testing, and running zero-knowledge
+proofs across multiple platforms and prooving systems."
 ---
 
 Welcome to the #58 edition of Rust in Blockchain, the monthly
@@ -33,14 +35,13 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 &nbsp;
 
-
 ## Project Spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
 [`mopro`](https://github.com/oskarth/mopro)
 
-`mopro` is a toolikit for creating, building, testing, and running zero-knowledge
+`mopro` is a toolkit for creating, building, testing, and running zero-knowledge
 proofs across multiple platforms and prooving systems.
 
 

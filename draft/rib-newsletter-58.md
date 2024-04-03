@@ -18,8 +18,7 @@ industry topics.
 
 Thanks to contributors:
 [Daniel Savu],
-_TODO_
-
+[Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
 RiB needs help to keep up with Rust blockchain projects.
@@ -46,16 +45,28 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### News
 
+- [Worldcoin Foundation Open Sources Core Components of the Orb’s Software](https://worldcoin.org/blog/engineering/worldcoin-foundation-open-sources-core-components-orb-software). The source code [orb-software](https://github.com/worldcoin/orb-software).
 
 #### Blog Posts
 
+- [Beyond Single-Core: Enhancing VM Efficiency in Parallel Environments](https://blog.lambdaclass.com/beyond-single-core-enhancing-vm-efficiency-in-parallel-environments/)
+- [Proof aggregation techniques](https://blog.lambdaclass.com/proof-aggregation-techniques/)
 
 #### Papers
 
+- [Atomic and Fair Data Exchange via Blockchain](https://eprint.iacr.org/2024/418)
+- [Re-Randomized FROST](https://eprint.iacr.org/2024/436)
+- [DARE to agree: Byzantine Agreement with Optimal Resilience and Adaptive Communication](https://eprint.iacr.org/2024/403)
+- [Accountable Decryption made Formal and Practical (Revised)](https://eprint.iacr.org/2023/1519)
+- [Exponent-VRFs and Their Applications](https://eprint.iacr.org/2024/397)
 
 #### Projects
 
-
+- [mopro-cli](https://github.com/oskarth/mopro/tree/main/mopro-cli).
+  A CLI tool for client-side proving of Zero Knowledge Proofs.
+- [plonky2.5](https://github.com/QEDProtocol/plonky2.5).
+  Verify plonky3 proofs in plonky2.
+  
 &nbsp;
 
 ## Most Active in March
@@ -80,7 +91,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 9 closed issues,
 13 open issues
 
-[zkSync Era](https://github.com/matter-labs/zksync-era)
+[zkSync Era](https://github.com/matter-labs/zksync-era):
 304 merged PRs,
 54 closed issues,
 31 open issues
@@ -105,6 +116,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [aleo-closed_issues-3]: https://github.com/AleoHQ/snarkVM/issues?q=is%3Aissue+is%3Aclosed+closed%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [aleo-open_issues-1]: https://github.com/AleoHQ/snarkOS/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [aleo-open_issues-2]: https://github.com/AleoHQ/leo/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
+
+- [Product Announcement: Aleo IP Core](https://medium.com/@ingonyama/product-announcement-aleo-ip-core-e7181ca31094)
 
 #### [Anoma](https://github.com/anoma)
 
@@ -325,6 +338,10 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [filecoin-open_issues-1]: https://github.com/filecoin-project/builtin-actors/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [filecoin-open_issues-2]: https://github.com/filecoin-project/filplus-backend/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 
+- [Filecoin Network Version 22 Dragon Upgrade](https://status.filecoin.io/incidents/k7wdthcwtwzs)
+- [FIL Dev Summit Track on Smart Storage & dApps](https://filecoin.io/blog/posts/fil-dev-summit-track-on-smart-storage--dapps-archiving-solana-on-filecoin-filecoins-relationship-to-da-ipc-l2s-fast-finality-and-more/)
+- [Unveiling FIL-RetroPGF-1: Retroactively Funding Filecoin Public Goods](https://filecoin.io/blog/posts/unveiling-fil-retropgf-1-retroactively-funding-filecoin-public-goods/)
+
 #### [Findora](https://github.com/FindoraNetwork)
 
 14 merged PRs ([1][findora-merged-prs-1], [2][findora-merged-prs-2]),
@@ -350,6 +367,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [fluence-merged-prs-8]: https://github.com/fluencelabs/curl-effector/pulls?q=is%3Apr+is%3Aclosed+merged%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [fluence-merged-prs-9]: https://github.com/fluencelabs/effector-template/pulls?q=is%3Apr+is%3Aclosed+merged%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [fluence-closed_issues-1]: https://github.com/fluencelabs/nox/issues?q=is%3Aissue+is%3Aclosed+closed%3A2024-03-01..2024-03-31%20-author:app/dependabot
+
+- [Fluence Developer Updates ~ March 28th, 2024](https://blog.fluence.network/building-fluence-together/)
 
 #### [Fuel](https://github.com/FuelLabs)
 
@@ -415,6 +434,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [golem-open_issues-3]: https://github.com/golemfactory/ya-runtime-vm-nvidia/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [golem-open_issues-4]: https://github.com/golemfactory/erc20_payment_lib/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [golem-open_issues-5]: https://github.com/golemfactory/gvmkit-build-rs/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
+
+- [Introducing The Onboarding Portal: Your Gateway to Golem Network!](https://blog.golem.network/introducing-the-onboarding-portal-your-gateway-to-golem-network/)
+- [Reputation System Gets a Turbo Boost: AgreementSelector Speeds Up Tasks using Top Performers](https://blog.golem.network/reputation-system-gets-a-turbo-boost-agreementselector-speeds-up-tasks-with-top-performer/)
 
 #### [Grin](https://github.com/mimblewimble/grin)
 
@@ -487,6 +509,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [iota-open_issues-3]: https://github.com/iotaledger/identity.rs/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [iota-open_issues-4]: https://github.com/iotaledger/inx-chronicle/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 
+- [Bloom Wallet Launched](https://blog.iota.org/bloom-wallet-launched/)
+- [Introducing IOTA Grants to Foster Ecosystem Growth](https://blog.iota.org/introducing-iota-grants/)
+
 #### [Lurk](https://github.com/lurk-lab)
 
 55 merged PRs ([1][lurk-merged-prs-1], [2][lurk-merged-prs-2], [3][lurk-merged-prs-3], [4][lurk-merged-prs-4], [5][lurk-merged-prs-5], [6][lurk-merged-prs-6], [7][lurk-merged-prs-7]),
@@ -536,6 +561,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [mina-merged-prs-1]: https://github.com/openmina/openmina/pulls?q=is%3Apr+is%3Aclosed+merged%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [mina-closed_issues-1]: https://github.com/openmina/openmina/issues?q=is%3Aissue+is%3Aclosed+closed%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [mina-open_issues-1]: https://github.com/openmina/openmina/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
+
+- [Upgrade Mechanism Testing Retrospective](https://minaprotocol.com/blog/upgrade-mechanism-testing-retro)
 
 #### [MobileCoin](https://github.com/mobilecoinfoundation)
 
@@ -758,6 +785,13 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [soroban-open_issues-5]: https://github.com/stellar/rs-soroban-env/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [soroban-open_issues-6]: https://github.com/stellar/rs-soroban-sdk/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 
+- [EVM to Soroban Understanding Data Types](https://stellar.org/blog/developers/evm-to-soroban-understanding-data-types-or-solidity-to-rust-series-pt-2)
+- [Auth (-entication) and (-orization) in blockchain](https://stellar.org/blog/developers/auth-entication-and-orization-in-blockchain)
+- [The Soroban Audit Bank: Fostering a Secure Smart Contract Ecosystem](https://stellar.org/blog/developers/the-soroban-audit-bank-fostering-a-secure-smart-contract-ecosystem)
+- [Smart Contracts Made Simple: Dogfooding Soroban at the SDF](https://stellar.org/blog/developers/smart-contracts-made-simple-dogfooding-soroban-at-the-sdf)
+- [Yield-Bearing Assets on Stellar: Unlocking Potential with Soroban](https://stellar.org/blog/tools-solutions/yield-bearing-assets-stellar-soroban)
+- [How to develop securely on Soroban? Storage types with unbounded data](https://medium.com/veridise/how-to-develop-securely-on-soroban-storage-types-with-unbounded-data-0318d691bb9a)
+
 #### [Spacemesh](https://github.com/spacemeshos)
 
 15 merged PRs ([1][spacemesh-merged-prs-1], [2][spacemesh-merged-prs-2]),
@@ -795,6 +829,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [sui-open_issues-1]: https://github.com/MystenLabs/sui/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [sui-open_issues-2]: https://github.com/MystenLabs/ed25519-unsafe-libs/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 
+- [Sui Overflow: Sui’s first global virtual hackathon](https://sui.io/overflow)
+- [Let's Move Sui Helps Developers who want to Move on Sui](https://blog.sui.io/lets-move-sui-launches/)
+- [Scaling Out Sui Execution with Pilotfish](https://blog.sui.io/pilotfish-execution-scalability-blockchain/)
+- [Create and Execute PTBs on Sui with the Sui CLI](https://blog.sui.io/write-programmable-transaction-blocks-command-line-interface/)
+
 #### [Zcash](https://github.com/zcash)
 
 88 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3], [4][zcash-merged-prs-4], [5][zcash-merged-prs-5]),
@@ -809,6 +848,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 [zcash-closed_issues-1]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aclosed+closed%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [zcash-open_issues-1]: https://github.com/zcash/librustzcash/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [zcash-open_issues-2]: https://github.com/zcash/sapling-crypto/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
+
+- [ECC Transparency Report for Q3 2023](https://electriccoin.co/blog/ecc-transparency-report-for-q3-2023/)
+- [How Does Zcash Work?](https://www.zellic.io/blog/how-does-zcash-work/)
 
 &nbsp;
 
@@ -1071,6 +1113,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [lighthouse-open_issues-2]: https://github.com/sigp/discv5/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 [lighthouse-open_issues-3]: https://github.com/sigp/enr/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 
+- [Inactivity leak under MaxEB (EIP-7251)](https://lighthouse-blog.sigmaprime.io/maxeb-inactivity-leak.html)
+
 #### [Polygon Zero](https://github.com/0xPolygonZero)
 
 64 merged PRs ([1][polygon_zero-merged-prs-1], [2][polygon_zero-merged-prs-2], [3][polygon_zero-merged-prs-3], [4][polygon_zero-merged-prs-4], [5][polygon_zero-merged-prs-5]),
@@ -1128,6 +1172,8 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 [starkware-open_issues-4]: https://github.com/starkware-libs/starknet-api/issues?q=is%3Aissue+is%3Aopen+created%3A2024-03-01..2024-03-31%20-author:app/dependabot
 
 - [Stwo Prover: The next-gen of STARK scaling is here](https://starkware.co/resource/stwo-prover-the-next-gen-of-stark-scaling-is-here/)
+- [Cairo v2.6.0 is out!](https://www.cairo-lang.org/cairo-v2-6-0-is-out/)
+- [Coding in Cairo](https://www.cairo-lang.org/coding-in-cairo/)
 
 #### [zkSync Era](https://github.com/matter-labs/zksync-era)
 
@@ -1180,6 +1226,8 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 -->
 
 
+- [Sui Overflow: Sui’s first global virtual hackathon](https://sui.io/overflow)
+
 
 &nbsp;
 
@@ -1207,6 +1255,17 @@ Hyperlane | New York, London
 - [Partner Engineer (New York)](https://jobs.lever.co/Hyperlane/4697cde1-f076-4f5b-b272-6aab7dddc7e1)
 - [Partner Engineer (London)](https://jobs.lever.co/Hyperlane/4697cde1-f076-4f5b-b272-6aab7dddc7e1)
 
+Worldcoin | US, Germany
+- [Senior Software Engineer, Backend (Germany)](https://boards.greenhouse.io/worldcoinorg/jobs/4100362004)
+- [Senior Embedded Software Engineer, Rust (Munich, Germany)](https://boards.greenhouse.io/worldcoinorg/jobs/4958576004)
+- [Embedded Platform Lead, Orb Software (Munich, Germany)](https://boards.greenhouse.io/worldcoinorg/jobs/4982330004)
+- [Senior Staff / Principal Engineer, Orb Backend (San Francisco/Munich)](https://boards.greenhouse.io/worldcoinorg/jobs/5144820004)
+- [Senior Embedded Software Engineer, Internal Tools (Munich, Germany)](https://boards.greenhouse.io/worldcoinorg/jobs/4982349004)
+- [Staff Rust Engineer, Protocol (San Francisco/Munich)](https://boards.greenhouse.io/worldcoinorg/jobs/4604216004)
+- [Senior Rust Developer, Protocol (San Francisco/Munich)](https://boards.greenhouse.io/worldcoinorg/jobs/4840609004)
+- [Senior Application Security Engineer (San Francisco, USA)](https://boards.greenhouse.io/worldcoinorg/jobs/4730825004)
+- [Senior Security Operations Engineer (San Francisco, USA)](https://boards.greenhouse.io/worldcoinorg/jobs/4969413004)
+- [Senior Device Security Engineer (San Francisco, USA)](https://boards.greenhouse.io/worldcoinorg/jobs/5133713004)
 
 More jobs can be found at [Job Board][page-jobboard].
 

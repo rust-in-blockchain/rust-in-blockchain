@@ -28,9 +28,10 @@ Bolt Labs | US, Remote
 DEX Labs | Remote
 - [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb-rust-engineer)
 
-DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
-- [Software Engineer, Distributed Systems](https://boards.greenhouse.io/dfinity/jobs/4408999002)
-- [Software Engineer - Systems](https://boards.greenhouse.io/dfinity/jobs/4408974002)
+DFINITY | Zurich, Switzerland; Remote within US
+- [Software Engineer - Node Engineering (US - Remote)](https://boards.greenhouse.io/dfinity/jobs/7268146002)
+- [Software Engineer - Node Engineering (Zurich, CH)](https://boards.greenhouse.io/dfinity/jobs/7268133002)
+- [Senior Software Engineer - Systems (Zurich, CH)](https://boards.greenhouse.io/dfinity/jobs/7275243002)
 
 Fluence | Remote
 - [Rust Engineer (AquaVM)](https://docs.google.com/document/d/1941617PiUwIUSccQVS-5UDX8kRitp36mTLBgzVtspfQ/edit?usp=sharing)
@@ -58,17 +59,6 @@ Hyperlane | New York, London
 Jito Labs | USA/Canada, Remote
 - [Senior Smart Contract Engineer (Remote)](https://jobs.lever.co/jito.wtf/b2082212-66c1-4a1d-b5bd-b7acd49f74ec)
 
-Massa | Paris, Remote
-- [Lead blockchain Developer](https://massa.net/lead_blockchain_developer.html)
-- [Senior Blockchain Developer](https://massa.net/senior_blockchain_developer.html)
-- [Lead Blockchain Security Engineer](https://massa.net/lead_blockchain_security.html)
-- [Senior Blockchain Security Engineer](https://massa.net/senior_blockchain_security.html)
-- [Lead Blockchain Performance Engineer](https://massa.net/lead_blockchain_performance.html)
-- [Lead Blockchain Tools Engineer](https://massa.net/lead_blockchain_tools.html)
-- [Lead DApps Developer](https://massa.net/lead_dapps_developer.html)
-- [Lead Infrastructure Engineer](https://massa.net/lead_infrastructure_engineer.html)
-- [Lead Support Engineer](https://massa.net/lead_support_engineer.html)
-
 Matter Labs | Berlin/Kiev or Remote
 - [Head of Security (Blockchain)](https://matterlabs.notion.site/Head-of-Security-Blockchain-444a7d5f558c412da70c3300815a620a)
 - [Senior Software Engineer (Consensus Algorithms)](https://jobs.eu.lever.co/matterlabs/250c47c2-534b-4f55-b1e9-af6f72555581)
@@ -80,11 +70,8 @@ NEAR | Remote
 - [Core Engineer](https://docs.google.com/document/d/1b5oJAM37_B2-stUsJ-xtAIsPnqMwdD0wu30ITvylCHk/edit?usp=sharing)
 
 Nomic Foundation | Remote (EMEA, Americas)
-- [Senior Systems Engineer (Rust), EDR](https://jobs.ashbyhq.com/nomic.foundation/34cda712-64fc-46aa-b65d-d18f6f0c3a92)
-- [Senior Systems Engineer (Rust), Slang](https://jobs.ashbyhq.com/nomic.foundation/1ef14a5f-6035-45fc-8012-c7243c02c156)
-
-Oxygen | Dubai or Remote
-- [Smart Contract Engineer (Rust)](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
+- [Senior Software Engineer, Runtime](https://jobs.ashbyhq.com/nomic.foundation/34cda712-64fc-46aa-b65d-d18f6f0c3a92)
+- [Senior Software Engineer, Compiler](https://jobs.ashbyhq.com/nomic.foundation/1ef14a5f-6035-45fc-8012-c7243c02c156)
 
 Polygon Zero | Remote
 - [Senior Protocol Engineer](https://mirprotocol.org/careers/protocol-engineer)
@@ -97,9 +84,19 @@ Stellar | USA, Canada, Remote
 - [Senior Software Engineer, Backend (San Francisco, California)](https://boards.greenhouse.io/stellar/jobs/4923527004)
 
 Subspace Labs | Remote
-- [Senior Protocol Engineer, Rust (Remote)](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
-- [Head of Protocol Engineering, L1 (Remote) ](https://jobs.lever.co/subspacelabs/a94e0052-51ee-4c71-96ab-9e5fc3a35cc1)
+- [Sr. Protocol Engineer (Rust) - AI & Blockchain](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
 
 The Graph | Remote
 - [Rust Engineer](https://thegraph.com/jobs/rust-engineer)
 
+Worldcoin | US, Germany
+- [Senior Software Engineer, Backend (Germany)](https://boards.greenhouse.io/worldcoinorg/jobs/4100362004)
+- [Senior Embedded Software Engineer, Rust (Munich, Germany)](https://boards.greenhouse.io/worldcoinorg/jobs/4958576004)
+- [Embedded Platform Lead, Orb Software (Munich, Germany)](https://boards.greenhouse.io/worldcoinorg/jobs/4982330004)
+- [Senior Staff / Principal Engineer, Orb Backend (San Francisco/Munich)](https://boards.greenhouse.io/worldcoinorg/jobs/5144820004)
+- [Senior Embedded Software Engineer, Internal Tools (Munich, Germany)](https://boards.greenhouse.io/worldcoinorg/jobs/4982349004)
+- [Staff Rust Engineer, Protocol (San Francisco/Munich)](https://boards.greenhouse.io/worldcoinorg/jobs/4604216004)
+- [Senior Rust Developer, Protocol (San Francisco/Munich)](https://boards.greenhouse.io/worldcoinorg/jobs/4840609004)
+- [Senior Application Security Engineer (San Francisco, USA)](https://boards.greenhouse.io/worldcoinorg/jobs/4730825004)
+- [Senior Security Operations Engineer (San Francisco, USA)](https://boards.greenhouse.io/worldcoinorg/jobs/4969413004)
+- [Senior Device Security Engineer (San Francisco, USA)](https://boards.greenhouse.io/worldcoinorg/jobs/5133713004)

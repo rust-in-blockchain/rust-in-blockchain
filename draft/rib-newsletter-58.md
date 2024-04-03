@@ -1225,9 +1225,53 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 
 -->
 
+Apr 5-26 | Online | [Ethereum Async hackathon: Scaling Ethereum 2024](https://ethglobal.com/events/scaling2024)
 
-- [Sui Overflow: Sui’s first global virtual hackathon](https://sui.io/overflow)
+Apr 8-12 | Paris, France | [Paris Blockchain Week](https://www.parisblockchainweek.com/)
 
+Apr 10-11 | Paris, France | [Sui Basecamp](https://sui.io/basecamp)
+
+Apr 10 | Athens, Greece | [zkSummit11](https://www.zksummit.com/)
+
+Apr 11 | Athens, Greece | [ZK Accelerate](https://lu.ma/f5rwv3b1)
+
+Apr 21 | Online | [Sui hackathon: Suii Overflow](https://sui.io/overflow)
+
+Apr 22-25 | Athens, Greece | [EuroSys 2024](https://2024.eurosys.org/about.html)
+
+May 3-5 | Sydney, Australia | [ETHGlobal Sydney](https://ethglobal.com/events/sydney)
+
+May 18-19 | Brisbane, Australia | [AI + Web3 Convention](https://web3convention.com/)
+
+May 20-Jun 20 | Singapore | [The Polkadot Blockchain Academy](https://polkadot.network/development/blockchain-academy/)
+
+May 21-23 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
+
+May 24-26 | Berlin, Germany | [ETHBerlin](https://ethberlin.org/)
+
+May 26-30 | Zurich, Switzerland | [Eurocrypt 2024](https://eurocrypt.iacr.org/2024/)
+
+May 29-31 | Austin, US | [Consensus](https://consensus2024.coindesk.com/)
+
+May 31-Jun 2 | Prague, Czech Republic | [ETH Prague](https://ethprague.com/)
+
+Jun 5-6 | Santa Clara, US | [Blockchain Expo North America](https://blockchain-expo.com/northamerica/)
+
+Jun 19-24 | Zurich, Switzerland | [RustFest Zürich](https://rustfest.ch/)
+
+Jul 4-7 | Istanbul, Turkey | [Blockchain Expo World](https://blockchainexpoworld.com/)
+
+Jul 8-11 | Brussels, Belgium | [EthCC](https://ethcc.io/)
+
+Jul 12–14 | Brussels, Belgium | [ETHGlobal Brussels](https://ethglobal.com/events/brussels)
+
+Aug 18-22 | Santa Barbara, US | [Crypto 2024](https://crypto.iacr.org/2024/)
+
+Aug 28-29 | Tokyo, Japan | [WebX 2024](https://webx-asia.com/)
+
+Sep 10-13 | Montreal, Canada | [RustConf 2024](https://foundation.rust-lang.org/news/save-the-date-rustconf-2024-september-10-13/)
+
+Nov 12-15 | Bangkok, Thailand | [DevCon 7](https://blog.ethereum.org/2023/02/28/devcon-7-update)
 
 &nbsp;
 

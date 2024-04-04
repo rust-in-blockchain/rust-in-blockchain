@@ -97,6 +97,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Fuel](https://github.com/FuelLabs)
 
+#### [Gear](https://github.com/gear-tech)
+
 #### [Golem](https://github.com/golemfactory)
 
 #### [Grin](https://github.com/mimblewimble/grin)

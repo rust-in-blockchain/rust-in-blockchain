@@ -141,6 +141,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [TezEdge](https://github.com/tezedge)
 
+#### [Vara](https://github.com/gear-tech)
+
 #### [Zcash](https://github.com/zcash)
 
 

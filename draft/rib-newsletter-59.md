@@ -48,9 +48,14 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### Blog Posts
 
+- [The 4 Features of a zkVM: How to Choose your ZK Toolkit](https://www.risczero.com/blog/the-4-features-of-a-zkvm-how-to-choose-your-zk-toolkit)
+- [Topology protocol walkthrough](https://www.guiltygyoza.xyz/2024/04/topology-protocol-walkthrough)
 
 #### Papers
 
+- [Ipotane: Achieving the Best of All Worlds in Asynchronous BFT](Ipotane: Achieving the Best of All Worlds in Asynchronous BFT)
+- [Optimal Asynchronous Byzantine Consensus with Fair Separability](https://eprint.iacr.org/2024/545)
+- [Deep Selfish Proposing in Longest-Chain Proof-of-Stake Protocols](https://eprint.iacr.org/2024/622)
 
 #### Projects
 
@@ -75,6 +80,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Chainflip](https://github.com/chainflip-io)
 
+- [Chainflip Development Update — April 15th 2024](https://blog.chainflip.io/chainflip-development-update-april-15th-2024/)
+
 #### [COMIT](https://github.com/comit-network)
 
 #### [Concordium](https://github.com/Concordium)
@@ -85,15 +92,25 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Dfinity](https://github.com/dfinity)
 
+- [ckBTC: A Decentralized Mechanism for Efficient Bitcoin Transfers](https://medium.com/dfinity/ckbtc-a-decentralized-mechanism-for-efficient-bitcoin-transfers-42b128bc44d9)
+
 #### [Dusk Network](https://github.com/dusk-network)
 
 #### [Espresso Systems](https://github.com/EspressoSystems)
 
+- [Partnering with 10 node operators to decentralize Espresso’s Cappuccino testnet](https://medium.com/@espressosys/partnering-with-10-node-operators-to-decentralize-espressos-cappuccino-testnet-a802dbbab16c)
+
 #### [Filecoin](https://github.com/filecoin-project)
+
+- [Filecoin News 85](https://filecoin.io/blog/posts/filecoin-news-85/)
+- [Filecoin Network Version 22 Dragon Upgrade](https://status.filecoin.io/incidents/w1d72mxp08vp)
 
 #### [Findora](https://github.com/FindoraNetwork)
 
 #### [Fluence](https://github.com/fluencelabs)
+
+- [$FLT: Staking for Compute Resources](https://blog.fluence.network/flt-staking-for-compute-resources/)
+
 
 #### [Fuel](https://github.com/FuelLabs)
 
@@ -106,6 +123,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [Holochain](https://github.com/holochain/)
 
 #### [IOTA](https://github.com/iotaledger)
+
+- [The IOTA Foundation’s Dynamic Start to the Year](https://blog.iota.org/q1-2024-progress-report/)
 
 #### [Lurk](https://github.com/lurk-lab)
 
@@ -125,6 +144,8 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Parity](https://github.com/paritytech)
 
+- [Polkadot’s Solution to the Byzantine Generals Problem: Grandpa Protocol](https://blog.chainsafe.io/grandpa-protocol-polkadot/)
+
 #### [Radix](https://github.com/radixdlt)
 
 #### [Secret Network](https://github.com/enigmampc/SecretNetwork)
@@ -133,16 +154,24 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Soroban](https://github.com/stellar)
 
+- [SDF’s Horizon: Limiting Data to 1 year](https://stellar.org/blog/foundation-news/sdf-s-horizon-limiting-data-to-1-year)
+
 #### [Spacemesh](https://github.com/spacemeshos)
 
 #### [Subspace Network](https://github.com/subspace)
 
 #### [Sui](https://github.com/MystenLabs)
 
+- [Dive into Data and Debugging with Sentio on Sui](https://blog.sui.io/sentio-launch-data-and-debugging-tools/)
+- [Mysticeti Set to Supercharge Consensus on Sui](https://blog.sui.io/mysticeti-consensus-reduce-latency/)
+- [All About Directed Acyclic Graphs](https://blog.sui.io/all-about-directed-acyclic-graphs/)
+- [Migrate to Move 2024](https://blog.sui.io/move-2024-migration-guide/)
+
 #### [TezEdge](https://github.com/tezedge)
 
 #### [Zcash](https://github.com/zcash)
 
+- [New Release 5.9.0](https://electriccoin.co/blog/new-release-5-9-0/)
 
 &nbsp;
 
@@ -235,6 +264,41 @@ Dec 1-2 | Online | [Event Sample](https://event.sample)
 -->
 
 
+May 3-5 | Sydney, Australia | [ETHGlobal Sydney](https://ethglobal.com/events/sydney)
+
+May 18-19 | Brisbane, Australia | [AI + Web3 Convention](https://web3convention.com/)
+
+May 20-Jun 20 | Singapore | [The Polkadot Blockchain Academy](https://polkadot.network/development/blockchain-academy/)
+
+May 21-23 | Berlin, Germany | [DappCon](https://www.dappcon.io/)
+
+May 24-26 | Berlin, Germany | [ETHBerlin](https://ethberlin.org/)
+
+May 26-30 | Zurich, Switzerland | [Eurocrypt 2024](https://eurocrypt.iacr.org/2024/)
+
+May 29-31 | Austin, US | [Consensus](https://consensus2024.coindesk.com/)
+
+May 31-Jun 2 | Prague, Czech Republic | [ETH Prague](https://ethprague.com/)
+
+Jun 5-6 | Santa Clara, US | [Blockchain Expo North America](https://blockchain-expo.com/northamerica/)
+
+Jun 13-26 | Online | [StarkHack Async hackathon](https://ethglobal.com/events/starkhack)
+
+Jun 19-24 | Zurich, Switzerland | [RustFest Zürich](https://rustfest.ch/)
+
+Jul 4-7 | Istanbul, Turkey | [Blockchain Expo World](https://blockchainexpoworld.com/)
+
+Jul 8-11 | Brussels, Belgium | [EthCC](https://ethcc.io/)
+
+Jul 12–14 | Brussels, Belgium | [ETHGlobal Brussels](https://ethglobal.com/events/brussels)
+
+Aug 18-22 | Santa Barbara, US | [Crypto 2024](https://crypto.iacr.org/2024/)
+
+Aug 28-29 | Tokyo, Japan | [WebX 2024](https://webx-asia.com/)
+
+Sep 10-13 | Montreal, Canada | [RustConf 2024](https://foundation.rust-lang.org/news/save-the-date-rustconf-2024-september-10-13/)
+
+Nov 12-15 | Bangkok, Thailand | [DevCon 7](https://blog.ethereum.org/2023/02/28/devcon-7-update)
 
 &nbsp;
 

@@ -824,8 +824,6 @@ but there is an ecosystem of Rust projects that interoperate with Cardano.
 [vara-open_issues-1]: https://github.com/gear-tech/sails/issues?q=is%3Aissue+is%3Aopen+created%3A2024-04-01..2024-04-30%20-author:app/dependabot
 [vara-open_issues-2]: https://github.com/gear-tech/gear/issues?q=is%3Aissue+is%3Aopen+created%3A2024-04-01..2024-04-30%20-author:app/dependabot
 
-#### [Vara](https://github.com/gear-tech)
-
 #### [Zcash](https://github.com/zcash)
 
 16 merged PRs ([1][zcash-merged-prs-1], [2][zcash-merged-prs-2], [3][zcash-merged-prs-3]),

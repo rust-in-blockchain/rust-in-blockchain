@@ -8,7 +8,7 @@ summary: "Welcome to the #59 edition of Rust in Blockchain.
 This month, we spotlight `Rust in Cardano`, an ecosystem of Rust projects that interoperate with Cardano."
 ---
 
-Welcome to the #45 edition of Rust in Blockchain, the monthly
+Welcome to the #59 edition of Rust in Blockchain, the monthly
 newsletter about Rust, distributed systems, cryptography, and other
 industry topics.
 [Previous: #58](/newsletters/rib-newsletter-58/).

@@ -38,6 +38,28 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
 
+_Rust in Cardano_.
+
+[Cardano](https://github.com/IntersectMBO/cardano-node)
+is written in Haskell, not Rust,
+but there is an ecosystem of Rust projects that interoperate with Cardano.
+
+- [Aiken](https://github.com/aiken-lang/aiken).
+  A smart contract platform.
+- [Pallas](https://github.com/txpipe/pallas).
+  Rust building blocks for Cardano.
+- [Scrolls](https://github.com/txpipe/scrolls).
+  A read-optimized cache of on-chain entities.
+- [Mithril](https://github.com/input-output-hk/mithril).
+  Stake-based threshold multisignatures.
+- [Hollow](https://github.com/txpipe/hollow).
+  An SDK for building headless Cardano apps.
+- [Dolos](https://github.com/txpipe/dolos).
+  A specialized Cardano node.
+- [Oura](https://github.com/txpipe/oura).
+  A traffic monitor for Cardano's Ouroboros protocol.
+
+
 &nbsp;
 
 

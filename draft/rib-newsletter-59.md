@@ -37,6 +37,7 @@ by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rus
 ## Project Spotlight
 
 Each month we like to shine a light on a notable Rust blockchain project. This month that project is…
+[Cardano.](https://cardano.org/) Cardano is a third-generation blockchain that promises high transaction throughput and fee determinism. One of core advantages of Cardano is that its infracstucture is not tied to one programming language but supports diverse toolchains. TxPipe, IOG and MLabs lead on development of Rust tooling. 
 
 _Rust in Cardano_.
 
@@ -246,6 +247,27 @@ If we've missed any other notable Rust Bitcoin projects or ecosystems, feel free
 #### [zkSync Era](https://github.com/matter-labs/zksync-era)
 
 If we've missed any other notable Rust Ethereum projects or ecosystems, feel free to contribute!
+
+
+&nbsp;
+
+### Rust in Cardano
+
+#### [aiken](https://github.com/aiken-lang/aiken)
+
+#### [scrolls](https://github.com/txpipe/scrolls)
+
+#### [mithril](https://github.com/input-output-hk/mithril)
+
+#### [hollow](https://github.com/txpipe/hollow)
+
+#### [dolos](https://github.com/txpipe/dolos)
+
+#### [oura](https://github.com/txpipe/oura)
+
+#### [pallas](https://github.com/txpipe/pallas)
+
+If we've missed any other notable Rust Cardano projects or ecosystems, feel free to contribute!
 
 
 &nbsp;

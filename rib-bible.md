@@ -1132,6 +1132,17 @@ repos = [
 ]
 ```
 
+### Vara
+
+GitHub:
+- https://github.com/gear-tech
+
+``` toml
+repos = [
+"https://github.com/gear-tech/gear",
+]
+```
+
 ### Zcash
 
 Media:

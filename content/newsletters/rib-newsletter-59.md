@@ -4,7 +4,8 @@ description: "April 2024"
 date: 2024-05-01
 categories:
   - "newsletters"
-summary: "_TODO_"
+summary: "Welcome to the #59 edition of Rust in Blockchain.
+This month, we spotlight `Rust in Cardano`, an ecosystem of Rust projects that interoperate with Cardano."
 ---
 
 Welcome to the #45 edition of Rust in Blockchain, the monthly
@@ -18,6 +19,7 @@ industry topics.
 
 Thanks to contributors:
 [AndrePanin],
+[aleeusgr],
 [Brian Anderson] and [Aimee Zhu].
 Thank you for your help!
 
@@ -28,6 +30,7 @@ please contribute to the next issue
 by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 [AndrePanin]: https://github.com/AndrePanin
+[aleeusgr]: https://github.com/aleeusgr
 [Brian Anderson]: https://github.com/brson
 [Aimee Zhu]: https://github.com/Aimeedeer
 
@@ -59,9 +62,7 @@ but there is an ecosystem of Rust projects that interoperate with Cardano.
 - [Oura](https://github.com/txpipe/oura).
   A traffic monitor for Cardano's Ouroboros protocol.
 
-
 &nbsp;
-
 
 ## Interesting Things
 
@@ -75,9 +76,6 @@ but there is an ecosystem of Rust projects that interoperate with Cardano.
 - [Ipotane: Achieving the Best of All Worlds in Asynchronous BFT](https://eprint.iacr.org/2024/653)
 - [Optimal Asynchronous Byzantine Consensus with Fair Separability](https://eprint.iacr.org/2024/545)
 - [Deep Selfish Proposing in Longest-Chain Proof-of-Stake Protocols](https://eprint.iacr.org/2024/622)
-
-#### Projects
-
 
 &nbsp;
 

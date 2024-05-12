@@ -21,9 +21,6 @@
 	<link rel="stylesheet" href="{{ . | relURL }}">
 	{{- end }}
 	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-	{{- if not .Site.IsServer }}
-		{{ template "_internal/google_analytics_async.html" . }}
-	{{- end }}
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0BDHKQL58C"></script>

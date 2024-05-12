@@ -79,6 +79,9 @@ Polygon Zero | Remote
 Quickwit | Europe
 - [Senior Software Engineer, Rust & distributed systems](https://quickwit.io/jobs/distributed-software-engineer)
 
+Rainlang | Remote
+- [Rust Engineer (Tauri app and CLI)](https://docs.rainlang.xyz/blog/were-hiring)
+
 Stellar | USA, Canada, Remote
 - [Senior Software Engineer, Backend (Brooklyn, New York)](https://boards.greenhouse.io/stellar/jobs/4923529004)
 - [Senior Software Engineer, Backend (San Francisco, California)](https://boards.greenhouse.io/stellar/jobs/4923527004)

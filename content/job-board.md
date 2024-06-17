@@ -16,9 +16,8 @@ Anon | Africa, Remote
 `arkworks` | Remote
 - [Co-maintainer](https://form.jotform.com/212026632139145)
 
-Aurora | Remote
-- [Blockchain/Bridge Engineer](https://docs.google.com/document/d/1xXMEeQffOv2rfPT4jpipwkjo4osmfyAp4eEl51j3dt4/edit?usp=sharing)
-- [Blockchain/EVM Engineer](https://docs.google.com/document/d/1VkaXInjgSczOL_R3aKMOnXKv7lFvvL1z__SlZQLfR78/edit?usp=sharing)
+Axiom | Remote, US hours
+[Software Engineer](https://www.linkedin.com/posts/hrlunapark_announcing-axioms-20-million-series-a-round-activity-7208432080123228160-Cglt)
 
 Bolt Labs | US, Remote
 - [Software Engineer](https://hackmd.io/@NBpY2rNqQxe6-Vxxmn8bXw/S1pPcX7Pt)

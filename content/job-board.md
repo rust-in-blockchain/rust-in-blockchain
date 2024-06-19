@@ -65,7 +65,7 @@ Matter Labs | Berlin/Kiev or Remote
 - [Senior Software Engineer (Rust)](https://jobs.eu.lever.co/matterlabs/f37ad7f9-20fc-41db-aa3b-d8463a777634)
 
 NEAR | Remote
-- [Core Engineer](https://www.linkedin.com/posts/hrlunapark_tldr-swe-core-rust-engineer-remote-activity-7203823087870439428-WdBS?)
+- [Core Engineer](https://www.linkedin.com/posts/hrlunapark_tldr-swe-core-rust-engineer-remote-activity-7203823087870439428-WdBS)
 
 Nomic Foundation | Remote (EMEA, Americas)
 - [Senior Software Engineer, Runtime](https://jobs.ashbyhq.com/nomic.foundation/34cda712-64fc-46aa-b65d-d18f6f0c3a92)

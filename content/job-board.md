@@ -16,6 +16,10 @@ Anon | Africa, Remote
 `arkworks` | Remote
 - [Co-maintainer](https://form.jotform.com/212026632139145)
 
+Aurora | Remote 
+[Senior Rust Engineer](https://hrlunapark.notion.site/Senior-Software-Engineer-Rust-b5d3f963e35948a4a533264f8992c809)
+[Site Reliability Engineer with Go](https://hrlunapark.notion.site/Site-Reliability-Engineer-a81fef294a1248839effcf0968b4b836)
+
 Axiom | Remote, US hours
 [Software Engineer](https://www.linkedin.com/posts/hrlunapark_announcing-axioms-20-million-series-a-round-activity-7208432080123228160-Cglt)
 

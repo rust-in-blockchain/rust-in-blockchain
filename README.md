@@ -1,3 +1,5 @@
+**This project is no longer maintained. Please do not submit PRs.**
+
 # Rust-in-Blockchain
 
 This is the code base of

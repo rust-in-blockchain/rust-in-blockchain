@@ -84,7 +84,7 @@ and is wasm-compatible.
 - Tutorial: [BrainSTARK](https://aszepieniec.github.io/stark-brainfuck/)
 - [Decentralized Application (dApp) Blockchain Tutorials (NEAR,Solana,Substrate)](https://github.com/elicorrales/blockchain-tutorials)
 - [Sin7Y Tech Review(29): Design Principles of Private Transactions in Aleo & Zcash](https://hackmd.io/@sin7y/rkxFXLkgs)
-- [The different types of ZK-EVMs](https://vitalik.ca/general/2022/08/04/zkevm.html)
+- [The different types of ZK-EVMs](https://vitalik.eth.limo/general/2022/08/04/zkevm.html)
 - [How consensus and data availability impact decentralized scalability of blockchains](https://kabat.substack.com/p/how-consensus-and-data-availability)
 - [On-chain trusted setup ceremony](https://a16zcrypto.com/on-chain-trusted-setup-ceremony/)
 

@@ -182,7 +182,7 @@ Currently that includes Substrate, Solana, [ewasm], and [Sawtooth].
 
 - [A Brief Breakdown of Monero’s Ongoing Network Attacks](https://sethsimmons.me/posts/moneros-ongoing-network-attack/)
 - [Understanding Peer-to-Peer Git Forges with Radicle](http://blog.vmsplice.net/2020/12/understanding-peer-to-peer-git-forges.html)
-- [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
+- [An Incomplete Guide to Rollups](https://vitalik.eth.limo/general/2021/01/05/rollup.html)
 - [Notes on cross-compiling Rust](https://john-millikin.com/notes-on-cross-compiling-rust)
 
 #### Papers 

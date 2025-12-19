@@ -4,7 +4,6 @@ title = "Rust in Blockchain ❤ rib.rs"
 theme = "mainroad"
 paginate = "6"
 # googleAnalytics = ""
-publishDir = "../rust-in-blockchain.github.io"
 relativeURLs = true
 
 [Params]

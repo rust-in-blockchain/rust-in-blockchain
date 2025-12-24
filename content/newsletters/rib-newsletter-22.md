@@ -100,7 +100,7 @@ independent of specific blockchains.
 
 #### Blog Posts
 
-- [The Most Important Scarce Resource is Legitimacy](https://vitalik.ca/general/2021/03/23/legitimacy.html)
+- [The Most Important Scarce Resource is Legitimacy](https://vitalik.eth.limo/general/2021/03/23/legitimacy.html)
 - [Further adventures with Substrate and Ink](https://brson.github.io/2021/03/09/further-adventures-with-substrate-and-ink)
 
 #### Papers

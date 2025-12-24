@@ -164,7 +164,7 @@ See the announcments of [`k256` and `p256`][rca1] and [`signature` and
 - Project: [rust-vyper](https://github.com/ethereum/rust-vyper). An implementation of the [Vyper](https://github.com/vyperlang/vyper) smart-contract language.
 - Report: [Analyzing Developers in Cryptocurrency Projects](https://blog.coincodecap.com/analyzing-developers-in-cryptocurrency-projects/)
 - Blog: [When Tailwinds Vanish](https://luttig.substack.com/p/when-tailwinds-vanish)
-- Blog: [Gitcoin Grants Round 5 Retrospective](https://vitalik.ca/general/2020/04/30/round5.html). Vitalik Buterin analyzes efforts to crowd-fund Ethereum projects. Not Rust-related, but interesting analysis about sustainable community development.
+- Blog: [Gitcoin Grants Round 5 Retrospective](https://vitalik.eth.limo/general/2020/04/30/round5.html). Vitalik Buterin analyzes efforts to crowd-fund Ethereum projects. Not Rust-related, but interesting analysis about sustainable community development.
 - Blog: [Crypto Fund II](https://a16z.com/2020/04/30/crypto-fund-ii/). Andreeessen Horowitz announced $500-million in available crypto-related funding. Not Rust.
 
 &nbsp;

@@ -70,7 +70,7 @@ two parties, performed over Tor, that results in exchanging ownership of two dif
 
 - [Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 - [What Are Cross-Chain Smart Contracts?](https://blog.chain.link/cross-chain-smart-contracts/)
-- [Encapsulated vs systemic complexity in protocol design](https://vitalik.ca/general/2022/02/28/complexity.html)
+- [Encapsulated vs systemic complexity in protocol design](https://vitalik.eth.limo/general/2022/02/28/complexity.html)
 
 #### Papers
 

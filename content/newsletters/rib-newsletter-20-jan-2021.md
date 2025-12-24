@@ -123,7 +123,7 @@ It is described further in [a post on the Ethereum research forum][mevpost].
 - [Candid: A Common Language for Application Interfaces on the Internet Computer](https://medium.com/dfinity/candid-a-tool-for-interoperable-programming-languages-on-the-internet-computer-27e7085cd97f).
   Source code: [Candid](https://github.com/dfinity/candid).
 - [First impressions of programming on DFINITY](https://brson.github.io/2021/01/30/dfinity-impressions)
-- [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html).
+- [An approximate introduction to how zk-SNARKs are possible](https://vitalik.eth.limo/general/2021/01/26/snarks.html).
   A typically good post from Vitalik that helps illuminate a difficult subject
 
 #### Papers
